@@ -1,0 +1,18 @@
+{
+    "tenantId": "dl",
+    "moduleName": "ASSET",
+    "AssetPaymentType": [
+        {
+            "id": 1,
+            "name": "Bank Transfer",
+            "code": "BANK_TRANSFER",
+            "active": true
+        },
+        {
+            "id": 2,
+            "name": "Online",
+            "code": "ONLINE",
+            "active": true
+        }
+    ]
+}

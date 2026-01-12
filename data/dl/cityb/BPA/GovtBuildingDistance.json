@@ -1,0 +1,27 @@
+{
+    "tenantId": "dl",
+    "moduleName": "BPA",
+    "GovtBuildingDistance": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "GovtBuildingDistanceValue": "200",
+        "GovtBuildingDistanceMaxHeight": "10",
+        "active": true
+    },
+    {
+        "id": 2,
+        "occupancy": "commercial",
+        "GovtBuildingDistanceValue": "20",
+        "GovtBuildingDistanceMaxHeight": "10",
+        "active": true
+    },
+    {
+        "id": 3,
+        "occupancy": "industrial",
+        "GovtBuildingDistanceValue": "900",
+        "GovtBuildingDistanceMaxHeight": "10",
+        "active": true
+    }
+]
+}

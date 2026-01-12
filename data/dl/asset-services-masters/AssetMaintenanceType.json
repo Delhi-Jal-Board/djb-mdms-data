@@ -1,0 +1,18 @@
+{
+    "tenantId": "dl",
+    "moduleName": "ASSET",
+    "AssetMaintenanceType": [
+        {
+            "id": 1,
+            "name": "Preventive",
+            "code": "PREVENTIVE",
+            "active": true
+        },
+        {
+            "id": 2,
+            "name": "Corrective",
+            "code": "CORRECTIVE",
+            "active": true
+        }
+    ]
+}

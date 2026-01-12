@@ -1,0 +1,404 @@
+{
+  "tenantId": "dl",
+  "moduleName": "tenant",
+  "tenants": [{
+      "code": "dl.citya",
+      "name": "New Delhi",
+      "description": "City A",
+      "pincode": [143001,143002,143003,143004,143005],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "citya@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "City A",
+        "localName": null,
+        "districtCode": "CITYA",
+        "districtName": null,
+        "districtTenantCode": "dl.citya",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 75.5761829,
+        "latitude": 31.3260152,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1013",
+        "ddrName": "DDR A"
+      },
+      "address": "City A Municipal Corporation",
+      "contactNumber": "001-2345876"
+    },
+    {
+      "code": "dl.cityb",
+      "name": "Kolkata",
+      "description": null,
+      "pincode": [143006,143007,143008,143009,143010],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "cityb@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "City B",
+        "localName": null,
+        "districtCode": "CITYB",
+        "districtName": null,
+        "districtTenantCode": "dl.cityb",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 74.8722642,
+        "latitude": 31.6339793,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "107",
+        "ddrName": "DDR B"
+      },
+      "address": "City B Municipal Corporation Address",
+      "contactNumber": "0978-7645345",
+      "helpLineNumber": "0654-8734567"
+    },
+    {
+      "code": "dl.cityc",
+      "name": "City C",
+      "description": null,
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "cityc@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "City C",
+        "localName": null,
+        "districtCode": "CITYC",
+        "districtName": null,
+        "districtTenantCode": "dl.cityc",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 73.8722642,
+        "latitude": 31.6339793,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "108",
+        "ddrName": "DDR C"
+      },
+      "address": "City C Municipal Corporation Address",
+      "contactNumber": "0978-7645345",
+      "helpLineNumber": "0654-8734567"
+    },
+    {
+      "code": "dl.cityd",
+      "name": "City D",
+      "description": null,
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "cityd@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "City D",
+        "localName": null,
+        "districtCode": "CITYD",
+        "districtName": null,
+        "districtTenantCode": "dl.cityd",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 75.8722642,
+        "latitude": 35.6339793,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "109",
+        "ddrName": "DDR D"
+      },
+      "address": "City D Municipal Corporation Address",
+      "contactNumber": "0978-7645345",
+      "helpLineNumber": "0654-8734567"
+    },
+    {
+      "code": "dl.citye",
+      "name": "City E",
+      "description": null,
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "citye@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "City E",
+        "localName": null,
+        "districtCode": "CITYE",
+        "districtName": null,
+        "districtTenantCode": "dl.citye",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 76.8722642,
+        "latitude": 36.6339793,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "110",
+        "ddrName": "DDR E"
+      },
+      "address": "City E Municipal Corporation Address",
+      "contactNumber": "0978-7645345",
+      "helpLineNumber": "0654-8734567"
+    },
+    {
+      "code": "dl",
+      "name": "State",
+      "description": "State",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pg-egov-assets/dl.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "pg.state@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "State",
+        "localName": "Demo State",
+        "districtCode": "0",
+        "districtName": "State",
+        "districtTenantCode": "dl",
+        "regionName": "State",
+        "ulbGrade": "ST",
+        "longitude": 75.3412,
+        "latitude": 31.1471,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "0",
+        "ddrName": null
+      },
+      "address": "State Municipal Corporation",
+      "contactNumber": "0978-7645345"
+    },
+    {
+      "code": "dl.mohali",
+      "name": "Mohali",
+      "description": "Mohali",
+      "pincode": [
+          160055,
+          160059,
+          160061,
+          160062,
+          160063,
+          160064,
+          160065,
+          160066,
+          160068,
+          160071
+      ],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "complaints.mcj@gmail.com",
+      "OfficeTimings": {
+          "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+          "name": "Mohali",
+          "localName": null,
+          "districtCode": "MOHALI",
+          "districtName": null,
+          "districtTenantCode": "dl.mohali",
+          "regionName": null,
+          "ulbGrade": "Municipal Corporation",
+          "longitude": 75.5761830,
+          "latitude": 31.3260155,
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "1508",
+          "ddrName": "Mohali MC"
+      },
+      "address": "Sector 68, Sahibzada Ajit Singh Nagar, Punjab 160062",
+      "contactNumber": "0172-5044907"
+  },
+  {
+      "code": "dl.dharamshala",
+      "name": "Dharamshala",
+      "description": "Dharamshala",
+      "pincode": [
+          176215
+      ],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "complaints.mcj@gmail.com",
+      "OfficeTimings": {
+          "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+          "name": "Dharamshala",
+          "localName": null,
+          "districtCode": "DHARAMSHALA",
+          "districtName": null,
+          "districtTenantCode": "dl.dharamshala",
+          "regionName": null,
+          "ulbGrade": "Municipal Corporation",
+          "longitude": 75.5761835,
+          "latitude": 31.3260159,
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "1509",
+          "ddrName": "Dharamshala Municipal Corporation"
+      },
+      "address": "Near Fire Station, Sudher, Dharamshala, Himachal Pradesh, 176215",
+      "contactNumber": "0189 222 2115"
+  },
+  {
+      "code": "dl.shimla",
+      "name": "Shimla",
+      "description": "Shimla",
+      "pincode": [
+          171001
+      ],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "complaints.mcj@gmail.com",
+      "OfficeTimings": {
+          "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+          "name": "Shimla",
+          "localName": null,
+          "districtCode": "SHIMLA",
+          "districtName": null,
+          "districtTenantCode": "dl.shimla",
+          "regionName": null,
+          "ulbGrade": "Municipal Corporation",
+          "longitude": 75.5761840,
+          "latitude": 31.3260160,
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "1510",
+          "ddrName": "Shimla Municipal Corporation"
+      },
+      "address": "2,Mall Rd, Ram Bazar,Shimla, Himachal Pradesh, 171001",
+      "contactNumber": "0177 280 2771"
+    },
+    {
+        "code": "dl.patiala",
+        "name": "Patiala",
+        "description": "Patiala",
+        "pincode": [
+            147001
+        ],
+        "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+        "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+        "imageId": null,
+        "domainUrl": "https://www.upyog.niua.org",
+        "type": "CITY",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "emailId": "complaints.mcj@gmail.com",
+        "OfficeTimings": {
+            "Mon - Fri": "9.00 AM - 6.00 PM"
+        },
+        "city": {
+            "name": "Patiala",
+            "localName": null,
+            "districtCode": "PATIALA",
+            "districtName": null,
+            "districtTenantCode": "dl.patiala",
+            "regionName": null,
+            "ulbGrade": "Municipal Corporation",
+            "longitude": 75.5761840,
+            "latitude": 31.3260160,
+            "shapeFileLocation": null,
+            "captcha": null,
+            "code": "1511",
+            "ddrName": "Patiala Municipal Corporation"
+        },
+        "address": "Ram Nagar Near Railway Colony No. 21, Patiala, Punjab 147001",
+        "contactNumber": "0177 280 2771"
+      },
+      {
+          "code": "dl.kurali",
+          "name": "Kurali",
+          "description": "Kurali",
+          "pincode": [
+              140103
+          ],
+          "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+          "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+          "imageId": null,
+          "domainUrl": "https://www.upyog.niua.org",
+          "type": "CITY",
+          "twitterUrl": null,
+          "facebookUrl": null,
+          "emailId": "complaints.mcj@gmail.com",
+          "OfficeTimings": {
+              "Mon - Fri": "9.00 AM - 6.00 PM"
+          },
+          "city": {
+              "name": "Kurali",
+              "localName": null,
+              "districtCode": "KURALI",
+              "districtName": null,
+              "districtTenantCode": "dl.kurali",
+              "regionName": null,
+              "ulbGrade": "Municipal Corporation",
+              "longitude": 75.5761840,
+              "latitude": 31.3260160,
+              "shapeFileLocation": null,
+              "captcha": null,
+              "code": "1512",
+              "ddrName": "Kurali Municipal Corporation"
+          },
+          "address": "Ram Nagar Near Railway Colony No. 21, Patiala, Punjab 140103",
+          "contactNumber": "0177 280 2771"
+        }
+   ]
+}

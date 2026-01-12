@@ -1,0 +1,16 @@
+{
+    "tenantId": "dl",
+    "moduleName": "CHB",
+    "ResidentType": [
+      {
+        "name": "Cant Resident",
+        "code": "CANT_RESIDENT",
+        "active": true
+      },
+      {
+        "name": "None",
+        "code": "NONE",
+        "active":true
+      }
+    ]
+  }

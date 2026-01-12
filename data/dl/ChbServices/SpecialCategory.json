@@ -1,0 +1,31 @@
+{
+    "tenantId": "dl",
+    "moduleName": "CHB",
+    "SpecialCategory": [
+      {
+        "name": "Cantonment Staff",
+        "code": "CANTONMENT_STAFF",
+        "active":true
+      },
+      {
+        "name": "Retired Cant Staff",
+        "code": "RETIRED_CANT_STAFF",
+        "active":true
+      },
+      {
+        "name": "Elected Member",
+        "code": "ELECTED_MEMBER",
+        "active":true
+      },
+      {
+        "name": "Below Poverty Line",
+        "code": "BELOW_POVERTY_LINE",
+        "active":true
+      },
+      {
+        "name": "None",
+        "code": "NONE",
+        "active":true
+      }
+    ]
+  }

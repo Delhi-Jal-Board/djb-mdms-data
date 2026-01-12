@@ -1,0 +1,71 @@
+{
+    "tenantId": "dl",
+    "moduleName": "VerificationSearch",
+    "CertificateType": [
+      {
+        "code": "advertisement",
+        "name": "Advertisement",
+        "active": true
+      },
+      {
+        "code": "bpa",
+        "name": "Building Plan Approval",
+        "active": true
+      },
+      {
+        "code": "communityhall",
+        "name": "Community Hall Booking",
+        "active": true
+      },
+      {
+        "code": "ewaste",
+        "name": "E-Waste Certificate",
+        "active": true
+      },
+      {
+        "code": "firenoc",
+        "name": "Fire NOC Certificate",
+        "active": true
+      },
+      {
+        "code": "pet",
+        "name": "Pet Certificate",
+        "active": true
+      },
+      {
+        "code": "property",
+        "name": "Property Tax",
+        "active": true
+      },
+      {
+        "code": "streetvending",
+        "name": "Street Vending",
+        "active": true
+      },
+      {
+        "code": "tradelicense",
+        "name": "Trade License",
+        "active": true
+      },
+      {
+        "code": "wt",
+        "name": "Water Tanker",
+        "active": true
+      },
+      {
+        "code": "mt",
+        "name": "Mobile Toilet",
+        "active": true
+      },
+      {
+        "code": "tp",
+        "name": "Tree Pruning",
+        "active": true
+      },
+      {
+        "code": "cnd",
+        "name": "Construction & Demolition",
+        "active": true
+      }
+    ]
+  }

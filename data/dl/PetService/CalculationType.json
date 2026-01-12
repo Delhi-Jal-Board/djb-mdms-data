@@ -1,0 +1,18 @@
+{
+  "tenantId": "dl",
+  "moduleName": "PetService",
+  "CalculationType": [
+    {
+      "applicationType": "NEWAPPLICATION",
+      "serviceType": "PET_REGISTRATION",
+      "feeType": "PET_REGISTRATION_FEE",
+      "amount": 500
+    },
+    {
+      "applicationType": "RENEWAPPLICATION",
+      "serviceType": "PET_REGISTRATION",
+      "feeType": "PET_RENEWAL_FEE",
+      "amount": 300
+    }
+  ]
+}

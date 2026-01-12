@@ -1,0 +1,39 @@
+{
+    "tenantId": "dl.citya",
+    "moduleName": "BPA",
+    "RoomWiseVentilation": [
+        {
+            "id": 1,
+            "state": "dl",
+            "city": "citya",
+            "zone": "x",
+            "subZone": "y",
+            "riskType": null,
+            "occupancy": "residential",
+            "permissible": 20,
+            "active": true
+        },
+        {
+            "id": 2,
+            "state": "dl",
+            "city": "citya",
+            "zone": "x",
+            "subZone": "y",
+            "riskType": null,
+            "occupancy": "commercial",
+            "permissible": 25,
+            "active": true
+        },
+        {
+            "id": 3,
+            "state": "dl",
+            "city": "citya",
+            "zone": "x",
+            "subZone": "y",
+            "riskType": null,
+            "occupancy": "industrial",
+            "permissible": 30,
+            "active": true
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "tenantId": "dl",
+    "moduleName": "DataSecurity",
+    "SecurityToken":[
+     {
+         "token":"YTEyNTJiZjItMTUyOC00Y2Y4LTg2NjQtNzVmZjVjYzVAnnJad3ACwpWwuD1otYxtthIKh5ib0k3BPwjcpYz_Gg",
+         "entityName":"GOSWIFT",
+         "isActive": true
+     }
+    ]
+ }

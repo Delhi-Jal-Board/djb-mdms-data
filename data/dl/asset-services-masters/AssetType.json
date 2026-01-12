@@ -1,0 +1,22 @@
+
+{
+    "tenantId": "dl",
+    "moduleName": "ASSET",
+    "AssetType": [
+     {
+      "code": "FIXED_ASSET",
+      "name": "Fixed Asset",
+      "active": true
+    },
+    {
+      "code": "INFRASTRUCTURE_ASSET",
+      "name": "Infrastructure Asset",
+      "active": true
+    },
+    {
+      "code": "NA",
+      "name": "NA",
+      "active": true
+    }
+    ]
+}

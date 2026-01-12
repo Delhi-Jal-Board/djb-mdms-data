@@ -1,0 +1,11 @@
+{
+    "tenantId": "dl.mohali",
+    "moduleName": "CHB",
+    "ResidentType": [
+      {
+        "name": "None",
+        "code": "NONE",
+        "active":true
+      }
+    ]
+  }

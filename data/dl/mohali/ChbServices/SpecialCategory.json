@@ -1,0 +1,11 @@
+{
+    "tenantId": "dl.mohali",
+    "moduleName": "CHB",
+    "SpecialCategory": [
+      {
+        "name": "None",
+        "code": "NONE",
+        "active":true
+      }
+    ]
+  }

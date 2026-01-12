@@ -1,0 +1,18 @@
+{
+  "tenantId": "dl",
+  "moduleName": "tenant",
+  "assessmentconfig": [
+    {
+      "tenant": "dl.cityb",
+      "enabled": true,
+      "financialyear": "2021-22",
+      "isRented": true
+    },
+     {
+      "tenant": "dl.citya",
+      "enabled": true,
+      "financialyear": "2021-22",
+      "isRented": true
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+    "tenantId": "dl.mohali",
+    "moduleName": "CHB",
+    "Purpose": [
+      {
+        "name": "Religious",
+        "code": "RELIGIOUS",
+        "active": true
+      },
+      {
+        "name": "Marriage",
+        "code": "MARRIAGE",
+        "active": true
+      },
+      {
+        "name": "Social",
+        "code": "SOCIAL",
+        "active": true
+      },
+      {
+        "name": "Conference",
+        "code": "CONFERENCE",
+        "active": true
+      },
+      {
+        "name": "Public Gathering",
+        "code": "PUBLIC_GATHERING",
+        "active": true
+      },
+      {
+        "name": "None",
+        "code": "NONE",
+        "active":true
+      }
+    ]
+  }

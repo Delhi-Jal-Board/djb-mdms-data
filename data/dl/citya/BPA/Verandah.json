@@ -1,0 +1,42 @@
+{
+    "tenantId": "dl.citya",
+    "moduleName": "BPA",
+    "Verandah": [
+        {
+            "id": 1,
+            "state": "dl",
+            "city": "citya",
+            "zone": "x",
+            "subZone": "y",
+            "riskType": null,
+            "occupancy": "residential",
+            "verandahWidth": 1.8,
+            "verandahDepth": 3.66,
+            "active": true
+        },
+        {
+            "id": 2,
+            "state": "dl",
+            "city": "citya",
+            "zone": "x",
+            "subZone": "y",
+            "riskType": null,
+            "occupancy": "commercial",
+            "verandahWidth": 2.5,
+            "verandahDepth": 4.0,
+            "active": true
+        },
+        {
+            "id": 3,
+            "state": "dl",
+            "city": "citya",
+            "zone": "x",
+            "subZone": "y",
+            "riskType": null,
+            "occupancy": "industrial",
+            "verandahWidth": 3.0,
+            "verandahDepth": 5.0,
+            "active": true
+        }
+    ]
+}

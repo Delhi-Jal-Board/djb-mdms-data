@@ -1,0 +1,24 @@
+{
+    "tenantId": "dl",
+    "moduleName": "BPA",
+    "PorticoService": [
+        {
+            "id": 1,
+            "occupancy": "residential",
+            "permissible": 4.6,
+            "active": true
+        },
+        {
+            "id": 2,
+            "occupancy": "commercial",
+            "permissible": 5.0,
+            "active": true
+        },
+        {
+            "id": 3,
+            "occupancy": "industrial",
+            "permissible": 5.5,
+            "active": true
+        }
+    ]
+}

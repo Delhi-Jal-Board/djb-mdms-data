@@ -1,0 +1,16 @@
+{
+  "tenantId": "dl",
+  "moduleName": "common-masters",
+  "Department": [
+    {
+      "name": "Street Lights-2",
+      "code": "DEPT_1",
+      "active": true
+    },
+    {
+      "name": "Building & Roads-2",
+      "code": "DEPT_2",
+      "active": true
+    }
+  ]
+}
