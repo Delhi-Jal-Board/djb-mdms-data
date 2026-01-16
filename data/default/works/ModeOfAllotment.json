@@ -1,23 +1,23 @@
 {
-  "tenantid": "dl",
+  "tenantId": "default",
   "moduleName": "works",
   "ModeOfAllotment": [
     {
       "id": 3,
       "name": "Nomination",
-      "tenantid": "dl",
+      "tenantId": "default",
       "code": "Nomination"
     },
     {
       "id": 1,
       "name": "E-Procurement",
-      "tenantid": "dl",
+      "tenantId": "default",
       "code": "EProcurement"
     },
     {
       "id": 2,
       "name": "Tendering",
-      "tenantid": "dl",
+      "tenantId": "default",
       "code": "Tendering"
     }
   ]

@@ -1,14 +1,14 @@
 {
-  "tenantid": "dl",
+  "tenantId": "default",
   "moduleName": "works",
   "TypeOfDocument": [
     {
       "name": "Work Order",
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "Notice",
-      "tenantid": "dl"
+      "tenantId": "default"
     }
   ]
 }

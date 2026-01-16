@@ -1,162 +1,162 @@
 {
-  "tenantid": "dl",
+  "tenantId": "default",
   "moduleName": "lcms",
   "caseStatus": [
     {
       "name": "UpdateCaseStatus",
       "code": "RUNNING",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "Final Order",
       "code": "FO",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "For Order/Judgement",
       "code": "FO/J",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "Disposed",
       "code": "DISPOSED",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "Dismissed",
       "code": "DISMISSED",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "Dismissed For Default",
       "code": "DFD",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "Allowed",
       "code": "ALLOWED",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "Decreed",
       "code": "DECREED",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "Partly Allowed",
       "code": "PA",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "9A –Allowed suit is dismissed",
       "code": "9AASID",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "Withdrawn",
       "code": "WITHDRAWN",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "Rejected",
       "code": "REJECT",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "Withdrawn \u0026 settled by mediation",
       "code": "WSM",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "Stay Order",
       "code": "STAY_ORDER",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "DND1",
       "code": "DND",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "Pending",
       "code": "Pending",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "Ohhold",
       "code": "OH",
       "active": false,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "Case status_added_updated",
       "code": "CS",
       "active": false,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "TestData2",
       "code": "1123",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "CaseStaus1",
       "code": "status1",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "dfdf",
       "code": "dfd",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "Case Status ",
       "code": "CS1",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "Case Status /M2",
       "code": "CS5",
       "active": false,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "CaseStatus2",
       "code": "5665656565",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "CaseStatus3",
       "code": "CS3",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "Case_Status_Name_4",
       "code": "CSN4",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     }
   ]
 }

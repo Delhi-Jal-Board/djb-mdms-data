@@ -1,5 +1,5 @@
 {
-  "tenantid": "dl",
+  "tenantId": "default",
   "moduleName": "common-masters",
   "StateInfo": [
     {

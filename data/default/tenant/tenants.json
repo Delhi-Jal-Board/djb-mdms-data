@@ -1,5 +1,5 @@
 {
-  "tenantid": "dl",
+  "tenantId": "default",
   "moduleName": "tenant",
   "tenants": [
     {

@@ -1,174 +1,174 @@
 {
-  "tenantid": "dl",
+  "tenantId": "default",
   "moduleName": "swm",
   "CollectionType": [
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "Door to Door Collection (Wet \u0026 Dry)",
       "code": "Collection Type Code 1"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "(Day to Day Basis)",
       "code": "Collection Type Code 2"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "Collection from collection point",
       "code": "Collection Type Code 3"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "From demolished apartments",
       "code": "asdsad"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "Weekly Collection (Door to Door)",
       "code": "Weekly Collection"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "Test Collection",
       "code": "Test Collection"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "CP Name",
       "code": "CPN"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "CT Name",
       "code": "CTN"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "12",
       "code": "11"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "Coll Type updated",
       "code": "CTS"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "From Dust Bin",
       "code": "FDB"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "Door To Door",
       "code": "CollectionTypeCode001"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "Road Bin",
       "code": "RB"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "Wastage",
       "code": "WASTAGE"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "TTT",
       "code": "Test"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "TestForTest",
       "code": "TFT"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "VVV",
       "code": "VVV"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "NNN",
       "code": "NNN"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "CCC",
       "code": "CSD"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "KKK",
       "code": "KKK"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "New CT Test 101",
       "code": "CT 101"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "M_Collection_Point",
       "code": "MCollect"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "M_Colleaction_Point_2",
       "code": "MCollection"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "New Collection Type 23",
       "code": "NCT 23"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "Collection Type 24",
       "code": "CT 24"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "ttt",
       "code": "TTT"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "RRR",
       "code": "RRR"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "COll Type 999",
       "code": "CT999"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "mmmm",
       "code": "MMM"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "CT Dev",
       "code": "CTD 1"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "CT Name 999",
       "code": "CTN 999"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "Collection Test 101",
       "code": "CT Test 101"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "Test 2424",
       "code": "CT 2424"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "Test 2525",
       "code": "CT 2525"
     }

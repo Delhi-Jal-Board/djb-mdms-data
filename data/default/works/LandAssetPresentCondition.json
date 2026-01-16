@@ -1,9 +1,9 @@
 {
-  "tenantid": "dl",
+  "tenantId": "default",
   "moduleName": "works",
   "LandAssetPresentCondition": [{
     "id": 1,
     "name": "Damage Fake",
-    "tenantid": "dl"
+    "tenantId": "default"
   }]
 }

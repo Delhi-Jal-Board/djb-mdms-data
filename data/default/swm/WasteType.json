@@ -1,89 +1,89 @@
 {
-  "tenantid": "dl",
+  "tenantId": "default",
   "moduleName": "swm",
   "WasteType": [
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "Dry Waste1",
       "code": "Waste Type Code 1"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "Wet Waste",
       "code": "Waste Type Code 2"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "Medical Waste",
       "code": "Medical Wate"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "hjghjgj",
       "code": "jgjhg"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "Dry Waste",
       "code": "Waste Type Code 3"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "Bio Medical Waste",
       "code": "Bio Medical Waste"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "Dry",
       "code": "DD1"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "Building Construction Waste",
       "code": "BCW"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "House Hold and factory plastic wastes",
       "code": "HHPW"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "Construction",
       "code": "Cons"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "Industrial Waste",
       "code": "IWS001"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "Vegetable Waste",
       "code": "VW"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "Plastic Waste",
       "code": "PLASTIC/001"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "Bio Waste",
       "code": "BW001"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "Electronic Wastes",
       "code": "EW"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "M_Waste_Name",
       "code": "MWN"
     },
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "sdD",
       "code": "DDSD"
     }

@@ -1,16 +1,16 @@
 {
-  "tenantid": "dl",
+  "tenantId": "default",
   "moduleName": "works",
   "Remarks": [
     {
       "id": 1,
-      "tenantid": "dl",
+      "tenantId": "default",
       "typeOfDocument": "Work Order / Notice",
       "remarksType": "Approval / Show Cause / Rejection",
       "remarksDetails": [
         {
           "id": 1,
-          "tenantid": "dl",
+          "tenantId": "default",
           "remarks": null,
           "remarksDescription": "Reviewed and approved",
           "editable": true

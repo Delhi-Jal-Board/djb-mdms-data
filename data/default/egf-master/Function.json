@@ -1,5 +1,5 @@
 {
-  "tenantid": "dl",
+  "tenantId": "default",
   "moduleName": "egf-master",
   "Function": [
     {
@@ -10,7 +10,7 @@
       "active": false,
       "parentid": null,
       "version": 0,
-      "tenantid": "dl"
+      "tenantid": "default"
     },
     {
       "id": "2",
@@ -20,7 +20,7 @@
       "active": false,
       "parentid": null,
       "version": 0,
-      "tenantid": "dl"
+      "tenantid": "default"
     },
     {
       "id": "3",
@@ -30,7 +30,7 @@
       "active": false,
       "parentid": null,
       "version": 0,
-      "tenantid": "dl"
+      "tenantid": "default"
     }
   ]
 }

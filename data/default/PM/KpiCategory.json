@@ -1,5 +1,5 @@
 {
-  "tenantid": "dl",
+  "tenantId": "default",
   "moduleName": "PM",
   "KpiCategory": [
     {
@@ -10,19 +10,19 @@
       "id": 2,
       "code": "WW",
       "name": "Waste Water",
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "id": 3,
       "code": "SWM",
       "name": "Solid Waste Management",
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "id": 4,
       "code": "SWD",
       "name": "Storm Water Drainage",
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "NCC",

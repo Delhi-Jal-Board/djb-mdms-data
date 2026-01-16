@@ -1,84 +1,84 @@
 {
-  "tenantid": "dl",
+  "tenantId": "default",
   "moduleName": "lcms",
   "bench": [
     {
       "name": "Bombayaa",
       "code": "BOMBAY",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "Aurangabad",
       "code": "AURANGABAD",
       "active": false,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "Nagpur",
       "code": "NAGPUR",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "TestBench",
       "code": "Nass",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "testing on 14 Bench_updated_2",
       "code": "Tob",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "BenchName1",
       "code": "bench1",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "test10",
       "code": "111",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "Bench/M1",
       "code": "BM1",
       "active": false,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "aaa",
       "code": "aaa",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "test1",
       "code": "testing",
       "active": false,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "BenchName1",
       "code": "BN",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "BenchName2",
       "code": "BN2",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "Bench_Name_4",
       "code": "BN4",
       "active": true,
-      "tenantid": "dl"
+      "tenantId": "default"
     }
   ]
 }

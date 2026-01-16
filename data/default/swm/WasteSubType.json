@@ -1,9 +1,9 @@
 {
-  "tenantid": "dl",
+  "tenantId": "default",
   "moduleName": "swm",
   "WasteSubType": [
     {
-      "tenantid": "dl",
+      "tenantId": "default",
       "code": "test ",
       "name": "Test",
       "wasteType": {
@@ -13,7 +13,7 @@
     {
       "name": "test wastes",
       "code": "779",
-      "tenantid": "dl",
+      "tenantId": "default",
       "wasteType": {
         "code": "Bio Medical Waste"
       }
@@ -21,7 +21,7 @@
     {
       "name": "plumer",
       "code": "1324",
-      "tenantid": "dl",
+      "tenantId": "default",
       "wasteType": {
         "code": "Cons"
       }
@@ -29,7 +29,7 @@
     {
       "name": "556",
       "code": "rtes",
-      "tenantid": "dl",
+      "tenantId": "default",
       "wasteType": {
         "code": "Cons"
       }
@@ -37,7 +37,7 @@
     {
       "name": "Bio waste",
       "code": "BW",
-      "tenantid": "dl",
+      "tenantId": "default",
       "wasteType": {
         "code": "Waste Type Code 2"
       }
@@ -45,12 +45,12 @@
     {
       "name": "qwerfg",
       "code": "werfg",
-      "tenantid": "dl"
+      "tenantId": "default"
     },
     {
       "name": "Waste Test111",
       "code": "WT111",
-      "tenantid": "dl",
+      "tenantId": "default",
       "wasteType": {
         "code": "BCW"
       }
@@ -58,7 +58,7 @@
     {
       "name": "Syringe",
       "code": "SYN",
-      "tenantid": "dl",
+      "tenantId": "default",
       "wasteType": {
         "code": "Waste Type Code 2"
       }
@@ -66,7 +66,7 @@
     {
       "name": "hgfds",
       "code": "ngbfvdsx",
-      "tenantid": "dl",
+      "tenantId": "default",
       "wasteType": {
         "code": "Bio Medical Waste"
       }
@@ -74,7 +74,7 @@
     {
       "name": "Waste 1",
       "code": "W1",
-      "tenantid": "dl",
+      "tenantId": "default",
       "wasteType": {
         "code": "Cons"
       }
@@ -82,7 +82,7 @@
     {
       "name": "Test Waste1",
       "code": "TW1",
-      "tenantid": "dl",
+      "tenantId": "default",
       "wasteType": {
         "code": "HHPW"
       }
@@ -90,7 +90,7 @@
     {
       "name": "Test Waste2",
       "code": "TW2",
-      "tenantid": "dl",
+      "tenantId": "default",
       "wasteType": {
         "code": "BCW"
       }
@@ -98,7 +98,7 @@
     {
       "name": "waste test3",
       "code": "WT3",
-      "tenantid": "dl",
+      "tenantId": "default",
       "wasteType": {
         "code": "BCW"
       }
@@ -106,7 +106,7 @@
     {
       "name": "Test Waste 4",
       "code": "TW4",
-      "tenantid": "dl",
+      "tenantId": "default",
       "wasteType": {
         "code": "Cons"
       }
@@ -114,7 +114,7 @@
     {
       "name": "TestWaste 5",
       "code": "TW5",
-      "tenantid": "dl",
+      "tenantId": "default",
       "wasteType": {
         "code": "Cons"
       }
@@ -122,7 +122,7 @@
     {
       "name": "Test Waste 6",
       "code": "TW6",
-      "tenantid": "dl",
+      "tenantId": "default",
       "wasteType": {
         "code": "DD1"
       }
@@ -130,7 +130,7 @@
     {
       "name": "Wste1",
       "code": "Waste1",
-      "tenantid": "dl",
+      "tenantId": "default",
       "wasteType": {
         "code": "Cons"
       }
@@ -138,7 +138,7 @@
     {
       "name": "Dummy Waste Sub Type ",
       "code": "DWST",
-      "tenantid": "dl",
+      "tenantId": "default",
       "wasteType": {
         "code": "BCW"
       }
@@ -146,7 +146,7 @@
     {
       "name": "545",
       "code": "564",
-      "tenantid": "dl",
+      "tenantId": "default",
       "wasteType": {
         "code": "Bio Medical Waste"
       }
@@ -154,7 +154,7 @@
     {
       "name": "4645",
       "code": "456",
-      "tenantid": "dl",
+      "tenantId": "default",
       "wasteType": {
         "code": "BCW"
       }
@@ -162,7 +162,7 @@
     {
       "name": "213",
       "code": "123",
-      "tenantid": "dl",
+      "tenantId": "default",
       "wasteType": {
         "code": "Bio Medical Waste"
       }
@@ -170,7 +170,7 @@
     {
       "name": "Onion Peel",
       "code": "SGK",
-      "tenantid": "dl",
+      "tenantId": "default",
       "wasteType": {
         "code": "BW001"
       }
@@ -178,7 +178,7 @@
     {
       "name": "1234",
       "code": "1234",
-      "tenantid": "dl",
+      "tenantId": "default",
       "wasteType": {
         "code": ""
       }
@@ -186,7 +186,7 @@
     {
       "name": "Onion Peels",
       "code": "OP",
-      "tenantid": "dl",
+      "tenantId": "default",
       "wasteType": {
         "code": "VW"
       }
@@ -194,7 +194,7 @@
     {
       "name": "Plastic Bottals",
       "code": "PLASTIC/001/005",
-      "tenantid": "dl",
+      "tenantId": "default",
       "wasteType": {
         "code": "PLASTIC/001"
       }
@@ -202,7 +202,7 @@
     {
       "name": "Plastic Dry Waste",
       "code": "PLASTIC/001/006",
-      "tenantid": "dl",
+      "tenantId": "default",
       "wasteType": {
         "code": "Waste Type Code 1"
       }
@@ -210,7 +210,7 @@
     {
       "name": "Bio Medical Waste",
       "code": "BMW001",
-      "tenantid": "dl",
+      "tenantId": "default",
       "wasteType": {
         "code": "BW001"
       }
@@ -218,7 +218,7 @@
     {
       "name": "BIOTEst",
       "code": "BT09",
-      "tenantid": "dl",
+      "tenantId": "default",
       "wasteType": {
         "code": "Bio Medical Waste"
       }
@@ -226,7 +226,7 @@
     {
       "name": "M_waste_Sub_Type",
       "code": "MWST",
-      "tenantid": "dl",
+      "tenantId": "default",
       "wasteType": {
         "code": "MWN"
       }
@@ -234,7 +234,7 @@
     {
       "name": "Test Waste Type",
       "code": "Test",
-      "tenantid": "dl",
+      "tenantId": "default",
       "wasteType": {
         "code": "Waste Type Code 3"
       }

@@ -1,23 +1,23 @@
 {
-  "tenantid": "dl",
+  "tenantId": "default",
   "moduleName": "works",
   "ScheduleCategory": [
     {
       "id": 1,
       "code": "EXV - FAKE",
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "EXCAVATION - FAKE"
     },
     {
       "id": 2,
       "code": "CCR - FAKE",
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "Concrete roads - FAKE"
     },
     {
       "id": 3,
       "code": "BTR - FAKE",
-      "tenantid": "dl",
+      "tenantId": "default",
       "name": "Black top roads - FAKE"
     }
   ]
