@@ -9,7 +9,7 @@
       "bannerUrl": "https://objectstorage.ap-hyderabad-1.oraclecloud.com/n/axn3czn1s06y/b/djb-dev-asset-bucket/o/Banner_img.png",
       "logoUrl": "https://objectstorage.ap-hyderabad-1.oraclecloud.com/n/axn3czn1s06y/b/djb-dev-asset-bucket/o/DJB_integrated_logo_without_bg_dark.png",
       "logoUrlWhite": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/nugp.png",
-      "statelogo":"https://s3.ap-south-1.amazonaws.com/pg-egov-assets/dl.citya/logo.png",
+      "statelogo":"https://objectstorage.ap-hyderabad-1.oraclecloud.com/n/axn3czn1s06y/b/djb-dev-asset-bucket/o/DJBLogo_without_bg.png",
       "hasLocalisation": true,
       "defaultUrl": {
         "citizen": "/user/register",

@@ -182,7 +182,7 @@
       "code": "dl",
       "name": "State",
       "description": "State",
-      "logoId": "https://s3.ap-south-1.amazonaws.com/pg-egov-assets/dl.citya/logo.png",
+      "logoId": "https://objectstorage.ap-hyderabad-1.oraclecloud.com/n/axn3czn1s06y/b/djb-dev-asset-bucket/o/DJBLogo_without_bg.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://dev-djb.nitcon.in",
