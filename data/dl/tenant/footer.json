@@ -3,7 +3,7 @@
   "moduleName": "tenant",
   "footer": [
     {
-      "code": "dl.citya",
+      "code": "dl.djb",
       "service": "PT",
       "receiptFooterContent": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "code": "dl.citya",
+      "code": "dl.djb",
       "service": "PT.MUTATION",
       "receiptFooterContent": [
         {
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "code": "dl.citya",
+      "code": "dl.djb",
       "service": "TL",
       "receiptFooterContent": [
         {
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "code": "dl.citya",
+      "code": "dl.djb",
       "service": "FIRENOC",
       "receiptFooterContent": [
         {
@@ -311,7 +311,7 @@
       ]
     },
     {
-      "code": "dl.citya",
+      "code": "dl.djb",
       "service": "BPA.NC_OC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -359,7 +359,7 @@
       ]
     },
     {
-      "code": "dl.citya",
+      "code": "dl.djb",
       "service": "BPA.NC_OC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -407,7 +407,7 @@
       ]
     },
     {
-      "code": "dl.citya",
+      "code": "dl.djb",
       "service": "BPA.LOW_RISK_PERMIT_FEE",
       "receiptFooterContent": [
         {
@@ -455,7 +455,7 @@
       ]
     },
     {
-      "code": "dl.citya",
+      "code": "dl.djb",
       "service": "BPA.NC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -503,7 +503,7 @@
       ]
     },
     {
-      "code": "dl.citya",
+      "code": "dl.djb",
       "service": "BPA.NC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -551,7 +551,7 @@
       ]
     },
     {
-      "code": "dl.citya",
+      "code": "dl.djb",
       "service": "BPAREG",
       "receiptFooterContent": [
         {
@@ -647,7 +647,7 @@
       ]
     },
     {
-      "code": "dl.citya",
+      "code": "dl.djb",
       "service": "ADVT.Hoardings",
       "receiptFooterContent": [
         {
@@ -683,7 +683,7 @@
       ]
     },
     {
-      "code": "dl.citya",
+      "code": "dl.djb",
       "service": "ADVT.Unipolls",
       "receiptFooterContent": [
         {
@@ -719,7 +719,7 @@
       ]
     },
     {
-      "code": "dl.citya",
+      "code": "dl.djb",
       "service": "ADVT.Gas_Balloon_Advertisement",
       "receiptFooterContent": [
         {
@@ -755,7 +755,7 @@
       ]
     },
     {
-      "code": "dl.citya",
+      "code": "dl.djb",
       "service": "ADVT.Wall_Paint_Advertisement",
       "receiptFooterContent": [
         {
@@ -791,7 +791,7 @@
       ]
     },
     {
-      "code": "dl.citya",
+      "code": "dl.djb",
       "service": "ADVT.Light_Wala_Board",
       "receiptFooterContent": [
         {
@@ -827,7 +827,7 @@
       ]
     },
     {
-      "code": "dl.citya",
+      "code": "dl.djb",
       "service": "TX.No_Dues_Certificate",
       "receiptFooterContent": [
         {
@@ -863,7 +863,7 @@
       ]
     },
     {
-      "code": "dl.citya",
+      "code": "dl.djb",
       "service": "FSM.TRIP_CHARGES",
       "receiptFooterContent": [
         {
@@ -893,7 +893,7 @@
       ]
     },
     {
-      "code": "dl.citya",
+      "code": "dl.djb",
       "service": "pet-services",
       "receiptFooterContent": [
         {

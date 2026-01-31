@@ -1,0 +1,39 @@
+{
+    "tenantId": "dl.djb",
+    "moduleName": "BPA",
+    "RiserHeight": [
+        {
+            "id": 1,
+            "state": "dl",
+            "city": "djb",
+            "zone": "x",
+            "subZone": "y",
+            "riskType": null,
+            "occupancy": "residential",
+            "permissible": 0.19,
+            "active": true
+        },
+        {
+            "id": 2,
+            "state": "dl",
+            "city": "djb",
+            "zone": "x",
+            "subZone": "y",
+            "riskType": null,
+            "occupancy": "commercial",
+            "permissible": 0.17,
+            "active": true
+        },
+        {
+            "id": 3,
+            "state": "dl",
+            "city": "djb",
+            "zone": "x",
+            "subZone": "y",
+            "riskType": null,
+            "occupancy": "industrial",
+            "permissible": 0.16,
+            "active": true
+        }
+    ]
+}

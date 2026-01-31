@@ -1,0 +1,39 @@
+{
+    "tenantId": "dl.djb",
+    "moduleName": "BPA",
+    "Chimney": [
+    {
+        "id": 1,
+        "state": "dl",
+        "city": "djb",
+        "zone": "x",
+        "subZone": "y",
+        "riskType": null,
+        "occupancy": "residential",
+        "permissible": 1,
+        "active": true
+    },
+        {
+        "id": 2,
+        "state": "dl",
+        "city": "djb",
+        "zone": "x",
+        "subZone": "y",
+        "riskType": null,
+        "occupancy": "commercial",
+        "permissible": 2,
+        "active": true
+    },
+        {
+        "id": 3,
+        "state": "dl",
+        "city": "djb",
+        "zone": "x",
+        "subZone": "y",
+        "riskType": null,
+        "occupancy": "industrial",
+        "permissible": 3,
+        "active": true
+    }
+]
+}

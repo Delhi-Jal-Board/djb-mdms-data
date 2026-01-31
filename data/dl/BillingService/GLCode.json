@@ -1,16 +1,16 @@
 {
-	"tenantId": "dl.citya",
+	"tenantId": "dl.djb",
 	"moduleName": "BillingService",
 	"GLCode": [
 	{
 		"code": "BIRTH_CERT",
 		"glcode": null,
-		"cb": "dl.citya"
+		"cb": "dl.djb"
 	},
 	{
 		"code": "DEATH_CERT",
 		"glcode": null,
-		"cb": "dl.citya"
+		"cb": "dl.djb"
 	}
 	]
 }

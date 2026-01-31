@@ -1,0 +1,22 @@
+{
+  "tenantId": "dl.djb",
+  "moduleName": "ws-services-masters",
+  "connectionType": [
+    {
+      "name": "Non Metered",
+      "code": "Non Metered",
+      "description": "Non-Metered Connection",
+      "active": true
+    },
+    {
+      "name": "Bulk-supply",
+      "code": "Bulk-supply",
+      "active": true
+    },
+    {
+      "name": "Metered",
+      "code": "Metered",
+      "active": true
+    }
+  ]
+}

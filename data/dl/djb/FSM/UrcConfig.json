@@ -1,0 +1,10 @@
+{
+    "tenantId": "dl.djb",
+    "moduleName": "FSM",
+    "UrcConfig": [
+        {
+            "URCEnable": true,
+            "villageHierarchyAvailable": true
+        }
+    ]
+}
