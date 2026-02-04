@@ -3,7 +3,7 @@
   "moduleName": "tenant",
   "tenants": [
     {
-      "code": "dl.mcd",
+      "code": "dl.djb",
       "name": "Delhi",
       "description": null,
       "pincode": [
@@ -37,7 +37,7 @@
         "localName": null,
         "districtCode": "DELHI",
         "districtName": null,
-        "districtTenantCode": "dl.mcd",
+        "districtTenantCode": "dl.djb",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 74.8722642,

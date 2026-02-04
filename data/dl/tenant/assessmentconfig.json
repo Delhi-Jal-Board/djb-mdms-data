@@ -3,7 +3,7 @@
   "moduleName": "tenant",
   "assessmentconfig": [
     {
-      "tenant": "dl.mcd",
+      "tenant": "dl.djb",
       "enabled": true,
       "financialyear": "2021-22",
       "isRented": true

@@ -10,7 +10,7 @@
       "order": 2,
       "tenants": [
         {
-          "code": "dl.mcd"
+          "code": "dl.djb"
         }
       ]
     },
@@ -21,7 +21,7 @@
       "order": 1,
       "tenants": [
         {
-          "code": "dl.mcd"
+          "code": "dl.djb"
         }
       ]
     },
@@ -32,7 +32,7 @@
       "order": 4,
       "tenants": [
         {
-          "code": "dl.mcd"
+          "code": "dl.djb"
         }
       ]
     },
@@ -43,7 +43,7 @@
       "order": 1,
       "tenants": [
         {
-          "code": "dl.mcd"
+          "code": "dl.djb"
         }
       ]
     },
@@ -54,7 +54,7 @@
       "order": 1,
       "tenants": [
         {
-          "code": "dl.mcd"
+          "code": "dl.djb"
         }
       ]
     },
@@ -65,7 +65,7 @@
       "order": 1,
       "tenants": [
         {
-          "code": "dl.mcd"
+          "code": "dl.djb"
         }
       ]
     },
@@ -76,7 +76,7 @@
       "order": 1,
       "tenants": [
         {
-          "code": "dl.mcd"
+          "code": "dl.djb"
         }
       ]
     },
@@ -87,7 +87,7 @@
       "order": 1,
       "tenants": [
         {
-          "code": "dl.mcd"
+          "code": "dl.djb"
         }
       ]
     },
@@ -98,7 +98,7 @@
       "order": 1,
       "tenants": [
         {
-          "code": "dl.mcd"
+          "code": "dl.djb"
         }
       ]
     },
@@ -109,7 +109,7 @@
       "order": 1,
       "tenants": [
         {
-          "code": "dl.mcd"
+          "code": "dl.djb"
         }
       ]
     },
@@ -120,7 +120,7 @@
       "order": 1,
       "tenants": [
         {
-          "code": "dl.mcd"
+          "code": "dl.djb"
         }
       ]
     },
@@ -131,7 +131,7 @@
       "order": 1,
       "tenants": [
         {
-          "code": "dl.mcd"
+          "code": "dl.djb"
         }
       ]
     },
@@ -142,7 +142,7 @@
       "order": 4,
       "tenants": [
         {
-          "code": "dl.mcd"
+          "code": "dl.djb"
         }
       ]
     },
@@ -156,7 +156,7 @@
           "code": "dl.citya"
         },
         {
-          "code": "dl.mcd"
+          "code": "dl.djb"
         }
       ]
     },
@@ -167,7 +167,7 @@
       "order": 3,
       "tenants": [
         {
-          "code": "dl.mcd"
+          "code": "dl.djb"
         }
       ]
     },
@@ -178,7 +178,7 @@
       "order": 6,
       "tenants": [
         {
-          "code": "dl.mcd"
+          "code": "dl.djb"
         }
       ]
     },
@@ -189,7 +189,7 @@
       "order": 2,
       "tenants": [
         {
-          "code": "dl.mcd"
+          "code": "dl.djb"
         }
       ]
     },
@@ -200,7 +200,7 @@
       "order": 5,
       "tenants": [
         {
-          "code": "dl.mcd"
+          "code": "dl.djb"
         }
       ]
     },
@@ -212,7 +212,7 @@
       "order": 1,
       "tenants": [
         {
-          "code": "dl.mcd"
+          "code": "dl.djb"
         }
       ]
     },
@@ -223,7 +223,7 @@
       "order": 13,
       "tenants": [
         {
-          "code": "dl.mcd"
+          "code": "dl.djb"
         }
       ]
     }
