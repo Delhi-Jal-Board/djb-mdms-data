@@ -3,7 +3,7 @@
   "moduleName": "tenant",
   "tenantInfo": [
     {
-      "code": "dl.mcd",
+      "code": "dl.djb",
       "districtCode": "MCD",
       "population": "116449",
       "malePopulation": "62554",

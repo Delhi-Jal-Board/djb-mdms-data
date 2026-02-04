@@ -59,7 +59,7 @@
       ]
     },
     {
-      "code": "dl.mcd",
+      "code": "dl.djb",
       "service": "PT.MUTATION",
       "receiptFooterContent": [
         {
@@ -765,7 +765,7 @@
       ]
     },
     {
-      "code": "dl.mcd",
+      "code": "dl.djb",
       "service": "FSM.TRIP_CHARGES",
       "receiptFooterContent": [
         {
