@@ -1,0 +1,39 @@
+{
+    "tenantId": "dl.djb",
+    "moduleName": "BPA",
+    "RoadWidth": [
+        {
+            "id": 1,
+            "state": "dl",
+            "city": "djb",
+            "zone": "x",
+            "subZone": "y",
+            "riskType": null,
+            "occupancy": "residential",
+            "permissible": 12.20,
+            "active": true
+        },
+        {
+            "id": 2,
+            "state": "dl",
+            "city": "djb",
+            "zone": "x",
+            "subZone": "y",
+            "riskType": null,
+            "occupancy": "commercial",
+            "permissible": 15.00,
+            "active": true
+        },
+        {
+            "id": 3,
+            "state": "dl",
+            "city": "djb",
+            "zone": "x",
+            "subZone": "y",
+            "riskType": null,
+            "occupancy": "industrial",
+            "permissible": 18.00,
+            "active": true
+        }
+    ]
+}

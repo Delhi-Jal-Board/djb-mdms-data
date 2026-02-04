@@ -1,0 +1,39 @@
+{
+    "tenantId": "dl.djb",
+    "moduleName": "BPA",
+    "Bathroom": [
+        {
+            "id": 1,
+            "state": "dl",
+            "city": "djb",
+            "zone": "x",
+            "subZone": "y",
+            "occupancy": "residential",
+            "bathroomtotalArea": "1.8",
+            "bathroomMinWidth": "1.2",
+            "active": true
+        },
+        {
+            "id": 2,
+            "state": "dl",
+            "city": "djb",
+            "zone": "x",
+            "subZone": "y",
+            "occupancy": "commercial",
+            "bathroomtotalArea": "2.8",
+            "bathroomMinWidth": "1.2",
+            "active": true
+        },
+        {
+            "id": 3,
+            "state": "dl",
+            "city": "djb",
+            "zone": "x",
+            "subZone": "y",
+            "occupancy": "industrial",
+            "bathroomtotalArea": "3.8",
+            "bathroomMinWidth": "1.2",
+            "active": true
+        }
+    ]
+}

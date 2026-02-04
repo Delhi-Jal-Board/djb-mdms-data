@@ -1,0 +1,18 @@
+{
+    "tenantId": "dl.djb",
+    "moduleName": "TradeLicense",
+    "ReminderPeriods": [
+      {
+        "tenantId": "dl.djb",
+        "reminderInterval": 12345
+      },
+      {
+        "tenantId": "dl.cityb",
+        "reminderInterval": 12345
+      },
+      {
+        "tenantId": "dl.cityc",
+        "reminderInterval": 12345  
+      }
+    ]
+  }

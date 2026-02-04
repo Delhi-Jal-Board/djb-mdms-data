@@ -1,0 +1,9 @@
+{
+    "tenantId": "dl.djb",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": false
+        }
+    ]
+}
