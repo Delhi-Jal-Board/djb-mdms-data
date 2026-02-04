@@ -1,0 +1,9 @@
+{
+    "tenantId": "dl.mcd",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": false
+        }
+    ]
+}

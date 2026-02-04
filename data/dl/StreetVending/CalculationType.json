@@ -1,0 +1,13 @@
+{
+    "tenantId": "dl",
+    "moduleName": "StreetVending",
+    "CalculationType": [
+      {
+        "applicationType": "SV.ONE_TIME_FEE",
+        "serviceType": "STREET_VENDING_REGISTRATION",
+        "feeType": "SV_STREET_VENDING_REGISTRATION_FEE",
+        "amount": 1500
+      }
+    ]
+  }
+  

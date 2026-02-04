@@ -1,0 +1,16 @@
+{
+    "tenantId": "dl",
+    "moduleName": "Chatbot",
+    "CityLocaleMasterData": [
+        {
+            "cityName": "MCD",
+            "locale": "in_en",
+            "tenantId": "dl.mcd"
+        },
+        {
+            "cityName": "शहर ब",
+            "locale": "in_hi",
+            "tenantId": "dl.mcd"
+        }
+    ]
+}

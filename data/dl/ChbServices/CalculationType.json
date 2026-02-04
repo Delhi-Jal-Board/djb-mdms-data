@@ -1,0 +1,94 @@
+{
+  "tenantId": "dl",
+  "moduleName": "CHB",
+  "CalculationType": [
+    {
+      "Sector_70": [
+        {
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 7500,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "Sector_71": [
+        {
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 10500,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "Sector_69": [
+        {
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 10500,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "Sector_65_Phase_11": [
+        {
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 7500,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "Sector_61_Phase_7": [
+        {
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 10500,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "Sector_59_Phase_5": [
+        {
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 10500,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "Sector_55_Phase_1": [
+        {
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 10500,
+          "taxApplicable": true
+        }
+      ]
+    },
+    {
+      "Sector_54_Phase_2": [
+        {
+          "applicationType": "COMMUNITY_HALL_BOOKING",
+          "serviceType": "NEW_BOOKING",
+          "feeType": "BOOKING_FEES",
+          "amount": 7500,
+          "taxApplicable": true
+        }
+      ]
+    }
+  ]
+}

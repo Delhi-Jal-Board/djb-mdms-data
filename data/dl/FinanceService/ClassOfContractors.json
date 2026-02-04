@@ -1,0 +1,30 @@
+{
+  "tenantId": "dl",
+  "moduleName": "FinanceService",
+  "ClassOfContractors": [
+    {
+      "id": 1,
+      "code": "Class I"
+    },
+    {
+      "id": 2,
+      "code": "Class II"
+    },
+    {
+      "id": 3,
+      "code": "Class III"
+    },
+    {
+      "id": 4,
+      "code": "Class IV"
+    },
+    {
+      "id": 5,
+      "code": "Class V"
+    },
+    {
+      "id": 6,
+      "code": "NA"
+    }
+  ]
+}

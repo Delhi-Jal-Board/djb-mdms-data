@@ -1,0 +1,690 @@
+{
+  "tenantId": "dl",
+  "moduleName": "common-masters",
+  "Designation": [
+    {
+      "code": "DESIG_01",
+      "name": "Superintending Engineer ( B&R)",
+      "description": "Superintending Engineer ( B&R)",
+      "active": true
+    },
+    {
+      "code": "DESIG_02",
+      "name": "Corporation Engineer (B&R)",
+      "description": "Corporation Engineer (B&R)",
+      "active": true
+    },
+    {
+      "code": "DESIG_03",
+      "name": "Assistant Engineer (AE)",
+      "description": "Assistant Engineer",
+      "active": true
+    },
+    {
+      "code": "DESIG_04",
+      "name": "Assistant Account Officer (AAO)",
+      "description": "Assistant Account Officer (AAO)",
+      "active": true
+    },
+    {
+      "code": "DESIG_05",
+      "name": "Land Scape Officer",
+      "description": "Land Scape Officer",
+      "active": true
+    },
+    {
+      "code": "DESIG_06",
+      "name": "Superintending Engineer (O&M)",
+      "description": "Superintending Engineer (O&M)",
+      "active": true
+    },
+    {
+      "code": "DESIG_07",
+      "name": "Corporation Engineer (O&M)",
+      "description": "Corporation Engineer (O&M)",
+      "active": true
+    },
+    {
+      "code": "DESIG_08",
+      "name": "Junior Engineer (JE)",
+      "description": "Junior Engineer",
+      "active": true
+    },
+    {
+      "code": "DESIG_09",
+      "name": "Executive Engineer (EX EN)",
+      "description": "Executive Engineer",
+      "active": true
+    },
+    {
+      "code": "DESIG_10",
+      "name": "Superintending Engineer (Light)",
+      "description": "Superintending Engineer (Light)",
+      "active": true
+    },
+    {
+      "code": "DESIG_11",
+      "name": "Corporation Engineer (Light)",
+      "description": "Corporation Engineer (Light)",
+      "active": true
+    },
+    {
+      "code": "DESIG_12",
+      "name": "Assistant Section Officer (ASO)",
+      "description": "Assistant Section Officer (ASO)",
+      "active": true
+    },
+    {
+      "code": "DESIG_13",
+      "name": "Health Officer",
+      "description": "Health Officer",
+      "active": true
+    },
+    {
+      "code": "DESIG_14",
+      "name": "Medical Officer",
+      "description": "Medical Officer",
+      "active": true
+    },
+    {
+      "code": "DESIG_15",
+      "name": "Chief Sanitary Inspector",
+      "description": "Mechanical Oversear",
+      "active": true
+    },
+    {
+      "code": "DESIG_16",
+      "name": "Sainitary Inspector",
+      "description": "Clerk",
+      "active": true
+    },
+    {
+      "code": "DESIG_17",
+      "name": "Sainitary Supervisor",
+      "description": "Accountant",
+      "active": true
+    },
+    {
+      "code": "DESIG_18",
+      "name": "Senior Town Planner",
+      "description": "Senior Town Planner",
+      "active": true
+    },
+    {
+      "code": "DESIG_19",
+      "name": "Municipal Town Planner",
+      "description": "Municipal Town Planner",
+      "active": true
+    },
+    {
+      "code": "DESIG_20",
+      "name": "Asst. Town Planner",
+      "description": "Asst. Town Planner",
+      "active": true
+    },
+    {
+      "code": "DESIG_21",
+      "name": "Building Inspector",
+      "description": "Building Inspector",
+      "active": true
+    },
+    {
+      "code": "DESIG_22",
+      "name": "Account Officer (AO)",
+      "description": "Account Officer (AO)",
+      "active": true
+    },
+    {
+      "code": "DESIG_23",
+      "name": "Citizen service representative",
+      "description": "Citizen service representative",
+      "active": true
+    },
+    {
+      "code": "DESIG_24",
+     "name": "Deputy Controller Accounts (DCA)",
+      "description": "Deputy Controller Accounts (DCA)",
+      "active": true
+    },
+    {
+      "code": "DESIG_25",
+      "name": "Accountant",
+      "description": "Accountant",
+      "active": true
+    },
+    {
+      "code": "DESIG_26",
+      "name": "Assistant Commissioner",
+      "description": "Assistant Commissioner",
+      "active": true
+    },
+    {
+      "code": "DESIG_27",
+      "name": "Superintendent",
+      "description": "Superintendent",
+      "active": true
+    },
+    {
+      "code": "DESIG_28",
+      "name": "Accounts Officer",
+      "description": "Accounts Officer",
+      "active": true
+    },
+    {
+      "code": "DESIG_30",
+      "name": "Commissioner",
+      "description": "Commissioner",
+      "active": true
+    },
+    {
+      "code": "DESIG_31",
+      "name": "Junior Secretariat Assitant (JSA)",
+      "description": "Junior Secretariat Assitant (JSA)",
+      "active": true
+    },
+    {
+      "code": "DESIG_32",
+      "name": "ASO",
+      "description": "ASO",
+      "active": true
+    },
+    {
+      "code": "DESIG_33",
+      "name": "Junior Account Officer (JAO)",
+      "description": "Junior Account Officer (JAO)",
+      "active": true
+    },
+    {
+      "code": "DESIG_34",
+      "name": "SSA",
+      "description": "SSA",
+      "active": true
+    },
+    {
+      "code": "DESIG_35",
+      "name": "DEO",
+      "description": "DEO",
+      "active": true
+    },
+    {
+      "code": "DESIG_36",
+      "name": "ASI",
+      "description": "ASI",
+      "active": true
+    },
+    {
+      "code": "DESIG_37",
+      "name": "Community worker(CW)",
+      "description": "Community Worker(CW)",
+      "active": true
+    },
+    {
+      "code": "DESIG_38",
+      "name": "CNZ",
+      "description": "CNZ",
+      "active": true
+    },
+    {
+      "code": "DESIG_39",
+      "name": "Dealing Assistant Accounts (DAO)",
+      "description": "Dealing Assistant Accounts (DAO)",
+      "active": true
+    },
+    {
+      "code": "DESIG_40",
+      "name": "Data Entry Operator (DEO)",
+      "description": "Data Entry Operator (DEO)",
+      "active": true
+    },
+    {
+      "code": "DESIG_41",
+      "name": "AMI",
+      "description": "Assistant Malaria Inspector",
+      "active": true
+    },
+    {
+      "code": "DESIG_42",
+      "name": "MTS",
+      "description": "MTS",
+      "active": true
+    },
+    {
+      "code": "DESIG_43",
+      "name": "MI",
+      "description": "Malaria Inspector",
+      "active": true
+    },
+    {
+      "code": "DESIG_44",
+      "name": "HC",
+      "description": "Head Clerk",
+      "active": true
+    },
+    {
+      "code": "DESIG_45",
+      "name": "MRA (DW)",
+      "description": "MRA (DW)",
+      "active": true
+    },
+    {
+      "code": "DESIG_46",
+      "name": "EE",
+      "description": "Executive Engineer",
+      "active": true
+    },
+    {
+      "code": "DESIG_47",
+      "name": "VI",
+      "description": "Veterinary Inspector",
+      "active": true
+    },
+    {
+      "code": "DESIG_48",
+      "name": "APHI",
+      "description": "Assitant Public Health Inspector",
+      "active": true
+    },
+    {
+      "code": "DESIG_49",
+      "name": "Mali",
+      "description": "Mali C/B",
+      "active": true
+    },
+    {
+      "code": "DESIG_50",
+      "name": "DDE",
+      "description": "Deputy Director of Education",
+      "active": true
+    },
+    {
+      "code": "DESIG_51",
+      "name": "Junior Auditor(JA)",
+      "description": "Junior Auditor(JA)",
+      "active": true
+    },
+    {
+      "code": "DESIG_52",
+      "name": "ADH",
+      "description": "ADH",
+      "active": true
+    },
+    {
+      "code": "DESIG_53",
+      "name": "ACO",
+      "description": "ASSTT. COMMUNITY ORGANISER",
+      "active": true
+    },
+    {
+      "code": "DESIG_54",
+      "name": "IAO",
+      "description": "Internal Audit Officer",
+      "active": true
+    },
+    {
+      "code": "DESIG_55",
+      "name": "AO",
+      "description": "Adminstrative Officer",
+      "active": true
+    },
+    {
+      "code": "DESIG_56",
+      "name": "VO",
+      "description": "Veterinary Officer",
+      "active": true
+    },
+    {
+      "code": "DESIG_57",
+      "name": "ZE",
+      "description": "Zonal Epidemiologist",
+      "active": true
+    },
+    {
+      "code": "DESIG_58",
+      "name": "SO",
+      "description": "SO",
+      "active": true
+    },
+    {
+      "code": "DESIG_59",
+      "name": "SE",
+      "description": "SE",
+      "active": true
+    },
+    {
+      "code": "DESIG_60",
+      "name": "Jt. A&C",
+      "description": "Jt. Asssessor & Collector",
+      "active": true
+    },
+    {
+      "code": "DESIG_61",
+      "name": "Deputy Health Officer (DHO)",
+      "description": "Deputy Health Officer (DHO)",
+      "active": true
+    },
+    {
+      "code": "DESIG_62",
+      "name": "Dy. A&C",
+      "description": "Deputy Asessor & Collector",
+      "active": true
+    },
+    {
+      "code": "DESIG_63",
+      "name": "Addl. MS",
+      "description": "Additional Medical Superintendent",
+      "active": true
+    },
+    {
+      "code": "DESIG_64",
+      "name": "Dy. HO",
+      "description": "Deputy Health Officer",
+      "active": true
+    },
+    {
+      "code": "DESIG_65",
+      "name": "Dy. Dir",
+      "description": "Deputy Director",
+      "active": true
+    },
+    {
+      "code": "DESIG_66",
+      "name": "CO",
+      "description": "Community Organiser",
+      "active": true
+    },
+    {
+      "code": "DESIG_67",
+      "name": "CAMO",
+      "description": "CAMO",
+      "active": true
+    },
+    {
+      "code": "DESIG_68",
+      "name": "MS",
+      "description": "Medical Superidentant",
+      "active": true
+    },
+    {
+      "code": "DESIG_69",
+      "name": "Assistant Director",
+      "description": "Assistant Director",
+      "active": true
+    },
+    {
+      "code": "DESIG_70",
+      "name": "Assistant Director of Education",
+      "description": "Assistant Director of Education",
+      "active": true
+    },
+    {
+      "code": "DESIG_71",
+      "name": "Director",
+      "description": "Director",
+      "active": true
+    },
+    {
+      "code": "DESIG_72",
+      "name": "Director IT",
+      "description": "Director IT",
+      "active": true
+    },
+    {
+      "code": "DESIG_73",
+      "name": "Director of Inquiries/ADC",
+      "description": "Director of Inquiries/ADC",
+      "active": true
+    },
+    {
+      "code": "DESIG_74",
+      "name": "DAILY WAGE",
+      "description": "DAILY WAGE",
+      "active": true
+    },
+    {
+      "code": "DESIG_75",
+      "name": "R.S.K",
+      "description": "R.S.K",
+      "active": true
+    },
+    {
+      "code": "DESIG_76",
+      "name": "Suptt. Engineer",
+      "description": "Suptt. Engineer",
+      "active": true
+    },
+    {
+      "code": "DESIG_77",
+      "name": "GDMO-I",
+      "description": "GDMO-I",
+      "active": true
+    },
+    {
+      "code": "DESIG_78",
+      "name": "Entomologist",
+      "description": "Entomologist",
+      "active": true
+    },
+    {
+      "code": "DESIG_79",
+      "name": "Section Officer",
+      "description": "Section Officer",
+      "active": true
+    },
+    {
+      "code": "DESIG_80",
+      "name": "AD Horticulture",
+      "description": "AD Horticulture",
+      "active": true
+    },
+    {
+      "code": "DESIG_81",
+      "name": "Deputy Chief Auditor",
+      "description": "Deputy Chief Auditor",
+      "active": true
+    },
+    {
+      "code": "DESIG_82",
+      "name": "DDO",
+      "description": "DDO",
+      "active": true
+    },
+    {
+      "code": "DESIG_83",
+      "name": "School Inspector",
+      "description": "School Inspector",
+      "active": true
+    },
+    {
+      "code": "DESIG_84",
+      "name": "CMO",
+      "description": "CMO",
+      "active": true
+    },
+    {
+      "code": "DESIG_85",
+      "name": "EXT. EDU",
+      "description": "EXT. EDU",
+      "active": true
+    },
+    {
+      "code": "DESIG_86",
+      "name": "Statical Clerk(SC)",
+      "description": "Statical Clerk",
+      "active": true
+    },
+    {
+      "code": "DESIG_87",
+      "name": "CSI",
+      "description": "CSI",
+      "active": true
+    },
+    {
+      "code": "DESIG_88",
+      "name": "CHIEF SANITARY OFFICER",
+      "description": "CHIEF SANITARY OFFICER",
+      "active": true
+    },
+    {
+      "code": "DESIG_89",
+      "name": "SI",
+      "description": "SI",
+      "active": true
+    },
+    {
+      "code": "DESIG_90",
+      "name": "SS",
+      "description": "SS",
+      "active": true
+    },
+    {
+      "code": "DESIG_91",
+      "name": "Registrar",
+      "description": "Registrar",
+      "active": true
+    },
+    {
+      "code": "DESIG_92",
+      "name": "Senior Auditor",
+      "description": "Senior Auditor",
+      "active": true
+    },
+    {
+      "code": "DESIG_93",
+      "name": "Assistant Audit Officer",
+      "description": "Assistant Audit Officer",
+      "active": true
+    },
+    {
+      "code": "DESIG_94",
+      "name": "AC",
+      "description": "AC",
+      "active": true
+    },
+    {
+      "code": "DESIG_95",
+      "name": "Additional Deputy Commissioner",
+      "description": "Additional Deputy Commissioner",
+      "active": true
+    },
+    {
+      "code": "DESIG_96",
+      "name": "AD",
+      "description": "AD",
+      "active": true
+    },
+    {
+      "code": "DESIG_97",
+      "name": "MI",
+      "description": "MI",
+      "active": true
+    },
+    {
+      "code": "DESIG_98",
+      "name": "DDH",
+      "description": "DDH",
+      "active": true
+    },
+    {
+      "code": "DESIG_99",
+      "name": "ADH",
+      "description": "ADH",
+      "active": true
+    },
+    {
+      "code": "DESIG_100",
+      "name": "Epidemiologist",
+      "description": "Epidemiologist",
+      "active": true
+    },
+    {
+      "code": "DESIG_101",
+      "name": "Dean",
+      "description": "Dean",
+      "active": true
+    },
+    {
+      "code": "DESIG_102",
+      "name": "CLWO",
+      "description": "CLWO",
+      "active": true
+    },
+    {
+      "code": "DESIG_103",
+      "name": "ADE",
+      "description": "ADE",
+      "active": true
+    },
+    {
+      "code": "DESIG_104",
+      "name": "ACA",
+      "description": "ACA",
+      "active": true
+    },
+    {
+      "code": "DESIG_105",
+      "name": "DDVS",
+      "description": "DDVS",
+      "active": true
+    },
+    {
+      "code": "DESIG_106",
+      "name": "DDO (EDN)",
+      "description": "DDO (EDN)",
+      "active": true
+    },
+    {
+      "code": "DESIG_107",
+      "name": "Law Officer",
+      "description": "Law Officer",
+      "active": true
+    },
+    {
+      "code": "DESIG_108",
+      "name": "O.I(B)-II",
+      "description": "O.I(B)-II",
+      "active": true
+    },
+    {
+      "code": "DESIG_109",
+      "name": "Director (P)",
+      "description": "Director (P)",
+      "active": true
+    },
+    {
+      "code": "DESIG_110",
+      "name": "VO/DD(VS)",
+      "description": "VO/DD(VS)",
+      "active": true
+    },
+    {
+      "code": "DESIG_111",
+      "name": "LDC (Cont.)",
+      "description": "LDC (Cont.)",
+      "active": true
+    },
+    {
+      "code": "DESIG_112",
+      "name": "A&C",
+      "description": "A&C",
+      "active": true
+    },
+    {
+      "code": "DESIG_113",
+      "name": "Consultant",
+      "description": "Consultant",
+      "active": true
+    },
+    {
+      "code": "DESIG_114",
+      "name": "Cashier",
+      "description": "Cashier",
+      "active": true
+    },
+    {
+      "code": "DESIG_115",
+      "name": "Cheque Writer",
+      "description": "Cheque Writer",
+      "active": true
+    }
+  ]
+}

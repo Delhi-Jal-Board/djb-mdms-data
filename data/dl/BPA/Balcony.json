@@ -1,0 +1,12 @@
+{
+    "tenantId": "dl",
+    "moduleName": "BPA",
+    "Balcony": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "permissible": 0.91,
+        "active": true
+    }
+]
+}

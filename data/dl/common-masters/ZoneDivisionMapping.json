@@ -1,0 +1,795 @@
+{
+  "tenantId": "dl",
+  "moduleName": "common-masters",
+  "ZoneDivisionMapping": [
+    {
+      "code": "CLZ_110",
+      "departmentName": "Engineering Civil",
+      "departmentCode": "110",
+      "zoneName": "CIVIL LINES ZONE",
+      "zoneCode": "CLZ",
+      "divisions": [
+        {
+          "divisionName": "Maintenance-I (M-I)",
+          "divisionCode": "1"
+        },
+        {
+          "divisionName": "Maintenance-II (M-II)",
+          "divisionCode": "2"
+        },
+        {
+          "divisionName": "Project-I",
+          "divisionCode": "5"
+        }
+      ]
+    },
+    {
+      "code": "CLZ_111",
+      "departmentName": "Engineering Electric",
+      "departmentCode": "111",
+      "zoneName": "CIVIL LINES ZONE",
+      "zoneCode": "CLZ",
+      "divisions": [
+        {
+          "divisionName": "EE-Electric/Auto//E&M/Solar-I",
+          "divisionCode": "8"
+        }
+      ]
+    },
+    {
+      "code": "CLZ_115",
+      "departmentName": "Building Department",
+      "departmentCode": "115",
+      "zoneName": "CIVIL LINES ZONE",
+      "zoneCode": "CLZ",
+      "divisions": [
+        {
+          "divisionName": "Building-I",
+          "divisionCode": "16"
+        },
+        {
+          "divisionName": "Building-II",
+          "divisionCode": "17"
+        }
+      ]
+    },
+    {
+      "code": "CLZ_113",
+      "departmentName": "Mpl. Engineer's Office",
+      "departmentCode": "113",
+      "zoneName": "CIVIL LINES ZONE",
+      "zoneCode": "CLZ",
+      "divisions": [
+        {
+          "divisionName": "EE-DEMS-Zone",
+          "divisionCode": "10"
+        }
+      ]
+    },
+    {
+      "code": "KBZ_110",
+      "departmentName": "Engineering Civil",
+      "departmentCode": "110",
+      "zoneName": "KAROL BAGH ZONE",
+      "zoneCode": "KBZ",
+      "divisions": [
+        {
+          "divisionName": "Maintenance-I (M-I)",
+          "divisionCode": "1"
+        },
+        {
+          "divisionName": "Maintenance-II (M-II)",
+          "divisionCode": "2"
+        },
+        {
+          "divisionName": "Project-I",
+          "divisionCode": "5"
+        }
+      ]
+    },
+    {
+      "code": "KBZ_111",
+      "departmentName": "Engineering Electric",
+      "departmentCode": "111",
+      "zoneName": "KAROL BAGH ZONE",
+      "zoneCode": "KBZ",
+      "divisions": [
+        {
+          "divisionName": "EE-Electric/Auto/E&M/Solar-IV",
+          "divisionCode": "24"
+        },
+        {
+          "divisionName": "E&M-HQ-II",
+          "divisionCode": "19"
+        },
+        {
+          "divisionName": "EE-Electric/Auto/E&M/Solar-I",
+          "divisionCode": "8"
+        }
+      ]
+    },
+    {
+      "code": "KBZ_113",
+      "departmentName": "Mpl. Engineer's Office",
+      "departmentCode": "113",
+      "zoneName": "KAROL BAGH ZONE",
+      "zoneCode": "KBZ",
+      "divisions": [
+        {
+          "divisionName": "EE-DEMS-Zone",
+          "divisionCode": "10"
+        },
+        {
+          "divisionName": "EE-Electric/Auto/E&M/Solar-II",
+          "divisionCode": "22"
+        }
+      ]
+    },
+    {
+      "code": "KPZ_113",
+      "departmentName": "Mpl. Engineer's Office",
+      "departmentCode": "113",
+      "zoneName": "KESHAVPURAM ZONE",
+      "zoneCode": "KPZ",
+      "divisions": [
+        {
+          "divisionName": "Maintenance-I (M-I)",
+          "divisionCode": "1"
+        },
+        {
+          "divisionName": "Maintenance-II (M-II)",
+          "divisionCode": "2"
+        },
+        {
+          "divisionName": "Project-I",
+          "divisionCode": "5"
+        },
+        {
+          "divisionName": "EE-DEMS-Zone",
+          "divisionCode": "10"
+        }
+      ]
+    },
+    {
+      "code": "KPZ_111",
+      "departmentName": "Engineering Electric",
+      "departmentCode": "111",
+      "zoneName": "KESHAVPURAM ZONE",
+      "zoneCode": "KPZ",
+      "divisions": [
+        {
+          "divisionName": "EE-Electric/Auto/E&M/Solar-I",
+          "divisionCode": "8"
+        }
+      ]
+    },
+    {
+      "code": "KPZ_115",
+      "departmentName": "Building Department",
+      "departmentCode": "115",
+      "zoneName": "KESHAVPURAM ZONE",
+      "zoneCode": "KPZ",
+      "divisions": [
+        {
+          "divisionName": "Building-I",
+          "divisionCode": "16"
+        },
+        {
+          "divisionName": "Building-II",
+          "divisionCode": "17"
+        }
+      ]
+    },
+    {
+      "code": "NFZ_110",
+      "departmentName": "Engineering Civil",
+      "departmentCode": "110",
+      "zoneName": "NAJAFGARH ZONE",
+      "zoneCode": "NFZ",
+      "divisions": [
+        {
+          "divisionName": "Maintenance-I (M-I)",
+          "divisionCode": "1"
+        },
+        {
+          "divisionName": "Maintenance-II (M-II)",
+          "divisionCode": "2"
+        },
+        {
+          "divisionName": "Maintenance-III (M-III)",
+          "divisionCode": "3"
+        },
+        {
+          "divisionName": "Maintenance-IV (M-IV)",
+          "divisionCode": "4"
+        }
+      ]
+    },
+    {
+      "code": "NFZ_113",
+      "departmentName": "Mpl. Engineer's Office",
+      "departmentCode": "113",
+      "zoneName": "NAJAFGARH ZONE",
+      "zoneCode": "NFZ",
+      "divisions": [
+        {
+          "divisionName": "Project-I",
+          "divisionCode": "5"
+        },
+        {
+          "divisionName": "EE-DEMS-zone",
+          "divisionCode": "10"
+        }
+      ]
+    },
+    {
+      "code": "NFZ_111",
+      "departmentName": "Engineering Electric",
+      "departmentCode": "111",
+      "zoneName": "NAJAFGARH ZONE",
+      "zoneCode": "NFZ",
+      "divisions": [
+        {
+          "divisionName": "EE-Electric/Auto/E&M/Solar-I",
+          "divisionCode": "8"
+        }
+      ]
+    },
+    {
+      "code": "NFZ_115",
+      "departmentName": "Building Department",
+      "departmentCode": "115",
+      "zoneName": "NAJAFGARH ZONE",
+      "zoneCode": "NFZ",
+      "divisions": [
+        {
+          "divisionName": "Building-I",
+          "divisionCode": "16"
+        }
+      ]
+    },
+    {
+      "code": "NZ_110",
+      "departmentName": "Engineering Civil",
+      "departmentCode": "110",
+      "zoneName": "NARELA ZONE",
+      "zoneCode": "NZ",
+      "divisions": [
+        {
+          "divisionName": "Maintenance-I (M-I)",
+          "divisionCode": "1"
+        },
+        {
+          "divisionName": "Maintenance-II (M-II)",
+          "divisionCode": "2"
+        }
+      ]
+    },
+    {
+      "code": "NZ_113",
+      "departmentName": "Mpl. Engineer's Office",
+      "departmentCode": "113",
+      "zoneName": "NARELA ZONE",
+      "zoneCode": "NZ",
+      "divisions": [
+        {
+          "divisionName": "EE-DEMS-Zone",
+          "divisionCode": "10"
+        },
+        {
+          "divisionName": "Project-I",
+          "divisionCode": "5"
+        }
+      ]
+    },
+    {
+      "code": "NZ_111",
+      "departmentName": "Engineering Electric",
+      "departmentCode": "111",
+      "zoneName": "NARELA ZONE",
+      "zoneCode": "NZ",
+      "divisions": [
+        {
+          "divisionName": "EE-Electric/Auto/E&M/Solar-I",
+          "divisionCode": "8"
+        }
+      ]
+    },
+    {
+      "code": "NZ_104",
+      "departmentName": "Motor Workshop (including general workshop)",
+      "departmentCode": "104",
+      "zoneName": "NARELA ZONE",
+      "zoneCode": "NZ",
+      "divisions": [
+        {
+          "divisionName": "EE-Electric/Auto/E&M/Solar-I",
+          "divisionCode": "8"
+        }
+      ]
+    },
+    {
+      "code": "SNZ_110",
+      "departmentName": "Engineering Civil",
+      "departmentCode": "110",
+      "zoneName": "SHAHDARA NORTH ZONE",
+      "zoneCode": "SNZ",
+      "divisions": [
+        {
+          "divisionName": "Maintenance-I (M-I)",
+          "divisionCode": "1"
+        },
+        {
+          "divisionName": "Maintenance-II (M-II)",
+          "divisionCode": "2"
+        },
+        {
+          "divisionName": "Maintenance-III (M-III)",
+          "divisionCode": "3"
+        },
+        {
+          "divisionName": "Maintenance-IV (M-IV)",
+          "divisionCode": "4"
+        },
+        {
+          "divisionName": "Project-I",
+          "divisionCode": "5"
+        },
+        {
+          "divisionName": "Project-II",
+          "divisionCode": "6"
+        },
+        {
+          "divisionName": "Central Store",
+          "divisionCode": "12"
+        }
+      ]
+    },
+    {
+      "code": "SNZ_113",
+      "departmentName": "Mpl. Engineer's Office",
+      "departmentCode": "113",
+      "zoneName": "SHAHDARA NORTH ZONE",
+      "zoneCode": "SNZ",
+      "divisions": [
+        {
+          "divisionName": "EE-DEMS-Zone",
+          "divisionCode": "10"
+        }
+      ]
+    },
+    {
+      "code": "SNZ_111",
+      "departmentName": "Engineering Electric",
+      "departmentCode": "111",
+      "zoneName": "SHAHDARA NORTH ZONE",
+      "zoneCode": "SNZ",
+      "divisions": [
+        {
+          "divisionName": "EE-Electric/Auto//E&M/Solar-I",
+          "divisionCode": "8"
+        },
+        {
+          "divisionName": "EE-Electric/Auto//E&M/Solar-II",
+          "divisionCode": "22"
+        }
+      ]
+    },
+    {
+      "code": "SNZ_115",
+      "departmentName": "Building Department",
+      "departmentCode": "115",
+      "zoneName": "SHAHDARA NORTH ZONE",
+      "zoneCode": "SNZ",
+      "divisions": [
+        {
+          "divisionName": "Building-I",
+          "divisionCode": "16"
+        },
+        {
+          "divisionName": "Building-II",
+          "divisionCode": "17"
+        }
+      ]
+    },
+    {
+      "code": "RZ_110",
+      "departmentName": "Engineering Civil",
+      "departmentCode": "110",
+      "zoneName": "ROHINI ZONE",
+      "zoneCode": "RZ",
+      "divisions": [
+        {
+          "divisionName": "Maintenance-I (M-I)",
+          "divisionCode": "1"
+        },
+        {
+          "divisionName": "Maintenance-II (M-II)",
+          "divisionCode": "2"
+        },
+        {
+          "divisionName": "Project-I",
+          "divisionCode": "5"
+        }
+      ]
+    },
+    {
+      "code": "RZ_111",
+      "departmentName": "Engineering Electric",
+      "departmentCode": "111",
+      "zoneName": "ROHINI ZONE",
+      "zoneCode": "RZ",
+      "divisions": [
+        {
+          "divisionName": "EE-Electric/Auto/E&M/Solar-I",
+          "divisionCode": "8"
+        }
+      ]
+    },
+    {
+      "code": "RZ_113",
+      "departmentName": "Mpl. Engineer's Office",
+      "departmentCode": "113",
+      "zoneName": "ROHINI ZONE",
+      "zoneCode": "RZ",
+      "divisions": [
+        {
+          "divisionName": "EE-DEMS-Zone",
+          "divisionCode": "10"
+        }
+      ]
+    },
+    {
+      "code": "RZ_115",
+      "departmentName": "Building Department",
+      "departmentCode": "115",
+      "zoneName": "ROHINI ZONE",
+      "zoneCode": "RZ",
+      "divisions": [
+        {
+          "divisionName": "Building-I",
+          "divisionCode": "16"
+        },
+        {
+          "divisionName": "Building-II",
+          "divisionCode": "17"
+        }
+      ]
+    },
+    {
+      "code": "SSZ_ENG",
+      "departmentName": "Engineering Department",
+      "departmentCode": "110",
+      "zoneName": "SHAHDARA SOUTH ZONE",
+      "zoneCode": "SSZ",
+      "divisions": [
+        {
+          "divisionName": "M-I",
+          "divisionCode": "1"
+        },
+        {
+          "divisionName": "M-II",
+          "divisionCode": "2"
+        },
+        {
+          "divisionName": "M-III",
+          "divisionCode": "3"
+        },
+        {
+          "divisionName": "M-IV",
+          "divisionCode": "4"
+        },
+        {
+          "divisionName": "Proj-I",
+          "divisionCode": "5"
+        }
+      ]
+    },
+    {
+      "code": "SZ_ENG",
+      "departmentName": "Engineering Department",
+      "departmentCode": "110",
+      "zoneName": "SOUTH ZONE",
+      "zoneCode": "SZ",
+      "divisions": [
+        {
+          "divisionName": "M-I",
+          "divisionCode": "1"
+        },
+        {
+          "divisionName": "M-III",
+          "divisionCode": "3"
+        },
+        {
+          "divisionName": "M-IV",
+          "divisionCode": "4"
+        },
+        {
+          "divisionName": "Proj-I",
+          "divisionCode": "5"
+        }
+      ]
+    },
+    {
+      "code": "HQ_ENG",
+      "departmentName": "Engineering Department",
+      "departmentCode": "110",
+      "zoneName": "HQ",
+      "zoneCode": "HQ",
+      "divisions": []
+    },
+    {
+      "code": "WZ_113",
+      "departmentName": "Mpl. Engineer's Office",
+      "departmentCode": "113",
+      "zoneName": "WEST ZONE",
+      "zoneCode": "WZ",
+      "divisions": [
+        {
+          "divisionName": "Maintenance-I (M-I)",
+          "divisionCode": "1"
+        },
+        {
+          "divisionName": "Maintenance-II (M-II)",
+          "divisionCode": "2"
+        },
+        {
+          "divisionName": "Maintenance-III (M-III)",
+          "divisionCode": "3"
+        },
+        {
+          "divisionName": "Maintenance-IV (M-IV)",
+          "divisionCode": "4"
+        },
+        {
+          "divisionName": "Project-I",
+          "divisionCode": "5"
+        },
+        {
+          "divisionName": "Project-II",
+          "divisionCode": "6"
+        },
+        {
+          "divisionName": "EE-DEMS-Zone",
+          "divisionCode": "10"
+        },
+        {
+          "divisionName": "Central Store",
+          "divisionCode": "12"
+        }
+      ]
+    },
+    {
+      "code": "WZ_111",
+      "departmentName": "Engineering Electric",
+      "departmentCode": "111",
+      "zoneName": "WEST ZONE",
+      "zoneCode": "WZ",
+      "divisions": [
+        {
+          "divisionName": "EE-Electric/Auto/E&M/Solar-I",
+          "divisionCode": "8"
+        }
+      ]
+    },
+    {
+      "code": "WZ_100",
+      "departmentName": "Environment Management System (EMS)",
+      "departmentCode": "100",
+      "zoneName": "WEST ZONE",
+      "zoneCode": "WZ",
+      "divisions": [
+        {
+          "divisionName": "EE-Electric/Auto/E&M/Solar-I",
+          "divisionCode": "8"
+        }
+      ]
+    },
+    {
+      "code": "WZ_115",
+      "departmentName": "Building Department",
+      "departmentCode": "115",
+      "zoneName": "WEST ZONE",
+      "zoneCode": "WZ",
+      "divisions": [
+        {
+          "divisionName": "Building-I",
+          "divisionCode": "16"
+        },
+        {
+          "divisionName": "Building-II",
+          "divisionCode": "17"
+        }
+      ]
+    },
+    {
+      "code": "CSP_111",
+      "departmentName": "Engineering - Electric",
+      "departmentCode": "111",
+      "zoneName": "CITY S P ZONE",
+      "zoneCode": "CSP",
+      "divisions": [
+        {
+          "divisionName": "EE-Electric/Auto/E&M/Solar-I",
+          "divisionCode": "8"
+        }
+      ]
+    },
+    {
+      "code": "CSP_113",
+      "departmentName": "MPL. Engineers Office",
+      "departmentCode": "113",
+      "zoneName": "CITY S P ZONE",
+      "zoneCode": "CSP",
+      "divisions": [
+        {
+          "divisionName": "EE-DEMS-Zone",
+          "divisionCode": "10"
+        },
+        {
+          "divisionName": "Central Store",
+          "divisionCode": "12"
+        }
+      ]
+    },
+    {
+      "code": "CSP_104",
+      "departmentName": "Motor Workshop (including general workshop)",
+      "departmentCode": "104",
+      "zoneName": "CITY S P ZONE",
+      "zoneCode": "CSP",
+      "divisions": [
+        {
+          "divisionName": "EE-Electric/Auto/E&M/Solar-I",
+          "divisionCode": "8"
+        }
+      ]
+    },
+    {
+      "code": "CSP_100",
+      "departmentName": "Environment Managment System (EMS)",
+      "departmentCode": "100",
+      "zoneName": "CITY S P ZONE",
+      "zoneCode": "CSP",
+      "divisions": [
+        {
+          "divisionName": "EE(Civil)-SLF Bhalswa",
+          "divisionCode": "11"
+        },
+        {
+          "divisionName": "Maintenance-I (M-I)",
+          "divisionCode": "1"
+        },
+        {
+          "divisionName": "Maintenance-II (M-II)",
+          "divisionCode": "2"
+        },
+        {
+          "divisionName": "Project-I",
+          "divisionCode": "5"
+        },
+        {
+          "divisionName": "EE-DEMS-P&M",
+          "divisionCode": "26"
+        },
+        {
+          "divisionName": "EE-DEMS-HQ-I",
+          "divisionCode": "9"
+        }
+      ]
+    },
+    {
+      "code": "CNZ_111",
+      "departmentName": "Engineering - Electric",
+      "departmentCode": "111",
+      "zoneName": "CENTRAL ZONE",
+      "zoneCode": "CNZ",
+      "divisions": [
+        {
+          "divisionName": "E&M-HQ-III",
+          "divisionCode": "20"
+        },
+        {
+          "divisionName": "E&M-HQ-II",
+          "divisionCode": "19"
+        },
+        {
+          "divisionName": "EE-Electric/Auto/E&M/Solar-I",
+          "divisionCode": "8"
+        },
+        {
+          "divisionName": "EE-E&M-SLF",
+          "divisionCode": "21"
+        }
+      ]
+    },
+    {
+      "code": "CNZ_104",
+      "departmentName": "Motor Workshop (including general workshop)",
+      "departmentCode": "104",
+      "zoneName": "CENTRAL ZONE",
+      "zoneCode": "CNZ",
+      "divisions": [
+        {
+          "divisionName": "EE-Electric/Auto/E&M/Solar-I",
+          "divisionCode": "8"
+        }
+      ]
+    },
+    {
+      "code": "CNZ_113",
+      "departmentName": "Mpl. Engineer's Office",
+      "departmentCode": "113",
+      "zoneName": "CENTRAL ZONE",
+      "zoneCode": "CNZ",
+      "divisions": [
+        {
+          "divisionName": "DEMS-Zone",
+          "divisionCode": "29"
+        },
+        {
+          "divisionName": "EE-E&M-SLF",
+          "divisionCode": "21"
+        },
+        {
+          "divisionName": "Maintenance-I (M-I)",
+          "divisionCode": "1"
+        },
+        {
+          "divisionName": "Maintenance-II (M-II)",
+          "divisionCode": "2"
+        },
+        {
+          "divisionName": "Maintenance-III (M-III)",
+          "divisionCode": "3"
+        },
+        {
+          "divisionName": "Maintenance-IV (M-IV)",
+          "divisionCode": "4"
+        },
+        {
+          "divisionName": "Project-I",
+          "divisionCode": "5"
+        },
+        {
+          "divisionName": "Project-II",
+          "divisionCode": "6"
+        }
+      ]
+    },
+    {
+      "code": "CNZ_110",
+      "departmentName": "Engineering - Civil",
+      "departmentCode": "110",
+      "zoneName": "CENTRAL ZONE",
+      "zoneCode": "CNZ",
+      "divisions": [
+        {
+          "divisionName": "EE-E&M-SLF",
+          "divisionCode": "21"
+        },
+        {
+          "divisionName": "Maintenance-IV (M-IV)",
+          "divisionCode": "4"
+        }
+      ]
+    },
+    {
+      "code": "CNZ_115",
+      "departmentName": "Building Department",
+      "departmentCode": "115",
+      "zoneName": "CENTRAL ZONE",
+      "zoneCode": "CNZ",
+      "divisions": [
+        {
+          "divisionName": "Building-I",
+          "divisionCode": "16"
+        },
+        {
+          "divisionName": "Building-II",
+          "divisionCode": "17"
+        }
+      ]
+    }
+  ]
+}

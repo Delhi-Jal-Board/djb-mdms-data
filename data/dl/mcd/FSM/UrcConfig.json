@@ -1,0 +1,10 @@
+{
+    "tenantId": "dl.mcd",
+    "moduleName": "FSM",
+    "UrcConfig": [
+        {
+            "URCEnable": true,
+            "villageHierarchyAvailable": true
+        }
+    ]
+}

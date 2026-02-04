@@ -1,0 +1,14 @@
+{
+  "tenantId": "dl",
+  "moduleName": "common-masters",
+  "zoneAndHQApprovers": [
+    {
+       "code": "HRMCH",
+        "name": "Hindu Rao Medical College Hospital"
+    },
+    {
+       "code": "SDH",
+        "name": "Swami Dayanand Hospital"
+    }
+           ]
+}

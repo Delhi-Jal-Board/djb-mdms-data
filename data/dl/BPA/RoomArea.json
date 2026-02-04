@@ -1,0 +1,15 @@
+{
+    "tenantId": "dl",
+    "moduleName": "BPA",
+    "RoomArea": [
+        {
+            "id": 1,
+            "occupancy": "residential",
+            "roomArea2": 9.2,
+            "roomArea1": 7.5,
+            "roomWidth2": 2.4,
+            "roomWidth1": 2.1,
+            "active": true
+        }
+    ]
+}

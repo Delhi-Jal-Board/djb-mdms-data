@@ -1,0 +1,15 @@
+{
+    "tenantId": "dl",
+    "moduleName": "common-masters",
+    "PaymentChannel":
+    [
+      {
+        "code": "Digital",
+        "active": true
+      },
+      {
+        "code": "Non Digital",
+        "active": true
+      }
+    ]
+  } 
