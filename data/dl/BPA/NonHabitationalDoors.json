@@ -1,0 +1,14 @@
+{
+    "tenantId": "dl",
+    "moduleName": "BPA",
+    "NonHabitationalDoors": [
+        { 
+            "id": 1,
+            "occupancy": "residential",
+            "minDoorWidth": 0.75,
+            "minDoorHeight": 2,
+            "active": true
+
+        }
+    ]
+}

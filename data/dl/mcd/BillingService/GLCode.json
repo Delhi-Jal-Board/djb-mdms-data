@@ -1,0 +1,16 @@
+{
+    "tenantId": "dl.mcd",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "dl.mcd"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "dl.mcd"
+        }
+    ]
+}

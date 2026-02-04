@@ -1,0 +1,17 @@
+{
+    "tenantId": "dl",
+    "moduleName": "FSM",
+    "FSTPPlantInfo": [
+        {
+            "PlantCode": "CTC002",
+            "PlantName": "CityA SeTPP",
+            "active": true,
+            "PlantType": "SeTP",
+            "PlantLocation": "CityA",
+            "PlusCode": "MPFQ+V2 Sahibzada Ajit Singh Nagar, Punjab",
+            "PlantOperationalTimings": "10.00am-06.00pm",
+            "PlantOperationalCapacityKLD": "100",
+            "ULBS": "dl.citya,dl.mcd"
+        }
+    ]
+}

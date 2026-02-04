@@ -1,0 +1,18 @@
+{
+    "tenantId": "dl",
+    "moduleName": "Advertisement",
+    "TaxAmount": [
+      {
+        "applicationType": "ADVERTISEMENT_BOOKING",
+        "serviceType": "NEW_BOOKING",
+        "feeType": "ADV_CGST",
+        "rate": 9
+      },
+      {
+        "applicationType": "ADVERTISEMENT_BOOKING",
+        "serviceType": "NEW_BOOKING",
+        "feeType": "ADV_SGST",
+        "rate": 9
+      }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+    "tenantId": "dl",
+    "moduleName": "ASSET",
+    "Warranty": [
+      {
+        "name": "1 Year",
+        "code": "1_YEAR",
+        "active": true
+      },
+      {
+        "name": "2 Years",
+        "code": "2_YEAR",
+        "active": true
+      },
+      {
+        "name": "3 Years",
+        "code": "3_YEAR",
+        "active": true
+      },
+      {
+        "name": "4 Years",
+        "code": "4_YEAR",
+        "active": true
+      },
+      {
+        "name": "5 Years",
+        "code": "5_YEAR",
+        "active": true
+      },
+      {
+        "name": "6 Years",
+        "code": "6_YEAR",
+        "active": true
+      },
+      {
+        "name": "7 Years",
+        "code": "7_YEAR",
+        "active": true
+      },
+      {
+        "name": "8 Years",
+        "code": "8_YEAR",
+        "active": true
+      },
+      {
+        "name": "9 Years",
+        "code": "9_YEAR",
+        "active": true
+      },
+      {
+        "name": "10 Years",
+        "code": "10_YEAR",
+        "active": true
+      },
+      {
+        "name": "11 Years",
+        "code": "11_YEAR",
+        "active": true
+      },
+      {
+        "name": "12 Years",
+        "code": "12_YEAR",
+        "active": true
+      },
+      {
+        "name": "13 Years",
+        "code": "13_YEAR",
+        "active": true
+      },
+      {
+        "name": "14 Years",
+        "code": "14_YEAR",
+        "active": true
+      },
+      {
+        "name": "15 Years",
+        "code": "15_YEAR",
+        "active": true
+      }
+    ]
+}

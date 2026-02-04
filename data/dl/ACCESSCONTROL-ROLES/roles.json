@@ -1,0 +1,246 @@
+{
+  "tenantId": "dl",
+  "moduleName": "ACCESSCONTROL-ROLES",
+  "roles": [
+    {
+      "code": "CITIZEN",
+      "name": "Citizen",
+      "description": "Citizen who can raise complaint"
+    },
+    {
+      "code": "EMPLOYEE",
+      "name": "Employee",
+      "description": "Default role for all employees"
+    },
+    {
+      "code": "SUPERUSER",
+      "name": "Super User",
+      "description": "System Administrator. Can change all master data and has access to all the system screens."
+    },
+    {
+      "code": "GRO",
+      "name": "Grievance Routing Officer",
+      "description": "Grievance Routing Officer"
+    },
+    {
+      "code": "ASSET_ADMINISTRATOR",
+      "name": "Asset Administrator",
+      "description": "Asset Administrator"
+    },
+    {
+      "code": "EMPLOYEE_ADMIN",
+      "name": "EMPLOYEE ADMIN",
+      "description": "EMPLOYEE ADMIN"
+    },
+    {
+      "code": "Financial Administrator",
+      "name": "Financial Administrator",
+      "description": "Financial Administrator"
+    },
+    {
+      "code": "AssetCreator",
+      "name": "AssetCreator",
+      "description": "AssetCreator"
+    },
+    {
+      "code": "WORKS_FINANCIAL_APPROVER",
+      "name": "Financials Approver",
+      "description": "Who has a access to capture Financial details and budgetary/financial sanction"
+    },
+    {
+      "code": "WO_CREATOR",
+      "name": "WO Creator",
+      "description": "Who has a access to create Work Order"
+    },
+    {
+      "code": "WORKS_BILL_CREATOR",
+      "name": "Works Bill Creator",
+      "description": "Who has a access to create Contractor Bill"
+    },
+    {
+      "code": "CONTRACTOR_ADVANCE_CREATOR",
+      "name": "Contractor Advance creator",
+      "description": "Who has a access to create Contractor Advance"
+    },
+    {
+      "code": "WORKS_APPROVER",
+      "name": "Works Approver",
+      "description": "Who has a access to approve/verify Works objects"
+    },
+    {
+      "code": "WORKS_ADMINISTRATOR",
+      "name": "Works Administrator",
+      "description": "Who has a access to all the transactions, masters and reports"
+    },
+    {
+      "code": "WORKS_MASTER_CREATOR",
+      "name": "Works Master creator",
+      "description": "Who has a access to all the works masters."
+    },
+    {
+      "code": "STADMIN",
+      "name": "State Administrator",
+      "description": "Admin role that as access over a state"
+    },
+    {
+      "code": "EGF_BILL_CREATOR",
+      "name": "EGF Bill Creator",
+      "description": "Employee who creates Bills in finance "
+    },
+    {
+      "code": "EGF_BILL_APPROVER",
+      "name": "EGF Bill Approver",
+      "description": "Employee who takes part in  Bills  approval in finance "
+    },
+    {
+      "code": "EGF_VOUCHER_CREATOR",
+      "name": "Finance Voucher Creator",
+      "description": "One who can create a voucher"
+    },
+    {
+      "code": "EGF_VOUCHER_APPROVER",
+      "name": "Finance Voucher Approver",
+      "description": "One who can approve a voucher"
+    },
+    {
+      "code": "EGF_PAYMENT_CREATOR",
+      "name": "Finance Payment Creator",
+      "description": "One who can create a payment"
+    },
+    {
+      "code": "EGF_PAYMENT_APPROVER",
+      "name": "Finance Payment Approver",
+      "description": "One who can approve a payment"
+    },
+    {
+      "code": "EGF_MASTER_ADMIN",
+      "name": "Finance Master Admin",
+      "description": "One who is the administrator for all master data in Finance"
+    },
+    {
+      "code": "EGF_REPORT_VIEW",
+      "name": "Finance Report View",
+      "description": "One who has acess to all financial reports"
+    },
+    {
+      "code": "COLL_RECEIPT_CREATOR",
+      "name": "Collections Receipt Creator",
+      "description": "One who can create and approve a receipt and receipt voucher"
+    },
+    {
+      "code": "COLL_REMIT_TO_BANK",
+      "name": "Collections Remitter",
+      "description": "One who can remit the instruments to bank"
+    },
+    {
+      "code": "SYS_INTEGRATOR_FINANCE",
+      "name": "System Integrator Finance",
+      "description": "Role for allowing system integration of Finance app with rainmaker"
+    },
+    {
+      "code": "EMPLOYEE_FINANCE",
+      "name": "Employee Finance",
+      "description": "All Employees who use Finance application"
+    },
+    {
+      "code": "EGF_ADMINISTRATOR",
+      "name": "Finance Adminsitrator",
+      "description": "All Employees who are Finance application administrator"
+    },
+    {
+      "code": "HRMS_ADMIN",
+      "name": "HRMS ADMIN",
+      "description": "HRMS Administrator which can create new employees"
+    },
+    {
+      "code": "SYSTEM",
+      "name": "System user",
+      "description": "System user role"
+    },
+    {
+      "code": "INTERNAL_MICROSERVICE_ROLE",
+      "name": "Internal Microservice Role",
+      "description": "Internal role for plain access"
+    },
+    {
+      "code": "ASSET_INITIATOR",
+      "name": "Asset Initiator Employee",
+      "description": "Employee in Asset Application who files asset Registration"
+    },
+    {
+      "code": "ASSET_VERIFIER",
+      "name": "Asset Document Verifier",
+      "description": "Asset Registration Information/Document Verifier"
+    },
+    {
+      "code": "ASSET_APPROVER",
+      "name": "Asset Approver",
+      "description": "Asset Application Approver"
+    },
+    {
+      "code": "ASSET_ALLOCATOR",
+      "name": "Asset Allocator",
+      "description": "Asset Application Approver"
+    },
+    {
+      "code": "ASSET_REPORT_VIEWER",
+      "name": "Asset Report Viewer",
+      "description": "Who Can View Asset Reports"
+    },
+    {
+      "code": "MDMS_ADMIN",
+      "name": "MDMS ADMIN",
+      "description": "MDMS User that can create and search schema"
+    },
+    {
+      "code": "LOC_ADMIN",
+      "name": "Localisation admin",
+      "description": "LOC_ADMIN"
+    },
+    {
+      "code": "DETAIL_CODE_APPROVER",
+      "name": "Detail code approver user",
+      "description": "Detail code approver user can approve the detail code creation"
+    },
+    {
+      "code": "RTGS_CREATOR",
+      "name": "RTGS CREATOR",
+      "description": "RTGS creator user can assign the RTGS number"
+    },
+    {
+      "code": "HQ_PROCESS_DEMAND_APPROVER",
+      "name": "HQ PROCESS DEMAND APPROVER",
+      "description": "Demand creation at HQ level"
+    },
+    {
+      "code": "ZONE_PROCESS_DEMAND_APPROVER",
+      "name": "ZONE PROCESS DEMAND APPROVER",
+      "description": "Demand creation at zone level"
+    },
+    {
+      "code": "MASTER_MENU_VIEWER",
+      "name": "MASTER MENU VIEWER",
+      "description": "User can only view the master view pages"
+    },
+    {
+      "code": "VENDOR_CREATOR",
+      "name": "VENDOR CREATOR",
+      "description": "User can create and view Vendors"
+    },
+    {
+      "code": "BANK_MASTER",
+      "name": "BANK MASTER",
+      "description": "User can create, view and update Bank master"
+    },
+    {
+      "code": "BANK_MASTER_CREATOR",
+      "name": "BANK MASTER CREATOR",
+      "description": "User can create and view Bank master"
+    },
+    {
+      "code": "DASHBOARD_VIEWER",
+      "name": "DASHBOARD VIEWER",
+      "description": "User can view the dashboard"
+    }
+  ]
+}

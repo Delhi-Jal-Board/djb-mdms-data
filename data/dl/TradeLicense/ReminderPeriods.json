@@ -1,0 +1,14 @@
+{
+    "tenantId": "dl",
+    "moduleName": "TradeLicense",
+    "ReminderPeriods": [
+      {
+        "tenantId": "dl.citya",
+        "reminderInterval": 691200000
+      },
+      {
+        "tenantId": "dl.mcd",
+        "reminderInterval": 12345
+      }
+    ]
+  }

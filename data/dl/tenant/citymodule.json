@@ -1,0 +1,231 @@
+{
+  "tenantId": "dl",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "dlR",
+      "code": "dlR",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/dlR.png",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "dl.mcd"
+        }
+      ]
+    },
+    {
+      "module": "QuickPayLinks",
+      "code": "QuickPayLinks",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "dl.mcd"
+        }
+      ]
+    },
+    {
+      "module": "Finance",
+      "code": "Finance",
+      "active": true,
+      "order": 4,
+      "tenants": [
+        {
+          "code": "dl.mcd"
+        }
+      ]
+    },
+    {
+      "module": "Finance2",
+      "code": "Finance2",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "dl.mcd"
+        }
+      ]
+    },
+    {
+      "module": "Budget",
+      "code": "Budget",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "dl.mcd"
+        }
+      ]
+    },
+    {
+      "module": "JV",
+      "code": "JV",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "dl.mcd"
+        }
+      ]
+    },
+    {
+      "module": "Administration",
+      "code": "Administration",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "dl.mcd"
+        }
+      ]
+    },
+    {
+      "module": "ReportGeneration",
+      "code": "ReportGeneration",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "dl.mcd"
+        }
+      ]
+    },
+    {
+      "module": "ConfigurationSetUp",
+      "code": "ConfigurationSetUp",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "dl.mcd"
+        }
+      ]
+    },
+    {
+      "module": "RevenueAccounting",
+      "code": "RevenueAccounting",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "dl.mcd"
+        }
+      ]
+    },
+    {
+      "module": "ExpenditureAccounting",
+      "code": "ExpenditureAccounting",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "dl.mcd"
+        }
+      ]
+    },
+    {
+      "module": "Contra",
+      "code": "Contra",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "dl.mcd"
+        }
+      ]
+    },
+    {
+      "module": "dlR.WHATSAPP",
+      "code": "dlR.WHATSAPP",
+      "active": false,
+      "order": 4,
+      "tenants": [
+        {
+          "code": "dl.mcd"
+        }
+      ]
+    },
+    {
+      "module": "Payment",
+      "code": "Payment",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "dl.citya"
+        },
+        {
+          "code": "dl.mcd"
+        }
+      ]
+    },
+    {
+      "module": "Receipts",
+      "code": "Receipts",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "dl.mcd"
+        }
+      ]
+    },
+    {
+      "module": "DSS",
+      "code": "DSS",
+      "active": true,
+      "order": 6,
+      "tenants": [
+        {
+          "code": "dl.mcd"
+        }
+      ]
+    },
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "dl.mcd"
+        }
+      ]
+    },
+    {
+      "module": "NDSS",
+      "code": "NDSS",
+      "active": true,
+      "order": 5,
+      "tenants": [
+        {
+          "code": "dl.mcd"
+        }
+      ]
+    },
+    {
+      "module": "ASSET",
+      "code": "ASSET",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "dl.mcd"
+        }
+      ]
+    },
+    {
+      "module": "Workbench",
+      "code": "Workbench",
+      "active": true,
+      "order": 13,
+      "tenants": [
+        {
+          "code": "dl.mcd"
+        }
+      ]
+    }
+  ]
+}

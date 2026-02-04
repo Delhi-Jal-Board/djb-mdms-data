@@ -1,0 +1,8 @@
+{
+    "tenantId": "dl",
+    "moduleName": "tenant",
+    "reassessmentconfig":[ {
+        "tenant": ["dl.mcd"],
+        "financialyear": "2021-22"
+    }]
+}

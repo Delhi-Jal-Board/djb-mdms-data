@@ -1,0 +1,14 @@
+{
+    "tenantId": "dl",
+    "moduleName": "BPA",
+    "Toilet": [
+        {
+            "id": 1,
+            "occupancy": "residential",
+            "minToiletArea": 1.8,
+            "minToiletWidth": 1.2,
+            "minToiletVentilation": 0.3,
+            "active": true
+        }
+    ]
+}

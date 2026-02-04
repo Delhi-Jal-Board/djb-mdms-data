@@ -1,0 +1,506 @@
+{
+  "tenantId": "dl",
+  "moduleName": "common-masters",
+  "Department": [
+    {
+      "name": "Municipal Secretary  Office",
+      "code": "001",
+      "active": true
+    },
+    {
+      "name": "Corporation , Standing Committee& other committees",
+      "code": "002",
+      "active": true
+    },
+    {
+      "name": "Municipal Chief Auditors Office",
+      "code": "003",
+      "active": true
+    },
+    {
+      "name": "Commissioner's Office",
+      "code": "004",
+      "active": true
+    },
+    {
+      "name": "Corporation & Committees",
+      "code": "005",
+      "active": true
+    },
+    {
+      "name": "Central Establishment Department",
+      "code": "006",
+      "active": true
+    },
+    {
+      "name": "O. M. & Training Department",
+      "code": "007",
+      "active": true
+    },
+    {
+      "name": "Central & Zonal Offices",
+      "code": "008",
+      "active": true
+    },
+    {
+      "name": "Language Department",
+      "code": "009",
+      "active": true
+    },
+    {
+      "name": "Finance & Accounts Department",
+      "code": "010",
+      "active": true
+    },
+    {
+      "name": "Planning & Monitoring",
+      "code": "011",
+      "active": true
+    },
+    {
+      "name": "Labour Welfare Department",
+      "code": "012",
+      "active": true
+    },
+    {
+      "name": "Directorate of Press & Information",
+      "code": "013",
+      "active": true
+    },
+    {
+      "name": "Vigilance Department",
+      "code": "014",
+      "active": true
+    },
+    {
+      "name": "Property Tax",
+      "code": "015",
+      "active": true
+    },
+    {
+      "name": "Advertisement Department",
+      "code": "016",
+      "active": true
+    },
+    {
+      "name": "Care Taker Department",
+      "code": "017",
+      "active": true
+    },
+    {
+      "name": "Uniform Cell",
+      "code": "018",
+      "active": true
+    },
+    {
+      "name": "Central Stationery Office",
+      "code": "019",
+      "active": true
+    },
+    {
+      "name": "Election office",
+      "code": "020",
+      "active": true
+    },
+    {
+      "name": "Law Department",
+      "code": "021",
+      "active": true
+    },
+    {
+      "name": "D.M.C. Appellate Tribunal",
+      "code": "022",
+      "active": true
+    },
+    {
+      "name": "Department of Information Technology",
+      "code": "023",
+      "active": true
+    },
+    {
+      "name": "Municipal Press",
+      "code": "024",
+      "active": true
+    },
+    {
+      "name": "Misc. Administration Expenses",
+      "code": "025",
+      "active": true
+    },
+    {
+      "name": "Final Payments & Advances",
+      "code": "026",
+      "active": true
+    },
+    {
+      "name": "Terminal Tax Department",
+      "code": "027",
+      "active": true
+    },
+    {
+      "name": "Toll Tax Deaprtment",
+      "code": "028",
+      "active": true
+    },
+    {
+      "name": "Hackney Carriage Department",
+      "code": "040",
+      "active": true
+    },
+    {
+      "name": "Licensing — General Trade / General Branch",
+      "code": "041",
+      "active": true
+    },
+    {
+      "name": "Licensing — Factory",
+      "code": "042",
+      "active": true
+    },
+    {
+      "name": "Licencing - Removal of Encroachment",
+      "code": "043",
+      "active": true
+    },
+    {
+      "name": "Community Services Department",
+      "code": "050",
+      "active": true
+    },
+    {
+      "name": "Education Department",
+      "code": "060",
+      "active": true
+    },
+    {
+      "name": "Primary Education",
+      "code": "061",
+      "active": true
+    },
+    {
+      "name": "Medical Inspection of Schools",
+      "code": "062",
+      "active": true
+    },
+    {
+      "name": "Physical Education",
+      "code": "063",
+      "active": true
+    },
+    {
+      "name": "Mid day Meal Scheme",
+      "code": "064",
+      "active": true
+    },
+    {
+      "name": "Science Teaching",
+      "code": "065",
+      "active": true
+    },
+    {
+      "name": "Libraries",
+      "code": "066",
+      "active": true
+    },
+    {
+      "name": "Municipal Health Office / Public Health",
+      "code": "070",
+      "active": true
+    },
+    {
+      "name": "Epidemics, Investigation Bureau & Disinfection",
+      "code": "071",
+      "active": true
+    },
+    {
+      "name": "Destruction - Unwholesome Food",
+      "code": "072",
+      "active": true
+    },
+    {
+      "name": "Vaccination",
+      "code": "073",
+      "active": true
+    },
+    {
+      "name": "Malaria & Insecticides",
+      "code": "074",
+      "active": true
+    },
+    {
+      "name": "Vital Statistics",
+      "code": "075",
+      "active": true
+    },
+    {
+      "name": "Cremation Grounds",
+      "code": "076",
+      "active": true
+    },
+    {
+      "name": "Epidemology Unit",
+      "code": "077",
+      "active": true
+    },
+    {
+      "name": "Medical Relief (General)",
+      "code": "078",
+      "active": true
+    },
+    {
+      "name": "Medical Relief - (Polyclinics, Colony Hospital)",
+      "code": "079",
+      "active": true
+    },
+    {
+      "name": "TB Control Programme (incl. Clinics)",
+      "code": "080",
+      "active": true
+    },
+    {
+      "name": "Maternity & Child Welfare Centres",
+      "code": "081",
+      "active": true
+    },
+    {
+      "name": "Dispensaries - Allopathic",
+      "code": "082",
+      "active": true
+    },
+    {
+      "name": "Security staff - Health",
+      "code": "083",
+      "active": true
+    },
+    {
+      "name": "Medical Relief - Hindu Rao Hospital",
+      "code": "084",
+      "active": true
+    },
+    {
+      "name": "Medical Relief - Rajan Babu Institute of Pulmonary Medicine & Tuberculosis (RBIPMT) Hospital ",
+      "code": "085",
+      "active": true
+    },
+    {
+      "name": "Medical Relief - Kasturba Hospital",
+      "code": "086",
+      "active": true
+    },
+    {
+      "name": "Medical Relief - Girdhari Lal Maternity (GLM) Hospital",
+      "code": "087",
+      "active": true
+    },
+    {
+      "name": "Medical Relief - Balak Ram Hospital",
+      "code": "088",
+      "active": true
+    },
+    {
+      "name": "Medical Relief - Atal Bihari Vajpayee Medical College",
+      "code": "089",
+      "active": true
+    },
+    {
+      "name": "Medical Relief - Nursing College, Hindu Rao Hospital",
+      "code": "090",
+      "active": true
+    },
+    {
+      "name": "Medical Relief - Nursing College, Kasturba Hospital",
+      "code": "091",
+      "active": true
+    },
+    {
+      "name": "Medical Relief - Swamy Dayanand Hospital",
+      "code": "092",
+      "active": true
+    },
+    {
+      "name": "Leprosy Home - Tahirpur (incl. Clinics)",
+      "code": "093",
+      "active": true
+    },
+    {
+      "name": "Medical Relief -MVID Hospital",
+      "code": "147",
+      "active": true
+    },
+    {
+      "name": "Director, Ayush",
+      "code": "094",
+      "active": true
+    },
+    {
+      "name": "Dispensaries - Ayurvedic",
+      "code": "095",
+      "active": true
+    },
+    {
+      "name": "Dispensaries - Homeopethic",
+      "code": "096",
+      "active": true
+    },
+    {
+      "name": "Dispensaries - Unani",
+      "code": "097",
+      "active": true
+    },
+    {
+      "name": "Ayurvedic Hospital, Ballimaran",
+      "code": "098",
+      "active": true
+    },
+    {
+      "name": "Ayurvedic Hospital, Haiderpur",
+      "code": "099",
+      "active": true
+    },
+    {
+      "name": "Madhavrao Sadashivrao Golvalkar (Guruji) Panchkarma Hospital",
+      "code": "145",
+      "active": true
+    },
+    {
+      "name": "Medical Relief - Mata Gujari Hospital, Tilak Nagar",
+      "code": "146",
+      "active": true
+    },
+    {
+      "name": "Environment Managment System (EMS)",
+      "code": "100",
+      "active": true
+    },
+    {
+      "name": "Compost Plant",
+      "code": "101",
+      "active": true
+    },
+    {
+      "name": "Refuse Removal",
+      "code": "102",
+      "active": true
+    },
+    {
+      "name": "Scavenging, Drain & Sewers",
+      "code": "103",
+      "active": true
+    },
+    {
+      "name": "Motor Workshop (including general workshop)",
+      "code": "104",
+      "active": true
+    },
+    {
+      "name": "Engineering - Civil",
+      "code": "110",
+      "active": true
+    },
+    {
+      "name": "Engineering - Electric",
+      "code": "111",
+      "active": true
+    },
+    {
+      "name": "Hot Mix Plant",
+      "code": "112",
+      "active": true
+    },
+    {
+      "name": "Mpl. Engineer's Office",
+      "code": "113",
+      "active": true
+    },
+    {
+      "name": "Architect Department",
+      "code": "114",
+      "active": true
+    },
+    {
+      "name": "Buildings Department",
+      "code": "115",
+      "active": true
+    },
+    {
+      "name": "Town Planning Department",
+      "code": "116",
+      "active": true
+    },
+    {
+      "name": "Veterinary Services Dept.(General)",
+      "code": "120",
+      "active": true
+    },
+    {
+      "name": "Control - Stray Dogs",
+      "code": "121",
+      "active": true
+    },
+    {
+      "name": "Control - Stray Monkeys",
+      "code": "122",
+      "active": true
+    },
+    {
+      "name": "Control - Stray Cattle",
+      "code": "123",
+      "active": true
+    },
+    {
+      "name": "Slaughter Houses",
+      "code": "124",
+      "active": true
+    },
+    {
+      "name": "Land & Estate Department",
+      "code": "140",
+      "active": true
+    },
+    {
+      "name": "Remunerative Project Cell",
+      "code": "141",
+      "active": true
+    },
+    {
+      "name": "Exclusive Development Expenses",
+      "code": "142",
+      "active": true
+    },
+    {
+      "name": "Discretionary funds",
+      "code": "150",
+      "active": true
+    },
+    {
+      "name": "Misc. Improvements- Rural Areas/Villages",
+      "code": "151",
+      "active": true
+    },
+    {
+      "name": "Deposit Works",
+      "code": "152",
+      "active": true
+    },
+    {
+      "name": "Heritage Cell",
+      "code": "153",
+      "active": true
+    },
+    {
+      "name": "Loan repayments",
+      "code": "160",
+      "active": true
+    },
+    {
+      "name": "Horticulture Department",
+      "code": "130",
+      "active": true
+    },
+    {
+      "name": "Hospital Administration",
+      "code": "161",
+      "active": true
+    }
+  ]
+}

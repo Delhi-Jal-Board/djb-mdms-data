@@ -1,0 +1,96 @@
+{
+  "tenantId": "dl.mcd",
+  "moduleName": "FinanceModule",
+  "OwnershipTypeMapping": [
+    {
+      "id": "1",
+      "code": "50001",
+      "name": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "id": "2",
+      "code": "50002",
+      "name": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "id": "3",
+      "code": "50003",
+      "name": "CENTRAL_GOVT",
+      "active": true
+    },
+    {
+      "id": "4",
+      "code": "50004",
+      "name": "STATE_GOVT",
+      "active": true
+    },
+    {
+      "id": "6",
+      "code": "50006",
+      "name": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "id": "7",
+      "code": "50007",
+      "name": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "id": "8",
+      "code": "50008",
+      "name": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "id": "9",
+      "code": "50009",
+      "name": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "id": "10",
+      "code": "50010",
+      "name": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "id": "11",
+      "code": "50011",
+      "name": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "id": "12",
+      "code": "50012",
+      "name": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "id": "13",
+      "code": "50013",
+      "name": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "id": "14",
+      "code": "50014",
+      "name": "STATE_GOVT",
+      "active": true
+    },
+    {
+      "id": "15",
+      "code": "SINGLE OWNER",
+      "name": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "id": "16",
+      "code": "INDIVIDUAL",
+      "name": "RESIDENTIAL",
+      "active": true
+    }
+  ]
+}

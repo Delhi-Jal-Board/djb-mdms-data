@@ -1,0 +1,87 @@
+{
+  "tenantId": "dl",
+  "moduleName": "tenant",
+  "tenants": [
+    {
+      "code": "dl.mcd",
+      "name": "Delhi",
+      "description": null,
+      "pincode": [
+        110002, 110003, 110013, 110014, 110019, 110020, 110023, 110024, 110025, 110031, 110044, 110049, 110062, 110065, 110076, 110080,
+        110002, 110006, 110007, 110052, 110054, 110055,
+        110005, 110008, 110012, 110015, 110025, 110026, 110027, 110028, 110060,
+        110007, 110009, 110025, 110026, 110034, 110035, 110039, 110052, 110056, 110063, 110087, 110088,
+        110087, 110088, 110034, 110035, 110056, 110052, 110026, 110007, 110009, 110025, 110039,
+        110037, 110041, 110043, 110045, 110059, 110061, 110062, 110070, 110073, 110075, 110077, 110078,
+        110024, 110036, 110039, 110040, 110041, 110081, 110082, 110085, 110086,
+        110024, 110032, 110039, 110053, 110065, 110084, 110092, 110093, 110094, 110095,
+        110085, 110086, 110041, 110081, 110087, 110083, 110034, 110032, 110042, 110089,
+        110031, 110032, 110051, 110053, 110024, 110062, 110080, 110019, 110049, 110017, 110048, 110065, 110030,
+        110016, 110017, 110021, 110024, 110026, 110027, 110018, 110064, 110046, 110058, 110043, 110059, 110041,
+        110018, 110021, 110024, 110026, 110027, 110041, 110043, 110045, 110046, 110058, 110059, 110063, 110064, 110087
+      ],
+      "logoId": "https://mcd-asset.s3.ap-south-1.amazonaws.com/Logo.png",
+      "imageId": null,
+      "domainUrl": "https://mcdupyog.sparrowsoftech.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mcd@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Delhi",
+        "localName": null,
+        "districtCode": "DELHI",
+        "districtName": null,
+        "districtTenantCode": "dl.mcd",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 74.8722642,
+        "latitude": 31.6339793,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "MCD",
+        "ddrName": "DDR B"
+      },
+      "address": "Delhi",
+      "contactNumber": "0978-7645345",
+      "helpLineNumber": "0654-8734567"
+    },
+    {
+      "code": "dl",
+      "name": "State",
+      "description": "State",
+      "logoId": "https://mcd-asset.s3.ap-south-1.amazonaws.com/Logo.png",
+      "imageId": null,
+      "domainUrl": "https://mcdupyog.sparrowsoftech.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "dl.state@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "State",
+        "localName": "Delhi State",
+        "districtCode": "0",
+        "districtName": "State",
+        "districtTenantCode": "dl",
+        "regionName": "State",
+        "ulbGrade": "ST",
+        "longitude": 75.3412,
+        "latitude": 31.1471,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "0",
+        "ddrName": null
+      },
+      "address": "State Municipal Corporation",
+      "contactNumber": "0978-7645345"
+    }
+  ]
+}

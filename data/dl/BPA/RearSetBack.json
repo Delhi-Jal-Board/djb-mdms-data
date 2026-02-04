@@ -1,0 +1,15 @@
+{
+    "tenantId": "dl",
+    "moduleName": "BPA",
+    "RearSetBack": [
+        {
+            "id": 1,
+            "fromPlotArea": 200,
+            "toPlotArea": 999999,
+            "occupancy": "residential",
+            "riskType": "low",
+            "permissible": 3.0,
+            "active": true
+        }
+    ]
+}

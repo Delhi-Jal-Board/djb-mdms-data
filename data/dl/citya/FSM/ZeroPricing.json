@@ -1,0 +1,9 @@
+{
+    "tenantId": "dl.citya",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": false
+        }
+    ]
+}

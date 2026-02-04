@@ -1,0 +1,16 @@
+{
+    "tenantId": "dl",
+    "moduleName": "StreetVending",
+    "VendingZones": [
+      {
+        "name": "Test Value 1",
+        "code": "TEST_VALUE_ONE",
+        "active": true
+      },
+      {
+        "name": "Test Value 2",
+        "code": "TEST_VALUE_TWO",
+        "active": true
+      }
+    ]
+  }

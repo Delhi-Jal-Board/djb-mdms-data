@@ -1,0 +1,12 @@
+{
+    "tenantId": "dl",
+    "moduleName": "BPA",
+    "RequiredWidth": [
+        {
+            "id": 1,
+            "occupancy": "residential",
+            "permissible": 0.76,
+            "active": true
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "tenantId": "dl",
+    "moduleName": "BPA",
+    "Far": [
+                {
+                    "id": 1,
+                    "fromPlotArea": 0,
+                    "toPlotArea": 100,
+                    "occupancy": "residential",
+                    "riskType": "low",
+                    "permissible": 2.0,
+                    "active": true
+                },
+                {
+                    "id": 2,
+                    "fromPlotArea": 100,
+                    "toPlotArea": 150,
+                    "occupancy": "residential",
+                    "riskType": "low",
+                    "permissible": 1.90,
+                    "active": true
+                },
+                {
+                    "id": 3,
+                    "fromPlotArea": 150,
+                    "toPlotArea": 200,
+                    "occupancy": "residential",
+                    "riskType": "low",
+                    "permissible": 1.75,
+                    "active": true
+                },
+                {
+                    "id": 4,
+                    "fromPlotArea": 200,
+                    "toPlotArea": 300,
+                    "occupancy": "residential",
+                    "riskType": "low",
+                    "permissible": 1.65,
+                    "active": true
+                },
+                {
+                    "id": 5,
+                    "fromPlotArea": 300,
+                    "toPlotArea": 1000,
+                    "occupancy": "residential",
+                    "riskType": "low",
+                    "permissible": 1.50,
+                    "active": true
+                },
+                {
+                    "id": 6,
+                    "fromPlotArea": 1000,
+                    "toPlotArea": 999999,
+                    "occupancy": "residential",
+                    "riskType": "low",
+                    "permissible": 1.25,
+                    "active": true
+                }
+            ]
+    }
