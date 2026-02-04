@@ -1,8 +1,0 @@
-{
-    "tenantId": "dl",
-    "moduleName": "tenant",
-    "reassessmentconfig":[ {
-        "tenant": ["dl.cityb"],
-        "financialyear": "2021-22"
-    }]
-}

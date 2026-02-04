@@ -1,9 +1,0 @@
-{
-    "tenantId": "dl",
-    "moduleName": "TradeLicense",
-    "TradeRenewal": [
-        {
-            "renewalPeriod": 7889400000
-        }
-    ]
-}
