@@ -19810,6 +19810,17 @@
       "serviceCode": "request-service",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2937,
+      "name": "Approve Water Tanker application",
+      "url": "/request-service/water-tanker/v1/_update",
+      "displayName": "Approve Water Tanker application",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "request-service",
+      "code": "null",
+      "path": ""
     }
   ]
 }
