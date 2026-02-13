@@ -296,6 +296,16 @@
       "code": "SW_CLERK",
       "name": "SW Clerk",
       "description": "SW Clerk can activate the connection application"
-    }
+    },
+    {
+      "code": "WT_VENDOR",
+      "name": "Water Tanker Vendor",
+      "description": "Water Tanker Vendor From Citizen Login"
+    },
+    {
+      "code": "WT_DRIVER",
+      "name": "Water Tanker Driver role",
+      "description": "Water Tanker Driver"
+    },
   ]
 }
