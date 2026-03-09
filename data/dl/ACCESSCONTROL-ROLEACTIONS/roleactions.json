@@ -28893,6 +28893,12 @@
       "tenantId": "dl"
     },
     {
+      "rolecode": "WT_VENDOR",
+      "actionid": 2064,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
       "rolecode": "MDMS_ADMIN",
       "actionid": 2782,
       "actioncode": "",
