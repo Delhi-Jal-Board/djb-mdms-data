@@ -31495,6 +31495,115 @@
       "actionid": 2946,
       "actioncode": "",
       "tenantId": "dl"
+    }, 
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2947,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+   {
+      "rolecode": "VENDOR_CREATOR",
+      "actionid": 2947,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 2947,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "VENDOR",
+      "actionid": 2947,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_VENDOR",
+      "actionid": 2947,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2947,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2948,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+   {
+      "rolecode": "VENDOR_CREATOR",
+      "actionid": 2948,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 2948,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "VENDOR",
+      "actionid": 2948,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_VENDOR",
+      "actionid": 2948,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2948,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2949,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+   {
+      "rolecode": "VENDOR_CREATOR",
+      "actionid": 2949,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 2949,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "VENDOR",
+      "actionid": 2949,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_VENDOR",
+      "actionid": 2949,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2949,
+      "actioncode": "",
+      "tenantId": "dl"
     }
   ]
 }
