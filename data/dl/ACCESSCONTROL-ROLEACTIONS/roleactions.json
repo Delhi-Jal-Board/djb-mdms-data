@@ -31640,6 +31640,18 @@
       "actionid": 2411,
       "actioncode": "",
       "tenantId": "dl"
+    },
+    {
+      "rolecode": "COMMON_VENDOR",
+      "actionid": 2414,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "COMMON_VENDOR",
+      "actionid": 2064,
+      "actioncode": "",
+      "tenantId": "dl"
     }
   ]
 }
