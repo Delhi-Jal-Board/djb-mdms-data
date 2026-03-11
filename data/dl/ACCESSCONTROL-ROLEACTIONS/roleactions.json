@@ -31652,6 +31652,60 @@
       "actionid": 2064,
       "actioncode": "",
       "tenantId": "dl"
-    }
+    },
+    {
+       "rolecode": "CITIZEN",
+        "actionid": 2064,
+         "actioncode": "",
+         "tenantId" : "dl"
+    },
+     {
+       "rolecode":"EMPLOYEE",
+        "actionid": 2064,
+         "actioncode": "",
+         "tenantId" : "dl"
+    },
+    {
+       "rolecode":"VENDOR_CREATOR",
+        "actionid": 2064,
+         "actioncode": "",
+         "tenantId" : "dl"
+    },
+    {
+       "rolecode":"SUPERUSER",
+        "actionid": 2064,
+         "actioncode": "",
+         "tenantId" : "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2413,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "COMMON_VENDOR",
+      "actionid": 2413,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+     {
+      "rolecode": "VENDOR_CREATOR",
+      "actionid": 2413,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+     {
+      "rolecode": "SUPERUSER",
+      "actionid": 2413,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2413,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
   ]
 }
