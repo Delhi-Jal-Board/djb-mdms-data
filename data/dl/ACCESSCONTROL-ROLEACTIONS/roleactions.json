@@ -1072,6 +1072,12 @@
     },
     {
       "rolecode": "CITIZEN",
+      "actionid": 604,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
       "actionid": 287,
       "actioncode": "",
       "tenantId": "dl"
@@ -31418,7 +31424,7 @@
       "actioncode": "",
       "tenantId": "dl"
     },
-     {
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 2938,
       "actioncode": "",
@@ -31513,14 +31519,14 @@
       "actionid": 2946,
       "actioncode": "",
       "tenantId": "dl"
-    }, 
+    },
     {
       "rolecode": "SUPERUSER",
       "actionid": 2947,
       "actioncode": "",
       "tenantId": "dl"
     },
-   {
+    {
       "rolecode": "VENDOR_CREATOR",
       "actionid": 2947,
       "actioncode": "",
@@ -31556,7 +31562,7 @@
       "actioncode": "",
       "tenantId": "dl"
     },
-   {
+    {
       "rolecode": "VENDOR_CREATOR",
       "actionid": 2948,
       "actioncode": "",
@@ -31586,14 +31592,13 @@
       "actioncode": "",
       "tenantId": "dl"
     },
-    
     {
       "rolecode": "SUPERUSER",
       "actionid": 2949,
       "actioncode": "",
       "tenantId": "dl"
     },
-   {
+    {
       "rolecode": "VENDOR_CREATOR",
       "actionid": 2949,
       "actioncode": "",
@@ -31654,28 +31659,28 @@
       "tenantId": "dl"
     },
     {
-       "rolecode": "CITIZEN",
-        "actionid": 2064,
-         "actioncode": "",
-         "tenantId" : "dl"
-    },
-     {
-       "rolecode":"EMPLOYEE",
-        "actionid": 2064,
-         "actioncode": "",
-         "tenantId" : "dl"
+      "rolecode": "CITIZEN",
+      "actionid": 2064,
+      "actioncode": "",
+      "tenantId": "dl"
     },
     {
-       "rolecode":"VENDOR_CREATOR",
-        "actionid": 2064,
-         "actioncode": "",
-         "tenantId" : "dl"
+      "rolecode": "EMPLOYEE",
+      "actionid": 2064,
+      "actioncode": "",
+      "tenantId": "dl"
     },
     {
-       "rolecode":"SUPERUSER",
-        "actionid": 2064,
-         "actioncode": "",
-         "tenantId" : "dl"
+      "rolecode": "VENDOR_CREATOR",
+      "actionid": 2064,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2064,
+      "actioncode": "",
+      "tenantId": "dl"
     },
     {
       "rolecode": "CITIZEN",
@@ -31689,19 +31694,19 @@
       "actioncode": "",
       "tenantId": "dl"
     },
-     {
+    {
       "rolecode": "VENDOR_CREATOR",
       "actionid": 2413,
       "actioncode": "",
       "tenantId": "dl"
     },
-     {
+    {
       "rolecode": "SUPERUSER",
       "actionid": 2413,
       "actioncode": "",
       "tenantId": "dl"
     },
-     {
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 2413,
       "actioncode": "",
