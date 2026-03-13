@@ -1,0 +1,16 @@
+{
+    "tenantId": "dl",
+    "moduleName": "WT",
+    "RejectionReason": [
+        {
+            "name": "Not able to contact applicant",
+            "code": "CANNOT_CONTACT_APPLICANT",
+            "active": true
+        },
+        {
+            "name": "Others",
+            "code": "OTHERS",
+            "active": true
+        }
+    ]
+}
