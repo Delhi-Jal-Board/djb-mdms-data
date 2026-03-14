@@ -31329,6 +31329,12 @@
       "tenantId": "dl"
     },
     {
+      "rolecode": "WT_CEMP",
+      "actionid": 2936,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
       "rolecode": "SUPERUSER",
       "actionid": 2904,
       "actioncode": "",
