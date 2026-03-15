@@ -19955,6 +19955,39 @@
       "enabled": true,
       "serviceCode": "vendor-management",
       "path": ""
-    }
+    },
+    {
+      "id": 2950,
+      "name": "Update driver status",
+      "url": "/request-service/water-tanker/v1/_updatestatus",
+      "displayName": "update status",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "request-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2951,
+      "name": "Update driver status",
+      "url": "/request-service/water-tanker/v1/_driverSearch",
+      "displayName": "search driver by id",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "request-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2952,
+      "name": "driver assignments",
+      "url": "/request-service/water-tanker/v1/_driver_assignments",
+      "displayName": "search driver assignments",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "request-service",
+      "code": "null",
+      "path": ""
+    }  
   ]
 }
