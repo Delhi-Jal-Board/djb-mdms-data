@@ -121,13 +121,19 @@
         {
           "label": "rainmaker-wt",
           "value": "rainmaker-wt"
-        },{
+        },
+        {
           "label" : "rainmaker-ekyc",
           "value" : "rainmaker-ekyc"
-        },{
+        },
+        {
           "label" : "rainmaker-engagement",
           "value" : "rainmaker-engagement"
-          }
+        },
+        {
+          "label" : "rainmaker-vendor",
+          "value" : "rainmaker-vendor"
+        }    
       ]
     }
   ]
