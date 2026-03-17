@@ -31819,6 +31819,12 @@
       "actionid": 2953,
       "actioncode": "",
       "tenantId": "dl"
-    }  
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2954,
+      "actioncode": "",
+      "tenantId": "dl"
+    }   
   ]
 }
