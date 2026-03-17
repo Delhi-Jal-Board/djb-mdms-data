@@ -19999,6 +19999,17 @@
       "serviceCode": "request-service",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2954,
+      "name": "Create Address",
+      "url": "user/_createAddress",
+      "displayName": "Create Address for user",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": "Administration.Create Address"
     }
   ]
 }
