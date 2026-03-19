@@ -31825,6 +31825,12 @@
       "actionid": 2954,
       "actioncode": "",
       "tenantId": "dl"
-    }   
+    },  
+    {
+      "rolecode": "WT_DRIVER",
+      "actionid": 2952,
+      "actioncode": "",
+      "tenantId": "dl"
+    }
   ]
 }
