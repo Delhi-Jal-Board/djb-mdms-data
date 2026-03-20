@@ -20010,6 +20010,28 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": "Administration.Create Address"
+    },
+    {
+      "id": 2955,
+      "name": "fixed-point search",
+      "url": "/request-service/water-tanker/fixed-point/v1/_search",
+      "displayName": "fixed point delivery",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "request-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2956,
+      "name": "fixed-point search",
+      "url": "/request-service/water-tanker/fixed-point/v1/_create",
+      "displayName": "Create fixed point delivery",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "request-service",
+      "code": "null",
+      "path": ""
     }
   ]
 }
