@@ -6577,6 +6577,1593 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "AC-02",
+            "boundaryNum": 1,
+            "name": "Burari",
+            "localname": "Burari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Assembly Constituency",
+            "code": "AC02",
+            "children": [
+              {
+                "id": "f36495e6-d7db-47aa-9325-1dd329abf939",
+                "boundaryNum": 6,
+                "name": "BURARI",
+                "localname": "BURARI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Zone",
+                "code": "WARD006",
+                "children": [
+                  {
+                    "id": "c4e056b5-9367-4668-b977-4f52b0847f86",
+                    "boundaryNum": 5,
+                    "name": "BAKHTAWARPUR",
+                    "localname": "BAKHTAWARPUR",
+                    "longitude": 77.14,
+                    "latitude": 28.7275,
+                    "label": "Block",
+                    "code": "WARD5",
+                    "children": [
+                      {
+                        "id": "c4c2e753-219b-4ef2-bc7a-0fc41cd3301a",
+                        "boundaryNum": 85,
+                        "name": "AKBAR PUR MAZARA- RURAL VILL.",
+                        "localname": "AKBAR PUR MAZARA- RURAL VILL.",
+                        "longitude": 77.14,
+                        "latitude": 28.7275,
+                        "label": "Locality",
+                        "code": "W005L085",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "f99b967c-2348-4315-95be-247f75ffac5e",
+                        "boundaryNum": 86,
+                        "name": "AKBARPUR MAZRA",
+                        "localname": "AKBARPUR MAZRA",
+                        "longitude": 77.139,
+                        "latitude": 28.728,
+                        "label": "Locality",
+                        "code": "W005L086",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "83fc5f7f-6744-4b1c-8410-7018e4db9308",
+                        "boundaryNum": 87,
+                        "name": "BAKAULI",
+                        "localname": "BAKAULI",
+                        "longitude": 77.141,
+                        "latitude": 28.729,
+                        "label": "Locality",
+                        "code": "W005L087",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "c891ea24-6928-4a19-bea9-38ee5e7c60c7",
+                        "boundaryNum": 88,
+                        "name": "BAKHTAWARPUR EXTN",
+                        "localname": "BAKHTAWARPUR EXTN",
+                        "longitude": 77.138,
+                        "latitude": 28.726,
+                        "label": "Locality",
+                        "code": "W005L088",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "9c5358df-8b81-4908-9aaf-bac2a00b0db9",
+                        "boundaryNum": 89,
+                        "name": "BAKHTAWARPUR EXTN.",
+                        "localname": "BAKHTAWARPUR EXTN.",
+                        "longitude": 77.138,
+                        "latitude": 28.726,
+                        "label": "Locality",
+                        "code": "W005L089",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "3ee29453-801c-4736-a7ab-12e44c73dc96",
+                        "boundaryNum": 90,
+                        "name": "BAKHTAWAR PUR- RURAL VILL.",
+                        "localname": "BAKHTAWAR PUR- RURAL VILL.",
+                        "longitude": 77.1375,
+                        "latitude": 28.727,
+                        "label": "Locality",
+                        "code": "W005L090",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "7cd19a09-b6f0-48ab-bac5-64c6c567857a",
+                        "boundaryNum": 91,
+                        "name": "BAKHTWARPUR",
+                        "localname": "BAKHTWARPUR",
+                        "longitude": 77.138,
+                        "latitude": 28.727,
+                        "label": "Locality",
+                        "code": "W005L091",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "2748840a-f919-408e-a8e9-ea7b4b550594",
+                        "boundaryNum": 92,
+                        "name": "BAKOLI EXTN.",
+                        "localname": "BAKOLI EXTN.",
+                        "longitude": 77.1405,
+                        "latitude": 28.7285,
+                        "label": "Locality",
+                        "code": "W005L092",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "13baefc1-fa0d-47ed-a8c3-f9c537b003c4",
+                        "boundaryNum": 93,
+                        "name": "FATEHPUR JAT",
+                        "localname": "FATEHPUR JAT",
+                        "longitude": 77.142,
+                        "latitude": 28.73,
+                        "label": "Locality",
+                        "code": "W005L093",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "3a54506e-9682-4730-881b-11ddf71b28a6",
+                        "boundaryNum": 94,
+                        "name": "GOVIND COLONY NEAR JHANGOLA NO.2 ALIPUR DELHI-36 (REG. NO. 957)",
+                        "localname": "GOVIND COLONY NEAR JHANGOLA NO.2 ALIPUR DELHI-36 (REG. NO. 957)",
+                        "longitude": 77.143,
+                        "latitude": 28.732,
+                        "label": "Locality",
+                        "code": "W005L094",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "6b8d4b8f-51ed-4db6-ba4e-f65d7f81ffdf",
+                        "boundaryNum": 95,
+                        "name": "HAMIDPUR",
+                        "localname": "HAMIDPUR",
+                        "longitude": 77.144,
+                        "latitude": 28.731,
+                        "label": "Locality",
+                        "code": "W005L095",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "f346c4cc-04a7-436c-8e96-a26072cfc4d2",
+                        "boundaryNum": 96,
+                        "name": "HAMIDPUR EXTN.",
+                        "localname": "HAMIDPUR EXTN.",
+                        "longitude": 77.1445,
+                        "latitude": 28.7315,
+                        "label": "Locality",
+                        "code": "W005L096",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "54b29001-f064-4054-9cda-4249e16b09de",
+                        "boundaryNum": 97,
+                        "name": "HIRANKI",
+                        "localname": "HIRANKI",
+                        "longitude": 77.145,
+                        "latitude": 28.733,
+                        "label": "Locality",
+                        "code": "W005L097",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "9704f314-fa53-4019-839a-ad89256ee98e",
+                        "boundaryNum": 98,
+                        "name": "HIRANKI- RURAL VILL",
+                        "localname": "HIRANKI- RURAL VILL",
+                        "longitude": 77.1445,
+                        "latitude": 28.7325,
+                        "label": "Locality",
+                        "code": "W005L098",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "c420cae7-6680-446f-8bae-e6a908328b03",
+                        "boundaryNum": 99,
+                        "name": "JHANGOLA",
+                        "localname": "JHANGOLA",
+                        "longitude": 77.146,
+                        "latitude": 28.734,
+                        "label": "Locality",
+                        "code": "W005L099",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "8655b8e5-3eb3-491e-a1bf-529b6edd3d07",
+                        "boundaryNum": 100,
+                        "name": "KASHMIRI COLONY",
+                        "localname": "KASHMIRI COLONY",
+                        "longitude": 77.147,
+                        "latitude": 28.735,
+                        "label": "Locality",
+                        "code": "W005L100",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "b1c7aa43-660f-4d7b-8d85-df64077a9dbe",
+                        "boundaryNum": 101,
+                        "name": "KHAMPUR",
+                        "localname": "KHAMPUR",
+                        "longitude": 77.148,
+                        "latitude": 28.736,
+                        "label": "Locality",
+                        "code": "W005L101",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "6867e920-1405-4ccd-b156-35c68849e24d",
+                        "boundaryNum": 102,
+                        "name": "KHAMPUR- RURAL VILL.",
+                        "localname": "KHAMPUR- RURAL VILL.",
+                        "longitude": 77.1485,
+                        "latitude": 28.7365,
+                        "label": "Locality",
+                        "code": "W005L102",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "ff498f17-53d8-40c4-82db-a7d10dfba99a",
+                        "boundaryNum": 103,
+                        "name": "KRISHNA ESTATE",
+                        "localname": "KRISHNA ESTATE",
+                        "longitude": 77.149,
+                        "latitude": 28.737,
+                        "label": "Locality",
+                        "code": "W005L103",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "044bd4ec-4326-4e6a-9852-d3fec234e270",
+                        "boundaryNum": 104,
+                        "name": "KRISHNA NAGAR(SINGHU)",
+                        "localname": "KRISHNA NAGAR(SINGHU)",
+                        "longitude": 77.1495,
+                        "latitude": 28.7375,
+                        "label": "Locality",
+                        "code": "W005L104",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "576fdf94-ac32-4bbe-b229-b5e598857c0d",
+                        "boundaryNum": 105,
+                        "name": "KRISHNA VIHAR",
+                        "localname": "KRISHNA VIHAR",
+                        "longitude": 77.15,
+                        "latitude": 28.738,
+                        "label": "Locality",
+                        "code": "W005L105",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "773e167b-3891-46b6-b1c8-05cd9f496a48",
+                        "boundaryNum": 106,
+                        "name": "KUSHAK",
+                        "localname": "KUSHAK",
+                        "longitude": 77.1505,
+                        "latitude": 28.7385,
+                        "label": "Locality",
+                        "code": "W005L106",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "4dd30779-a486-4b0b-b235-ce79e22ed347",
+                        "boundaryNum": 107,
+                        "name": "KUSHAK NO.1, EXTN., DELHI-36 (REG. NO. 729)",
+                        "localname": "KUSHAK NO.1, EXTN., DELHI-36 (REG. NO. 729)",
+                        "longitude": 77.155,
+                        "latitude": 28.753,
+                        "label": "Locality",
+                        "code": "W005L107",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "49ce1d7e-c9c9-4049-9b92-9e4e468276d5",
+                        "boundaryNum": 108,
+                        "name": "KUSHAK NO.2, EXTN., DELHI-36 (REG. NO. 728)",
+                        "localname": "KUSHAK NO.2, EXTN., DELHI-36 (REG. NO. 728)",
+                        "longitude": 77.156,
+                        "latitude": 28.754,
+                        "label": "Locality",
+                        "code": "W005L108",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "020ed74f-3e98-44dd-bcc2-9bccb2ef859a",
+                        "boundaryNum": 109,
+                        "name": "LAL DORA OF VILLAGE SINGHU DELHI 40 (REG. NO. 133-ELD)",
+                        "localname": "LAL DORA OF VILLAGE SINGHU DELHI 40 (REG. NO. 133-ELD)",
+                        "longitude": 77.12,
+                        "latitude": 28.84,
+                        "label": "Locality",
+                        "code": "W005L109",
+                        "pincode": [
+                          110040
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "d54b1417-5b21-4430-b310-5fc25c66b994",
+                        "boundaryNum": 110,
+                        "name": "LAXMAN COLONY VILLAGE JINDPUR, ALIPUR DELHI 36 (REG. NO. 70-ELD)",
+                        "localname": "LAXMAN COLONY VILLAGE JINDPUR, ALIPUR DELHI 36 (REG. NO. 70-ELD)",
+                        "longitude": 77.157,
+                        "latitude": 28.755,
+                        "label": "Locality",
+                        "code": "W005L110",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "caec6b4b-d8aa-416d-b23d-57a46efafb92",
+                        "boundaryNum": 111,
+                        "name": "MOHD.PUR RAMJAN PUR",
+                        "localname": "MOHD.PUR RAMJAN PUR",
+                        "longitude": 77.158,
+                        "latitude": 28.756,
+                        "label": "Locality",
+                        "code": "W005L111",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "e83ea543-9096-47f8-a257-42128f232e79",
+                        "boundaryNum": 112,
+                        "name": "OM VIHAR COLONY (ALIPUR)",
+                        "localname": "OM VIHAR COLONY (ALIPUR)",
+                        "longitude": 77.159,
+                        "latitude": 28.757,
+                        "label": "Locality",
+                        "code": "W005L112",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "0e0a1d8c-9e63-4127-8a67-ff55a8caa776",
+                        "boundaryNum": 113,
+                        "name": "PALLA",
+                        "localname": "PALLA",
+                        "longitude": 77.16,
+                        "latitude": 28.758,
+                        "label": "Locality",
+                        "code": "W005L113",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "375b7005-e334-4117-a1f3-d5aa76358cdb",
+                        "boundaryNum": 114,
+                        "name": "PALLA -RURAL VILL.",
+                        "localname": "PALLA -RURAL VILL.",
+                        "longitude": 77.161,
+                        "latitude": 28.759,
+                        "label": "Locality",
+                        "code": "W005L114",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "e074a441-e0d3-4548-913c-9cd001cc5d51",
+                        "boundaryNum": 115,
+                        "name": "PAVAN DHAM BAKHTAWARPUR",
+                        "localname": "PAVAN DHAM BAKHTAWARPUR",
+                        "longitude": 77.162,
+                        "latitude": 28.76,
+                        "label": "Locality",
+                        "code": "W005L115",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "d098c36f-e6dc-41cf-ae09-e2f4befe2ee4",
+                        "boundaryNum": 116,
+                        "name": "QULLAKPUR",
+                        "localname": "QULLAKPUR",
+                        "longitude": 77.163,
+                        "latitude": 28.761,
+                        "label": "Locality",
+                        "code": "W005L116",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "64c2c3e5-b5f1-4cd8-916b-b25adc347b41",
+                        "boundaryNum": 117,
+                        "name": "QULLAK PUR - RURAL VILL",
+                        "localname": "QULLAK PUR - RURAL VILL",
+                        "longitude": 77.164,
+                        "latitude": 28.762,
+                        "label": "Locality",
+                        "code": "W005L117",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "3db1bfaf-3cc4-4607-a416-aa9bf4aea34b",
+                        "boundaryNum": 118,
+                        "name": "SANGARPUR",
+                        "localname": "SANGARPUR",
+                        "longitude": 77.165,
+                        "latitude": 28.763,
+                        "label": "Locality",
+                        "code": "W005L118",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "30bc0d14-22fb-4efc-8010-c87714b2f67e",
+                        "boundaryNum": 119,
+                        "name": "SHIVA ENCLAVE, HIRANKI",
+                        "localname": "SHIVA ENCLAVE, HIRANKI",
+                        "longitude": 77.166,
+                        "latitude": 28.764,
+                        "label": "Locality",
+                        "code": "W005L119",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "e877a89e-49c2-4314-8516-e4232ee6f7af",
+                        "boundaryNum": 120,
+                        "name": "SINGHU",
+                        "localname": "SINGHU",
+                        "longitude": 77.121,
+                        "latitude": 28.841,
+                        "label": "Locality",
+                        "code": "W005L120",
+                        "pincode": [
+                          110040
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "75e589a8-fa32-47e4-adaf-ea286a03b048",
+                        "boundaryNum": 121,
+                        "name": "SINGHU- RURAL VILL.",
+                        "localname": "SINGHU- RURAL VILL.",
+                        "longitude": 77.122,
+                        "latitude": 28.842,
+                        "label": "Locality",
+                        "code": "W005L121",
+                        "pincode": [
+                          110040
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "d88e778d-ec50-411e-987f-a02fc186f4af",
+                        "boundaryNum": 122,
+                        "name": "SUNGHU EXTN.",
+                        "localname": "SUNGHU EXTN.",
+                        "longitude": 77.123,
+                        "latitude": 28.843,
+                        "label": "Locality",
+                        "code": "W005L122",
+                        "pincode": [
+                          110040
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "1dee65d4-123a-48d5-96e5-bd43605efbd7",
+                        "boundaryNum": 123,
+                        "name": "TAJPUR KALA",
+                        "localname": "TAJPUR KALA",
+                        "longitude": 77.167,
+                        "latitude": 28.765,
+                        "label": "Locality",
+                        "code": "W005L123",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "d665835e-3b7a-483a-8adc-f792d5fcfb7d",
+                        "boundaryNum": 124,
+                        "name": "TIGI PUR",
+                        "localname": "TIGI PUR",
+                        "longitude": 77.168,
+                        "latitude": 28.766,
+                        "label": "Locality",
+                        "code": "W005L124",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "a39c9eb7-31e1-4b12-8bba-b215c89a2e94",
+                        "boundaryNum": 125,
+                        "name": "ZINDPUR",
+                        "localname": "ZINDPUR",
+                        "longitude": 77.169,
+                        "latitude": 28.767,
+                        "label": "Locality",
+                        "code": "W005L125",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "4384369c-acb5-40f1-977b-21d713516249",
+                        "boundaryNum": 126,
+                        "name": "ZIND PUR EXTN.DELHI-36 (REG. NO. 1084)",
+                        "localname": "ZIND PUR EXTN.DELHI-36 (REG. NO. 1084)",
+                        "longitude": 77.17,
+                        "latitude": 28.768,
+                        "label": "Locality",
+                        "code": "W005L126",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "25e97c2f-9810-42db-b1b7-160aad2150b6",
+                        "boundaryNum": 127,
+                        "name": "ZINDPUR VILLAGE EXTN.ALIPUR DELHI-36 (REG. NO. 1236)",
+                        "localname": "ZINDPUR VILLAGE EXTN.ALIPUR DELHI-36 (REG. NO. 1236)",
+                        "longitude": 77.171,
+                        "latitude": 28.769,
+                        "label": "Locality",
+                        "code": "W005L127",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "5391d7ad-c92f-4f7b-b368-eb783bb9ccb8",
+                        "boundaryNum": 128,
+                        "name": "ZINDPUR VILLAGE EXTN., ZINDPUR, P.O.ALIPUR, DELHI- (REG. NO. 24-ELD)",
+                        "localname": "ZINDPUR VILLAGE EXTN., ZINDPUR, P.O.ALIPUR, DELHI- (REG. NO. 24-ELD)",
+                        "longitude": 77.172,
+                        "latitude": 28.77,
+                        "label": "Locality",
+                        "code": "W005L128",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "f36495e6-d7db-47aa-9325-1dd329abf939",
+                    "boundaryNum": 6,
+                    "name": "BURARI",
+                    "localname": "BURARI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Block",
+                    "code": "WARD006",
+                    "children": [
+                      {
+                        "id": "8555b807-bcab-4914-b4be-53ca6502609b",
+                        "boundaryNum": 1,
+                        "name": "AZAD PALACE, BURARI",
+                        "localname": "AZAD PALACE, BURARI",
+                        "longitude": 77.215,
+                        "latitude": 28.731,
+                        "label": "Locality",
+                        "code": "W006L001",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "86c556cf-2951-405f-b1db-fc84fc7ee253",
+                        "boundaryNum": 2,
+                        "name": "BABA NAGAR/COLONY, BURARI",
+                        "localname": "BABA NAGAR/COLONY, BURARI",
+                        "longitude": 77.2165,
+                        "latitude": 28.733,
+                        "label": "Locality",
+                        "code": "W006L002",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "afa7104e-7dde-459f-8084-3b8684d779aa",
+                        "boundaryNum": 3,
+                        "name": "BURARI",
+                        "localname": "BURARI",
+                        "longitude": 77.214,
+                        "latitude": 28.729,
+                        "label": "Locality",
+                        "code": "W006L003",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "e56342a1-6962-49bf-9736-36c651c51986",
+                        "boundaryNum": 4,
+                        "name": "BURARI EXTN. COLONY",
+                        "localname": "BURARI EXTN. COLONY",
+                        "longitude": 77.2175,
+                        "latitude": 28.7325,
+                        "label": "Locality",
+                        "code": "W006L004",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "60da19a6-596b-486d-9398-893d86e9a0eb",
+                        "boundaryNum": 5,
+                        "name": "KAUSHIK ENCLAVE, A-BLOCK, BURARI ROAD, DELHI (REG. NO. 287)",
+                        "localname": "KAUSHIK ENCLAVE, A-BLOCK, BURARI ROAD, DELHI (REG. NO. 287)",
+                        "longitude": 77.218,
+                        "latitude": 28.7305,
+                        "label": "Locality",
+                        "code": "W006L005",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "46e697fb-a2fb-4eaa-b778-218f20e17348",
+                        "boundaryNum": 6,
+                        "name": "KAUSHIK ENCLAVE (B) BLOCK, PART-II, BURARI, NATHUPURA ROAD, DELHI-84 (REG. NO. 696)",
+                        "localname": "KAUSHIK ENCLAVE (B) BLOCK, PART-II, BURARI, NATHUPURA ROAD, DELHI-84 (REG. NO. 696)",
+                        "longitude": 77.2195,
+                        "latitude": 28.731,
+                        "label": "Locality",
+                        "code": "W006L006",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "d91a2ed8-0785-45c5-a14f-225f04309f5a",
+                        "boundaryNum": 7,
+                        "name": "KAUSHIK ENCLAVE, NATHU PURA",
+                        "localname": "KAUSHIK ENCLAVE, NATHU PURA",
+                        "longitude": 77.22,
+                        "latitude": 28.728,
+                        "label": "Locality",
+                        "code": "W006L007",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "5b4e06cb-1fe2-48de-8ca6-84de4033aa0f",
+                        "boundaryNum": 8,
+                        "name": "NATHU COLONY",
+                        "localname": "NATHU COLONY",
+                        "longitude": 77.219,
+                        "latitude": 28.7275,
+                        "label": "Locality",
+                        "code": "W006L008",
+                        "pincode": [
+                          110093
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "52769044-2f6b-44df-a5d4-dde574bc8ab2",
+                        "boundaryNum": 9,
+                        "name": "PHOOL BAGH PLACE ( SHASTRI PARK EXTN) NATHUPURA MODE DELHI-36 (REG. NO. 951)",
+                        "localname": "PHOOL BAGH PLACE ( SHASTRI PARK EXTN) NATHUPURA MODE DELHI-36 (REG. NO. 951)",
+                        "longitude": 77.217,
+                        "latitude": 28.726,
+                        "label": "Locality",
+                        "code": "W006L009",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "f2c333b1-f92d-4cb3-ae4d-fb69547dc8b8",
+                        "boundaryNum": 10,
+                        "name": "PRADEEP VIHAR NATHUPURA MODE DELHI-36 (REG. NO. 773)",
+                        "localname": "PRADEEP VIHAR NATHUPURA MODE DELHI-36 (REG. NO. 773)",
+                        "longitude": 77.2165,
+                        "latitude": 28.7255,
+                        "label": "Locality",
+                        "code": "W006L010",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "c83c3f60-5d02-423d-b495-93a9b7bad31a",
+                        "boundaryNum": 11,
+                        "name": "PRADHAN ENCLAVE, C AND D BLOCK, MAZRA BURARI, NEWDELHI-84 (REG. NO. 307)",
+                        "localname": "PRADHAN ENCLAVE, C AND D BLOCK, MAZRA BURARI, NEWDELHI-84 (REG. NO. 307)",
+                        "longitude": 77.2165,
+                        "latitude": 28.7255,
+                        "label": "Locality",
+                        "code": "W006L011",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "013dca01-0f98-48ec-9f7b-26f679e0ed26",
+                        "boundaryNum": 12,
+                        "name": "PRADHAN ENCLAVE, C AND D BLOCK, MAZRA BURARI, NEWDELHI-84 (REG. NO. 307A)",
+                        "localname": "PRADHAN ENCLAVE, C AND D BLOCK, MAZRA BURARI, NEWDELHI-84 (REG. NO. 307A)",
+                        "longitude": 77.2135,
+                        "latitude": 28.73,
+                        "label": "Locality",
+                        "code": "W006L012",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "fd9b8053-2d7f-4732-b3c1-bb47edd987a2",
+                        "boundaryNum": 13,
+                        "name": "PREM NAGAR, NATHUPURA, DELHI-84 (REG. NO. 207)",
+                        "localname": "PREM NAGAR, NATHUPURA, DELHI-84 (REG. NO. 207)",
+                        "longitude": 77.213,
+                        "latitude": 28.7295,
+                        "label": "Locality",
+                        "code": "W006L013",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "6e47eb84-665b-4460-9dff-d3fde2066bdf",
+                        "boundaryNum": 14,
+                        "name": "SALEMPUR MAJRA BURARI",
+                        "localname": "SALEMPUR MAJRA BURARI",
+                        "longitude": 77.214,
+                        "latitude": 28.7265,
+                        "label": "Locality",
+                        "code": "W006L014",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "11b9f4bc-bc59-40aa-9e65-bb07e47b8eda",
+                        "boundaryNum": 15,
+                        "name": "SALEMPUR MAJRA BURARI(HAIDERPUR)",
+                        "localname": "SALEMPUR MAJRA BURARI(HAIDERPUR)",
+                        "longitude": 77.221,
+                        "latitude": 28.7285,
+                        "label": "Locality",
+                        "code": "W006L015",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "82f8f139-5e46-4848-9cdc-8f640664c5b8",
+                        "boundaryNum": 16,
+                        "name": "SANT NAGAR,B-BLOCK BURARI, DELHI-84 (REG. NO. 444)",
+                        "localname": "SANT NAGAR,B-BLOCK BURARI, DELHI-84 (REG. NO. 444)",
+                        "longitude": 77.222,
+                        "latitude": 28.729,
+                        "label": "Locality",
+                        "code": "W006L016",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "4b62f936-720b-41a8-b372-a369fe39af04",
+                        "boundaryNum": 17,
+                        "name": "SAROOP VIHAR (BURARI)",
+                        "localname": "SAROOP VIHAR (BURARI)",
+                        "longitude": 77.2185,
+                        "latitude": 28.7315,
+                        "label": "Locality",
+                        "code": "W006L017",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "8cb7f0f2-862e-4f89-aafd-9a7f315785d1",
+                        "boundaryNum": 18,
+                        "name": "SATYA VIHAR (KAMAL PUR) BURARI DELHI-84 (REG. NO. 845)",
+                        "localname": "SATYA VIHAR (KAMAL PUR) BURARI DELHI-84 (REG. NO. 845)",
+                        "longitude": 77.219,
+                        "latitude": 28.733,
+                        "label": "Locality",
+                        "code": "W006L018",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "3114f68e-c73f-4654-8635-d9592679a4d4",
+                        "boundaryNum": 19,
+                        "name": "SHANKARPURA",
+                        "localname": "SHANKARPURA",
+                        "longitude": 77.2175,
+                        "latitude": 28.734,
+                        "label": "Locality",
+                        "code": "W006L019",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "2cab81cb-c888-4214-b807-1112731f38ca",
+                        "boundaryNum": 20,
+                        "name": "SHASTRI PARK, NATHU PURA",
+                        "localname": "SHASTRI PARK, NATHU PURA",
+                        "longitude": 77.22,
+                        "latitude": 28.735,
+                        "label": "Locality",
+                        "code": "W006L020",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "2057f168-d511-4cc5-8b4d-42a92a4b6fda",
+                        "boundaryNum": 21,
+                        "name": "VIJAY COLONY, SALEMPUR MAZARA, BURARI EXTN., DELHI (REG. NO. 507)",
+                        "localname": "VIJAY COLONY, SALEMPUR MAZARA, BURARI EXTN., DELHI (REG. NO. 507)",
+                        "longitude": 77.216,
+                        "latitude": 28.732,
+                        "label": "Locality",
+                        "code": "W006L021",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "1bd2bc8a-3422-4754-a33a-ee999d8ed393",
+                        "boundaryNum": 22,
+                        "name": "YORAJ COLONY",
+                        "localname": "YORAJ COLONY",
+                        "longitude": 77.2145,
+                        "latitude": 28.731,
+                        "label": "Locality",
+                        "code": "W006L022",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "75793ecb-07ad-40d6-9875-61bd8e1ec7ab",
+                    "boundaryNum": 7,
+                    "name": "KADIPUR",
+                    "localname": "KADIPUR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Block",
+                    "code": "WARD007",
+                    "children": [
+                      {
+                        "id": "08d2e015-c35e-4146-bc5c-d0afe9b1746a",
+                        "boundaryNum": 23,
+                        "name": "AMRIT VIHAR, BURARI (REG. NO. 448)",
+                        "localname": "AMRIT VIHAR, BURARI (REG. NO. 448)",
+                        "longitude": 77.1905,
+                        "latitude": 28.7545,
+                        "label": "Locality",
+                        "code": "W007L023",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "51b40472-50ac-4881-b7a7-c8d791bd4029",
+                        "boundaryNum": 24,
+                        "name": "EXTENDED ABADI OF KADI PUR VILLAGE (REG. NO. 141-ELD)",
+                        "localname": "EXTENDED ABADI OF KADI PUR VILLAGE (REG. NO. 141-ELD)",
+                        "longitude": 77.19,
+                        "latitude": 28.75,
+                        "label": "Locality",
+                        "code": "W007L024",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "fc166d8c-d239-4c45-82cd-1ac8ce57fa1d",
+                        "boundaryNum": 25,
+                        "name": "EXTENDED ABADI OF KUSHAK NO-1, VILLAGE KADIPUR, DELHI-36 (REG. NO. 17-ELD)",
+                        "localname": "EXTENDED ABADI OF KUSHAK NO-1, VILLAGE KADIPUR, DELHI-36 (REG. NO. 17-ELD)",
+                        "longitude": 77.19,
+                        "latitude": 28.75,
+                        "label": "Locality",
+                        "code": "W007L025",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "f2395a24-fc9c-4400-b89e-9588e678c5b9",
+                        "boundaryNum": 26,
+                        "name": "GARHI KHASRU",
+                        "localname": "GARHI KHASRU",
+                        "longitude": 77.19,
+                        "latitude": 28.752,
+                        "label": "Locality",
+                        "code": "W007L026",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "c019dd1f-b331-47b9-a759-ebd01ef56638",
+                        "boundaryNum": 27,
+                        "name": "IBRAHIMPUR",
+                        "localname": "IBRAHIMPUR",
+                        "longitude": 77.192,
+                        "latitude": 28.7535,
+                        "label": "Locality",
+                        "code": "W007L027",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "645695cf-02aa-4d58-afd6-7aa2df02ff92",
+                        "boundaryNum": 28,
+                        "name": "IBRAHIMPUR EXTN",
+                        "localname": "IBRAHIMPUR EXTN",
+                        "longitude": 77.1925,
+                        "latitude": 28.754,
+                        "label": "Locality",
+                        "code": "W007L028",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "d4321243-ef94-4409-98dd-7a19e6aa5887",
+                        "boundaryNum": 29,
+                        "name": "INDER PRASTHA, AMRIT VIHAR, BURARI",
+                        "localname": "INDER PRASTHA, AMRIT VIHAR, BURARI",
+                        "longitude": 77.191,
+                        "latitude": 28.7545,
+                        "label": "Locality",
+                        "code": "W007L029",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "96b02646-e1f0-4831-9f68-fb26c6440440",
+                        "boundaryNum": 30,
+                        "name": "INDRAPRASTA COLONY, PART - I, BURARI (REG. NO. 1368)",
+                        "localname": "INDRAPRASTA COLONY, PART - I, BURARI (REG. NO. 1368)",
+                        "longitude": 77.191,
+                        "latitude": 28.7545,
+                        "label": "Locality",
+                        "code": "W007L030",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "7b96224f-2b11-4ad9-8f9f-0feda7f54522",
+                        "boundaryNum": 31,
+                        "name": "INDRAPRASTHA COLONY PART-I, BURARI, DELHI-84 (REG. NO. 122)",
+                        "localname": "INDRAPRASTHA COLONY PART-I, BURARI, DELHI-84 (REG. NO. 122)",
+                        "longitude": 77.191,
+                        "latitude": 28.7545,
+                        "label": "Locality",
+                        "code": "W007L031",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "a4d59913-9603-41ea-94bc-610a81c4e247",
+                        "boundaryNum": 32,
+                        "name": "KADI PUR",
+                        "localname": "KADI PUR",
+                        "longitude": 77.19,
+                        "latitude": 28.75,
+                        "label": "Locality",
+                        "code": "W007L032",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "b6b09491-d828-49c8-8618-7c626ba16422",
+                        "boundaryNum": 33,
+                        "name": "KADI PUR EXTN., C BLOCK, DELHI -36 (REG. NO. - 54 LOP)",
+                        "localname": "KADI PUR EXTN., C BLOCK, DELHI -36 (REG. NO. - 54 LOP)",
+                        "longitude": 77.185,
+                        "latitude": 28.74,
+                        "label": "Locality",
+                        "code": "W007L033",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "1cc035f6-3e82-47ae-acba-d0ac4183b994",
+                        "boundaryNum": 34,
+                        "name": "KADIPUR EXTN., NANGLI ROAD, DELHI-36 (REG. NO. 612)",
+                        "localname": "KADIPUR EXTN., NANGLI ROAD, DELHI-36 (REG. NO. 612)",
+                        "longitude": 77.185,
+                        "latitude": 28.74,
+                        "label": "Locality",
+                        "code": "W007L034",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "301ea64d-635c-4854-a686-b13c7438ef08",
+                        "boundaryNum": 35,
+                        "name": "KADI PUR VIHAR",
+                        "localname": "KADI PUR VIHAR",
+                        "longitude": 77.19,
+                        "latitude": 28.75,
+                        "label": "Locality",
+                        "code": "W007L035",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "e2581eb1-5ab5-4360-93ae-2d0131b268b1",
+                        "boundaryNum": 36,
+                        "name": "KADI VIHAR EXTN. DELHI 36 (REG. NO. 27-LOP)",
+                        "localname": "KADI VIHAR EXTN. DELHI 36 (REG. NO. 27-LOP)",
+                        "longitude": 77.185,
+                        "latitude": 28.74,
+                        "label": "Locality",
+                        "code": "W007L036",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "0492fa33-e358-4e74-b6ae-445c67ade904",
+                        "boundaryNum": 37,
+                        "name": "KESHAV NAGAR, GARHI KHUSRO, BURARI, DELHI (REG. NO. 61-LOP)",
+                        "localname": "KESHAV NAGAR, GARHI KHUSRO, BURARI, DELHI (REG. NO. 61-LOP)",
+                        "longitude": 77.192,
+                        "latitude": 28.755,
+                        "label": "Locality",
+                        "code": "W007L037",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "3d89ff92-776c-4536-ba7e-3ad2df5a11c5",
+                        "boundaryNum": 38,
+                        "name": "KESHAV NAGAR (IBRAHIMPUR)",
+                        "localname": "KESHAV NAGAR (IBRAHIMPUR)",
+                        "longitude": 77.192,
+                        "latitude": 28.755,
+                        "label": "Locality",
+                        "code": "W007L038",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "7d846ac6-6129-4e54-ba0c-0bbaef7ec19c",
+                        "boundaryNum": 39,
+                        "name": "KUSHAK NO.1 AND 2 BURARI",
+                        "localname": "KUSHAK NO.1 AND 2 BURARI",
+                        "longitude": 77.19,
+                        "latitude": 28.755,
+                        "label": "Locality",
+                        "code": "W007L039",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "d9d19ed6-829e-4ffb-be0e-68f612e11a1e",
+                        "boundaryNum": 40,
+                        "name": "MUKHMEL PUR",
+                        "localname": "MUKHMEL PUR",
+                        "longitude": 77.19,
+                        "latitude": 28.75,
+                        "label": "Locality",
+                        "code": "W007L040",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "64def75b-079d-4690-acd0-6ddc038e59ac",
+                        "boundaryNum": 41,
+                        "name": "MUKTI ASHRAM COLONY IBRAHIMPUR",
+                        "localname": "MUKTI ASHRAM COLONY IBRAHIMPUR",
+                        "longitude": 77.192,
+                        "latitude": 28.753,
+                        "label": "Locality",
+                        "code": "W007L041",
+                        "pincode": [
+                          110014
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "2e853ddf-daf3-4af8-8f19-89b7165f4101",
+                        "boundaryNum": 42,
+                        "name": "NANGLI POONA EXTN.",
+                        "localname": "NANGLI POONA EXTN.",
+                        "longitude": 77.185,
+                        "latitude": 28.755,
+                        "label": "Locality",
+                        "code": "W007L042",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "5e4d9233-e52c-4c6d-abb0-daa3272c26ff",
+                        "boundaryNum": 43,
+                        "name": "NANGLI POONA EXTN., PART-II, DELHI-36 (REG. NO. 44-ELD)",
+                        "localname": "NANGLI POONA EXTN., PART-II, DELHI-36 (REG. NO. 44-ELD)",
+                        "longitude": 77.185,
+                        "latitude": 28.74,
+                        "label": "Locality",
+                        "code": "W007L043",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "ffc51e35-b241-4aec-8648-745ce31dbfdc",
+                        "boundaryNum": 44,
+                        "name": "NANGLI PUNA",
+                        "localname": "NANGLI PUNA",
+                        "longitude": 77.185,
+                        "latitude": 28.755,
+                        "label": "Locality",
+                        "code": "W007L044",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "a15b4ac6-f97c-4c73-b3ba-f3e575aae219",
+                        "boundaryNum": 45,
+                        "name": "NATHU PURA",
+                        "localname": "NATHU PURA",
+                        "longitude": 77.19,
+                        "latitude": 28.752,
+                        "label": "Locality",
+                        "code": "W007L045",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "d43fb822-0f3f-4275-aa0f-a293668985e2",
+                        "boundaryNum": 46,
+                        "name": "NATHU VAID COLONY",
+                        "localname": "NATHU VAID COLONY",
+                        "longitude": 77.19,
+                        "latitude": 28.752,
+                        "label": "Locality",
+                        "code": "W007L046",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "bcece474-9b47-45ce-9f05-07ddfdc994cd",
+                        "boundaryNum": 47,
+                        "name": "SARUP VIHAR, KADIPUR",
+                        "localname": "SARUP VIHAR, KADIPUR",
+                        "longitude": 77.19,
+                        "latitude": 28.75,
+                        "label": "Locality",
+                        "code": "W007L047",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "b879c6e3-965b-4c25-a78b-5ab5161770e7",
+                        "boundaryNum": 48,
+                        "name": "SHASTRI PARK EXTN., NATHUPURA MORE, BURARI, DELHI-84 (REG. NO. 1487)",
+                        "localname": "SHASTRI PARK EXTN., NATHUPURA MORE, BURARI, DELHI-84 (REG. NO. 1487)",
+                        "longitude": 77.191,
+                        "latitude": 28.753,
+                        "label": "Locality",
+                        "code": "W007L048",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "81456721-5b40-4ccc-98fa-700e52ae722b",
+                        "boundaryNum": 49,
+                        "name": "SHASTRI PARK EXTN.NATHU PURA MORE BURARI DELHI-84 (REG. NO. 808A)",
+                        "localname": "SHASTRI PARK EXTN.NATHU PURA MORE BURARI DELHI-84 (REG. NO. 808A)",
+                        "longitude": 77.191,
+                        "latitude": 28.753,
+                        "label": "Locality",
+                        "code": "W007L049",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "0d9b5207-77f9-4fbb-8071-7f99060caffb",
+                        "boundaryNum": 50,
+                        "name": "SHASTRI PARK EXTN.NATHU PURA MORE BURARI DELHI-84 (REG. NO. 808B)",
+                        "localname": "SHASTRI PARK EXTN.NATHU PURA MORE BURARI DELHI-84 (REG. NO. 808B)",
+                        "longitude": 77.191,
+                        "latitude": 28.753,
+                        "label": "Locality",
+                        "code": "W007L050",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "71487a8e-1579-4260-b4ef-3bd552375644",
+                        "boundaryNum": 51,
+                        "name": "SHIV VIHAR BURARI BAKHTAWAR PUR ROAD IBRAHIM PUR DELHI (REG. NO. 1429)",
+                        "localname": "SHIV VIHAR BURARI BAKHTAWAR PUR ROAD IBRAHIM PUR DELHI (REG. NO. 1429)",
+                        "longitude": 77.192,
+                        "latitude": 28.754,
+                        "label": "Locality",
+                        "code": "W007L051",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "8f960eec-bd1d-4522-a3c2-a8bee0534f61",
+                        "boundaryNum": 52,
+                        "name": "SUSHANT VIHAR IBRAHIMPUR",
+                        "localname": "SUSHANT VIHAR IBRAHIMPUR",
+                        "longitude": 77.192,
+                        "latitude": 28.754,
+                        "label": "Locality",
+                        "code": "W007L052",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "a2c2f338-79d1-4c08-8f7b-6e2d0b533687",
+                    "boundaryNum": 8,
+                    "name": "MUKUNDPUR",
+                    "localname": "MUKUNDPUR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Block",
+                    "code": "WARD008",
+                    "children": [
+                      {
+                        "id": "36d89ed0-e1ba-47b4-bab8-a7c99e1cdea5",
+                        "boundaryNum": 53,
+                        "name": "AMBEDKAR NAGAR (JAHANGIRPURI)",
+                        "localname": "AMBEDKAR NAGAR (JAHANGIRPURI)",
+                        "longitude": 77.152,
+                        "latitude": 28.734,
+                        "label": "Locality",
+                        "code": "W008L053",
+                        "pincode": [
+                          110033
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "03bc936a-6d2d-4621-ba4a-2fbb061dc8e9",
+                        "boundaryNum": 54,
+                        "name": "INDRAPRASTHA COLONY, NATHU PURA",
+                        "localname": "INDRAPRASTHA COLONY, NATHU PURA",
+                        "longitude": 77.152,
+                        "latitude": 28.734,
+                        "label": "Locality",
+                        "code": "W008L054",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "4f7cd145-db90-41e1-975e-ab0b30bfbfee",
+                        "boundaryNum": 55,
+                        "name": "JAHANGIRPURI",
+                        "localname": "JAHANGIRPURI",
+                        "longitude": 77.152,
+                        "latitude": 28.734,
+                        "label": "Locality",
+                        "code": "W008L055",
+                        "pincode": [
+                          110033
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "729d0fe1-3bc0-4129-aa5e-ad86836623a3",
+                        "boundaryNum": 56,
+                        "name": "MUKAND PUR",
+                        "localname": "MUKAND PUR",
+                        "longitude": 77.123,
+                        "latitude": 28.748,
+                        "label": "Locality",
+                        "code": "W008L056",
+                        "pincode": [
+                          110033
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "cf722a90-e693-4acf-82a5-adbb8ac623b2",
+                        "boundaryNum": 57,
+                        "name": "MUKUNDPUR EXTN., PART-1, DELHI-42 (REG. NO. 530)",
+                        "localname": "MUKUNDPUR EXTN., PART-1, DELHI-42 (REG. NO. 530)",
+                        "longitude": 77.123,
+                        "latitude": 28.748,
+                        "label": "Locality",
+                        "code": "W008L057",
+                        "pincode": [
+                          110042
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
           }
         ]
       }
@@ -13147,6 +14734,1593 @@
                         "code": "W036L423",
                         "pincode": [
                           110041
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+            {
+            "id": "AC-02",
+            "boundaryNum": 1,
+            "name": "Burari",
+            "localname": "Burari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Assembly Constituency",
+            "code": "AC02",
+            "children": [
+              {
+                "id": "f36495e6-d7db-47aa-9325-1dd329abf939",
+                "boundaryNum": 6,
+                "name": "BURARI",
+                "localname": "BURARI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Zone",
+                "code": "WARD006",
+                "children": [
+                  {
+                    "id": "c4e056b5-9367-4668-b977-4f52b0847f86",
+                    "boundaryNum": 5,
+                    "name": "BAKHTAWARPUR",
+                    "localname": "BAKHTAWARPUR",
+                    "longitude": 77.14,
+                    "latitude": 28.7275,
+                    "label": "Block",
+                    "code": "WARD5",
+                    "children": [
+                      {
+                        "id": "c4c2e753-219b-4ef2-bc7a-0fc41cd3301a",
+                        "boundaryNum": 85,
+                        "name": "AKBAR PUR MAZARA- RURAL VILL.",
+                        "localname": "AKBAR PUR MAZARA- RURAL VILL.",
+                        "longitude": 77.14,
+                        "latitude": 28.7275,
+                        "label": "Locality",
+                        "code": "W005L085",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "f99b967c-2348-4315-95be-247f75ffac5e",
+                        "boundaryNum": 86,
+                        "name": "AKBARPUR MAZRA",
+                        "localname": "AKBARPUR MAZRA",
+                        "longitude": 77.139,
+                        "latitude": 28.728,
+                        "label": "Locality",
+                        "code": "W005L086",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "83fc5f7f-6744-4b1c-8410-7018e4db9308",
+                        "boundaryNum": 87,
+                        "name": "BAKAULI",
+                        "localname": "BAKAULI",
+                        "longitude": 77.141,
+                        "latitude": 28.729,
+                        "label": "Locality",
+                        "code": "W005L087",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "c891ea24-6928-4a19-bea9-38ee5e7c60c7",
+                        "boundaryNum": 88,
+                        "name": "BAKHTAWARPUR EXTN",
+                        "localname": "BAKHTAWARPUR EXTN",
+                        "longitude": 77.138,
+                        "latitude": 28.726,
+                        "label": "Locality",
+                        "code": "W005L088",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "9c5358df-8b81-4908-9aaf-bac2a00b0db9",
+                        "boundaryNum": 89,
+                        "name": "BAKHTAWARPUR EXTN.",
+                        "localname": "BAKHTAWARPUR EXTN.",
+                        "longitude": 77.138,
+                        "latitude": 28.726,
+                        "label": "Locality",
+                        "code": "W005L089",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "3ee29453-801c-4736-a7ab-12e44c73dc96",
+                        "boundaryNum": 90,
+                        "name": "BAKHTAWAR PUR- RURAL VILL.",
+                        "localname": "BAKHTAWAR PUR- RURAL VILL.",
+                        "longitude": 77.1375,
+                        "latitude": 28.727,
+                        "label": "Locality",
+                        "code": "W005L090",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "7cd19a09-b6f0-48ab-bac5-64c6c567857a",
+                        "boundaryNum": 91,
+                        "name": "BAKHTWARPUR",
+                        "localname": "BAKHTWARPUR",
+                        "longitude": 77.138,
+                        "latitude": 28.727,
+                        "label": "Locality",
+                        "code": "W005L091",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "2748840a-f919-408e-a8e9-ea7b4b550594",
+                        "boundaryNum": 92,
+                        "name": "BAKOLI EXTN.",
+                        "localname": "BAKOLI EXTN.",
+                        "longitude": 77.1405,
+                        "latitude": 28.7285,
+                        "label": "Locality",
+                        "code": "W005L092",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "13baefc1-fa0d-47ed-a8c3-f9c537b003c4",
+                        "boundaryNum": 93,
+                        "name": "FATEHPUR JAT",
+                        "localname": "FATEHPUR JAT",
+                        "longitude": 77.142,
+                        "latitude": 28.73,
+                        "label": "Locality",
+                        "code": "W005L093",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "3a54506e-9682-4730-881b-11ddf71b28a6",
+                        "boundaryNum": 94,
+                        "name": "GOVIND COLONY NEAR JHANGOLA NO.2 ALIPUR DELHI-36 (REG. NO. 957)",
+                        "localname": "GOVIND COLONY NEAR JHANGOLA NO.2 ALIPUR DELHI-36 (REG. NO. 957)",
+                        "longitude": 77.143,
+                        "latitude": 28.732,
+                        "label": "Locality",
+                        "code": "W005L094",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "6b8d4b8f-51ed-4db6-ba4e-f65d7f81ffdf",
+                        "boundaryNum": 95,
+                        "name": "HAMIDPUR",
+                        "localname": "HAMIDPUR",
+                        "longitude": 77.144,
+                        "latitude": 28.731,
+                        "label": "Locality",
+                        "code": "W005L095",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "f346c4cc-04a7-436c-8e96-a26072cfc4d2",
+                        "boundaryNum": 96,
+                        "name": "HAMIDPUR EXTN.",
+                        "localname": "HAMIDPUR EXTN.",
+                        "longitude": 77.1445,
+                        "latitude": 28.7315,
+                        "label": "Locality",
+                        "code": "W005L096",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "54b29001-f064-4054-9cda-4249e16b09de",
+                        "boundaryNum": 97,
+                        "name": "HIRANKI",
+                        "localname": "HIRANKI",
+                        "longitude": 77.145,
+                        "latitude": 28.733,
+                        "label": "Locality",
+                        "code": "W005L097",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "9704f314-fa53-4019-839a-ad89256ee98e",
+                        "boundaryNum": 98,
+                        "name": "HIRANKI- RURAL VILL",
+                        "localname": "HIRANKI- RURAL VILL",
+                        "longitude": 77.1445,
+                        "latitude": 28.7325,
+                        "label": "Locality",
+                        "code": "W005L098",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "c420cae7-6680-446f-8bae-e6a908328b03",
+                        "boundaryNum": 99,
+                        "name": "JHANGOLA",
+                        "localname": "JHANGOLA",
+                        "longitude": 77.146,
+                        "latitude": 28.734,
+                        "label": "Locality",
+                        "code": "W005L099",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "8655b8e5-3eb3-491e-a1bf-529b6edd3d07",
+                        "boundaryNum": 100,
+                        "name": "KASHMIRI COLONY",
+                        "localname": "KASHMIRI COLONY",
+                        "longitude": 77.147,
+                        "latitude": 28.735,
+                        "label": "Locality",
+                        "code": "W005L100",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "b1c7aa43-660f-4d7b-8d85-df64077a9dbe",
+                        "boundaryNum": 101,
+                        "name": "KHAMPUR",
+                        "localname": "KHAMPUR",
+                        "longitude": 77.148,
+                        "latitude": 28.736,
+                        "label": "Locality",
+                        "code": "W005L101",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "6867e920-1405-4ccd-b156-35c68849e24d",
+                        "boundaryNum": 102,
+                        "name": "KHAMPUR- RURAL VILL.",
+                        "localname": "KHAMPUR- RURAL VILL.",
+                        "longitude": 77.1485,
+                        "latitude": 28.7365,
+                        "label": "Locality",
+                        "code": "W005L102",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "ff498f17-53d8-40c4-82db-a7d10dfba99a",
+                        "boundaryNum": 103,
+                        "name": "KRISHNA ESTATE",
+                        "localname": "KRISHNA ESTATE",
+                        "longitude": 77.149,
+                        "latitude": 28.737,
+                        "label": "Locality",
+                        "code": "W005L103",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "044bd4ec-4326-4e6a-9852-d3fec234e270",
+                        "boundaryNum": 104,
+                        "name": "KRISHNA NAGAR(SINGHU)",
+                        "localname": "KRISHNA NAGAR(SINGHU)",
+                        "longitude": 77.1495,
+                        "latitude": 28.7375,
+                        "label": "Locality",
+                        "code": "W005L104",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "576fdf94-ac32-4bbe-b229-b5e598857c0d",
+                        "boundaryNum": 105,
+                        "name": "KRISHNA VIHAR",
+                        "localname": "KRISHNA VIHAR",
+                        "longitude": 77.15,
+                        "latitude": 28.738,
+                        "label": "Locality",
+                        "code": "W005L105",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "773e167b-3891-46b6-b1c8-05cd9f496a48",
+                        "boundaryNum": 106,
+                        "name": "KUSHAK",
+                        "localname": "KUSHAK",
+                        "longitude": 77.1505,
+                        "latitude": 28.7385,
+                        "label": "Locality",
+                        "code": "W005L106",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "4dd30779-a486-4b0b-b235-ce79e22ed347",
+                        "boundaryNum": 107,
+                        "name": "KUSHAK NO.1, EXTN., DELHI-36 (REG. NO. 729)",
+                        "localname": "KUSHAK NO.1, EXTN., DELHI-36 (REG. NO. 729)",
+                        "longitude": 77.155,
+                        "latitude": 28.753,
+                        "label": "Locality",
+                        "code": "W005L107",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "49ce1d7e-c9c9-4049-9b92-9e4e468276d5",
+                        "boundaryNum": 108,
+                        "name": "KUSHAK NO.2, EXTN., DELHI-36 (REG. NO. 728)",
+                        "localname": "KUSHAK NO.2, EXTN., DELHI-36 (REG. NO. 728)",
+                        "longitude": 77.156,
+                        "latitude": 28.754,
+                        "label": "Locality",
+                        "code": "W005L108",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "020ed74f-3e98-44dd-bcc2-9bccb2ef859a",
+                        "boundaryNum": 109,
+                        "name": "LAL DORA OF VILLAGE SINGHU DELHI 40 (REG. NO. 133-ELD)",
+                        "localname": "LAL DORA OF VILLAGE SINGHU DELHI 40 (REG. NO. 133-ELD)",
+                        "longitude": 77.12,
+                        "latitude": 28.84,
+                        "label": "Locality",
+                        "code": "W005L109",
+                        "pincode": [
+                          110040
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "d54b1417-5b21-4430-b310-5fc25c66b994",
+                        "boundaryNum": 110,
+                        "name": "LAXMAN COLONY VILLAGE JINDPUR, ALIPUR DELHI 36 (REG. NO. 70-ELD)",
+                        "localname": "LAXMAN COLONY VILLAGE JINDPUR, ALIPUR DELHI 36 (REG. NO. 70-ELD)",
+                        "longitude": 77.157,
+                        "latitude": 28.755,
+                        "label": "Locality",
+                        "code": "W005L110",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "caec6b4b-d8aa-416d-b23d-57a46efafb92",
+                        "boundaryNum": 111,
+                        "name": "MOHD.PUR RAMJAN PUR",
+                        "localname": "MOHD.PUR RAMJAN PUR",
+                        "longitude": 77.158,
+                        "latitude": 28.756,
+                        "label": "Locality",
+                        "code": "W005L111",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "e83ea543-9096-47f8-a257-42128f232e79",
+                        "boundaryNum": 112,
+                        "name": "OM VIHAR COLONY (ALIPUR)",
+                        "localname": "OM VIHAR COLONY (ALIPUR)",
+                        "longitude": 77.159,
+                        "latitude": 28.757,
+                        "label": "Locality",
+                        "code": "W005L112",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "0e0a1d8c-9e63-4127-8a67-ff55a8caa776",
+                        "boundaryNum": 113,
+                        "name": "PALLA",
+                        "localname": "PALLA",
+                        "longitude": 77.16,
+                        "latitude": 28.758,
+                        "label": "Locality",
+                        "code": "W005L113",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "375b7005-e334-4117-a1f3-d5aa76358cdb",
+                        "boundaryNum": 114,
+                        "name": "PALLA -RURAL VILL.",
+                        "localname": "PALLA -RURAL VILL.",
+                        "longitude": 77.161,
+                        "latitude": 28.759,
+                        "label": "Locality",
+                        "code": "W005L114",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "e074a441-e0d3-4548-913c-9cd001cc5d51",
+                        "boundaryNum": 115,
+                        "name": "PAVAN DHAM BAKHTAWARPUR",
+                        "localname": "PAVAN DHAM BAKHTAWARPUR",
+                        "longitude": 77.162,
+                        "latitude": 28.76,
+                        "label": "Locality",
+                        "code": "W005L115",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "d098c36f-e6dc-41cf-ae09-e2f4befe2ee4",
+                        "boundaryNum": 116,
+                        "name": "QULLAKPUR",
+                        "localname": "QULLAKPUR",
+                        "longitude": 77.163,
+                        "latitude": 28.761,
+                        "label": "Locality",
+                        "code": "W005L116",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "64c2c3e5-b5f1-4cd8-916b-b25adc347b41",
+                        "boundaryNum": 117,
+                        "name": "QULLAK PUR - RURAL VILL",
+                        "localname": "QULLAK PUR - RURAL VILL",
+                        "longitude": 77.164,
+                        "latitude": 28.762,
+                        "label": "Locality",
+                        "code": "W005L117",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "3db1bfaf-3cc4-4607-a416-aa9bf4aea34b",
+                        "boundaryNum": 118,
+                        "name": "SANGARPUR",
+                        "localname": "SANGARPUR",
+                        "longitude": 77.165,
+                        "latitude": 28.763,
+                        "label": "Locality",
+                        "code": "W005L118",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "30bc0d14-22fb-4efc-8010-c87714b2f67e",
+                        "boundaryNum": 119,
+                        "name": "SHIVA ENCLAVE, HIRANKI",
+                        "localname": "SHIVA ENCLAVE, HIRANKI",
+                        "longitude": 77.166,
+                        "latitude": 28.764,
+                        "label": "Locality",
+                        "code": "W005L119",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "e877a89e-49c2-4314-8516-e4232ee6f7af",
+                        "boundaryNum": 120,
+                        "name": "SINGHU",
+                        "localname": "SINGHU",
+                        "longitude": 77.121,
+                        "latitude": 28.841,
+                        "label": "Locality",
+                        "code": "W005L120",
+                        "pincode": [
+                          110040
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "75e589a8-fa32-47e4-adaf-ea286a03b048",
+                        "boundaryNum": 121,
+                        "name": "SINGHU- RURAL VILL.",
+                        "localname": "SINGHU- RURAL VILL.",
+                        "longitude": 77.122,
+                        "latitude": 28.842,
+                        "label": "Locality",
+                        "code": "W005L121",
+                        "pincode": [
+                          110040
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "d88e778d-ec50-411e-987f-a02fc186f4af",
+                        "boundaryNum": 122,
+                        "name": "SUNGHU EXTN.",
+                        "localname": "SUNGHU EXTN.",
+                        "longitude": 77.123,
+                        "latitude": 28.843,
+                        "label": "Locality",
+                        "code": "W005L122",
+                        "pincode": [
+                          110040
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "1dee65d4-123a-48d5-96e5-bd43605efbd7",
+                        "boundaryNum": 123,
+                        "name": "TAJPUR KALA",
+                        "localname": "TAJPUR KALA",
+                        "longitude": 77.167,
+                        "latitude": 28.765,
+                        "label": "Locality",
+                        "code": "W005L123",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "d665835e-3b7a-483a-8adc-f792d5fcfb7d",
+                        "boundaryNum": 124,
+                        "name": "TIGI PUR",
+                        "localname": "TIGI PUR",
+                        "longitude": 77.168,
+                        "latitude": 28.766,
+                        "label": "Locality",
+                        "code": "W005L124",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "a39c9eb7-31e1-4b12-8bba-b215c89a2e94",
+                        "boundaryNum": 125,
+                        "name": "ZINDPUR",
+                        "localname": "ZINDPUR",
+                        "longitude": 77.169,
+                        "latitude": 28.767,
+                        "label": "Locality",
+                        "code": "W005L125",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "4384369c-acb5-40f1-977b-21d713516249",
+                        "boundaryNum": 126,
+                        "name": "ZIND PUR EXTN.DELHI-36 (REG. NO. 1084)",
+                        "localname": "ZIND PUR EXTN.DELHI-36 (REG. NO. 1084)",
+                        "longitude": 77.17,
+                        "latitude": 28.768,
+                        "label": "Locality",
+                        "code": "W005L126",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "25e97c2f-9810-42db-b1b7-160aad2150b6",
+                        "boundaryNum": 127,
+                        "name": "ZINDPUR VILLAGE EXTN.ALIPUR DELHI-36 (REG. NO. 1236)",
+                        "localname": "ZINDPUR VILLAGE EXTN.ALIPUR DELHI-36 (REG. NO. 1236)",
+                        "longitude": 77.171,
+                        "latitude": 28.769,
+                        "label": "Locality",
+                        "code": "W005L127",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "5391d7ad-c92f-4f7b-b368-eb783bb9ccb8",
+                        "boundaryNum": 128,
+                        "name": "ZINDPUR VILLAGE EXTN., ZINDPUR, P.O.ALIPUR, DELHI- (REG. NO. 24-ELD)",
+                        "localname": "ZINDPUR VILLAGE EXTN., ZINDPUR, P.O.ALIPUR, DELHI- (REG. NO. 24-ELD)",
+                        "longitude": 77.172,
+                        "latitude": 28.77,
+                        "label": "Locality",
+                        "code": "W005L128",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "f36495e6-d7db-47aa-9325-1dd329abf939",
+                    "boundaryNum": 6,
+                    "name": "BURARI",
+                    "localname": "BURARI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Block",
+                    "code": "WARD006",
+                    "children": [
+                      {
+                        "id": "8555b807-bcab-4914-b4be-53ca6502609b",
+                        "boundaryNum": 1,
+                        "name": "AZAD PALACE, BURARI",
+                        "localname": "AZAD PALACE, BURARI",
+                        "longitude": 77.215,
+                        "latitude": 28.731,
+                        "label": "Locality",
+                        "code": "W006L001",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "86c556cf-2951-405f-b1db-fc84fc7ee253",
+                        "boundaryNum": 2,
+                        "name": "BABA NAGAR/COLONY, BURARI",
+                        "localname": "BABA NAGAR/COLONY, BURARI",
+                        "longitude": 77.2165,
+                        "latitude": 28.733,
+                        "label": "Locality",
+                        "code": "W006L002",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "afa7104e-7dde-459f-8084-3b8684d779aa",
+                        "boundaryNum": 3,
+                        "name": "BURARI",
+                        "localname": "BURARI",
+                        "longitude": 77.214,
+                        "latitude": 28.729,
+                        "label": "Locality",
+                        "code": "W006L003",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "e56342a1-6962-49bf-9736-36c651c51986",
+                        "boundaryNum": 4,
+                        "name": "BURARI EXTN. COLONY",
+                        "localname": "BURARI EXTN. COLONY",
+                        "longitude": 77.2175,
+                        "latitude": 28.7325,
+                        "label": "Locality",
+                        "code": "W006L004",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "60da19a6-596b-486d-9398-893d86e9a0eb",
+                        "boundaryNum": 5,
+                        "name": "KAUSHIK ENCLAVE, A-BLOCK, BURARI ROAD, DELHI (REG. NO. 287)",
+                        "localname": "KAUSHIK ENCLAVE, A-BLOCK, BURARI ROAD, DELHI (REG. NO. 287)",
+                        "longitude": 77.218,
+                        "latitude": 28.7305,
+                        "label": "Locality",
+                        "code": "W006L005",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "46e697fb-a2fb-4eaa-b778-218f20e17348",
+                        "boundaryNum": 6,
+                        "name": "KAUSHIK ENCLAVE (B) BLOCK, PART-II, BURARI, NATHUPURA ROAD, DELHI-84 (REG. NO. 696)",
+                        "localname": "KAUSHIK ENCLAVE (B) BLOCK, PART-II, BURARI, NATHUPURA ROAD, DELHI-84 (REG. NO. 696)",
+                        "longitude": 77.2195,
+                        "latitude": 28.731,
+                        "label": "Locality",
+                        "code": "W006L006",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "d91a2ed8-0785-45c5-a14f-225f04309f5a",
+                        "boundaryNum": 7,
+                        "name": "KAUSHIK ENCLAVE, NATHU PURA",
+                        "localname": "KAUSHIK ENCLAVE, NATHU PURA",
+                        "longitude": 77.22,
+                        "latitude": 28.728,
+                        "label": "Locality",
+                        "code": "W006L007",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "5b4e06cb-1fe2-48de-8ca6-84de4033aa0f",
+                        "boundaryNum": 8,
+                        "name": "NATHU COLONY",
+                        "localname": "NATHU COLONY",
+                        "longitude": 77.219,
+                        "latitude": 28.7275,
+                        "label": "Locality",
+                        "code": "W006L008",
+                        "pincode": [
+                          110093
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "52769044-2f6b-44df-a5d4-dde574bc8ab2",
+                        "boundaryNum": 9,
+                        "name": "PHOOL BAGH PLACE ( SHASTRI PARK EXTN) NATHUPURA MODE DELHI-36 (REG. NO. 951)",
+                        "localname": "PHOOL BAGH PLACE ( SHASTRI PARK EXTN) NATHUPURA MODE DELHI-36 (REG. NO. 951)",
+                        "longitude": 77.217,
+                        "latitude": 28.726,
+                        "label": "Locality",
+                        "code": "W006L009",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "f2c333b1-f92d-4cb3-ae4d-fb69547dc8b8",
+                        "boundaryNum": 10,
+                        "name": "PRADEEP VIHAR NATHUPURA MODE DELHI-36 (REG. NO. 773)",
+                        "localname": "PRADEEP VIHAR NATHUPURA MODE DELHI-36 (REG. NO. 773)",
+                        "longitude": 77.2165,
+                        "latitude": 28.7255,
+                        "label": "Locality",
+                        "code": "W006L010",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "c83c3f60-5d02-423d-b495-93a9b7bad31a",
+                        "boundaryNum": 11,
+                        "name": "PRADHAN ENCLAVE, C AND D BLOCK, MAZRA BURARI, NEWDELHI-84 (REG. NO. 307)",
+                        "localname": "PRADHAN ENCLAVE, C AND D BLOCK, MAZRA BURARI, NEWDELHI-84 (REG. NO. 307)",
+                        "longitude": 77.2165,
+                        "latitude": 28.7255,
+                        "label": "Locality",
+                        "code": "W006L011",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "013dca01-0f98-48ec-9f7b-26f679e0ed26",
+                        "boundaryNum": 12,
+                        "name": "PRADHAN ENCLAVE, C AND D BLOCK, MAZRA BURARI, NEWDELHI-84 (REG. NO. 307A)",
+                        "localname": "PRADHAN ENCLAVE, C AND D BLOCK, MAZRA BURARI, NEWDELHI-84 (REG. NO. 307A)",
+                        "longitude": 77.2135,
+                        "latitude": 28.73,
+                        "label": "Locality",
+                        "code": "W006L012",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "fd9b8053-2d7f-4732-b3c1-bb47edd987a2",
+                        "boundaryNum": 13,
+                        "name": "PREM NAGAR, NATHUPURA, DELHI-84 (REG. NO. 207)",
+                        "localname": "PREM NAGAR, NATHUPURA, DELHI-84 (REG. NO. 207)",
+                        "longitude": 77.213,
+                        "latitude": 28.7295,
+                        "label": "Locality",
+                        "code": "W006L013",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "6e47eb84-665b-4460-9dff-d3fde2066bdf",
+                        "boundaryNum": 14,
+                        "name": "SALEMPUR MAJRA BURARI",
+                        "localname": "SALEMPUR MAJRA BURARI",
+                        "longitude": 77.214,
+                        "latitude": 28.7265,
+                        "label": "Locality",
+                        "code": "W006L014",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "11b9f4bc-bc59-40aa-9e65-bb07e47b8eda",
+                        "boundaryNum": 15,
+                        "name": "SALEMPUR MAJRA BURARI(HAIDERPUR)",
+                        "localname": "SALEMPUR MAJRA BURARI(HAIDERPUR)",
+                        "longitude": 77.221,
+                        "latitude": 28.7285,
+                        "label": "Locality",
+                        "code": "W006L015",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "82f8f139-5e46-4848-9cdc-8f640664c5b8",
+                        "boundaryNum": 16,
+                        "name": "SANT NAGAR,B-BLOCK BURARI, DELHI-84 (REG. NO. 444)",
+                        "localname": "SANT NAGAR,B-BLOCK BURARI, DELHI-84 (REG. NO. 444)",
+                        "longitude": 77.222,
+                        "latitude": 28.729,
+                        "label": "Locality",
+                        "code": "W006L016",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "4b62f936-720b-41a8-b372-a369fe39af04",
+                        "boundaryNum": 17,
+                        "name": "SAROOP VIHAR (BURARI)",
+                        "localname": "SAROOP VIHAR (BURARI)",
+                        "longitude": 77.2185,
+                        "latitude": 28.7315,
+                        "label": "Locality",
+                        "code": "W006L017",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "8cb7f0f2-862e-4f89-aafd-9a7f315785d1",
+                        "boundaryNum": 18,
+                        "name": "SATYA VIHAR (KAMAL PUR) BURARI DELHI-84 (REG. NO. 845)",
+                        "localname": "SATYA VIHAR (KAMAL PUR) BURARI DELHI-84 (REG. NO. 845)",
+                        "longitude": 77.219,
+                        "latitude": 28.733,
+                        "label": "Locality",
+                        "code": "W006L018",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "3114f68e-c73f-4654-8635-d9592679a4d4",
+                        "boundaryNum": 19,
+                        "name": "SHANKARPURA",
+                        "localname": "SHANKARPURA",
+                        "longitude": 77.2175,
+                        "latitude": 28.734,
+                        "label": "Locality",
+                        "code": "W006L019",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "2cab81cb-c888-4214-b807-1112731f38ca",
+                        "boundaryNum": 20,
+                        "name": "SHASTRI PARK, NATHU PURA",
+                        "localname": "SHASTRI PARK, NATHU PURA",
+                        "longitude": 77.22,
+                        "latitude": 28.735,
+                        "label": "Locality",
+                        "code": "W006L020",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "2057f168-d511-4cc5-8b4d-42a92a4b6fda",
+                        "boundaryNum": 21,
+                        "name": "VIJAY COLONY, SALEMPUR MAZARA, BURARI EXTN., DELHI (REG. NO. 507)",
+                        "localname": "VIJAY COLONY, SALEMPUR MAZARA, BURARI EXTN., DELHI (REG. NO. 507)",
+                        "longitude": 77.216,
+                        "latitude": 28.732,
+                        "label": "Locality",
+                        "code": "W006L021",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "1bd2bc8a-3422-4754-a33a-ee999d8ed393",
+                        "boundaryNum": 22,
+                        "name": "YORAJ COLONY",
+                        "localname": "YORAJ COLONY",
+                        "longitude": 77.2145,
+                        "latitude": 28.731,
+                        "label": "Locality",
+                        "code": "W006L022",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "75793ecb-07ad-40d6-9875-61bd8e1ec7ab",
+                    "boundaryNum": 7,
+                    "name": "KADIPUR",
+                    "localname": "KADIPUR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Block",
+                    "code": "WARD007",
+                    "children": [
+                      {
+                        "id": "08d2e015-c35e-4146-bc5c-d0afe9b1746a",
+                        "boundaryNum": 23,
+                        "name": "AMRIT VIHAR, BURARI (REG. NO. 448)",
+                        "localname": "AMRIT VIHAR, BURARI (REG. NO. 448)",
+                        "longitude": 77.1905,
+                        "latitude": 28.7545,
+                        "label": "Locality",
+                        "code": "W007L023",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "51b40472-50ac-4881-b7a7-c8d791bd4029",
+                        "boundaryNum": 24,
+                        "name": "EXTENDED ABADI OF KADI PUR VILLAGE (REG. NO. 141-ELD)",
+                        "localname": "EXTENDED ABADI OF KADI PUR VILLAGE (REG. NO. 141-ELD)",
+                        "longitude": 77.19,
+                        "latitude": 28.75,
+                        "label": "Locality",
+                        "code": "W007L024",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "fc166d8c-d239-4c45-82cd-1ac8ce57fa1d",
+                        "boundaryNum": 25,
+                        "name": "EXTENDED ABADI OF KUSHAK NO-1, VILLAGE KADIPUR, DELHI-36 (REG. NO. 17-ELD)",
+                        "localname": "EXTENDED ABADI OF KUSHAK NO-1, VILLAGE KADIPUR, DELHI-36 (REG. NO. 17-ELD)",
+                        "longitude": 77.19,
+                        "latitude": 28.75,
+                        "label": "Locality",
+                        "code": "W007L025",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "f2395a24-fc9c-4400-b89e-9588e678c5b9",
+                        "boundaryNum": 26,
+                        "name": "GARHI KHASRU",
+                        "localname": "GARHI KHASRU",
+                        "longitude": 77.19,
+                        "latitude": 28.752,
+                        "label": "Locality",
+                        "code": "W007L026",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "c019dd1f-b331-47b9-a759-ebd01ef56638",
+                        "boundaryNum": 27,
+                        "name": "IBRAHIMPUR",
+                        "localname": "IBRAHIMPUR",
+                        "longitude": 77.192,
+                        "latitude": 28.7535,
+                        "label": "Locality",
+                        "code": "W007L027",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "645695cf-02aa-4d58-afd6-7aa2df02ff92",
+                        "boundaryNum": 28,
+                        "name": "IBRAHIMPUR EXTN",
+                        "localname": "IBRAHIMPUR EXTN",
+                        "longitude": 77.1925,
+                        "latitude": 28.754,
+                        "label": "Locality",
+                        "code": "W007L028",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "d4321243-ef94-4409-98dd-7a19e6aa5887",
+                        "boundaryNum": 29,
+                        "name": "INDER PRASTHA, AMRIT VIHAR, BURARI",
+                        "localname": "INDER PRASTHA, AMRIT VIHAR, BURARI",
+                        "longitude": 77.191,
+                        "latitude": 28.7545,
+                        "label": "Locality",
+                        "code": "W007L029",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "96b02646-e1f0-4831-9f68-fb26c6440440",
+                        "boundaryNum": 30,
+                        "name": "INDRAPRASTA COLONY, PART - I, BURARI (REG. NO. 1368)",
+                        "localname": "INDRAPRASTA COLONY, PART - I, BURARI (REG. NO. 1368)",
+                        "longitude": 77.191,
+                        "latitude": 28.7545,
+                        "label": "Locality",
+                        "code": "W007L030",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "7b96224f-2b11-4ad9-8f9f-0feda7f54522",
+                        "boundaryNum": 31,
+                        "name": "INDRAPRASTHA COLONY PART-I, BURARI, DELHI-84 (REG. NO. 122)",
+                        "localname": "INDRAPRASTHA COLONY PART-I, BURARI, DELHI-84 (REG. NO. 122)",
+                        "longitude": 77.191,
+                        "latitude": 28.7545,
+                        "label": "Locality",
+                        "code": "W007L031",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "a4d59913-9603-41ea-94bc-610a81c4e247",
+                        "boundaryNum": 32,
+                        "name": "KADI PUR",
+                        "localname": "KADI PUR",
+                        "longitude": 77.19,
+                        "latitude": 28.75,
+                        "label": "Locality",
+                        "code": "W007L032",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "b6b09491-d828-49c8-8618-7c626ba16422",
+                        "boundaryNum": 33,
+                        "name": "KADI PUR EXTN., C BLOCK, DELHI -36 (REG. NO. - 54 LOP)",
+                        "localname": "KADI PUR EXTN., C BLOCK, DELHI -36 (REG. NO. - 54 LOP)",
+                        "longitude": 77.185,
+                        "latitude": 28.74,
+                        "label": "Locality",
+                        "code": "W007L033",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "1cc035f6-3e82-47ae-acba-d0ac4183b994",
+                        "boundaryNum": 34,
+                        "name": "KADIPUR EXTN., NANGLI ROAD, DELHI-36 (REG. NO. 612)",
+                        "localname": "KADIPUR EXTN., NANGLI ROAD, DELHI-36 (REG. NO. 612)",
+                        "longitude": 77.185,
+                        "latitude": 28.74,
+                        "label": "Locality",
+                        "code": "W007L034",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "301ea64d-635c-4854-a686-b13c7438ef08",
+                        "boundaryNum": 35,
+                        "name": "KADI PUR VIHAR",
+                        "localname": "KADI PUR VIHAR",
+                        "longitude": 77.19,
+                        "latitude": 28.75,
+                        "label": "Locality",
+                        "code": "W007L035",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "e2581eb1-5ab5-4360-93ae-2d0131b268b1",
+                        "boundaryNum": 36,
+                        "name": "KADI VIHAR EXTN. DELHI 36 (REG. NO. 27-LOP)",
+                        "localname": "KADI VIHAR EXTN. DELHI 36 (REG. NO. 27-LOP)",
+                        "longitude": 77.185,
+                        "latitude": 28.74,
+                        "label": "Locality",
+                        "code": "W007L036",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "0492fa33-e358-4e74-b6ae-445c67ade904",
+                        "boundaryNum": 37,
+                        "name": "KESHAV NAGAR, GARHI KHUSRO, BURARI, DELHI (REG. NO. 61-LOP)",
+                        "localname": "KESHAV NAGAR, GARHI KHUSRO, BURARI, DELHI (REG. NO. 61-LOP)",
+                        "longitude": 77.192,
+                        "latitude": 28.755,
+                        "label": "Locality",
+                        "code": "W007L037",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "3d89ff92-776c-4536-ba7e-3ad2df5a11c5",
+                        "boundaryNum": 38,
+                        "name": "KESHAV NAGAR (IBRAHIMPUR)",
+                        "localname": "KESHAV NAGAR (IBRAHIMPUR)",
+                        "longitude": 77.192,
+                        "latitude": 28.755,
+                        "label": "Locality",
+                        "code": "W007L038",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "7d846ac6-6129-4e54-ba0c-0bbaef7ec19c",
+                        "boundaryNum": 39,
+                        "name": "KUSHAK NO.1 AND 2 BURARI",
+                        "localname": "KUSHAK NO.1 AND 2 BURARI",
+                        "longitude": 77.19,
+                        "latitude": 28.755,
+                        "label": "Locality",
+                        "code": "W007L039",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "d9d19ed6-829e-4ffb-be0e-68f612e11a1e",
+                        "boundaryNum": 40,
+                        "name": "MUKHMEL PUR",
+                        "localname": "MUKHMEL PUR",
+                        "longitude": 77.19,
+                        "latitude": 28.75,
+                        "label": "Locality",
+                        "code": "W007L040",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "64def75b-079d-4690-acd0-6ddc038e59ac",
+                        "boundaryNum": 41,
+                        "name": "MUKTI ASHRAM COLONY IBRAHIMPUR",
+                        "localname": "MUKTI ASHRAM COLONY IBRAHIMPUR",
+                        "longitude": 77.192,
+                        "latitude": 28.753,
+                        "label": "Locality",
+                        "code": "W007L041",
+                        "pincode": [
+                          110014
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "2e853ddf-daf3-4af8-8f19-89b7165f4101",
+                        "boundaryNum": 42,
+                        "name": "NANGLI POONA EXTN.",
+                        "localname": "NANGLI POONA EXTN.",
+                        "longitude": 77.185,
+                        "latitude": 28.755,
+                        "label": "Locality",
+                        "code": "W007L042",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "5e4d9233-e52c-4c6d-abb0-daa3272c26ff",
+                        "boundaryNum": 43,
+                        "name": "NANGLI POONA EXTN., PART-II, DELHI-36 (REG. NO. 44-ELD)",
+                        "localname": "NANGLI POONA EXTN., PART-II, DELHI-36 (REG. NO. 44-ELD)",
+                        "longitude": 77.185,
+                        "latitude": 28.74,
+                        "label": "Locality",
+                        "code": "W007L043",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "ffc51e35-b241-4aec-8648-745ce31dbfdc",
+                        "boundaryNum": 44,
+                        "name": "NANGLI PUNA",
+                        "localname": "NANGLI PUNA",
+                        "longitude": 77.185,
+                        "latitude": 28.755,
+                        "label": "Locality",
+                        "code": "W007L044",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "a15b4ac6-f97c-4c73-b3ba-f3e575aae219",
+                        "boundaryNum": 45,
+                        "name": "NATHU PURA",
+                        "localname": "NATHU PURA",
+                        "longitude": 77.19,
+                        "latitude": 28.752,
+                        "label": "Locality",
+                        "code": "W007L045",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "d43fb822-0f3f-4275-aa0f-a293668985e2",
+                        "boundaryNum": 46,
+                        "name": "NATHU VAID COLONY",
+                        "localname": "NATHU VAID COLONY",
+                        "longitude": 77.19,
+                        "latitude": 28.752,
+                        "label": "Locality",
+                        "code": "W007L046",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "bcece474-9b47-45ce-9f05-07ddfdc994cd",
+                        "boundaryNum": 47,
+                        "name": "SARUP VIHAR, KADIPUR",
+                        "localname": "SARUP VIHAR, KADIPUR",
+                        "longitude": 77.19,
+                        "latitude": 28.75,
+                        "label": "Locality",
+                        "code": "W007L047",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "b879c6e3-965b-4c25-a78b-5ab5161770e7",
+                        "boundaryNum": 48,
+                        "name": "SHASTRI PARK EXTN., NATHUPURA MORE, BURARI, DELHI-84 (REG. NO. 1487)",
+                        "localname": "SHASTRI PARK EXTN., NATHUPURA MORE, BURARI, DELHI-84 (REG. NO. 1487)",
+                        "longitude": 77.191,
+                        "latitude": 28.753,
+                        "label": "Locality",
+                        "code": "W007L048",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "81456721-5b40-4ccc-98fa-700e52ae722b",
+                        "boundaryNum": 49,
+                        "name": "SHASTRI PARK EXTN.NATHU PURA MORE BURARI DELHI-84 (REG. NO. 808A)",
+                        "localname": "SHASTRI PARK EXTN.NATHU PURA MORE BURARI DELHI-84 (REG. NO. 808A)",
+                        "longitude": 77.191,
+                        "latitude": 28.753,
+                        "label": "Locality",
+                        "code": "W007L049",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "0d9b5207-77f9-4fbb-8071-7f99060caffb",
+                        "boundaryNum": 50,
+                        "name": "SHASTRI PARK EXTN.NATHU PURA MORE BURARI DELHI-84 (REG. NO. 808B)",
+                        "localname": "SHASTRI PARK EXTN.NATHU PURA MORE BURARI DELHI-84 (REG. NO. 808B)",
+                        "longitude": 77.191,
+                        "latitude": 28.753,
+                        "label": "Locality",
+                        "code": "W007L050",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "71487a8e-1579-4260-b4ef-3bd552375644",
+                        "boundaryNum": 51,
+                        "name": "SHIV VIHAR BURARI BAKHTAWAR PUR ROAD IBRAHIM PUR DELHI (REG. NO. 1429)",
+                        "localname": "SHIV VIHAR BURARI BAKHTAWAR PUR ROAD IBRAHIM PUR DELHI (REG. NO. 1429)",
+                        "longitude": 77.192,
+                        "latitude": 28.754,
+                        "label": "Locality",
+                        "code": "W007L051",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "8f960eec-bd1d-4522-a3c2-a8bee0534f61",
+                        "boundaryNum": 52,
+                        "name": "SUSHANT VIHAR IBRAHIMPUR",
+                        "localname": "SUSHANT VIHAR IBRAHIMPUR",
+                        "longitude": 77.192,
+                        "latitude": 28.754,
+                        "label": "Locality",
+                        "code": "W007L052",
+                        "pincode": [
+                          110036
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "a2c2f338-79d1-4c08-8f7b-6e2d0b533687",
+                    "boundaryNum": 8,
+                    "name": "MUKUNDPUR",
+                    "localname": "MUKUNDPUR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Block",
+                    "code": "WARD008",
+                    "children": [
+                      {
+                        "id": "36d89ed0-e1ba-47b4-bab8-a7c99e1cdea5",
+                        "boundaryNum": 53,
+                        "name": "AMBEDKAR NAGAR (JAHANGIRPURI)",
+                        "localname": "AMBEDKAR NAGAR (JAHANGIRPURI)",
+                        "longitude": 77.152,
+                        "latitude": 28.734,
+                        "label": "Locality",
+                        "code": "W008L053",
+                        "pincode": [
+                          110033
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "03bc936a-6d2d-4621-ba4a-2fbb061dc8e9",
+                        "boundaryNum": 54,
+                        "name": "INDRAPRASTHA COLONY, NATHU PURA",
+                        "localname": "INDRAPRASTHA COLONY, NATHU PURA",
+                        "longitude": 77.152,
+                        "latitude": 28.734,
+                        "label": "Locality",
+                        "code": "W008L054",
+                        "pincode": [
+                          110084
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "4f7cd145-db90-41e1-975e-ab0b30bfbfee",
+                        "boundaryNum": 55,
+                        "name": "JAHANGIRPURI",
+                        "localname": "JAHANGIRPURI",
+                        "longitude": 77.152,
+                        "latitude": 28.734,
+                        "label": "Locality",
+                        "code": "W008L055",
+                        "pincode": [
+                          110033
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "729d0fe1-3bc0-4129-aa5e-ad86836623a3",
+                        "boundaryNum": 56,
+                        "name": "MUKAND PUR",
+                        "localname": "MUKAND PUR",
+                        "longitude": 77.123,
+                        "latitude": 28.748,
+                        "label": "Locality",
+                        "code": "W008L056",
+                        "pincode": [
+                          110033
+                        ],
+                        "area": "Area1",
+                        "children": []
+                      },
+                      {
+                        "id": "cf722a90-e693-4acf-82a5-adbb8ac623b2",
+                        "boundaryNum": 57,
+                        "name": "MUKUNDPUR EXTN., PART-1, DELHI-42 (REG. NO. 530)",
+                        "localname": "MUKUNDPUR EXTN., PART-1, DELHI-42 (REG. NO. 530)",
+                        "longitude": 77.123,
+                        "latitude": 28.748,
+                        "label": "Locality",
+                        "code": "W008L057",
+                        "pincode": [
+                          110042
                         ],
                         "area": "Area1",
                         "children": []
