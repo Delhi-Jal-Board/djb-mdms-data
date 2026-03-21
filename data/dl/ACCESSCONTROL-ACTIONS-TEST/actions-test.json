@@ -20032,6 +20032,17 @@
       "serviceCode": "request-service",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2957,
+      "name": "fixed-point update",
+      "url": "/request-service/water-tanker/fixed-point/v1/_update",
+      "displayName": "update fixed point delivery",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "request-service",
+      "code": "null",
+      "path": ""
     }
   ]
 }
