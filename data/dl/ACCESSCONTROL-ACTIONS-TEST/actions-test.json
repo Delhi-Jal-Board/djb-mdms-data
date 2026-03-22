@@ -20043,6 +20043,40 @@
       "serviceCode": "request-service",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2958,
+      "name": "filling point create",
+      "url": "/request-service/wt/filling-point/_create,
+      "displayName": "create filling point address",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "request-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2959,
+      "name": "filling point search",
+      "url": "/request-service/wt/filling-point/_search,
+      "displayName": "search filling je,ae,ee ",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "request-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2960,
+      "name": "filling point update",
+      "url": "/request-service/wt/filling-point/_update,
+      "displayName": "update filling point",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "request-service",
+      "code": "null",
+      "path": ""
     }
+    
   ]
 }
