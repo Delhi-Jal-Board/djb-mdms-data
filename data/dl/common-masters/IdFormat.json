@@ -761,6 +761,14 @@
 		{
             "format": "DL-DJB-[SEQ_EGOV_COMMON]",
             "idname": "djb.vendor.id"
+        },
+		{
+            "format": "FXP-[SEQ_FXP_COMMON]",
+            "idname": "djb.fxp.id"
+        },
+		{
+            "format": "FLP-[SEQ_FLP_COMMON]",
+            "idname": "djb.flp.id"
         }
     ]
 }
