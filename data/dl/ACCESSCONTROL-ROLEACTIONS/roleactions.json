@@ -32209,6 +32209,48 @@
       "actionid": 2969,
       "actioncode": "",
       "tenantId": "dl"
-    }
+    },
+    {
+      "rolecode": "VENDOR_CREATOR",
+      "actionid": 2969,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2969,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "FSM_DSO",
+      "actionid": 2969,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "VENDOR",
+      "actionid": 2969,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2969,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE_ADMIN",
+      "actionid": 2969,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_DRIVER",
+      "actionid": 2969,
+      "actioncode": "",
+      "tenantId": "dl"
+    }   
   ]
 }
