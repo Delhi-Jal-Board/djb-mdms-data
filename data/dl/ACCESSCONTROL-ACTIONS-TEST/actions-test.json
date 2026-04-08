@@ -20175,6 +20175,39 @@
       "serviceCode": "request-service",
       "code": "null",
       "path": ""
+    },
+    {
+          "id": 2970,
+          "name": "ekyc search api for all",
+          "url": "/ekyc-service/user/application/_search",
+          "displayName": "ekyc search api for all",
+          "orderNumber": 1,
+          "enabled": false,
+          "serviceCode": "ekyc-service",
+          "code": "null",
+          "path": ""
+    },
+    {
+          "id": 2971,
+          "name": "ekyc update api for all",
+          "url": "/ekyc-service/user/application/_update",
+          "displayName": "ekyc update api for all",
+          "orderNumber": 1,
+          "enabled": false,
+          "serviceCode": "ekyc-service",
+          "code": "null",
+          "path": ""
+    },
+    {
+          "id": 2972,
+          "name": "ekyc surveyor dashboard api",
+          "url": "/ekyc-service/user/surveyor/_dashboard",
+          "displayName": "ekyc surveyor dashboard api",
+          "orderNumber": 1,
+          "enabled": false,
+          "serviceCode": "ekyc-service",
+          "code": "null",
+          "path": ""
     }
   ]
 }
