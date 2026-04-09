@@ -1,11 +1,11 @@
 {
   "tenantId": "dl.djb",
   "moduleName": "egov-location",
-  "TenantBoundary": [
+  "TenantBoundaryAdmin": [
     {
       "hierarchyType": {
-        "code": "REVENUE",
-        "name": "REVENUE"
+        "code": "ADMIN",
+        "name": "ADMIN"
       },
       "boundary": {
         "id": 1,
