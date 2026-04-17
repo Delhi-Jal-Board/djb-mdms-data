@@ -20208,6 +20208,39 @@
           "serviceCode": "ekyc-service",
           "code": "null",
           "path": ""
+    },
+    {
+      "id": 2973,
+      "name": "request service driver trip report search endpoint",
+      "url": "/request-service/v1/driver-trip-report/_search",
+      "displayName": "request service driver trip report search endpoint",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "request-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2974,
+      "name": "request service driver trip history",
+      "url": "/request-service/v1/trip/history/_create",
+      "displayName": "request service driver trip history",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "request-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2975,
+      "name": "request service driver trip history search",
+      "url": "/request-service/v1/trip/history/_search",
+      "displayName": "request service driver trip history search",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "request-service",
+      "code": "null",
+      "path": ""
     }
   ]
 }

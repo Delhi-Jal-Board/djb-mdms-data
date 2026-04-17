@@ -32288,6 +32288,195 @@
       "actioncode": "",
       "tenantId": "dl"
     },
+     {
+      "rolecode": "WT_CEMP",
+      "actionid": 2973,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2973,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "COMMON_VENDOR",
+      "actionid": 2973,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_VENDOR",
+      "actionid": 2973,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "VENDOR_CREATOR",
+      "actionid": 2973,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2973,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "FSM_DSO",
+      "actionid": 2973,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "VENDOR",
+      "actionid": 2973,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2973,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE_ADMIN",
+      "actionid": 2973,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_DRIVER",
+      "actionid": 2973,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+     {
+      "rolecode": "WT_CEMP",
+      "actionid": 2974,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2974,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "COMMON_VENDOR",
+      "actionid": 2974,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_VENDOR",
+      "actionid": 2974,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "VENDOR_CREATOR",
+      "actionid": 2974,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2974,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "FSM_DSO",
+      "actionid": 2974,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "VENDOR",
+      "actionid": 2974,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2974,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE_ADMIN",
+      "actionid": 2974,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_DRIVER",
+      "actionid": 2974,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+     {
+      "rolecode": "WT_CEMP",
+      "actionid": 2975,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2975,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "COMMON_VENDOR",
+      "actionid": 2975,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_VENDOR",
+      "actionid": 2975,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "VENDOR_CREATOR",
+      "actionid": 2975,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2975,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "FSM_DSO",
+      "actionid": 2975,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "VENDOR",
+      "actionid": 2975,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2975,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE_ADMIN",
+      "actionid": 2975,
     {
       "rolecode": "WT_UPDATE",
       "actionid": 2969,
@@ -32295,6 +32484,12 @@
       "tenantId": "dl"
     },
     {
+      "rolecode": "WT_DRIVER",
+      "actionid": 2975,
+      "actioncode": "",
+      "tenantId": "dl"
+    }
+    
       "rolecode": "WT_UPDATE",
       "actionid": 2964,
       "actioncode": "",
