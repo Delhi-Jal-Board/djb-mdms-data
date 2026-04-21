@@ -20241,6 +20241,17 @@
       "serviceCode": "request-service",
       "code": "null",
       "path": ""
+    },
+     {
+          "id": 2976,
+          "name": "ekyc ZRO Approve Reject api",
+          "url": "/ekyc-service/user/application/_approve",
+          "displayName": "ekyc ZRO Approve Reject api",
+          "orderNumber": 1,  
+          "enabled": false,
+          "serviceCode": "ekyc-service",
+          "code": "null",
+          "path": ""
     }
   ]
 }
