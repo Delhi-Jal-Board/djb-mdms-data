@@ -1,0 +1,12 @@
+{
+    "tenantId": "dl.djb",
+    "moduleName": "PropertyTax",
+    "PropertyConfiguration":[
+      {
+          "Mutation": {
+              "RegistrationDetails": true,
+              "MutationDetails": true
+          }
+      }
+    ]
+  }
