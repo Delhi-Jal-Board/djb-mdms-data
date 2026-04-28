@@ -32545,6 +32545,12 @@
       "actionid": 2960,
       "actioncode": "",
       "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_VENDOR",
+      "actionid": 2066,
+      "actioncode": "",
+      "tenantId": "dl"
     }
   ]
 }

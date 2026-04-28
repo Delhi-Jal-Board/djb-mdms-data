@@ -356,6 +356,17 @@
       "code": "WT_UPDATE",
       "name": "wT_UPDATE",
       "description": "role for updating filling point and fixed point mapping"
+    },
+    {
+      "code": "EKYC_SURVEYOR",
+      "name": "EKYC_SURVEYOR",
+      "description": "role for EKYC surveyor who will do the survey"
+    },
+    {
+      "code": "EKYC_SUPERVISOR",
+      "name": "EKYC_SUPERVISOR",
+      "description": "role for EKYC supervisor who will review and approve the survey reports"
     }
+    
   ]
 }
