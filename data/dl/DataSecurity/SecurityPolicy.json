@@ -1098,7 +1098,7 @@
           "jsonPath": "applicantEmailId",
           "patternId": "004",
           "defaultVisibility": "PLAIN"
-        }, 
+        },
         {
           "name": "accountNumber",
           "jsonPath": "accountNumber",
@@ -1176,7 +1176,7 @@
           "jsonPath": "applicantEmailId",
           "patternId": "004",
           "defaultVisibility": "PLAIN"
-        }, 
+        },
         {
           "name": "accountNumber",
           "jsonPath": "accountNumber",
@@ -1303,7 +1303,6 @@
           "patternId": "004",
           "defaultVisibility": "PLAIN"
         }
-
       ],
       "roleBasedDecryptionPolicy": [
         {
@@ -1460,7 +1459,6 @@
           "patternId": "002",
           "defaultVisibility": "PLAIN"
         }
-
       ],
       "roleBasedDecryptionPolicy": [
         {
@@ -1477,6 +1475,70 @@
           "attributeAccessList": []
         }
       ]
+    },
+    {
+      "model": "Address",
+      "uniqueIdentifier": {
+        "name": "id",
+        "jsonPath": "/id"
+      },
+      "attributes": [
+        {
+          "name": "address",
+          "jsonPath": "address",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "address2",
+          "jsonPath": "address2",
+          "patternId": "005",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "houseNumber",
+          "jsonPath": "houseNumber",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "houseName",
+          "jsonPath": "houseName",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "streetName",
+          "jsonPath": "streetName",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "landmark",
+          "jsonPath": "landmark",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "locality",
+          "jsonPath": "locality",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "pinCode",
+          "jsonPath": "pinCode",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "city",
+          "jsonPath": "city",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        }
+      ],
+      "roleBasedDecryptionPolicy": []
     }
   ]
 }
