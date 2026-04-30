@@ -317,9 +317,9 @@
       "name": "Inventory Approver",
       "description": "Inventory Approver"
     },
-     {
+    {
       "code": "It_Dept",
-     "name": "It dept",
+      "name": "It dept",
       "description": "It dept"
     },
     {
@@ -329,12 +329,12 @@
     },
     {
       "code": "INV_IT_DEPT_ADMIN",
-       "name": "INV_IT_DEPT_ADMIN",
+      "name": "INV_IT_DEPT_ADMIN",
       "description": "IT DEPARTMENT APPROVER"
     },
     {
       "code": "VENDOR",
-       "name": "Vendor",
+      "name": "Vendor",
       "description": "Vendor Management"
     },
     {
@@ -366,7 +366,21 @@
       "code": "EKYC_SUPERVISOR",
       "name": "EKYC_SUPERVISOR",
       "description": "role for EKYC supervisor who will review and approve the survey reports"
+    },
+    {
+      "code": "AE",
+      "name": "AE",
+      "description": "role for AE"
+    },
+    {
+      "code": "JE",
+      "name": "JE",
+      "description": "role for JE "
+    },
+    {
+      "code": "EE",
+      "name": "EE",
+      "description": "role for EE"
     }
-    
   ]
 }
