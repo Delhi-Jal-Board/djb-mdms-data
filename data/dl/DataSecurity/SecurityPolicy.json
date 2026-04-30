@@ -1475,6 +1475,21 @@
           "attributeAccessList": []
         }
       ]
+    },
+    {
+      "model": "Address",
+      "uniqueIdentifier": {
+        "name": "id",
+        "jsonPath": "/id"
+      },
+      "attributes": [
+        {
+          "name": "address",
+          "jsonPath": "address",
+          "patternId": null,
+          "defaultVisibility": "PLAIN"
+        }
+      ]
     }
   ]
 }
