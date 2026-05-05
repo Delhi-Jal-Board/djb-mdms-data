@@ -1,0 +1,51 @@
+{
+  "tenantId": "dl.djb",
+  "moduleName": "ws-services-masters",
+  "Declaration": [
+    {
+      "code": "DECLARATION_1",
+      "description": "I understand that the sanction of connection does not acknowledge or confer any title, ownership or occupancy right in favour of the applicant.",
+      "active": true
+    },
+    {
+      "code": "DECLARATION_2",
+      "description": "I declare that there is no dispute regarding the property, and there is no stay from any court of law against obtaining a water/sewerage connection.",
+      "active": true
+    },
+    {
+      "code": "DECLARATION_3",
+      "description": "The property on which the connection is being applied is not booked/unauthorized/encroachment of government land/misuse etc.",
+      "active": true
+    },
+    {
+      "code": "DECLARATION_4",
+      "description": "I further undertake that, in case of any dispute regarding the ownership of the property, I will absolve DJB of any legal battle in a court of law, as the water connection applied for relates to the supply of potable water and not to the ownership of the property.",
+      "active": true
+    },
+    {
+      "code": "DECLARATION_5",
+      "description": "I further undertake to pay the charges as and when demanded by DJB, and in the event of non-payment, DJB will be at liberty to disconnect the services being provided.",
+      "active": true
+    },
+    {
+      "code": "DECLARATION_6",
+      "description": "I further undertake that I have not taken 'DJB Employee Rebate' against any other premise/connection.",
+      "active": true
+    },
+    {
+      "code": "DECLARATION_7",
+      "description": "In case the connection is found non-feasible on technical grounds as per any prevalent policy of DJB, the water connection may be denied, or if sanctioned inadvertently, the said sanction may be withdrawn and may be disconnected without any notice.",
+      "active": true
+    },
+    {
+      "code": "DECLARATION_8",
+      "description": "In case the connection is found non-feasible on technical grounds as per any prevalent policy of DJB, the water connection may be denied, or if sanctioned inadvertently, the said sanction may be withdrawn and may be disconnected without any notice.",
+      "active": true
+    },
+    {
+      "code": "DECLARATION_9",
+      "description": "I hereby undertake that all the facts and documents submitted are true and correct, and in case of any misrepresentation or wrong facts, the connection may be disconnected without any notice.",
+      "active": true
+    }
+  ]
+}
