@@ -1,0 +1,26 @@
+{
+  "tenantId": "dl.djb",
+  "moduleName": "PropertyTax",
+  "PropertyCategory": [
+    {
+      "name": "Commercial",
+      "code": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "name": "Industrial",
+      "code": "INDUSTRIAL",
+      "active": true
+    },
+    {
+      "name": "Institutional",
+      "code": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "name": "Mixed",
+      "code": "MIXED",
+      "active": true
+    }
+  ]
+}

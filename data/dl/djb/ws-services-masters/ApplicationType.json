@@ -37,6 +37,18 @@
       "code": "DISCONNECT_SEWERAGE_CONNECTION",
       "name": "Disconnect Sewerage Connection",
       "businessService": "DisconnectSWConnection"
+    },
+    {
+      "id": 7,
+      "code": "WATER_SEWERAGE_CONNECTION",
+      "name": " Water and Sewerage Connection",
+      "businessService": "NewSW1"
+    },
+    {
+      "id": 8,
+      "code": "REGULARIZATION",
+      "name": "Regularization",
+      "businessService": "NewSW1"
     }
   ]
 }

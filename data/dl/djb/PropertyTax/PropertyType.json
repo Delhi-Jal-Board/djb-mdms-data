@@ -3,26 +3,69 @@
   "moduleName": "PropertyTax",
   "PropertyType": [
     {
-      "name": "Vacant Land",
-      "code": "VACANT",
+      "name": "Apartment",
+      "code": "Apartment",
       "active": true
     },
     {
-      "name": "Built Up",
-      "code": "BUILTUP",
+      "name": "Banquet Hall",
+      "code": "BanquetHall",
       "active": true
     },
     {
-      "name": "Flat/Part of the building",
-      "code": "BUILTUP.SHAREDPROPERTY",
-      "active": true,
-      "propertyType": "BUILTUP"
+      "name": "Bungalows",
+      "code": "Bungalows",
+      "active": true
     },
     {
-      "name": "Independent Building",
-      "code": "BUILTUP.INDEPENDENTPROPERTY",
-      "active": true,
-      "propertyType": "BUILTUP"
+      "name": "DDA flats",
+      "code": "DDAFlats",
+      "active": true
+    },
+    {
+      "name": "Dharamshalas or Hostels",
+      "code": "DharamshalasOrHostels",
+      "active": true
+    },
+    {
+      "name": "Govt. Flats",
+      "code": "GovtFlats",
+      "active": true
+    },
+    {
+      "name": "Group Housing Society",
+      "code": "GroupHousingSociety",
+      "active": true
+    },
+    {
+      "name": "Hotel or Guest Houses",
+      "code": "HotelOrGuestHouses",
+      "active": true
+    },
+    {
+      "name": "Individual House",
+      "code": "IndividualHouse",
+      "active": true
+    },
+    {
+      "name": "Mall or Cineplex",
+      "code": "MallOrCineplex",
+      "active": true
+    },
+    {
+      "name": "Office complex",
+      "code": "OfficeComplex",
+      "active": true
+    },
+    {
+      "name": "School",
+      "code": "School",
+      "active": true
+    },
+    {
+      "name": "Hospital/Nursing Home",
+      "code": "HospitalNursingHome",
+      "active": true
     }
   ]
 }

@@ -1,0 +1,36 @@
+{
+  "tenantId": "dl.djb",
+  "moduleName": "ws-services-masters",
+  "TemporaryConnectionType": [
+    {
+      "name": "Exhibition",
+      "code": "Exhibition",
+      "active": true
+    },
+    {
+      "name": "Official Function",
+      "code": "OfficialFunction",
+      "active": true
+    },
+    {
+      "name": "Religious Function",
+      "code": "ReligiousFunction",
+      "active": true
+    },
+    {
+      "name": "Circus",
+      "code": "Circus",
+      "active": true
+    },
+    {
+      "name": "Construction",
+      "code": "Construction",
+      "active": true
+    },
+    {
+      "name": "as per Court Orders",
+      "code": "CourtOrders",
+      "active": true
+    }
+  ]
+}

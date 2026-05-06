@@ -1,0 +1,46 @@
+{
+  "tenantId": "dl.djb",
+  "moduleName": "PropertyTax",
+  "NoOfFloors": [
+    {
+      "name": "Basement",
+      "code": "BASEMENT",
+      "active": true
+    },
+    {
+      "name": "Ground Floor",
+      "code": "GROUND_FLOOR",
+      "active": true
+    },
+    {
+      "name": "1 Floor",
+      "code": "1_FLOOR",
+      "active": true
+    },
+    {
+      "name": "2 Floor",
+      "code": "2_FLOOR",
+      "active": true
+    },
+    {
+      "name": "3 Floor",
+      "code": "3_FLOOR",
+      "active": true
+    },
+    {
+      "name": "4 Floor",
+      "code": "4_FLOOR",
+      "active": true
+    },
+    {
+      "name": "5 Floor",
+      "code": "5_FLOOR",
+      "active": true
+    },
+    {
+      "name": "6 Floor",
+      "code": "6_FLOOR",
+      "active": true
+    }
+  ]
+}

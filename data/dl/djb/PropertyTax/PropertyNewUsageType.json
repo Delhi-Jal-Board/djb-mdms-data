@@ -1,0 +1,366 @@
+{
+  "tenantId": "dl.djb",
+  "moduleName": "PropertyTax",
+  "PropertyNewUsageType": [
+    {
+      "name": "B.S.E.S. RAJDHANI",
+      "code": "BSES_RAJDHANI",
+      "active": true
+    },
+    {
+      "name": "B.S.E.S. YAMUNA",
+      "code": "BSES_YAMUNA",
+      "active": true
+    },
+    {
+      "name": "Banquet hall/ Party hall",
+      "code": "BANQUET_HALL_PARTY_HALL",
+      "active": true
+    },
+    {
+      "name": "Beauty Parlors",
+      "code": "BEAUTY_PARLORS",
+      "active": true
+    },
+    {
+      "name": "Blind Schools",
+      "code": "BLIND_SCHOOLS",
+      "active": true
+    },
+    {
+      "name": "Bottling Plant",
+      "code": "BOTTLING_PLANT",
+      "active": true
+    },
+    {
+      "name": "C.P.W.D.",
+      "code": "CPWD",
+      "active": true
+    },
+    {
+      "name": "Central Govt. Offices",
+      "code": "CENTRAL_GOVT_OFFICES",
+      "active": true
+    },
+    {
+      "name": "Cineplex",
+      "code": "CINEPLEX",
+      "active": true
+    },
+    {
+      "name": "Clinic/Pathlab",
+      "code": "CLINIC_PATHLAB",
+      "active": true
+    },
+    {
+      "name": "Co-operative Group Housing Society",
+      "code": "COOP_GROUP_HOUSING",
+      "active": true
+    },
+    {
+      "name": "Cold Storage",
+      "code": "COLD_STORAGE",
+      "active": true
+    },
+    {
+      "name": "Colour Dye shop/factory",
+      "code": "COLOUR_DYE_SHOP_FACTORY",
+      "active": true
+    },
+    {
+      "name": "Cooling Plant",
+      "code": "COOLING_PLANT",
+      "active": true
+    },
+    {
+      "name": "Courts",
+      "code": "COURTS",
+      "active": true
+    },
+    {
+      "name": "D.S.I.I.D.C",
+      "code": "DSIIDC",
+      "active": true
+    },
+    {
+      "name": "Delhi Development Authority",
+      "code": "DDA",
+      "active": true
+    },
+    {
+      "name": "Delhi Fire Service (Fire Station)",
+      "code": "DELHI_FIRE_SERVICE",
+      "active": true
+    },
+    {
+      "name": "Delhi Govt. Office",
+      "code": "DELHI_GOVT_OFFICE",
+      "active": true
+    },
+    {
+      "name": "Delhi Jal Board",
+      "code": "DELHI_JAL_BOARD",
+      "active": true
+    },
+    {
+      "name": "Delhi Metro Rail Corporation",
+      "code": "DMRC",
+      "active": true
+    },
+    {
+      "name": "Delhi Transco",
+      "code": "DELHI_TRANSCO",
+      "active": true
+    },
+    {
+      "name": "Delhi Transport Corporation",
+      "code": "DTC",
+      "active": true
+    },
+    {
+      "name": "Dhaba",
+      "code": "DHABA",
+      "active": true
+    },
+    {
+      "name": "Dhobi Ghats",
+      "code": "DHOBI_GHATS",
+      "active": true
+    },
+    {
+      "name": "Dry Cleaners",
+      "code": "DRY_CLEANERS",
+      "active": true
+    },
+    {
+      "name": "EDMC Schools",
+      "code": "EDMC_SCHOOLS",
+      "active": true
+    },
+    {
+      "name": "East MCD",
+      "code": "EAST_MCD",
+      "active": true
+    },
+    {
+      "name": "Factory",
+      "code": "FACTORY",
+      "active": true
+    },
+    {
+      "name": "Fruit & Vegetables Store - Reliance Safal",
+      "code": "FRUIT_VEG_STORE",
+      "active": true
+    },
+    {
+      "name": "Govt. Hospitals/ Dispensary",
+      "code": "GOVT_HOSPITALS",
+      "active": true
+    },
+    {
+      "name": "Govt. Institute/Colleges/ Universities",
+      "code": "GOVT_INSTITUTE",
+      "active": true
+    },
+    {
+      "name": "Govt. Offices/PSU/Bank",
+      "code": "GOVT_OFFICES_PSU_BANK",
+      "active": true
+    },
+    {
+      "name": "Govt. Schools (GNCTD)",
+      "code": "GOVT_SCHOOLS_GNCTD",
+      "active": true
+    },
+    {
+      "name": "Govt. Schools (GOI)",
+      "code": "GOVT_SCHOOLS_GOI",
+      "active": true
+    },
+    {
+      "name": "Haircutting Saloon",
+      "code": "HAIRCUTTING_SALOON",
+      "active": true
+    },
+    {
+      "name": "Hotel/Guest houses",
+      "code": "HOTEL_GUEST_HOUSES",
+      "active": true
+    },
+    {
+      "name": "Ice-Cream Factory/Ice Factory",
+      "code": "ICE_FACTORY",
+      "active": true
+    },
+    {
+      "name": "Janta Flats",
+      "code": "JANTA_FLATS",
+      "active": true
+    },
+    {
+      "name": "Jewellery Manufacturing Factory/Repairing",
+      "code": "JEWELLERY_FACTORY",
+      "active": true
+    },
+    {
+      "name": "Juice Shop",
+      "code": "JUICE_SHOP",
+      "active": true
+    },
+    {
+      "name": "Lab/X-Ray Units",
+      "code": "LAB_XRAY",
+      "active": true
+    },
+    {
+      "name": "M.C.D. Slums & J.J. Department/DUSIB",
+      "code": "MCD_SLUMS",
+      "active": true
+    },
+    {
+      "name": "M.T.N.L",
+      "code": "MTNL",
+      "active": true
+    },
+    {
+      "name": "Malls",
+      "code": "MALLS",
+      "active": true
+    },
+    {
+      "name": "Milk Dairy",
+      "code": "MILK_DAIRY",
+      "active": true
+    },
+    {
+      "name": "Moulding Machine Factory",
+      "code": "MOULDING_FACTORY",
+      "active": true
+    },
+    {
+      "name": "Mutton Shop",
+      "code": "MUTTON_SHOP",
+      "active": true
+    },
+    {
+      "name": "NDMC Schools",
+      "code": "NDMC_SCHOOLS",
+      "active": true
+    },
+    {
+      "name": "Nickle Polish Works",
+      "code": "NICKLE_POLISH",
+      "active": true
+    },
+    {
+      "name": "North Delhi Power Ltd. (TDDPL)",
+      "code": "TDDPL",
+      "active": true
+    },
+    {
+      "name": "North MCD",
+      "code": "NORTH_MCD",
+      "active": true
+    },
+    {
+      "name": "Others",
+      "code": "OTHERS",
+      "active": true
+    },
+    {
+      "name": "Piaos",
+      "code": "PIAOS",
+      "active": true
+    },
+    {
+      "name": "Police Department",
+      "code": "POLICE_DEPARTMENT",
+      "active": true
+    },
+    {
+      "name": "Professional Office (CA, Lawyer, Property)",
+      "code": "PROFESSIONAL_OFFICE",
+      "active": true
+    },
+    {
+      "name": "Pvt. Hospitals & Nursing Homes",
+      "code": "PVT_HOSPITALS",
+      "active": true
+    },
+    {
+      "name": "Pvt. Institute/Colleges/ Universities",
+      "code": "PVT_INSTITUTE",
+      "active": true
+    },
+    {
+      "name": "Pvt. Schools",
+      "code": "PVT_SCHOOLS",
+      "active": true
+    },
+    {
+      "name": "Railways",
+      "code": "RAILWAYS",
+      "active": true
+    },
+    {
+      "name": "Religious Place",
+      "code": "RELIGIOUS_PLACE",
+      "active": true
+    },
+    {
+      "name": "Residential",
+      "code": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "name": "Restaurant",
+      "code": "RESTAURANT",
+      "active": true
+    },
+    {
+      "name": "SDMC Schools",
+      "code": "SDMC_SCHOOLS",
+      "active": true
+    },
+    {
+      "name": "Shops",
+      "code": "SHOPS",
+      "active": true
+    },
+    {
+      "name": "Soda Water Factory",
+      "code": "SODA_FACTORY",
+      "active": true
+    },
+    {
+      "name": "Soft Drink Factory",
+      "code": "SOFT_DRINK_FACTORY",
+      "active": true
+    },
+    {
+      "name": "South MCD",
+      "code": "SOUTH_MCD",
+      "active": true
+    },
+    {
+      "name": "Sweet Shop",
+      "code": "SWEET_SHOP",
+      "active": true
+    },
+    {
+      "name": "Tea Stall",
+      "code": "TEA_STALL",
+      "active": true
+    },
+    {
+      "name": "Vehicle/Automobile Service Station",
+      "code": "AUTO_SERVICE",
+      "active": true
+    },
+    {
+      "name": "Warehouse/Godown",
+      "code": "WAREHOUSE",
+      "active": true
+    }
+  ]
+}
