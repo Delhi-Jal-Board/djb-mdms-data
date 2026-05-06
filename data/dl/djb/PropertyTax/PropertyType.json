@@ -33,18 +33,80 @@
       "active": true
     },
     {
-      "name": "Group Housing Society",
-      "code": "GroupHousingSociety",
-      "active": true
-    },
-    {
       "name": "Hotel or Guest Houses",
       "code": "HotelOrGuestHouses",
       "active": true
     },
     {
+      "name": "Factory",
+      "code": "Factory",
+      "type": "INDUSTRIAL",
+      "active": true
+    },
+    {
+      "name": "Manufacturing Unit",
+      "code": "ManufacturingUnit",
+      "type": "INDUSTRIAL",
+      "active": true
+    },
+    {
+      "name": "Warehouse",
+      "code": "Warehouse",
+      "type": "INDUSTRIAL",
+      "active": true
+    },
+    {
+      "name": "Shop",
+      "code": "Shop",
+      "type": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "name": "Office",
+      "code": "Office",
+      "type": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "name": "Mall",
+      "code": "Mall",
+      "type": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "name": "Complex",
+      "code": "Complex",
+      "type": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "name": "Hotel/Restaurant",
+      "code": "HotelOrRestaurant",
+      "type": "COMMERCIAL",
+      "active": true
+    },
+    {
       "name": "Individual House",
       "code": "IndividualHouse",
+      "type": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "name": "Flat/Apartment",
+      "code": "FlatOrApartment",
+      "type": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "name": "Builder Floors",
+      "code": "BuilderFloors",
+      "type": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "name": "Group Housing Society",
+      "code": "GroupHousingSociety",
+      "type": "RESIDENTIAL",
       "active": true
     },
     {
@@ -60,11 +122,25 @@
     {
       "name": "School",
       "code": "School",
+      "type": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "name": "College",
+      "code": "College",
+      "type": "INSTITUTIONAL",
       "active": true
     },
     {
       "name": "Hospital/Nursing Home",
       "code": "HospitalNursingHome",
+      "type": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "name": "Government Buildings",
+      "code": "GovernmentBuildings",
+      "type": "INSTITUTIONAL",
       "active": true
     }
   ]

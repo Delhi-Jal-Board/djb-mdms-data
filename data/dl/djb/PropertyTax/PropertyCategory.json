@@ -3,6 +3,11 @@
   "moduleName": "PropertyTax",
   "PropertyCategory": [
     {
+      "name": "Residential",
+      "code": "RESIDENTIAL",
+      "active": true
+    },
+    {
       "name": "Commercial",
       "code": "COMMERCIAL",
       "active": true
