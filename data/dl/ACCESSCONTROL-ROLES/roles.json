@@ -381,6 +381,11 @@
       "code": "EE",
       "name": "EE",
       "description": "role for EE"
+    },
+    {
+      "code": "EKYC-VENDOR",
+      "name": "EKYC-VENDOR",
+      "description": "role for Ekyc-vendor"
     }
   ]
 }
