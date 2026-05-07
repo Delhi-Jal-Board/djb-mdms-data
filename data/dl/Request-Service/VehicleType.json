@@ -1,48 +1,62 @@
 {
-    "tenantId": "dl",
-    "moduleName": "request-service",
-    "VehicleType": [
-        {
-            "vehicleType": "TANKER",
-            "code": "TANKER_1000",
-            "capacityName": "1000 Ltr",
-            "capacity": 1000,
-            "active": true
-        },
-        {
-            "vehicleType": "TANKER",
-            "code": "TANKER_3000",
-            "capacityName": "3000 Ltr",
-            "capacity": 3000,
-            "active": true
-        },
-        {
-            "vehicleType": "TANKER",
-            "code": "TANKER_5000",
-            "capacityName": "5000 Ltr",
-            "capacity": 5000,
-            "active": true
-        },
-        {
-            "vehicleType": "TROLLEY",
-            "code": "TROLLEY_300",
-            "capacityName": "300 Ltr",
-            "capacity": 300,
-            "active": true
-        },
-        {
-            "vehicleType": "TROLLEY",
-            "code": "TROLLEY_500",
-            "capacityName": "500 Ltr",
-            "capacity": 500,
-            "active": true
-        },
-        {
-            "vehicleType": "TROLLEY",
-            "code": "TROLLEY_800",
-            "capacityName": "800 Ltr",
-            "capacity": 800,
-            "active": true
-        }
-    ]
+  "tenantId": "dl",
+  "moduleName": "request-service",
+  "VehicleType": [
+    {
+      "vehicleType": "TANKER",
+      "code": "TANKER_1000",
+      "capacityName": "1000 Ltr",
+      "capacity": 1000,
+      "active": true
+    },
+    {
+      "vehicleType": "TANKER",
+      "code": "TANKER_3000",
+      "capacityName": "3000 Ltr",
+      "capacity": 3000,
+      "active": true
+    },
+    {
+      "vehicleType": "TANKER",
+      "code": "TANKER_4000",
+      "capacityName": "4000 Ltr",
+      "capacity": 4000,
+      "active": true
+    },
+    {
+      "vehicleType": "TANKER",
+      "code": "TANKER_5000",
+      "capacityName": "5000 Ltr",
+      "capacity": 5000,
+      "active": true
+    },
+    {
+      "vehicleType": "TANKER",
+      "code": "TANKER_9000",
+      "capacityName": "9000 Ltr",
+      "capacity": 9000,
+      "active": true
+    },
+    {
+      "vehicleType": "TROLLEY",
+      "code": "TROLLEY_300",
+      "capacityName": "300 Ltr",
+      "capacity": 300,
+      "active": true
+    },
+    {
+      "vehicleType": "TROLLEY",
+      "code": "TROLLEY_500",
+      "capacityName": "500 Ltr",
+      "capacity": 500,
+      "active": true
+    },
+    {
+      "vehicleType": "TROLLEY",
+      "code": "TROLLEY_800",
+      "capacityName": "800 Ltr",
+      "capacity": 800,
+      "active": true
+    }
+  ]
 }
