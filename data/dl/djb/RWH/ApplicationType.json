@@ -1,0 +1,24 @@
+{
+  "tenantId": "dl.djb",
+  "moduleName": "rwh-masters",
+  "RWHApplicantType": [
+    {
+      "id": 1,
+      "code": "NEW_REGISTRATION",
+      "name": "NEW REGISTRATION",
+      "active": true
+    },
+    {
+      "id": 2,
+      "code": "RENEWAL",
+      "name": "RENEWAL",
+      "active": true
+    },
+    {
+      "id": 3,
+      "code": "EXEMPTION",
+      "name": "EXEMPTION",
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "tenantId": "dl.djb",
+  "moduleName": "rwh-masters",
+  "RWHDeclaration": [
+    {
+      "code": "DECLARATION_1",
+      "description": "RWH through artificial ground water recharge structure is not recommended where post monsoon ground water levels are shallower than 5 m.",
+      "active": true
+    },
+    {
+      "code": "DECLARATION_2",
+      "description": "In such areas, rain water harvested from rooftops shall be stored in surface water storage structures like syntax or RCC tanks having retention capacity equivalent to rooftop runoff and may be utilized for non-potable purposes such as gardening, toilet flushing and similar uses.",
+      "active": true
+    },
+    {
+      "code": "DECLARATION_3",
+      "description": "I understand that the application for exemption certificate shall be submitted along with relevant documents such as ownership papers, Aadhaar card, approved map, plot area, roof top area and ground water level details.",
+      "active": true
+    },
+    {
+      "code": "DECLARATION_4",
+      "description": "I shall cooperate with the concerned maintenance division/RWH Cell officials for inspection and verification of post monsoon ground water level.",
+      "active": true
+    },
+    {
+      "code": "DECLARATION_5",
+      "description": "I understand that the CGWB assessment of post monsoon ground water levels of the last 03 years shall be considered and if the ground water level is found below prescribed norms, the exemption application may be rejected.",
+      "active": true
+    },
+    {
+      "code": "DECLARATION_6",
+      "description": "I understand that no application for exemption shall be accepted during monsoon season i.e. from 1 July to 30 September.",
+      "active": true
+    },
+    {
+      "code": "DECLARATION_7",
+      "description": "I understand that the validity of the Exemption Certificate shall be 2 years and if the post monsoon ground water level decreases below 5 m during the validity period, installation of RWH structure as per DJB norms shall become mandatory.",
+      "active": true
+    },
+    {
+      "code": "DECLARATION_8",
+      "description": "I hereby declare that all information submitted by me is true and correct to the best of my knowledge and belief.",
+      "active": true
+    }
+  ]
+}

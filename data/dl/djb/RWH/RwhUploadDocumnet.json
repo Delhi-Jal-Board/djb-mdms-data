@@ -1,0 +1,24 @@
+{
+  "tenantId": "dl.djb",
+  "moduleName": "rwh-masters",
+  "RWHUploadDocument": [
+    {
+      "id": 1,
+      "code": "SANCTIONED_BUILDING_PLAN",
+      "name": "Sanctioned Building Plan",
+      "active": true
+    },
+    {
+      "id": 2,
+      "code": "STRUCTURAL_STABILITY_CERTIFICATE",
+      "name": "Structural Stability Certificate",
+      "active": true
+    },
+    {
+      "id": 3,
+      "code": "NOC_RWA_PRESIDENT_SECRETARY",
+      "name": "NOC/RWA (President/Secretary)",
+      "active": true
+    }
+  ]
+}

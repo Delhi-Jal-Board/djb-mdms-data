@@ -1,0 +1,24 @@
+{
+  "tenantId": "dl.djb",
+  "moduleName": "rwh-masters",
+  "RWHJurisdiction": [
+    {
+      "id": 1,
+      "code": "DJB",
+      "name": "DJB",
+      "active": true
+    },
+    {
+      "id": 2,
+      "code": "NDMC",
+      "name": "NDMC",
+      "active": true
+    },
+    {
+      "id": 3,
+      "code": "DELHI_CANTT",
+      "name": "DELHI CANTT",
+      "active": true
+    }
+  ]
+}

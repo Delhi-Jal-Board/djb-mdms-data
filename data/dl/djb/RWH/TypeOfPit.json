@@ -1,0 +1,18 @@
+{
+  "tenantId": "dl.djb",
+  "moduleName": "rwh-masters",
+  "RWHTypeOfPit": [
+    {
+      "id": 1,
+      "code": "CIRCULAR",
+      "name": "Circular",
+      "active": true
+    },
+    {
+      "id": 2,
+      "code": "RECTANGULAR",
+      "name": "Rectangular",
+      "active": true
+    }
+  ]
+}
