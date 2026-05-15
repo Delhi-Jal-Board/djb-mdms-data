@@ -317,6 +317,17 @@
           "code": "dl.djb"
         }
       ]
+    },
+    {
+      "module": "RWH",
+      "code": "RWH",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "dl.djb"
+        }
+      ]
     }
   ]
 }
