@@ -20361,7 +20361,7 @@
     {
       "id": 2986,
       "name": "Update Emergency Water tanker boking details",
-      "url": "/request-service/v1/emergency/booking/_update",
+      "url": "/request-service/water-tanker/v1/emergency/_update",
       "displayName": "Emergency Booking Update",
       "orderNumber": 1,
       "parentModule": "",
