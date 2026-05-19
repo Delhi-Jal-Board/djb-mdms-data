@@ -1,7 +1,7 @@
 {
   "tenantId": "dl.djb",
   "moduleName": "PropertyTax",
-  "PropertyType": [
+  "NewPropertyType": [
     {
       "name": "Apartment",
       "code": "Apartment",
