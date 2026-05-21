@@ -32761,6 +32761,55 @@
       "actionid": 2986,
       "actioncode": "",
       "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2987,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2987,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "AE_CREATOR",
+      "actionid": 2987,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_CEMP",
+      "actionid": 2987,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_VENDOR",
+      "actionid": 2987,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EE",
+      "actionid": 2987,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "JE",
+      "actionid": 2987,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "AE",
+      "actionid": 2987,
+      "actioncode": "",
+      "tenantId": "dl"
     }
+
   ]
 }
