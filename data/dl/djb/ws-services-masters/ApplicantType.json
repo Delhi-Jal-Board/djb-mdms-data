@@ -19,6 +19,12 @@
       "code": "RELATIVE",
       "name": "Relative",
       "active": true
+    },
+    {
+      "id": 4,
+      "code": "OTHERS",
+      "name": "Others",
+      "active": true
     }
   ]
 }

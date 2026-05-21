@@ -57,6 +57,13 @@
       "name": "Regularization",
       "businessService": "NewSW1",
       "active": true
+    },
+    {
+      "id": 9,
+      "code": "Treated_Water",
+      "name": "Treated Water",
+      "businessService": "NewSW1",
+      "active": true
     }
   ]
 }
