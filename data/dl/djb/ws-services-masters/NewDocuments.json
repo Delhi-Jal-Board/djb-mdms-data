@@ -3,6 +3,14 @@
   "moduleName": "ws-services-masters",
   "NewWSDocuments": [
     {
+      "code": "OWNER.APPLICANTPHOTO",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "hasDropdown": false,
+      "description": "Upload Applicant Photo"
+    },
+    {
       "code": "OWNER.IDENTITYPROOF",
       "documentType": "OWNER",
       "required": true,
@@ -166,14 +174,6 @@
         }
       ],
       "description": "OWNER.OTHERDOCUMENTS.OTHERDOCUMENTS_DESCRIPTION"
-    },
-    {
-      "code": "OWNER.APPLICANTPHOTO",
-      "documentType": "OWNER",
-      "required": true,
-      "active": true,
-      "hasDropdown": false,
-      "description": "Upload Applicant Photo"
     }
   ]
 }
