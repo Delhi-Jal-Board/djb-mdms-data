@@ -20417,18 +20417,6 @@
       "serviceCode": "ekyc-service",
       "code": "null",
       "path": ""
-    },
-    {
-      "id": 2990,
-      "name": "Run Fixed Point Scheduler to Cancel Booking Details",
-      "url": "/request-service/water-tanker/fixed_point/_cancel-scheduled",
-      "displayName": "Run Fixed Point Scheduler",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "request-service",
-      "code": "null",
-      "path": ""
     }
   ]
 }
