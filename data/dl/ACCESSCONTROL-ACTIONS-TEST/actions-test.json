@@ -20383,24 +20383,6 @@
       "path": ""
     },
     {
-      "id": 2986,
-      "name": "Assignment Assign",
-      "url": "/ekyc-service/assignment/_assign",
-      "enabled": false,
-      "serviceCode": "ekyc-service",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2987,
-      "name": "Assignment Search",
-      "url": "/ekyc-service/assignment/_search",
-      "enabled": false,
-      "serviceCode": "ekyc-service",
-      "code": "null",
-      "path": ""
-    },
-    {
       "id": 2988,
       "name": "Assignment Reassign",
       "url": "/ekyc-service/assignment/_reassign",
@@ -20427,6 +20409,54 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "request-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2991,
+      "name": "Assignment Assign",
+      "url": "/ekyc-service/assignment/_assign",
+      "displayName": "eKYC Assignment Assign",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "ekyc-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2992,
+      "name": "Assignment Search",
+      "url": "/ekyc-service/assignment/_search",
+      "displayName": "eKYC Assignment Search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "ekyc-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2993,
+      "name": "Revisit Create",
+      "url": "/ekyc-service/revisit/_create",
+      "displayName": "eKYC Revisit Create",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "ekyc-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2994,
+      "name": "Revisit Search",
+      "url": "/ekyc-service/revisit/_search",
+      "displayName": "eKYC Revisit Search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "ekyc-service",
       "code": "null",
       "path": ""
     }
