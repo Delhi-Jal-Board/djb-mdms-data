@@ -339,6 +339,17 @@
           "code": "dl.djb"
         }
       ]
+    },
+    {
+      "module": "CommonPT",
+      "code": "CommonPT",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "dl.djb"
+        }
+      ]
     }
   ]
 }
