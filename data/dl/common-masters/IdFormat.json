@@ -459,7 +459,7 @@
             "idname": "pt.assessmentnumber"
         },
         {
-            "format": "PG-PT-[CITY.CODE]-[SEQ_EG_PT_PTID]",
+            "format": "PG-PT-DJB-[SEQ_EG_PT_PTID]",
             "idname": "pt.propertyid"
         },
         {
