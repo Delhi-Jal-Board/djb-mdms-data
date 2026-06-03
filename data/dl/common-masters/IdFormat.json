@@ -527,7 +527,7 @@
             "idname": "sw.receipt.id"
         },
         {
-            "format": "WS_AP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_WS_APP_[TENANT_ID]]",
+            "format": "WS_AP/DJB/[fy:yyyy-yy]/[SEQ_WS_APP_[TENANT_ID]]",
             "idname": "waterservice.application.id"
         },
         {
@@ -711,7 +711,7 @@
             "idname": "death_cert.receipt.id"
         },
         {
-            "format": "WS_AP/[CITY.CODE]/[fy:yyyy-yy]/DC-[SEQ_WS_APP_[TENANT_ID]]",
+            "format": "WS_AP/DJB/[fy:yyyy-yy]/DC-[SEQ_WS_APP_[TENANT_ID]]",
             "idname": "waterservice.disconnection.id"
         },
         {
