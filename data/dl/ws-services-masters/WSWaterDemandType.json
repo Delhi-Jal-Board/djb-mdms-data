@@ -1,0 +1,18 @@
+{
+  "tenantId": "dl",
+  "moduleName": "ws-services-masters",
+  "WSWaterDemandType": [
+    {
+      "id": 1,
+      "code": "BULK",
+      "name": "Bulk",
+      "active": true
+    },
+    {
+      "id": 2,
+      "code": "NON_BULK",
+      "name": "Non-Bulk",
+      "active": true
+    }
+  ]
+}

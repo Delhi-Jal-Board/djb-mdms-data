@@ -1,0 +1,31 @@
+{
+  "tenantId": "dl",
+  "moduleName": "PropertyTax",
+  "PropertyCategory": [
+    {
+      "name": "Residential",
+      "code": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "name": "Commercial",
+      "code": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "name": "Industrial",
+      "code": "INDUSTRIAL",
+      "active": true
+    },
+    {
+      "name": "Institutional",
+      "code": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "name": "Mixed",
+      "code": "MIXED",
+      "active": true
+    }
+  ]
+}

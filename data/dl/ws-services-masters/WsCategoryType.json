@@ -1,0 +1,18 @@
+{
+  "tenantId": "dl",
+  "moduleName": "ws-services-masters",
+  "WsCategoryType": [
+    {
+      "id": 1,
+      "code": "DOMESTIC",
+      "name": "Domestic",
+      "active": true
+    },
+    {
+      "id": 2,
+      "code": "NON_DOMESTIC",
+      "name": "Non-Domestic",
+      "active": true
+    }
+  ]
+}

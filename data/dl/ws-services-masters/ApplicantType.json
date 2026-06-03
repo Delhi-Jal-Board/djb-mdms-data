@@ -1,0 +1,30 @@
+{
+  "tenantId": "dl",
+  "moduleName": "ws-services-masters",
+  "ApplicantType": [
+    {
+      "id": 1,
+      "code": "OWNER",
+      "name": "Owner",
+      "active": true
+    },
+    {
+      "id": 2,
+      "code": "TENANT",
+      "name": "Tenant",
+      "active": true
+    },
+    {
+      "id": 3,
+      "code": "RELATIVE",
+      "name": "Relative",
+      "active": true
+    },
+    {
+      "id": 4,
+      "code": "OTHERS",
+      "name": "Others",
+      "active": true
+    }
+  ]
+}

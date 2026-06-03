@@ -1,0 +1,179 @@
+{
+  "tenantId": "dl",
+  "moduleName": "ws-services-masters",
+  "NewWSDocuments": [
+    {
+      "code": "OWNER.APPLICANTPHOTO",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "hasDropdown": false,
+      "description": "Upload Applicant Photo"
+    },
+    {
+      "code": "OWNER.IDENTITYPROOF",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "OWNER.IDENTITYPROOF.AADHAAR",
+          "active": true
+        },
+        {
+          "code": "OWNER.IDENTITYPROOF.VOTERID",
+          "active": true
+        },
+        {
+          "code": "OWNER.IDENTITYPROOF.DRIVING",
+          "active": true
+        },
+        {
+          "code": "OWNER.IDENTITYPROOF.PAN",
+          "active": true
+        },
+        {
+          "code": "OWNER.IDENTITYPROOF.PASSPORT",
+          "active": true
+        }
+      ],
+      "description": "OWNER.ADDRESSPROOF.IDENTITYPROOF_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.OWNERSHIPPROOF",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "OWNER.OWNERSHIPPROOF.ELECTRICITY_BILL",
+          "active": true
+        },
+        {
+          "code": "OWNER.OWNERSHIPPROOF.REGISTERED_SALE_DEED",
+          "active": true
+        },
+        {
+          "code": "OWNER.OWNERSHIPPROOF.REGISTERED_PERPETUAL_DEED",
+          "active": true
+        },
+        {
+          "code": "OWNER.OWNERSHIPPROOF.REGISTERED_CONVEYANCE_DEED",
+          "active": true
+        },
+        {
+          "code": "OWNER.OWNERSHIPPROOF.REGISTERED_GPA",
+          "active": true
+        },
+        {
+          "code": "OWNER.OWNERSHIPPROOF.NOTARISED_GPA",
+          "active": true
+        },
+        {
+          "code": "OWNER.OWNERSHIPPROOF.REGISTERED_SPA",
+          "active": true
+        },
+        {
+          "code": "OWNER.OWNERSHIPPROOF.NOTARISED_SPA",
+          "active": true
+        },
+        {
+          "code": "OWNER.OWNERSHIPPROOF.PARTITION_DEED",
+          "active": true
+        },
+        {
+          "code": "OWNER.OWNERSHIPPROOF.RELINQUISHMENT_DEED",
+          "active": true
+        },
+        {
+          "code": "OWNER.OWNERSHIPPROOF.BUILDER_SALE_DEED",
+          "active": true
+        },
+        {
+          "code": "OWNER.OWNERSHIPPROOF.BUILDER_GPA",
+          "active": true
+        },
+        {
+          "code": "OWNER.OWNERSHIPPROOF.RENT_AGREEMENT",
+          "active": true
+        },
+        {
+          "code": "OWNER.OWNERSHIPPROOF.DDA_LETTER",
+          "active": true
+        },
+        {
+          "code": "OWNER.OWNERSHIPPROOF.COURT_ORDER",
+          "active": true
+        }
+      ],
+      "description": "OWNER.OWNERSHIPPROOF.OWNERSHIPPROOF_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.OTHERDOCUMENTS",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "hasDropdown": true,
+      "dropdownData": [
+        {
+          "code": "OWNER.OTHERDOCUMENTS.NOC_FROM_OWNER",
+          "name": "NOC From Owner",
+          "active": true
+        },
+        {
+          "code": "OWNER.OTHERDOCUMENTS.NOC_FROM_MCD",
+          "name": "NOC From MCD",
+          "active": true
+        },
+        {
+          "code": "OWNER.OTHERDOCUMENTS.NOC_FROM_DPCC",
+          "name": "NOC From DPCC",
+          "active": true
+        },
+        {
+          "code": "OWNER.OTHERDOCUMENTS.LAYOUT_PLAN",
+          "name": "Layout Plan",
+          "active": true
+        },
+        {
+          "code": "OWNER.OTHERDOCUMENTS.KEY_PLAN",
+          "name": "Key Plan",
+          "active": true
+        },
+        {
+          "code": "OWNER.OTHERDOCUMENTS.FLOOR_PLAN",
+          "name": "Floor Plan",
+          "active": true
+        },
+        {
+          "code": "OWNER.OTHERDOCUMENTS.SITE_PLAN",
+          "name": "Site Plan",
+          "active": true
+        },
+        {
+          "code": "OWNER.OTHERDOCUMENTS.TOTAL_WATER_DEMAND",
+          "name": "Total Water Demand",
+          "active": true
+        },
+        {
+          "code": "OWNER.OTHERDOCUMENTS.COMPLETION_PLAN",
+          "name": "Completion Plan",
+          "active": true
+        },
+        {
+          "code": "OWNER.OTHERDOCUMENTS.HYDRAULIC_CALCULATION_PLAN",
+          "name": "Hydraulic Calculation Plan",
+          "active": true
+        },
+        {
+          "code": "OWNER.OTHERDOCUMENTS.RAIN_WATER_HARVESTING_CERTIFICATE",
+          "name": "Rain Water Harvesting Certificate",
+          "active": true
+        }
+      ],
+      "description": "OWNER.OTHERDOCUMENTS.OTHERDOCUMENTS_DESCRIPTION"
+    }
+  ]
+}

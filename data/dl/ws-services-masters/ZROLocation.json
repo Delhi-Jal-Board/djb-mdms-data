@@ -1,0 +1,201 @@
+{
+  "tenantId": "dl",
+  "moduleName": "ws-services-masters",
+  "ZROLocation": [
+    {
+      "id": 1,
+      "code": "MAYUR_VIHAR",
+      "name": "Mayur Vihar"
+    },
+    {
+      "id": 2,
+      "code": "MANDAWALI",
+      "name": "Mandawali"
+    },
+    {
+      "id": 3,
+      "code": "YOJNA_VIHAR",
+      "name": "Yojna Vihar"
+    },
+    {
+      "id": 4,
+      "code": "PREET_VIHAR",
+      "name": "Preet Vihar"
+    },
+    {
+      "id": 5,
+      "code": "SHAHADRA",
+      "name": "Shahadra"
+    },
+    {
+      "id": 6,
+      "code": "SHIV_PURI",
+      "name": "Shiv Puri"
+    },
+    {
+      "id": 7,
+      "code": "NEW_SEELAMPUR",
+      "name": "New Seelampur"
+    },
+    {
+      "id": 8,
+      "code": "YAMUNA_VIHAR",
+      "name": "Yamuna Vihar"
+    },
+    {
+      "id": 9,
+      "code": "GTB_ENCLAVE",
+      "name": "GTB Enclave"
+    },
+    {
+      "id": 10,
+      "code": "NARELA",
+      "name": "Narela"
+    },
+    {
+      "id": 11,
+      "code": "RITHALA",
+      "name": "Rithala"
+    },
+    {
+      "id": 12,
+      "code": "KEWAL_PARK",
+      "name": "Kewal Park"
+    },
+    {
+      "id": 13,
+      "code": "BURARI",
+      "name": "Burari"
+    },
+    {
+      "id": 14,
+      "code": "MUKHERJEE_NAGAR",
+      "name": "Mukherjee Nagar"
+    },
+    {
+      "id": 15,
+      "code": "CHANDNI_CHOWK",
+      "name": "Chandni Chowk"
+    },
+    {
+      "id": 16,
+      "code": "KAROL_BAGH",
+      "name": "Karol Bagh"
+    },
+    {
+      "id": 17,
+      "code": "RAJENDER_NAGAR",
+      "name": "Rajender Nagar"
+    },
+    {
+      "id": 18,
+      "code": "ASHOK_VIHAR",
+      "name": "Ashok Vihar"
+    },
+    {
+      "id": 19,
+      "code": "KANHAIYA_NAGAR",
+      "name": "Kanhaiya Nagar"
+    },
+    {
+      "id": 20,
+      "code": "PUNJABI_BAGH",
+      "name": "Punjabi Bagh"
+    },
+    {
+      "id": 21,
+      "code": "KIRARI",
+      "name": "Kirari"
+    },
+    {
+      "id": 22,
+      "code": "SULTAN_PURI",
+      "name": "Sultan Puri"
+    },
+    {
+      "id": 23,
+      "code": "PASCHIM_VIHAR",
+      "name": "Paschim Vihar"
+    },
+    {
+      "id": 24,
+      "code": "SUBHASH_NAGAR",
+      "name": "Subhash Nagar"
+    },
+    {
+      "id": 25,
+      "code": "JANAKPURI",
+      "name": "Janakpuri"
+    },
+    {
+      "id": 26,
+      "code": "DWARKA",
+      "name": "Dwarka"
+    },
+    {
+      "id": 27,
+      "code": "KAKROLA_MORE",
+      "name": "Kakrola More"
+    },
+    {
+      "id": 28,
+      "code": "VASANT_KUNJ",
+      "name": "Vasant Kunj"
+    },
+    {
+      "id": 29,
+      "code": "RK_PURAM",
+      "name": "R.K. Puram"
+    },
+    {
+      "id": 30,
+      "code": "LAJPAT_NAGAR",
+      "name": "Lajpat Nagar"
+    },
+    {
+      "id": 31,
+      "code": "GK_1",
+      "name": "G.K.-I"
+    },
+    {
+      "id": 32,
+      "code": "OKHLA",
+      "name": "Okhla"
+    },
+    {
+      "id": 33,
+      "code": "SANGAM_VIHAR",
+      "name": "Sangam Vihar"
+    },
+    {
+      "id": 34,
+      "code": "GIRI_NAGAR",
+      "name": "Giri Nagar"
+    },
+    {
+      "id": 35,
+      "code": "SAKET",
+      "name": "Saket"
+    },
+    {
+      "id": 36,
+      "code": "BHERA_ENCLAVE",
+      "name": "Bhera Enclave"
+    },
+    {
+      "id": 37,
+      "code": "MOHAN_GARDEN",
+      "name": "Mohan Garden"
+    },
+    {
+      "id": 38,
+      "code": "NAJAFGARH",
+      "name": "Najafgarh"
+    },
+    {
+      "id": 39,
+      "code": "MALVIYA_NAGAR",
+      "name": "Malviya Nagar"
+    }
+  ]
+}
