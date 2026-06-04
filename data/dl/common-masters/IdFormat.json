@@ -511,7 +511,7 @@
             "idname": "pt.mutation.number"
         },
         {
-            "format": "WS/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_WS_CON_[TENANT_ID]]",
+            "format": "WS/DJB/[fy:yyyy-yy]/[SEQ_WS_CON_[TENANT_ID]]",
             "idname": "waterservice.connection.id"
         },
         {
@@ -519,7 +519,7 @@
             "idname": "sewerageservice.connection.id"
         },
         {
-            "format": "WS/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_WS_BILL_RCPT_[TENANT_ID]]",
+            "format": "WS/DJB/[fy:yyyy-yy]/[SEQ_WS_BILL_RCPT_[TENANT_ID]]",
             "idname": "ws.receipt.id"
         },
         {
