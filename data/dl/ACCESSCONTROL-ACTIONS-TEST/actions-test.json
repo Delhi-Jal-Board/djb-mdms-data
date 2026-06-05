@@ -20459,6 +20459,18 @@
       "serviceCode": "ekyc-service",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2995,
+      "name": "ekyc application list",
+      "url": "/ekyc-service/user/application/_list",
+      "displayName": "eKYC Application List",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "ekyc-service",
+      "code": "null",
+      "path": ""
     }
   ]
 }
