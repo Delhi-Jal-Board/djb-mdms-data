@@ -5,26 +5,31 @@
     {
       "name": "Residential",
       "code": "RESIDENTIAL",
+      "type": "DOMESTIC",
       "active": true
     },
     {
       "name": "Commercial",
       "code": "COMMERCIAL",
+      "type": "NON_DOMESTIC",
       "active": true
     },
     {
       "name": "Industrial",
       "code": "INDUSTRIAL",
+      "type": "NON_DOMESTIC",
       "active": true
     },
     {
       "name": "Institutional",
       "code": "INSTITUTIONAL",
+      "type": "NON_DOMESTIC",
       "active": true
     },
     {
       "name": "Mixed",
       "code": "MIXED",
+      "type": "NON_DOMESTIC",
       "active": true
     }
   ]
