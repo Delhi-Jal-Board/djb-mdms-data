@@ -41,6 +41,11 @@
       "name": "6 Floor",
       "code": "6_FLOOR",
       "active": true
+    },
+    {
+      "name": "Multiple/Others",
+      "code": "Multiple_Others",
+      "active": true
     }
   ]
 }
