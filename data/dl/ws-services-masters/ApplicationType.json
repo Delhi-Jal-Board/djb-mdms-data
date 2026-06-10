@@ -6,37 +6,64 @@
       "id": 1,
       "code": "NEW_WATER_CONNECTION",
       "name": "New Water Connection",
-      "businessService": "NewWS1"
+      "businessService": "NewWS1",
+      "active": true
     },
     {
       "id": 2,
       "code": "NEW_SEWERAGE_CONNECTION",
       "name": "New Sewerage Connection",
-      "businessService": "NewSW1"
+      "businessService": "NewSW1",
+      "active": true
     },
     {
       "id": 3,
       "code": "MODIFY_WATER_CONNECTION",
       "name": "Modify Water Connection",
-      "businessService": "ModifyWSConnection"
+      "businessService": "ModifyWSConnection",
+      "active": false
     },
     {
       "id": 4,
       "code": "MODIFY_SEWERAGE_CONNECTION",
       "name": "Modify Sewerage Connection",
-      "businessService": "ModifySWConnection"
+      "businessService": "ModifySWConnection",
+      "active": false
     },
     {
       "id": 5,
       "code": "DISCONNECT_WATER_CONNECTION",
       "name": "Disconnect Water Connection",
-      "businessService": "DisconnectWSConnection"
+      "businessService": "DisconnectWSConnection",
+      "active": false
     },
     {
       "id": 6,
       "code": "DISCONNECT_SEWERAGE_CONNECTION",
       "name": "Disconnect Sewerage Connection",
-      "businessService": "DisconnectSWConnection"
+      "businessService": "DisconnectSWConnection",
+      "active": false
+    },
+    {
+      "id": 7,
+      "code": "WATER_SEWERAGE_CONNECTION",
+      "name": " Water and Sewerage Connection",
+      "businessService": "NewSW1",
+      "active": true
+    },
+    {
+      "id": 8,
+      "code": "REGULARIZATION",
+      "name": "Regularization",
+      "businessService": "NewSW1",
+      "active": true
+    },
+    {
+      "id": 9,
+      "code": "Treated_Water",
+      "name": "Treated Water",
+      "businessService": "NewSW1",
+      "active": true
     }
   ]
 }

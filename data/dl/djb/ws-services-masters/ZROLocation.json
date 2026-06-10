@@ -196,6 +196,51 @@
             "id": 39,
             "code": "MALVIYA_NAGAR",
             "name": "Malviya Nagar"
+        },
+        {
+            "id": 40,
+            "code": "MNWS_GREATER_KAILASH",
+            "name": "MNWS Greater Kailash"
+        },
+        {
+            "id": 41,
+            "code": "MNWS_MEHRAULI",
+            "name": "MNWS Mehrauli"
+        },
+        {
+            "id": 42,
+            "code": "MNWS_RK_PURAM",
+            "name": "MNWS R K Puram"
+        },
+        {
+            "id": 43,
+            "code": "NWS_BHERA_ENCLAVE",
+            "name": "NWS Bhera Enclave"
+        },
+        {
+            "id": 44,
+            "code": "NWS_MOHAN_GARDEN",
+            "name": "NWS Mohan Garden"
+        },
+        {
+            "id": 45,
+            "code": "NWS_NAJAFGARH",
+            "name": "NWS Najafgarh"
+        },
+        {
+            "id": 46,
+            "code": "PRATAP_NAGAR",
+            "name": "Pratap Nagar"
+        },
+        {
+            "id": 47,
+            "code": "ROHINI",
+            "name": "Rohini"
+        },
+        {
+            "id": 48,
+            "code": "TURKMAN_GATE",
+            "name": "Turkman Gate"
         }
     ]
 }
