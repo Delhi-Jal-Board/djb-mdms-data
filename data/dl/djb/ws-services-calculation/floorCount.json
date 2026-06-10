@@ -3,32 +3,32 @@
   "moduleName": "ws-services-calculation",
   "floorCount": [
     {
-      "code": "0",
+      "code": "GROUND_FLOOR",
       "name": "Ground Floor",
       "active": true
     },
     {
-      "code": "1",
+      "code": "FIRST_FLOOR",
       "name": "1 Floor",
       "active": true
     },
     {
-      "code": "2",
+      "code": "SECOND_FLOOR",
       "name": "2 Floor",
       "active": true
     },
     {
-      "code": "3",
+      "code": "THIRD_FLOOR",
       "name": "3 Floor",
       "active": true
     },
     {
-      "code": "4",
+      "code": "FOURTH_FLOOR",
       "name": "4 Floor",
       "active": true
     },
     {
-      "code": "4+",
+      "code": "FOURTH_PLUS",
       "name": "4 Plus",
       "active": true
     }
