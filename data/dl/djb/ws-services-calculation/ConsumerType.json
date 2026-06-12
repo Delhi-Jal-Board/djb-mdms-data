@@ -1,0 +1,64 @@
+{
+  "tenantId": "dl.djb",
+  "moduleName": "ws-services-masters",
+  "ConsumerType": [
+    {
+      "code": "CONSUMERTYPE.INDIVIDUAL",
+      "active": "true",
+      "dropdownData": [
+        {
+          "code": "RESIDENTIAL",
+          "active": "true"
+        },
+        {
+          "code": "COMMERCIAL",
+          "active": "true"
+        },
+        {
+          "code": "INDUSTRIAL",
+          "active": "true"
+        }
+      ]
+    },
+    {
+      "code": "CONSUMERTYPE.GOVERNMENT",
+      "active": "true",
+      "dropdownData": [
+        {
+          "code": "GOVT_OFFICE",
+          "active": "true"
+        },
+        {
+          "code": "PUBLIC_SECTOR",
+          "active": "true"
+        },
+        {
+          "code": "MUNICIPAL",
+          "active": "true"
+        }
+      ]
+    },
+    {
+      "code": "CONSUMERTYPE.SOCIETY.ORG",
+      "active": "true",
+      "dropdownData": [
+        {
+          "code": "RWA",
+          "active": "true"
+        },
+        {
+          "code": "COOPERATIVE_SOCIETY",
+          "active": "true"
+        },
+        {
+          "code": "NGO",
+          "active": "true"
+        },
+        {
+          "code": "TRUST",
+          "active": "true"
+        }
+      ]
+    }
+  ]
+}
