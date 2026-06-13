@@ -20471,6 +20471,19 @@
       "serviceCode": "ekyc-service",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2996,
+      "name": "ekyc user upsert",
+      "url": "/ekyc-service/user/_upsert",
+      "displayName": "eKYC User Upsert",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "ekyc-service",
+      "code": "null",
+      "path": ""
     }
+
   ]
 }

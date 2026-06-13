@@ -33232,7 +33232,18 @@
       "actionid": 2995,
       "actioncode": "",
       "tenantId": "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2996,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2996,
+      "actioncode": "",
+      "tenantId": "dl"
     }
-
   ]
 }
