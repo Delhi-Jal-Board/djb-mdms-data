@@ -1,0 +1,66 @@
+{
+  "tenantId": "dl.djb",
+  "moduleName": "ws-services-masters",
+  "WaterMeters": [
+    {
+      "code": "WATERMETER_01",
+      "meterName": "DASMESH/DMB",
+      "meterCompany": "M/S Dasmesh Engineering Works",
+      "active": "true"
+    },
+    {
+      "code": "WATERMETER_02",
+      "meterName": "KONARK",
+      "meterCompany": "M/s Venus Industries",
+      "active": "true"
+    },
+    {
+      "code": "WATERMETER_03",
+      "meterName": "BAYLAN/TK-23",
+      "meterCompany": "M/s Shriram Sales Corporation",
+      "active": "true"
+    },
+    {
+      "code": "WATERMETER_04",
+      "meterName": "ITRON CG",
+      "meterCompany": "M/s ITRON India Pvt. Ltd.",
+      "active": "true"
+    },
+    {
+      "code": "WATERMETER_05",
+      "meterName": "KRANTI-KBMG+",
+      "meterCompany": "M/s Aman Engg. Works Mfg.",
+      "active": "true"
+    },
+    {
+      "code": "WATERMETER_06",
+      "meterName": "KRANTI-ULTRA-G",
+      "meterCompany": "M/s Aman Engg. Works Mfg.",
+      "active": "true"
+    },
+    {
+      "code": "WATERMETER_07",
+      "meterName": "CRESCENT-CDM",
+      "meterCompany": "M/s Bharat Precision Instruments Company",
+      "active": "true"
+    },
+    {
+      "code": "WATERMETER_08",
+      "meterName": "BELANTO",
+      "meterCompany": "M/s B.M Water Meters",
+      "active": "true"
+    },
+    {
+      "code": "WATERMETER_09",
+      "meterName": "FEDREL FM-105",
+      "meterCompany": "M/s V.A Valves",
+      "active": "true"
+    },
+    {
+      "code": "WATERMETER_10",
+      "meterName": "GLOB TECH",
+      "meterCompany": "M/s Global Trade Links",
+      "active": "true"
+    }
+  ]
+}
