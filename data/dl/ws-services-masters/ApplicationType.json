@@ -63,7 +63,7 @@
       "code": "Treated_Water",
       "name": "Treated Water",
       "businessService": "NewSW1",
-      "active": true
+      "active": false
     }
   ]
 }
