@@ -96,7 +96,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
       "type": "Adhoc",
-	  "isActive": false,
+      "isActive": false,
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -110,7 +110,7 @@
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": false,
       "type": "Adhoc",
-	  "isActive": true,
+      "isActive": true,
       "billGineiURL": "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
@@ -1994,7 +1994,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true
     },
-	{
+    {
       "businessService": "SWReconnection",
       "code": "SWReconnection",
       "collectionModesNotAllowed": [
@@ -2049,7 +2049,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true
     },
-	{
+    {
       "businessService": "request-service.water_tanker",
       "code": "request-service.water_tanker",
       "collectionModesNotAllowed": [
@@ -2059,6 +2059,28 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true
-    }  
+    },
+    {
+      "businessService": "watertanker",
+      "code": "watertanker",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
+      "businessService": "watertanker-fixedpoint",
+      "code": "watertanker-fixedpoint",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    }
   ]
 }
