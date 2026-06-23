@@ -1,6 +1,6 @@
 {
   "tenantId": "dl.djb",
-  "moduleName": "ws-services-masters",
+  "moduleName": "ws-services-calculation",
   "WaterMeters": [
     {
       "code": "WATERMETER_01",
