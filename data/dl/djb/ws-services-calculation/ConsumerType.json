@@ -1,6 +1,6 @@
 {
   "tenantId": "dl.djb",
-  "moduleName": "ws-services-masters",
+  "moduleName": "ws-services-calculation",
   "ConsumerType": [
     {
       "code": "CONSUMERTYPE.INDIVIDUAL",

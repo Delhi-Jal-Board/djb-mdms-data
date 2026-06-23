@@ -1,0 +1,56 @@
+{
+  "tenantId": "dl.djb",
+  "moduleName": "ws-services-calculation",
+  "EkycReason": [
+    {
+      "code": "EKYCREASON_01",
+      "reason": "Aadhaar OTP not received",
+      "active": "true"
+    },
+    {
+      "code": "EKYCREASON_02",
+      "reason": "Biometric mismatch",
+      "active": "true"
+    },
+    {
+      "code": "EKYCREASON_03",
+      "reason": "Network connectivity issue",
+      "active": "true"
+    },
+    {
+      "code": "EKYCREASON_04",
+      "reason": "Aadhaar data not updated",
+      "active": "true"
+    },
+    {
+      "code": "EKYCREASON_05",
+      "reason": "Technical glitch at eKYC server",
+      "active": "true"
+    },
+    {
+      "code": "EKYCREASON_06",
+      "reason": "Invalid Aadhaar number",
+      "active": "true"
+    },
+    {
+      "code": "EKYCREASON_07",
+      "reason": "Aadhaar not linked to mobile number",
+      "active": "true"
+    },
+    {
+      "code": "EKYCREASON_08",
+      "reason": "System timeout",
+      "active": "true"
+    },
+    {
+      "code": "EKYCREASON_09",
+      "reason": "Aadhaar authentication failure",
+      "active": "true"
+    },
+    {
+      "code": "EKYCREASON_10",
+      "reason": "Other technical issues",
+      "active": "true"
+    }
+  ]
+}
