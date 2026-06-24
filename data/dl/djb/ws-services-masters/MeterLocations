@@ -1,0 +1,46 @@
+{
+  "tenantId": "dl.djb",
+  "moduleName": "ws-services-masters",
+  "MeterLocations": [
+    {
+      "code": "METERLOCATION_01",
+      "location": "Inside kitchen",
+      "active": "true"
+    },
+    {
+      "code": "METERLOCATION_02",
+      "location": "Under stairs",
+      "active": "true"
+    },
+    {
+      "code": "METERLOCATION_03",
+      "location": "Inside washroom (Toilet)",
+      "active": "true"
+    },
+    {
+      "code": "METERLOCATION_04",
+      "location": "Parking",
+      "active": "true"
+    },
+    {
+      "code": "METERLOCATION_05",
+      "location": "Outside premises",
+      "active": "true"
+    },
+    {
+      "code": "METERLOCATION_06",
+      "location": "Beside main gate",
+      "active": "true"
+    },
+    {
+      "code": "METERLOCATION_07",
+      "location": "Back side house",
+      "active": "true"
+    },
+    {
+      "code": "METERLOCATION_08",
+      "location": "Not accessible position",
+      "active": "true"
+    }
+  ]
+}
