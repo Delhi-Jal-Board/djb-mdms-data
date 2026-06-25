@@ -462,7 +462,7 @@
             "format": "PG-PT-DJB-[SEQ_EG_PT_PTID]",
             "idname": "pt.propertyid"
         },
-		{
+        {
             "format": "DL-PL-DJB-[SEQ_EG_PT_PLOT]",
             "idname": "pt.plotid"
         },
@@ -546,7 +546,7 @@
             "format": "WS.OTP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_WS_FEE_RCPT_[TENANT_ID]]",
             "idname": "wsreconnection.receipt.id"
         },
-		{
+        {
             "format": "SW.OTP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_SW_FEE_RCPT_[TENANT_ID]]",
             "idname": "swreconnection.receipt.id"
         },
@@ -762,21 +762,21 @@
             "format": "DJB",
             "idname": "idgeneration.djb"
         },
-		{
+        {
             "format": "DL-DJB-[SEQ_EGOV_COMMON]",
             "idname": "djb.vendor.id"
         },
-		{
+        {
             "format": "FXP-[SEQ_FXP_COMMON]",
             "idname": "djb.fxp.id"
         },
-		{
+        {
             "format": "FLP-[SEQ_FLP_COMMON]",
             "idname": "djb.flp.id"
         },
-		{
-	    "format": "WT/djb/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
-		"idname": "watertanker.receipt.id"
-	  }
+        {
+            "format": "WT/djb/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "watertanker.receipt.id"
+        }
     ]
 }
