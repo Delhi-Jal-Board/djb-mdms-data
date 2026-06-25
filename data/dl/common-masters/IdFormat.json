@@ -773,6 +773,10 @@
 		{
             "format": "FLP-[SEQ_FLP_COMMON]",
             "idname": "djb.flp.id"
-        }
+        },
+		{
+	    "format": "WT/djb/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+		"idname": "watertanker.receipt.id"
+	  }
     ]
 }
