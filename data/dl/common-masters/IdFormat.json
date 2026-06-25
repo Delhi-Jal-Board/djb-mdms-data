@@ -778,6 +778,9 @@
 		  "idname": "request-service.water_tanker.receipt.id",
 		  "format": "WT/RECEIPT/[cy:yyyy-MM-dd]-[SEQ_WATER_TANKER]",
 		  "tenantId": "dl.djb"
-		}
+		},{
+	    "format": "WT/djb/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+		"idname": "watertanker.receipt.id"
+	  }
     ]
 }
