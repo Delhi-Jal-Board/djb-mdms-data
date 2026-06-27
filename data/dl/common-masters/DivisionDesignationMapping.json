@@ -1,1204 +1,1204 @@
 {
   "tenantId": "dl",
   "moduleName": "common-masters",
-  "DivisionDesignationMapping": [ 
+  "DivisionDesignationMapping": [
     {
       "code": "D1",
       "name": "Project Water",
       "divisionCode": "1",
       "divisionName": "Project Water",
+      "active": true,
+      "description": "Project Water",
       "designations": [
         {
-          "code": "CE (N) Water",
+          "code": "CE_N_WATER",
           "name": "CE (N) Water",
           "active": true,
           "description": "CE (N) Water"
         },
         {
-          "code": "CE (W) Proj.-I",
+          "code": "CE_W_PROJ_I",
           "name": "CE (W) Proj.-I",
           "active": true,
           "description": "CE (W) Proj.-I"
         },
         {
-          "code": "CE (W) Proj.-II",
+          "code": "CE_W_PROJ_II",
           "name": "CE (W) Proj.-II",
           "active": true,
           "description": "CE (W) Proj.-II"
         },
         {
-          "code": "CE (water Bodies)",
+          "code": "CE_WATER_BODIES",
           "name": "CE (water Bodies)",
           "active": true,
           "description": "CE (water Bodies)"
         },
         {
-          "code": "CE (GroundWater)",
+          "code": "CE_GROUNDWATER",
           "name": "CE (GroundWater)",
           "active": true,
           "description": "CE (GroundWater)"
         },
         {
-          "code": "CE (Coord.)",
+          "code": "CE_COORD",
           "name": "CE (Coord.)",
           "active": true,
           "description": "CE (Coord.)"
         },
         {
-          "code": "CE (Plg.) W-Civil",
+          "code": "CE_PLG_W_CIVIL",
           "name": "CE (Plg.) W-Civil",
           "active": true,
           "description": "CE (Plg.) W-Civil"
         },
         {
-          "code": "EE(Proj.)W-I",
+          "code": "EE_PROJ_W_I",
           "name": "EE(Proj.)W-I",
           "active": true,
           "description": "EE(Proj.)W-I"
         },
         {
-          "code": "EE(Proj.)W-II",
+          "code": "EE_PROJ_W_II",
           "name": "EE(Proj.)W-II",
           "active": true,
           "description": "EE(Proj.)W-II"
         },
         {
-          "code": "EE(Proj.)W-III",
+          "code": "EE_PROJ_W_III",
           "name": "EE(Proj.)W-III",
           "active": true,
           "description": "EE(Proj.)W-III"
         },
         {
-          "code": "EE(Proj.)W-V",
+          "code": "EE_PROJ_W_V",
           "name": "EE(Proj.)W-V",
           "active": true,
           "description": "EE(Proj.)W-V"
         },
         {
-          "code": "EE(Proj.)W-VI",
+          "code": "EE_PROJ_W_VI",
           "name": "EE(Proj.)W-VI",
           "active": true,
           "description": "EE(Proj.)W-VI"
         },
         {
-          "code": "EE(Proj.)W-VII",
+          "code": "EE_PROJ_W_VII",
           "name": "EE(Proj.)W-VII",
           "active": true,
           "description": "EE(Proj.)W-VII"
         },
         {
-          "code": "EE(Proj.)W-VIII",
+          "code": "EE_PROJ_W_VIII",
           "name": "EE(Proj.)W-VIII",
           "active": true,
           "description": "EE(Proj.)W-VIII"
         },
         {
-          "code": "EE(Proj.)W-IX",
+          "code": "EE_PROJ_W_IX",
           "name": "EE(Proj.)W-IX",
           "active": true,
           "description": "EE(Proj.)W-IX"
         },
         {
-          "code": "EE(LD&I)",
+          "code": "EE_LDANDI",
           "name": "EE(LD&I)",
           "active": true,
           "description": "EE(LD&I)"
         },
         {
-          "code": "EO To Member (WS)",
+          "code": "EO_TO_MEMBER_WATER_SUPPLY",
           "name": "EO To Member (WS)",
           "active": true,
           "description": "EO To Member (WS)"
         },
         {
-          "code": "EE (Civil) Plant SDW Noth /West",
+          "code": "EE_CIVIL_PLANT_SDW_NOTH_WEST",
           "name": "EE (Civil) Plant SDW Noth /West",
           "active": true,
           "description": "EE (Civil) Plant SDW Noth /West"
         },
         {
-          "code": "EE (Civil) Plant SDW South /East",
+          "code": "EE_CIVIL_PLANT_SDW_SOUTH_EAST",
           "name": "EE (Civil) Plant SDW South /East",
           "active": true,
           "description": "EE (Civil) Plant SDW South /East"
         },
         {
-          "code": "EE (Civil) Plant Chandrawal W.W",
+          "code": "EE_CIVIL_PLANT_CHANDRAWAL_W_W",
           "name": "EE (Civil) Plant Chandrawal W.W",
           "active": true,
           "description": "EE (Civil) Plant Chandrawal W.W"
         },
         {
-          "code": "EE (Civil) Plant Haiderpur",
+          "code": "EE_CIVIL_PLANT_HAIDERPUR",
           "name": "EE (Civil) Plant Haiderpur",
           "active": true,
           "description": "EE (Civil) Plant Haiderpur"
         },
         {
-          "code": "EE (WTP) Dwarka",
+          "code": "EE_WTP_DWARKA",
           "name": "EE (WTP) Dwarka",
           "active": true,
           "description": "EE (WTP) Dwarka"
         },
         {
-          "code": "EE(EAP) -I",
+          "code": "EE_EAP_I",
           "name": "EE(EAP) -I",
           "active": true,
           "description": "EE(EAP) -I"
         },
         {
-          "code": "EE(EAP) -II",
+          "code": "EE_EAP_II",
           "name": "EE(EAP) -II",
           "active": true,
           "description": "EE(EAP) -II"
         },
         {
-          "code": "EE(EAP) -III",
+          "code": "EE_EAP_III",
           "name": "EE(EAP) -III",
           "active": true,
           "description": "EE(EAP) -III"
         },
         {
-          "code": "EE(RPC)",
+          "code": "EE_RPC",
           "name": "EE(RPC)",
           "active": true,
           "description": "EE(RPC)"
         },
         {
-          "code": "EE(DMA)",
+          "code": "EE_DMA",
           "name": "EE(DMA)",
           "active": true,
           "description": "EE(DMA)"
         },
         {
-          "code": "EE(QC)",
+          "code": "EE_QC",
           "name": "EE(QC)",
           "active": true,
           "description": "EE(QC)"
         },
         {
-          "code": "CE(QC)",
+          "code": "CE_QC",
           "name": "CE(QC)",
           "active": true,
           "description": "CE(QC)"
         },
         {
-          "code": "SE(Project) W-I",
+          "code": "SE_PROJECT_W_I",
           "name": "SE(Project) W-I",
           "active": true,
           "description": "SE(Project) W-I"
         },
         {
-          "code": "SE(Project) W-II",
+          "code": "SE_PROJECT_W_II",
           "name": "SE(Project) W-II",
           "active": true,
           "description": "SE(Project) W-II"
         },
         {
-          "code": "SE(Project) W-3",
+          "code": "SE_PROJECT_W_3",
           "name": "SE(Project) W-3",
           "active": true,
           "description": "SE(Project) W-3"
         },
         {
-          "code": "SE(Project) W-4",
+          "code": "SE_PROJECT_W_4",
           "name": "SE(Project) W-4",
           "active": true,
           "description": "SE(Project) W-4"
         },
         {
-          "code": "EE(Pr.) W-III/VI, T/Wells",
+          "code": "EE_PR_W_III_VI_T_WELLS",
           "name": "EE(Pr.) W-III/VI, T/Wells",
           "active": true,
           "description": "EE(Pr.) W-III/VI, T/Wells"
         },
         {
-          "code": "SE (WB)",
+          "code": "SE_WB",
           "name": "SE (WB)",
           "active": true,
           "description": "SE (WB)"
         },
         {
-          "code": "SE (GW)",
+          "code": "SE_GW",
           "name": "SE (GW)",
           "active": true,
           "description": "SE (GW)"
         },
         {
-          "code": "EE(RWH)",
+          "code": "EE_RWH",
           "name": "EE(RWH)",
           "active": true,
           "description": "EE(RWH)"
         },
         {
-          "code": "SE (Plg.) W",
+          "code": "SE_PLG_W",
           "name": "SE (Plg.) W",
           "active": true,
           "description": "SE (Plg.) W"
         },
         {
-          "code": "CE(Plg.) W",
+          "code": "CE_PLG_W",
           "name": "CE(Plg.) W",
           "active": true,
           "description": "CE(Plg.) W"
         },
         {
-          "code": "EE(WB)-I",
+          "code": "EE_WB_I",
           "name": "EE(WB)-I",
           "active": true,
           "description": "EE(WB)-I"
         },
         {
-          "code": "EE(WB)-II",
+          "code": "EE_WB_II",
           "name": "EE(WB)-II",
           "active": true,
           "description": "EE(WB)-II"
         },
         {
-          "code": "EE(Plg.)W-I",
+          "code": "EE_PLG_W_I",
           "name": "EE(Plg.)W-I",
           "active": true,
           "description": "EE(Plg.)W-I"
         },
         {
-          "code": "EE(Plg.)W-II",
+          "code": "EE_PLG_W_II",
           "name": "EE(Plg.)W-II",
           "active": true,
           "description": "EE(Plg.)W-II"
         },
         {
-          "code": "EE(Plg.)W-III",
+          "code": "EE_PLG_W_III",
           "name": "EE(Plg.)W-III",
           "active": true,
           "description": "EE(Plg.)W-III"
         },
         {
-          "code": "CE(P&D)",
+          "code": "CE_PANDD",
           "name": "CE(P&D)",
           "active": true,
           "description": "CE(P&D)"
         }
-      ],
-      "active": true,
-      "description": "Project Water"
+      ]
     },
     {
       "code": "D2",
       "name": "Project Drainage",
       "divisionCode": "2",
       "divisionName": "Project Drainage",
+      "active": true,
+      "description": "Project Drainage",
       "designations": [
         {
-          "code": "CE (N) Drainage",
+          "code": "CE_N_DRAINAGE",
           "name": "CE (N) Drainage",
           "active": true,
           "description": "CE (N) Drainage"
         },
         {
-          "code": "CE(Dr.)Project-I",
+          "code": "CEDRAINAGEPROJECT_I",
           "name": "CE(Dr.)Project-I",
           "active": true,
           "description": "CE(Dr.)Project-I"
         },
         {
-          "code": "CE(Dr.) Project-II",
+          "code": "CEDRAINAGE_PROJECT_II",
           "name": "CE(Dr.) Project-II",
           "active": true,
           "description": "CE(Dr.) Project-II"
         },
         {
-          "code": "CE(P&D)",
+          "code": "CE_PANDD",
           "name": "CE(P&D)",
           "active": true,
           "description": "CE(P&D)"
         },
         {
-          "code": "SE(Cons.)-4",
+          "code": "SE_CONS_4",
           "name": "SE(Cons.)-4",
           "active": true,
           "description": "SE(Cons.)-4"
         },
         {
-          "code": "SE(Dr)Project-I",
+          "code": "SE_DR_PROJECT_I",
           "name": "SE(Dr)Project-I",
           "active": true,
           "description": "SE(Dr)Project-I"
         },
         {
-          "code": "SE(Dr)Project-IV",
+          "code": "SE_DR_PROJECT_IV",
           "name": "SE(Dr)Project-IV",
           "active": true,
           "description": "SE(Dr)Project-IV"
         },
         {
-          "code": "SE(Cons.)-5",
+          "code": "SE_CONS_5",
           "name": "SE(Cons.)-5",
           "active": true,
           "description": "SE(Cons.)-5"
         },
         {
-          "code": "SE(Dr)Project-II",
+          "code": "SE_DR_PROJECT_II",
           "name": "SE(Dr)Project-II",
           "active": true,
           "description": "SE(Dr)Project-II"
         },
         {
-          "code": "SE(Cons.) -6",
+          "code": "SE_CONS_6",
           "name": "SE(Cons.) -6",
           "active": true,
           "description": "SE(Cons.) -6"
         },
         {
-          "code": "SE(Dr)Project-III",
+          "code": "SE_DR_PROJECT_III",
           "name": "SE(Dr)Project-III",
           "active": true,
           "description": "SE(Dr)Project-III"
         },
         {
-          "code": "SE(Planning)Dr.",
+          "code": "SE_PLANNING_DR",
           "name": "SE(Planning)Dr.",
           "active": true,
           "description": "SE(Planning)Dr."
         },
         {
-          "code": "EE(C)Dr.-VI",
+          "code": "EE_C_DR_VI",
           "name": "EE(C)Dr.-VI",
           "active": true,
           "description": "EE(C)Dr.-VI"
         },
         {
-          "code": "EE(C) Dr.-II",
+          "code": "EE_C_DR_II",
           "name": "EE(C) Dr.-II",
           "active": true,
           "description": "EE(C) Dr.-II"
         },
         {
-          "code": "EE(C) Dr.XIV",
+          "code": "EE_C_DR_XIV",
           "name": "EE(C) Dr.XIV",
           "active": true,
           "description": "EE(C) Dr.XIV"
         },
         {
-          "code": "EE(P)SR-II",
+          "code": "EE_P_SR_II",
           "name": "EE(P)SR-II",
           "active": true,
           "description": "EE(P)SR-II"
         },
         {
-          "code": "EE(C) Dr.III",
+          "code": "EE_C_DR_III",
           "name": "EE(C) Dr.III",
           "active": true,
           "description": "EE(C) Dr.III"
         },
         {
-          "code": "EE(C) Dr.-IX",
+          "code": "EE_C_DR_IX",
           "name": "EE(C) Dr.-IX",
           "active": true,
           "description": "EE(C) Dr.-IX"
         },
         {
-          "code": "EE(C) Dr.-X",
+          "code": "EE_C_DR_X",
           "name": "EE(C) Dr.-X",
           "active": true,
           "description": "EE(C) Dr.-X"
         },
         {
-          "code": "EE(C) Dr.XI",
+          "code": "EE_C_DR_XI",
           "name": "EE(C) Dr.XI",
           "active": true,
           "description": "EE(C) Dr.XI"
         },
         {
-          "code": "EE(P)SR-I",
+          "code": "EE_P_SR_I",
           "name": "EE(P)SR-I",
           "active": true,
           "description": "EE(P)SR-I"
         },
         {
-          "code": "EE(C) Dr.-XV",
+          "code": "EE_C_DR_XV",
           "name": "EE(C) Dr.-XV",
           "active": true,
           "description": "EE(C) Dr.-XV"
         },
         {
-          "code": "EE(C) Dr.-VIII",
+          "code": "EE_C_DR_VIII",
           "name": "EE(C) Dr.-VIII",
           "active": true,
           "description": "EE(C) Dr.-VIII"
         },
         {
-          "code": "EE(C) Dr.XII",
+          "code": "EE_C_DR_XII",
           "name": "EE(C) Dr.XII",
           "active": true,
           "description": "EE(C) Dr.XII"
         },
         {
-          "code": "EE(Plg)Drainage",
+          "code": "EE_PLG_DRAINAGE",
           "name": "EE(Plg)Drainage",
           "active": true,
           "description": "EE(Plg)Drainage"
         },
         {
-          "code": "EE(Plg)Colony",
+          "code": "EE_PLG_COLONY",
           "name": "EE(Plg)Colony",
           "active": true,
           "description": "EE(Plg)Colony"
         }
-      ],
-      "active": true,
-      "description": "Project Drainage"
+      ]
     },
     {
       "code": "D3",
       "name": "Maintenance",
       "divisionCode": "3",
       "divisionName": "Maintenance",
+      "active": true,
+      "description": "Maintenance",
       "designations": [
         {
-          "code": "CE(C/N)",
+          "code": "CE_C_N",
           "name": "CE(C/N)",
           "active": true,
           "description": "CE(C/N)"
         },
         {
-          "code": "CE(South)",
+          "code": "CE_SOUTH",
           "name": "CE(South)",
           "active": true,
           "description": "CE(South)"
         },
         {
-          "code": "CE(West)",
+          "code": "CE_WEST",
           "name": "CE(West)",
           "active": true,
           "description": "CE(West)"
         },
         {
-          "code": "CE(East)",
+          "code": "CE_EAST",
           "name": "CE(East)",
           "active": true,
           "description": "CE(East)"
         },
         {
-          "code": "SE(C)-1",
+          "code": "SE_C_1",
           "name": "SE(C)-1",
           "active": true,
           "description": "SE(C)-1"
         },
         {
-          "code": "SE(C)-2",
+          "code": "SE_C_2",
           "name": "SE(C)-2",
           "active": true,
           "description": "SE(C)-2"
         },
         {
-          "code": "SE(C)-3",
+          "code": "SE_C_3",
           "name": "SE(C)-3",
           "active": true,
           "description": "SE(C)-3"
         },
         {
-          "code": "SE(C)-4",
+          "code": "SE_C_4",
           "name": "SE(C)-4",
           "active": true,
           "description": "SE(C)-4"
         },
         {
-          "code": "SE(C)-5",
+          "code": "SE_C_5",
           "name": "SE(C)-5",
           "active": true,
           "description": "SE(C)-5"
         },
         {
-          "code": "SE(C)-6",
+          "code": "SE_C_6",
           "name": "SE(C)-6",
           "active": true,
           "description": "SE(C)-6"
         },
         {
-          "code": "SE(C)-7",
+          "code": "SE_C_7",
           "name": "SE(C)-7",
           "active": true,
           "description": "SE(C)-7"
         },
         {
-          "code": "SE(C)-8",
+          "code": "SE_C_8",
           "name": "SE(C)-8",
           "active": true,
           "description": "SE(C)-8"
         },
         {
-          "code": "SE(C)-9",
+          "code": "SE_C_9",
           "name": "SE(C)-9",
           "active": true,
           "description": "SE(C)-9"
         },
         {
-          "code": "SE(C)-10",
+          "code": "SE_C_10",
           "name": "SE(C)-10",
           "active": true,
           "description": "SE(C)-10"
         },
         {
-          "code": "SE(C)-11",
+          "code": "SE_C_11",
           "name": "SE(C)-11",
           "active": true,
           "description": "SE(C)-11"
         },
         {
-          "code": "SE(C)-12",
+          "code": "SE_C_12",
           "name": "SE(C)-12",
           "active": true,
           "description": "SE(C)-12"
         },
         {
-          "code": "EE(Civil)-1",
+          "code": "EE_CIVIL_1",
           "name": "EE(Civil)-1",
           "active": true,
           "description": "EE(Civil)-1"
         },
         {
-          "code": "EE(Civil)-2",
+          "code": "EE_CIVIL_2",
           "name": "EE(Civil)-2",
           "active": true,
           "description": "EE(Civil)-2"
         },
         {
-          "code": "EE(Civil)-3",
+          "code": "EE_CIVIL_3",
           "name": "EE(Civil)-3",
           "active": true,
           "description": "EE(Civil)-3"
         },
         {
-          "code": "EE(Civil)-4",
+          "code": "EE_CIVIL_4",
           "name": "EE(Civil)-4",
           "active": true,
           "description": "EE(Civil)-4"
         },
         {
-          "code": "EE(Civil)-5",
+          "code": "EE_CIVIL_5",
           "name": "EE(Civil)-5",
           "active": true,
           "description": "EE(Civil)-5"
         },
         {
-          "code": "EE(Civil)-6",
+          "code": "EE_CIVIL_6",
           "name": "EE(Civil)-6",
           "active": true,
           "description": "EE(Civil)-6"
         },
         {
-          "code": "EE(Civil)-7",
+          "code": "EE_CIVIL_7",
           "name": "EE(Civil)-7",
           "active": true,
           "description": "EE(Civil)-7"
         },
         {
-          "code": "EE(Civil)-8",
+          "code": "EE_CIVIL_8",
           "name": "EE(Civil)-8",
           "active": true,
           "description": "EE(Civil)-8"
         },
         {
-          "code": "EE(Civil)-9",
+          "code": "EE_CIVIL_9",
           "name": "EE(Civil)-9",
           "active": true,
           "description": "EE(Civil)-9"
         },
         {
-          "code": "EE(Civil)-10",
+          "code": "EE_CIVIL_10",
           "name": "EE(Civil)-10",
           "active": true,
           "description": "EE(Civil)-10"
         },
         {
-          "code": "EE(Civil)-11",
+          "code": "EE_CIVIL_11",
           "name": "EE(Civil)-11",
           "active": true,
           "description": "EE(Civil)-11"
         },
         {
-          "code": "EE(Civil)-12",
+          "code": "EE_CIVIL_12",
           "name": "EE(Civil)-12",
           "active": true,
           "description": "EE(Civil)-12"
         },
         {
-          "code": "EE(Civil)-13",
+          "code": "EE_CIVIL_13",
           "name": "EE(Civil)-13",
           "active": true,
           "description": "EE(Civil)-13"
         },
         {
-          "code": "EE(Civil)-14",
+          "code": "EE_CIVIL_14",
           "name": "EE(Civil)-14",
           "active": true,
           "description": "EE(Civil)-14"
         },
         {
-          "code": "EE(Civil)-15",
+          "code": "EE_CIVIL_15",
           "name": "EE(Civil)-15",
           "active": true,
           "description": "EE(Civil)-15"
         },
         {
-          "code": "EE(Civil)-16",
+          "code": "EE_CIVIL_16",
           "name": "EE(Civil)-16",
           "active": true,
           "description": "EE(Civil)-16"
         },
         {
-          "code": "EE(Civil)-17",
+          "code": "EE_CIVIL_17",
           "name": "EE(Civil)-17",
           "active": true,
           "description": "EE(Civil)-17"
         },
         {
-          "code": "EE(Civil)-18",
+          "code": "EE_CIVIL_18",
           "name": "EE(Civil)-18",
           "active": true,
           "description": "EE(Civil)-18"
         },
         {
-          "code": "EE(Civil)-19",
+          "code": "EE_CIVIL_19",
           "name": "EE(Civil)-19",
           "active": true,
           "description": "EE(Civil)-19"
         },
         {
-          "code": "EE(Civil)-20",
+          "code": "EE_CIVIL_20",
           "name": "EE(Civil)-20",
           "active": true,
           "description": "EE(Civil)-20"
         },
         {
-          "code": "EE(Civil)-21",
+          "code": "EE_CIVIL_21",
           "name": "EE(Civil)-21",
           "active": true,
           "description": "EE(Civil)-21"
         },
         {
-          "code": "EE(Civil)-22",
+          "code": "EE_CIVIL_22",
           "name": "EE(Civil)-22",
           "active": true,
           "description": "EE(Civil)-22"
         },
         {
-          "code": "EE(Civil)-23",
+          "code": "EE_CIVIL_23",
           "name": "EE(Civil)-23",
           "active": true,
           "description": "EE(Civil)-23"
         },
         {
-          "code": "EE(Civil)-24",
+          "code": "EE_CIVIL_24",
           "name": "EE(Civil)-24",
           "active": true,
           "description": "EE(Civil)-24"
         },
         {
-          "code": "EE(Civil)-25",
+          "code": "EE_CIVIL_25",
           "name": "EE(Civil)-25",
           "active": true,
           "description": "EE(Civil)-25"
         },
         {
-          "code": "EE(Civil)-26",
+          "code": "EE_CIVIL_26",
           "name": "EE(Civil)-26",
           "active": true,
           "description": "EE(Civil)-26"
         },
         {
-          "code": "EE(Civil)-27",
+          "code": "EE_CIVIL_27",
           "name": "EE(Civil)-27",
           "active": true,
           "description": "EE(Civil)-27"
         },
         {
-          "code": "EE(Civil)-28",
+          "code": "EE_CIVIL_28",
           "name": "EE(Civil)-28",
           "active": true,
           "description": "EE(Civil)-28"
         },
         {
-          "code": "EE(Civil)-29",
+          "code": "EE_CIVIL_29",
           "name": "EE(Civil)-29",
           "active": true,
           "description": "EE(Civil)-29"
         },
         {
-          "code": "EE(Civil)-30",
+          "code": "EE_CIVIL_30",
           "name": "EE(Civil)-30",
           "active": true,
           "description": "EE(Civil)-30"
         },
         {
-          "code": "EE(Civil)-31",
+          "code": "EE_CIVIL_31",
           "name": "EE(Civil)-31",
           "active": true,
           "description": "EE(Civil)-31"
         },
         {
-          "code": "EE(Civil)-32",
+          "code": "EE_CIVIL_32",
           "name": "EE(Civil)-32",
           "active": true,
           "description": "EE(Civil)-32"
         },
         {
-          "code": "EE(Civil)-33",
+          "code": "EE_CIVIL_33",
           "name": "EE(Civil)-33",
           "active": true,
           "description": "EE(Civil)-33"
         },
         {
-          "code": "EE(Civil)-34",
+          "code": "EE_CIVIL_34",
           "name": "EE(Civil)-34",
           "active": true,
           "description": "EE(Civil)-34"
         },
         {
-          "code": "EE(Civil)-35",
+          "code": "EE_CIVIL_35",
           "name": "EE(Civil)-35",
           "active": true,
           "description": "EE(Civil)-35"
         },
         {
-          "code": "EE(Civil)-36",
+          "code": "EE_CIVIL_36",
           "name": "EE(Civil)-36",
           "active": true,
           "description": "EE(Civil)-36"
         },
         {
-          "code": "EE(Civil)-37",
+          "code": "EE_CIVIL_37",
           "name": "EE(Civil)-37",
           "active": true,
           "description": "EE(Civil)-37"
         },
         {
-          "code": "EE(Civil)-38",
+          "code": "EE_CIVIL_38",
           "name": "EE(Civil)-38",
           "active": true,
           "description": "EE(Civil)-38"
         },
         {
-          "code": "EE(Civil)-39",
+          "code": "EE_CIVIL_39",
           "name": "EE(Civil)-39",
           "active": true,
           "description": "EE(Civil)-39"
         }
-      ],
-      "active": true,
-      "description": "Maintenance"
+      ]
     },
     {
       "code": "D4",
       "name": "E&M",
       "divisionCode": "4",
       "divisionName": "E&M",
+      "active": true,
+      "description": "E&M",
       "designations": [
         {
-          "code": "EE(E&M) M-1",
+          "code": "EE_EANDM_M_1",
           "name": "EE(E&M) M-1",
           "active": true,
           "description": "EE(E&M) M-1"
         },
         {
-          "code": "EE(E&M) M-2",
+          "code": "EE_EANDM_M_2",
           "name": "EE(E&M) M-2",
           "active": true,
           "description": "EE(E&M) M-2"
         },
         {
-          "code": "EE(E&M) M-3",
+          "code": "EE_EANDM_M_3",
           "name": "EE(E&M) M-3",
           "active": true,
           "description": "EE(E&M) M-3"
         },
         {
-          "code": "EE(E&M) M-4",
+          "code": "EE_EANDM_M_4",
           "name": "EE(E&M) M-4",
           "active": true,
           "description": "EE(E&M) M-4"
         },
         {
-          "code": "EE(E&M) M-5",
+          "code": "EE_EANDM_M_5",
           "name": "EE(E&M) M-5",
           "active": true,
           "description": "EE(E&M) M-5"
         },
         {
-          "code": "EE(E&M) M-6",
+          "code": "EE_EANDM_M_6",
           "name": "EE(E&M) M-6",
           "active": true,
           "description": "EE(E&M) M-6"
         },
         {
-          "code": "EE(E&M) M-7",
+          "code": "EE_EANDM_M_7",
           "name": "EE(E&M) M-7",
           "active": true,
           "description": "EE(E&M) M-7"
         },
         {
-          "code": "EE(E&M) M-8",
+          "code": "EE_EANDM_M_8",
           "name": "EE(E&M) M-8",
           "active": true,
           "description": "EE(E&M) M-8"
         },
         {
-          "code": "EE(E&M) M-9",
+          "code": "EE_EANDM_M_9",
           "name": "EE(E&M) M-9",
           "active": true,
           "description": "EE(E&M) M-9"
         },
         {
-          "code": "EE(E&M) M-10",
+          "code": "EE_EANDM_M_10",
           "name": "EE(E&M) M-10",
           "active": true,
           "description": "EE(E&M) M-10"
         },
         {
-          "code": "EE(E&M) M-11",
+          "code": "EE_EANDM_M_11",
           "name": "EE(E&M) M-11",
           "active": true,
           "description": "EE(E&M) M-11"
         },
         {
-          "code": "EE(E&M) M-12",
+          "code": "EE_EANDM_M_12",
           "name": "EE(E&M) M-12",
           "active": true,
           "description": "EE(E&M) M-12"
         },
         {
-          "code": "EE(E&M) M-13",
+          "code": "EE_EANDM_M_13",
           "name": "EE(E&M) M-13",
           "active": true,
           "description": "EE(E&M) M-13"
         },
         {
-          "code": "EE(E&M) M-14",
+          "code": "EE_EANDM_M_14",
           "name": "EE(E&M) M-14",
           "active": true,
           "description": "EE(E&M) M-14"
         },
         {
-          "code": "EE(E&M) M-15",
+          "code": "EE_EANDM_M_15",
           "name": "EE(E&M) M-15",
           "active": true,
           "description": "EE(E&M) M-15"
         },
         {
-          "code": "EE(E&M) M-16",
+          "code": "EE_EANDM_M_16",
           "name": "EE(E&M) M-16",
           "active": true,
           "description": "EE(E&M) M-16"
         },
         {
-          "code": "EE(E&M) M-17",
+          "code": "EE_EANDM_M_17",
           "name": "EE(E&M) M-17",
           "active": true,
           "description": "EE(E&M) M-17"
         },
         {
-          "code": "EE(SDW) -I",
+          "code": "EE_SDW_I",
           "name": "EE(SDW) -I",
           "active": true,
           "description": "EE(SDW) -I"
         },
         {
-          "code": "EE(SDW) -II",
+          "code": "EE_SDW_II",
           "name": "EE(SDW) -II",
           "active": true,
           "description": "EE(SDW) -II"
         },
         {
-          "code": "EE(SDW) -III",
+          "code": "EE_SDW_III",
           "name": "EE(SDW) -III",
           "active": true,
           "description": "EE(SDW) -III"
         },
         {
-          "code": "EE(SDW) -IV",
+          "code": "EE_SDW_IV",
           "name": "EE(SDW) -IV",
           "active": true,
           "description": "EE(SDW) -IV"
         },
         {
-          "code": "EE(SDW) -V",
+          "code": "EE_SDW_V",
           "name": "EE(SDW) -V",
           "active": true,
           "description": "EE(SDW) -V"
         },
         {
-          "code": "EE(SDW) -VI",
+          "code": "EE_SDW_VI",
           "name": "EE(SDW) -VI",
           "active": true,
           "description": "EE(SDW) -VI"
         },
         {
-          "code": "EE(SDW) -VII",
+          "code": "EE_SDW_VII",
           "name": "EE(SDW) -VII",
           "active": true,
           "description": "EE(SDW) -VII"
         },
         {
-          "code": "EE(SDW) -VIII",
+          "code": "EE_SDW_VIII",
           "name": "EE(SDW) -VIII",
           "active": true,
           "description": "EE(SDW) -VIII"
         },
         {
-          "code": "EE(SDW) -IX",
+          "code": "EE_SDW_IX",
           "name": "EE(SDW) -IX",
           "active": true,
           "description": "EE(SDW) -IX"
         },
         {
-          "code": "EE(SDW) -XI",
+          "code": "EE_SDW_XI",
           "name": "EE(SDW) -XI",
           "active": true,
           "description": "EE(SDW) -XI"
         },
         {
-          "code": "EE(SDW) -XII",
+          "code": "EE_SDW_XII",
           "name": "EE(SDW) -XII",
           "active": true,
           "description": "EE(SDW) -XII"
         },
         {
-          "code": "EE(SDW) -XIII",
+          "code": "EE_SDW_XIII",
           "name": "EE(SDW) -XIII",
           "active": true,
           "description": "EE(SDW) -XIII"
         },
         {
-          "code": "EE(SDW) -XIV",
+          "code": "EE_SDW_XIV",
           "name": "EE(SDW) -XIV",
           "active": true,
           "description": "EE(SDW) -XIV"
         },
         {
-          "code": "EE(E&M)HP-I",
+          "code": "EE_EANDM_HP_I",
           "name": "EE(E&M)HP-I",
           "active": true,
           "description": "EE(E&M)HP-I"
         },
         {
-          "code": "EE(E&M)HP-II",
+          "code": "EE_EANDM_HP_II",
           "name": "EE(E&M)HP-II",
           "active": true,
           "description": "EE(E&M)HP-II"
         },
         {
-          "code": "EE(E&M)WTP Dwarka",
+          "code": "EE_EANDM_WTP_DWARKA",
           "name": "EE(E&M)WTP Dwarka",
           "active": true,
           "description": "EE(E&M)WTP Dwarka"
         },
         {
-          "code": "EE(E&M)WTP Nagloi",
+          "code": "EE_EANDM_WTP_NAGLOI",
           "name": "EE(E&M)WTP Nagloi",
           "active": true,
           "description": "EE(E&M)WTP Nagloi"
         },
         {
-          "code": "EE(E&M)BP",
+          "code": "EE_EANDM_BP",
           "name": "EE(E&M)BP",
           "active": true,
           "description": "EE(E&M)BP"
         },
         {
-          "code": "EE(E&M)TYR-SV",
+          "code": "EE_EANDM_TYR_SV",
           "name": "EE(E&M)TYR-SV",
           "active": true,
           "description": "EE(E&M)TYR-SV"
         },
         {
-          "code": "EE(E&M)-II",
+          "code": "EE_EANDM_II",
           "name": "EE(E&M)-II",
           "active": true,
           "description": "EE(E&M)-II"
         },
         {
-          "code": "EE(E&M)-I",
+          "code": "EE_EANDM_I",
           "name": "EE(E&M)-I",
           "active": true,
           "description": "EE(E&M)-I"
         },
         {
-          "code": "EE(E&M)III",
+          "code": "EE_EANDM_III",
           "name": "EE(E&M)III",
           "active": true,
           "description": "EE(E&M)III"
         },
         {
-          "code": "EE(E&M)Planning",
+          "code": "EE_EANDM_PLANNING",
           "name": "EE(E&M)Planning",
           "active": true,
           "description": "EE(E&M)Planning"
         },
         {
-          "code": "EE(E&M)QC",
+          "code": "EE_EANDM_QC",
           "name": "EE(E&M)QC",
           "active": true,
           "description": "EE(E&M)QC"
         },
         {
-          "code": "EE(ISP)",
+          "code": "EE_ISP",
           "name": "EE(ISP)",
           "active": true,
           "description": "EE(ISP)"
         },
         {
-          "code": "EE(Mapping) Cell",
+          "code": "EE_MAPPING_CELL",
           "name": "EE(Mapping) Cell",
           "active": true,
           "description": "EE(Mapping) Cell"
         },
         {
-          "code": "DD(IT)",
+          "code": "DD_IT",
           "name": "DD(IT)",
           "active": true,
           "description": "DD(IT)"
         },
         {
-          "code": "EO to CE(SDW)",
+          "code": "EO_TO_CE_SDW",
           "name": "EO to CE(SDW)",
           "active": true,
           "description": "EO to CE(SDW)"
         },
         {
-          "code": "EO to CE(WW)-II",
+          "code": "EO_TO_CEWASTE_WATER_II",
           "name": "EO to CE(WW)-II",
           "active": true,
           "description": "EO to CE(WW)-II"
         },
         {
-          "code": "SE(SDW) -I",
+          "code": "SE_SDW_I",
           "name": "SE(SDW) -I",
           "active": true,
           "description": "SE(SDW) -I"
         },
         {
-          "code": "SE(SDW) -II",
+          "code": "SE_SDW_II",
           "name": "SE(SDW) -II",
           "active": true,
           "description": "SE(SDW) -II"
         },
         {
-          "code": "SE(SDW) -III",
+          "code": "SE_SDW_III",
           "name": "SE(SDW) -III",
           "active": true,
           "description": "SE(SDW) -III"
         },
         {
-          "code": "SE(SDW) -IV",
+          "code": "SE_SDW_IV",
           "name": "SE(SDW) -IV",
           "active": true,
           "description": "SE(SDW) -IV"
         },
         {
-          "code": "SE(E&M) (East)",
+          "code": "SE_EANDM_EAST",
           "name": "SE(E&M) (East)",
           "active": true,
           "description": "SE(E&M) (East)"
         },
         {
-          "code": "SE(E&M) (South)",
+          "code": "SE_EANDM_SOUTH",
           "name": "SE(E&M) (South)",
           "active": true,
           "description": "SE(E&M) (South)"
         },
         {
-          "code": "SE(E&M) (West)",
+          "code": "SE_EANDM_WEST",
           "name": "SE(E&M) (West)",
           "active": true,
           "description": "SE(E&M) (West)"
         },
         {
-          "code": "SE(E&M) (North)",
+          "code": "SE_EANDM_NORTH",
           "name": "SE(E&M) (North)",
           "active": true,
           "description": "SE(E&M) (North)"
         },
         {
-          "code": "EE(E&M) WC-1",
+          "code": "EE_EANDM_WC_1",
           "name": "EE(E&M) WC-1",
           "active": true,
           "description": "EE(E&M) WC-1"
         },
         {
-          "code": "EE(E&M) WC-II",
+          "code": "EE_EANDM_WC_II",
           "name": "EE(E&M) WC-II",
           "active": true,
           "description": "EE(E&M) WC-II"
         },
         {
-          "code": "SE(E&M)-1-WW",
+          "code": "SE_EANDM_1_WW",
           "name": "SE(E&M)-1-WW",
           "active": true,
           "description": "SE(E&M)-1-WW"
         },
         {
-          "code": "SE(WW)-1",
+          "code": "SEWASTE_WATER_1",
           "name": "SE(WW)-1",
           "active": true,
           "description": "SE(WW)-1"
         },
         {
-          "code": "SE(WW)-2",
+          "code": "SEWASTE_WATER_2",
           "name": "SE(WW)-2",
           "active": true,
           "description": "SE(WW)-2"
         },
         {
-          "code": "CE(SDW)",
+          "code": "CE_SDW",
           "name": "CE(SDW)",
           "active": true,
           "description": "CE(SDW)"
         },
         {
-          "code": "CE (WW)-I",
+          "code": "CE_WASTE_WATER_I",
           "name": "CE (WW)-I",
           "active": true,
           "description": "CE (WW)-I"
         },
         {
-          "code": "CE (WW)-II",
+          "code": "CE_WASTE_WATER_II",
           "name": "CE (WW)-II",
           "active": true,
           "description": "CE (WW)-II"
         },
         {
-          "code": "CE(IT)",
+          "code": "CE_IT",
           "name": "CE(IT)",
           "active": true,
           "description": "CE(IT)"
         },
         {
-          "code": "SE(E&M)WC",
+          "code": "SE_EANDM_WC",
           "name": "SE(E&M)WC",
           "active": true,
           "description": "SE(E&M)WC"
         },
         {
-          "code": "Chief Estate Officer",
+          "code": "CHIEF_ESTATE_OFFICER",
           "name": "Chief Estate Officer",
           "active": true,
           "description": "Chief Estate Officer"
         },
         {
-          "code": "OSD to Hon'ble Chairman (DJB)",
+          "code": "OSD_TO_HON_BLE_CHAIRMAN_DJB",
           "name": "OSD to Hon'ble Chairman (DJB)",
           "active": true,
           "description": "OSD to Hon'ble Chairman (DJB)"
         },
         {
-          "code": "SE(Vigilance)",
+          "code": "SE_VIGILANCE",
           "name": "SE(Vigilance)",
           "active": true,
           "description": "SE(Vigilance)"
         }
-      ],
-      "active": true,
-      "description": "E&M"
+      ]
     }
   ]
 }
