@@ -32912,7 +32912,6 @@
       "actioncode": "",
       "tenantId": "dl"
     },
-
     {
       "rolecode": "EKYC_SUPERVISOR",
       "actionid": 2988,
@@ -33015,7 +33014,6 @@
       "actioncode": "",
       "tenantId": "dl"
     },
-
     {
       "rolecode": "EKYC_ZRO",
       "actionid": 2989,
@@ -33184,7 +33182,6 @@
       "actioncode": "",
       "tenantId": "dl"
     },
-    
     {
       "rolecode": "WT_DRIVER",
       "actionid": 2955,
@@ -33248,6 +33245,78 @@
     {
       "rolecode": "EMPLOYEE",
       "actionid": 2996,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_DRIVER",
+      "actionid": 2997,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_CEMP",
+      "actionid": 2997,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2997,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "COMMON_VENDOR",
+      "actionid": 2997,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_VENDOR",
+      "actionid": 2997,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "VENDOR_CREATOR",
+      "actionid": 2997,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2997,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "FSM_DSO",
+      "actionid": 2997,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "VENDOR",
+      "actionid": 2997,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2997,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2997,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE_ADMIN",
+      "actionid": 2997,
       "actioncode": "",
       "tenantId": "dl"
     }

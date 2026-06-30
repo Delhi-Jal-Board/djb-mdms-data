@@ -20483,7 +20483,18 @@
       "serviceCode": "ekyc-service",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2997,
+      "name": "Water Tanker Payment Search",
+      "url": "/collection-services/payments/watertanker/_search",
+      "displayName": "Water Tanker Payment Search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
     }
-
   ]
 }

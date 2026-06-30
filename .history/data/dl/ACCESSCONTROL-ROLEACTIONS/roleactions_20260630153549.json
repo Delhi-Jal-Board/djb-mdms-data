@@ -32866,12 +32866,6 @@
     },
     {
       "rolecode": "EKYC_SURVEYOR",
-      "actionid": 2987,
-      "actioncode": "",
-      "tenantId": "dl"
-    },
-    {
-      "rolecode": "EKYC_SURVEYOR",
       "actionid": 2989,
       "actioncode": "",
       "tenantId": "dl"
@@ -32915,18 +32909,6 @@
     {
       "rolecode": "EKYC_SUPERVISOR",
       "actionid": 2985,
-      "actioncode": "",
-      "tenantId": "dl"
-    },
-    {
-      "rolecode": "EKYC_SUPERVISOR",
-      "actionid": 2986,
-      "actioncode": "",
-      "tenantId": "dl"
-    },
-    {
-      "rolecode": "EKYC_SUPERVISOR",
-      "actionid": 2987,
       "actioncode": "",
       "tenantId": "dl"
     },
@@ -32986,12 +32968,6 @@
     },
     {
       "rolecode": "EKYC_VENDOR",
-      "actionid": 2987,
-      "actioncode": "",
-      "tenantId": "dl"
-    },
-    {
-      "rolecode": "EKYC_VENDOR",
       "actionid": 2989,
       "actioncode": "",
       "tenantId": "dl"
@@ -33035,12 +33011,6 @@
     {
       "rolecode": "EKYC_ZRO",
       "actionid": 2976,
-      "actioncode": "",
-      "tenantId": "dl"
-    },
-    {
-      "rolecode": "EKYC_ZRO",
-      "actionid": 2987,
       "actioncode": "",
       "tenantId": "dl"
     },
@@ -33095,6 +33065,258 @@
     {
       "rolecode": "AE",
       "actionid": 2990,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SUPERVISOR",
+      "actionid": 2991,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SURVEYOR",
+      "actionid": 2991,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SUPERVISOR",
+      "actionid": 2992,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SUPERVISOR",
+      "actionid": 2976,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SURVEYOR",
+      "actionid": 2992,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SURVEYOR",
+      "actionid": 2993,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SURVEYOR",
+      "actionid": 2994,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_VENDOR",
+      "actionid": 2992,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_ZRO",
+      "actionid": 2991,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_ZRO",
+      "actionid": 2992,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_ZRO",
+      "actionid": 2993,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_ZRO",
+      "actionid": 2994,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2991,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2992,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2993,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2994,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_DRIVER",
+      "actionid": 2959,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2959,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2959,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_DRIVER",
+      "actionid": 2955,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2955,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2955,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SUPERVISOR",
+      "actionid": 2995,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_SURVEYOR",
+      "actionid": 2995,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_VENDOR",
+      "actionid": 2995,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EKYC_ZRO",
+      "actionid": 2995,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2995,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2995,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2996,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2996,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_DRIVER",
+      "actionid": 2997,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_CEMP",
+      "actionid": 2997,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2997,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "COMMON_VENDOR",
+      "actionid": 2997,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_VENDOR",
+      "actionid": 2997,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "VENDOR_CREATOR",
+      "actionid": 2997,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2997,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "FSM_DSO",
+      "actionid": 2997,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "VENDOR",
+      "actionid": 2997,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2997,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2997,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE_ADMIN",
+      "actionid": 2997,
       "actioncode": "",
       "tenantId": "dl"
     }
