@@ -781,6 +781,6 @@
         {
 		  "idname": "request-service.water_tanker.receipt.id",
 		  "format": "WT/RECEIPT/[cy:yyyy-MM-dd]-[SEQ_WATER_TANKER]"
-		}
+        }
     ]
 }

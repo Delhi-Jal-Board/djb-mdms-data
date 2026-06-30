@@ -1,0 +1,258 @@
+{
+  "tenantId": "dl",
+  "moduleName": "common-masters",
+  "EmergencyList": [
+    {
+      "code": "FPL_001",
+      "name": "Lajpat Nagar (MS)",
+      "rank": 1,
+      "active": true
+    },
+    {
+      "code": "FPL_002",
+      "name": "Holambi Kalan (MS)",
+      "rank": 2,
+      "active": true
+    },
+    {
+      "code": "FPL_003",
+      "name": "Ashok Vihar (MS)",
+      "rank": 3,
+      "active": true
+    },
+    {
+      "code": "FPL_004",
+      "name": "Chattarpur Ambedkar",
+      "rank": 4,
+      "active": true
+    },
+    {
+      "code": "FPL_005",
+      "name": "Kirari (MS)",
+      "rank": 5,
+      "active": true
+    },
+    {
+      "code": "FPL_006",
+      "name": "Mangolpuri (MS)",
+      "rank": 6,
+      "active": true
+    },
+    {
+      "code": "FPL_007",
+      "name": "Daulatpur (MS)",
+      "rank": 7,
+      "active": true
+    },
+    {
+      "code": "FPL_008",
+      "name": "Vasantkunj",
+      "rank": 8,
+      "active": true
+    },
+    {
+      "code": "FPL_009",
+      "name": "Ujwa",
+      "rank": 9,
+      "active": true
+    },
+    {
+      "code": "FPL_010",
+      "name": "Sultanpur (MS)",
+      "rank": 10,
+      "active": true
+    },
+    {
+      "code": "FPL_011",
+      "name": "R K Puram (MS)",
+      "rank": 11,
+      "active": true
+    },
+    {
+      "code": "FPL_012",
+      "name": "Karala (MS)",
+      "rank": 12,
+      "active": true
+    },
+    {
+      "code": "FPL_013",
+      "name": "NANAKSAR",
+      "rank": 13,
+      "active": true
+    },
+    {
+      "code": "FPL_014",
+      "name": "Madhuvihar",
+      "rank": 14,
+      "active": true
+    },
+    {
+      "code": "FPL_015",
+      "name": "Punjabi Bagh (MS)",
+      "rank": 15,
+      "active": true
+    },
+    {
+      "code": "FPL_016",
+      "name": "Jagriti (MS)",
+      "rank": 16,
+      "active": true
+    },
+    {
+      "code": "FPL_017",
+      "name": "Tahirpur (MS)",
+      "rank": 17,
+      "active": true
+    },
+    {
+      "code": "FPL_018",
+      "name": "BUDELLA",
+      "rank": 18,
+      "active": true
+    },
+    {
+      "code": "FPL_019",
+      "name": "Rohini 23 (MS)",
+      "rank": 19,
+      "active": true
+    },
+    {
+      "code": "FPL_020",
+      "name": "OKHLA ESI",
+      "rank": 20,
+      "active": true
+    },
+    {
+      "code": "FPL_021",
+      "name": "Sultanpuri",
+      "rank": 21,
+      "active": true
+    },
+    {
+      "code": "FPL_022",
+      "name": "Yamunavihar",
+      "rank": 22,
+      "active": true
+    },
+    {
+      "code": "FPL_023",
+      "name": "Okhla (MS)",
+      "rank": 23,
+      "active": true
+    },
+    {
+      "code": "FPL_024",
+      "name": "Indraprastha",
+      "rank": 24,
+      "active": true
+    },
+    {
+      "code": "FPL_025",
+      "name": "Chattarpur",
+      "rank": 25,
+      "active": true
+    },
+    {
+      "code": "FPL_026",
+      "name": "GK1 (AC47)",
+      "rank": 26,
+      "active": true
+    },
+    {
+      "code": "FPL_027",
+      "name": "Giri Nagar (MS)",
+      "rank": 27,
+      "active": true
+    },
+    {
+      "code": "FPL_028",
+      "name": "Mandawali",
+      "rank": 28,
+      "active": true
+    },
+    {
+      "code": "FPL_029",
+      "name": "Burari (MS)",
+      "rank": 29,
+      "active": true
+    },
+    {
+      "code": "FPL_030",
+      "name": "Najafgarh",
+      "rank": 30,
+      "active": true
+    },
+    {
+      "code": "FPL_031",
+      "name": "Loni Road (MS)",
+      "rank": 31,
+      "active": true
+    },
+    {
+      "code": "FPL_032",
+      "name": "Rajinder Nagar",
+      "rank": 32,
+      "active": true
+    },
+    {
+      "code": "FPL_033",
+      "name": "Chandrawal (MS)",
+      "rank": 33,
+      "active": true
+    },
+    {
+      "code": "FPL_034",
+      "name": "GK1 (AC49)",
+      "rank": 34,
+      "active": true
+    },
+    {
+      "code": "FPL_035",
+      "name": "Vasantkunj Mehrauli (AC45)",
+      "rank": 35,
+      "active": true
+    },
+    {
+      "code": "FPL_036",
+      "name": "Nangloi",
+      "rank": 36,
+      "active": true
+    },
+    {
+      "code": "FPL_037",
+      "name": "Kewal Park (MS)",
+      "rank": 37,
+      "active": true
+    },
+    {
+      "code": "FPL_038",
+      "name": "Janakpuri",
+      "rank": 38,
+      "active": true
+    },
+    {
+      "code": "FPL_039",
+      "name": "Pochanpur (MS)",
+      "rank": 39,
+      "active": true
+    },
+    {
+      "code": "FPL_040",
+      "name": "Kasakpura (Eidgah)",
+      "rank": 40,
+      "active": true
+    },
+    {
+      "code": "FPL_041",
+      "name": "Gulabibagh",
+      "rank": 41,
+      "active": true
+    },
+    {
+      "code": "FPL_042",
+      "name": "Paschim Vihar (MS)",
+      "rank": 42,
+      "active": true
+    }
+  ]
+}

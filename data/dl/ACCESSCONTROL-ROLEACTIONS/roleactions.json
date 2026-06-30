@@ -33077,6 +33077,12 @@
       "tenantId": "dl"
     },
     {
+      "rolecode": "EKYC_SURVEYOR",
+      "actionid": 2991,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
       "rolecode": "EKYC_SUPERVISOR",
       "actionid": 2992,
       "actioncode": "",

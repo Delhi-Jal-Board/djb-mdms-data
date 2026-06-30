@@ -39,11 +39,6 @@
     },
     {
       "code": "DECLARATION_8",
-      "description": "In case the connection is found non-feasible on technical grounds as per any prevalent policy of DJB, the water connection may be denied, or if sanctioned inadvertently, the said sanction may be withdrawn and may be disconnected without any notice.",
-      "active": true
-    },
-    {
-      "code": "DECLARATION_9",
       "description": "I hereby undertake that all the facts and documents submitted are true and correct, and in case of any misrepresentation or wrong facts, the connection may be disconnected without any notice.",
       "active": true
     }
