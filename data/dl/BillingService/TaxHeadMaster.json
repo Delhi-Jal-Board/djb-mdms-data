@@ -5913,54 +5913,54 @@
       "isRequired": true
     },
     {
-      "category": "FEE",
-      "service": "WS",
-      "name": "New Connection Fee",
-      "code": "WS_NEW_CONNECTION_FEE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "100",
-      "isRequired": false
-    },
-    {
-      "category": "FEE",
-      "service": "WS",
-      "name": "Mutation Fee",
-      "code": "WS_MUTATION_FEE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "101",
-      "isRequired": false
-    },
-    {
-      "category": "FEE",
-      "service": "WS",
-      "name": "Water Advance",
-      "code": "WS_WATER_ADVANCE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "102",
-      "isRequired": false
-    },
-    {
-      "category": "FEE",
-      "service": "WS",
-      "name": "Reopening Fee",
-      "code": "WS_REOPENING_FEE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "103",
-      "isRequired": false
-    },
-    {
-      "category": "CHARGES",
-      "service": "WS",
-      "name": "Infrastructure Charge",
-      "code": "WS_INFRASTRUCTURE_CHARGE",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "104",
-      "isRequired": false
-    }
+    "category": "FEE",
+    "service": "WS.ONE_TIME_FEE",
+    "name": "New Connection Fee",
+    "code": "WS_NEW_CONNECTION_FEE",
+    "isDebit": false,
+    "isActualDemand": true,
+    "order": "100",
+    "isRequired": false
+  },
+  {
+    "category": "CHARGES",
+    "service": "WS.ONE_TIME_FEE",
+    "name": "Infrastructure Charge",
+    "code": "WS_INFRASTRUCTURE_CHARGE",
+    "isDebit": false,
+    "isActualDemand": true,
+    "order": "101",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "WS.MUTATION",
+    "name": "Mutation Fee",
+    "code": "WS_MUTATION_FEE",
+    "isDebit": false,
+    "isActualDemand": true,
+    "order": "102",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "WS.MUTATION",
+    "name": "Water Advance",
+    "code": "WS_WATER_ADVANCE",
+    "isDebit": false,
+    "isActualDemand": true,
+    "order": "103",
+    "isRequired": false
+  },
+  {
+    "category": "FEE",
+    "service": "WS.MUTATION",
+    "name": "Reopening Fee",
+    "code": "WS_REOPENING_FEE",
+    "isDebit": false,
+    "isActualDemand": true,
+    "order": "104",
+    "isRequired": false
+  }
   ]
 }
