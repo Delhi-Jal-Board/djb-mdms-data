@@ -33319,6 +33319,294 @@
       "actionid": 2997,
       "actioncode": "",
       "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2998,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 2998,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2998,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2999,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 2999,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2999,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3000,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 3000,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3000,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3001,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 3001,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3001,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3002,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 3002,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3002,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3003,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 3003,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3003,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3004,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 3004,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3004,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3005,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 3005,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3005,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3006,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 3006,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3006,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3007,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 3007,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3007,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3008,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 3008,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3008,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3009,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 3009,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3009,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3010,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 3010,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3010,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3011,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 3011,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3011,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3012,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 3012,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3012,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3013,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 3013,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3013,
+      "actioncode": "",
+      "tenantId": "dl"
     }
   ]
 }

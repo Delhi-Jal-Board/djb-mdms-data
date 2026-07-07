@@ -20495,6 +20495,182 @@
       "serviceCode": "",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2998,
+      "name": "Create Actions Test MDMS",
+      "url": "/mdms-v2/v2/_create/ACCESSCONTROL-ACTIONS-TEST.actions-test",
+      "displayName": "Create Actions Test",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "mdms-v2",
+      "tenantId": "dl",
+      "path": ""
+    },
+    {
+      "id": 2999,
+      "name": "Create Roleaction  MDMS",
+      "url": "/mdms-v2/v2/_create/ACCESSCONTROL-ROLEACTIONS.roleactions",
+      "displayName": "Create Roleaction",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "mdms-v2",
+      "tenantId": "dl",
+      "path": ""
+    },
+    {
+      "id": 3000,
+      "name": "Create role MDMS",
+      "url": "/mdms-v2/v2/_create/ACCESSCONTROL-ROLES.roles",
+      "displayName": "Create Role",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "mdms-v2",
+      "tenantId": "dl",
+      "path": ""
+    },
+    {
+      "id": 3001,
+      "name": "Create DataSecurity MDMS",
+      "url": "/mdms-v2/v2/_create/DataSecurity.DecryptionABAC",
+      "displayName": "Create DataSecurity",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "mdms-v2",
+      "tenantId": "dl",
+      "path": ""
+    },
+    {
+      "id": 3002,
+      "name": "Create DataSecurity EncryptionPolicy MDMS",
+      "url": "/mdms-v2/v2/_create/DataSecurity.EncryptionPolicy",
+      "displayName": "Create DataSecurity EncryptionPolicy",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "mdms-v2",
+      "tenantId": "dl",
+      "path": ""
+    },
+    {
+      "id": 3003,
+      "name": "Create DataSecurity MaskingPatterns MDMS",
+      "url": "/mdms-v2/v2/_create/DataSecurity.MaskingPatterns",
+      "displayName": "Create DataSecurity MaskingPatterns",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "mdms-v2",
+      "tenantId": "dl",
+      "path": ""
+    },
+    {
+      "id": 3004,
+      "name": "Create SecurityPolicy MDMS",
+      "url": "/mdms-v2/v2/_create/DataSecurity.SecurityPolicy",
+      "displayName": "Create SecurityPolicy",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "mdms-v2",
+      "tenantId": "dl",
+      "path": ""
+    },
+    {
+      "id": 3005,
+      "name": "Create DeactivationReason MDMS",
+      "url": "/mdms-v2/v2/_create/egov-hrms.DeactivationReason",
+      "displayName": "Create DeactivationReason",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "mdms-v2",
+      "tenantId": "dl",
+      "path": ""
+    },
+    {
+      "id": 3006,
+      "name": "Create Degree MDMS",
+      "url": "/mdms-v2/v2/_create/egov-hrms.Degree",
+      "displayName": "Create Degree",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "mdms-v2",
+      "tenantId": "dl",
+      "path": ""
+    },
+    {
+      "id": 3007,
+      "name": "Create EmployeeStatus MDMS",
+      "url": "/mdms-v2/v2/_create/egov-hrms.EmployeeStatus",
+      "displayName": "Create EmployeeStatus",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "mdms-v2",
+      "tenantId": "dl",
+      "path": ""
+    },
+    {
+      "id": 3008,
+      "name": "Create EmployeeType MDMS",
+      "url": "/mdms-v2/v2/_create/egov-hrms.EmployeeType",
+      "displayName": "Create EmployeeType",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "mdms-v2",
+      "tenantId": "dl",
+      "path": ""
+    },
+    {
+      "id": 3009,
+      "name": "Create AutoEscalation MDMS",
+      "url": "/mdms-v2/v2/_create/Workflow.AutoEscalation",
+      "displayName": "Create AutoEscalation",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "mdms-v2",
+      "tenantId": "dl",
+      "path": ""
+    },
+    {
+      "id": 3010,
+      "name": "Create AutoEscalationStatesToIgnore MDMS",
+      "url": "/mdms-v2/v2/_create/Workflow.AutoEscalationStatesToIgnore",
+      "displayName": "Create AutoEscalationStatesToIgnore",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "mdms-v2",
+      "tenantId": "dl",
+      "path": ""
+    },
+    {
+      "id": 3011,
+      "name": "Create BusinessService MDMS",
+      "url": "/mdms-v2/v2/_create/Workflow.BusinessService",
+      "displayName": "Create BusinessService",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "mdms-v2",
+      "tenantId": "dl",
+      "path": ""
+    },
+    {
+      "id": 3012,
+      "name": "Create BusinessServiceConfig MDMS",
+      "url": "/mdms-v2/v2/_create/Workflow.BusinessServiceConfig",
+      "displayName": "Create BusinessServiceConfig",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "mdms-v2",
+      "tenantId": "dl",
+      "path": ""
+    },
+    {
+      "id": 3013,
+      "name": "Create InboxQueryConfiguration MDMS",
+      "url": "/mdms-v2/v2/_create/INBOX.InboxQueryConfiguration",
+      "displayName": "Create InboxQueryConfiguration",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "mdms-v2",
+      "tenantId": "dl",
+      "path": ""
     }
   ]
 }
