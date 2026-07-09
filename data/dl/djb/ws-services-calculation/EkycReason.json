@@ -4,52 +4,67 @@
   "EkycReason": [
     {
       "code": "EKYCREASON_01",
-      "reason": "Aadhaar OTP not received",
+      "reason": "House Locked – No Response",
       "active": "true"
     },
     {
       "code": "EKYCREASON_02",
-      "reason": "Biometric mismatch",
+      "reason": "Consumer Out of Station",
       "active": "true"
     },
     {
       "code": "EKYCREASON_03",
-      "reason": "Network connectivity issue",
+      "reason": "Neighbor Informed – Shifted",
       "active": "true"
     },
     {
       "code": "EKYCREASON_04",
-      "reason": "Aadhaar data not updated",
+      "reason": "Restricted Entry",
       "active": "true"
     },
     {
       "code": "EKYCREASON_05",
-      "reason": "Technical glitch at eKYC server",
+      "reason": "Incorrect Address",
       "active": "true"
     },
     {
       "code": "EKYCREASON_06",
-      "reason": "Invalid Aadhaar number",
+      "reason": "Safety or Environmental Constraint (Unsafe Area / Weather Issue)",
       "active": "true"
     },
     {
       "code": "EKYCREASON_07",
-      "reason": "Aadhaar not linked to mobile number",
+      "reason": "Visit Attempted Outside Permissible Hours",
       "active": "true"
     },
     {
       "code": "EKYCREASON_08",
-      "reason": "System timeout",
+      "reason": "Access Restricted (Gated Society / Locked Building Entry)",
       "active": "true"
     },
     {
       "code": "EKYCREASON_09",
-      "reason": "Aadhaar authentication failure",
+      "reason": "Incorrect Address / Location Not Traceable",
       "active": "true"
     },
     {
       "code": "EKYCREASON_10",
-      "reason": "Other technical issues",
+      "reason": "Consumer Temporarily Away",
+      "active": "true"
+    },
+    {
+      "code": "EKYCREASON_11",
+      "reason": "Consumer Permanently Shifted",
+      "active": "true"
+    },
+    {
+      "code": "EKYCREASON_12",
+      "reason": "Premises Found Locked for Long Duration",
+      "active": "true"
+    },
+    {
+      "code": "EKYCREASON_13",
+      "reason": "Consumer Not Available (Door Closed)",
       "active": "true"
     }
   ]
