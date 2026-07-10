@@ -20716,8 +20716,9 @@
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
-      "serviceCode": "MDMS",
+      "serviceCode": "mdms-v2",
       "code": "null",
+      "tenantId": "dl",
       "path": ""
     }
   ]
