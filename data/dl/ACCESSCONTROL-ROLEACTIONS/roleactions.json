@@ -32715,6 +32715,48 @@
       "tenantId": "dl"
     },
     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2982,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2985,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2982,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2985,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2989,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2989,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2992,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
       "rolecode": "AE_CREATOR",
       "actionid": 2986,
       "actioncode": "",
