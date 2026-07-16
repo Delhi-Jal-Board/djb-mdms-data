@@ -20785,6 +20785,19 @@
       "code": "null",
       "tenantId": "dl",
       "path": ""
+    },
+    {
+      "id": 3023,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_update/ACCESSCONTROL-ACTIONS-TEST.actions-test",
+      "displayName": "Update ACCESSCONTROL-ACTIONS-TEST.actions-test",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "mdms-v2",
+      "code": "null",
+      "tenantId": "dl",
+      "path": ""
     }
   ]
 }
