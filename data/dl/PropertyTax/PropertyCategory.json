@@ -15,6 +15,12 @@
       "active": true
     },
     {
+      "name": "Mercantile",
+      "code": "MERCANTILE",
+      "type": "NON_DOMESTIC",
+      "active": true
+    },
+    {
       "name": "Industrial",
       "code": "INDUSTRIAL",
       "type": "NON_DOMESTIC",
@@ -23,6 +29,30 @@
     {
       "name": "Institutional",
       "code": "INSTITUTIONAL",
+      "type": "NON_DOMESTIC",
+      "active": true
+    },
+    {
+      "name": "Educational",
+      "code": "EDUCATIONAL",
+      "type": "NON_DOMESTIC",
+      "active": true
+    },
+    {
+      "name": "Assembly",
+      "code": "ASSEMBLY",
+      "type": "NON_DOMESTIC",
+      "active": true
+    },
+    {
+      "name": "Storage & Parking",
+      "code": "STORAGE",
+      "type": "NON_DOMESTIC",
+      "active": true
+    },
+    {
+      "name": "Hazardous",
+      "code": "HAZARDOUS",
       "type": "NON_DOMESTIC",
       "active": true
     },

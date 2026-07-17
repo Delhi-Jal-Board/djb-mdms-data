@@ -5,18 +5,19 @@
     {
       "name": "Apartment",
       "code": "Apartment",
-      "active": false
+      "type": "RESIDENTIAL",
+      "active": true
     },
     {
       "name": "Banquet Hall",
       "code": "BanquetHall",
-      "type": "COMMERCIAL",
+      "type": "ASSEMBLY",
       "active": true
     },
     {
       "name": "Shop",
       "code": "Shop",
-      "type": "COMMERCIAL",
+      "type": "MERCANTILE",
       "active": true
     },
     {
@@ -28,14 +29,14 @@
     {
       "name": "Mall",
       "code": "Mall",
-      "type": "COMMERCIAL",
+      "type": "MERCANTILE",
       "active": true
     },
     {
       "name": "Complex",
       "code": "Complex",
-      "type": "COMMERCIAL",
-      "active": false
+      "type": "STORAGE",
+      "active": true
     },
     {
       "name": "Hotel/Restaurant",
@@ -52,7 +53,7 @@
     {
       "name": "Mother Dairy Booth",
       "code": "MotherDairyBooth",
-      "type": "COMMERCIAL",
+      "type": "MERCANTILE",
       "active": true
     },
     {
@@ -71,24 +72,30 @@
       "name": "Manufacturing Unit",
       "code": "ManufacturingUnit",
       "type": "INDUSTRIAL",
-      "active": false
+      "active": true
     },
     {
       "name": "Warehouse",
       "code": "Warehouse",
-      "type": "INDUSTRIAL",
+      "type": "STORAGE",
+      "active": true
+    },
+    {
+      "name": "Cold Storage Structure",
+      "code": "ColdStorageStructure",
+      "type": "STORAGE",
       "active": true
     },
     {
       "name": "School",
       "code": "School",
-      "type": "INSTITUTIONAL",
+      "type": "EDUCATIONAL",
       "active": true
     },
     {
       "name": "College",
       "code": "College",
-      "type": "INSTITUTIONAL",
+      "type": "EDUCATIONAL",
       "active": true
     },
     {
@@ -101,6 +108,24 @@
       "name": "Government Buildings",
       "code": "GovernmentBuildings",
       "type": "INSTITUTIONAL",
+      "active": true
+    },
+    {
+      "name": "Utility Station",
+      "code": "UtilityStation",
+      "type": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "name": "Multi-Level Parking Structure",
+      "code": "MultiLevelParkingStructure",
+      "type": "STORAGE",
+      "active": true
+    },
+    {
+      "name": "Mixed Use Premise",
+      "code": "MixedUsePremise",
+      "type": "MIXED",
       "active": true
     },
     {
@@ -124,7 +149,8 @@
     {
       "name": "Hotel or Guest Houses",
       "code": "HotelOrGuestHouses",
-      "active": false
+      "type": "RESIDENTIAL",
+      "active": true
     },
     {
       "name": "Bungalows",
@@ -142,13 +168,13 @@
       "name": "Flat/Apartment",
       "code": "FlatOrApartment",
       "type": "RESIDENTIAL",
-      "active": false
+      "active": true
     },
     {
       "name": "Builder Floors",
       "code": "BuilderFloors",
       "type": "RESIDENTIAL",
-      "active": false
+      "active": true
     },
     {
       "name": "Group Housing Society",
@@ -159,7 +185,7 @@
     {
       "name": "Religious places",
       "code": "ReligiousPlaces",
-      "type": "RESIDENTIAL",
+      "type": "ASSEMBLY",
       "active": true
     },
     {
@@ -171,12 +197,32 @@
     {
       "name": "Mall or Cineplex",
       "code": "MallOrCineplex",
-      "active": false
+      "type": "MERCANTILE",
+      "active": true
     },
     {
       "name": "Office complex",
       "code": "OfficeComplex",
-      "active": false
+      "type": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "name": "Petrol Pump",
+      "code": "PetrolPump",
+      "type": "ASSEMBLY",
+      "active": true
+    },
+    {
+      "name": "Cremation Ground / Burial Ground",
+      "code": "CremationBurialGround",
+      "type": "STORAGE",
+      "active": true
+    },
+    {
+      "name": "Sports Complex / Golf Course",
+      "code": "SportsComplexGolfCourse",
+      "type": "STORAGE",
+      "active": true
     }
   ]
 }

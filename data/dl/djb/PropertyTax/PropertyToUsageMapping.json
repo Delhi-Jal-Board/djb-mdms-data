@@ -1,0 +1,311 @@
+{
+    "tenantId": "dl.djb",
+    "moduleName": "PropertyTax",
+    "PropertyToUsageMapping": [
+        {
+            "propertyTypeCode": "Shop",
+            "allowedUsages": [
+                "SHOPS",
+                "DDA_SHOP",
+                "JUICE_SHOP",
+                "MUTTON_SHOP",
+                "COMBINED_SHOPS_MILK_FRUIT_VEG",
+                "MILK_DAIRY",
+                "MILK_BOOTHS",
+                "SAFAL_BOOTHS",
+                "FRUIT_VEG_STORE",
+                "TEA_STALL",
+                "DRY_CLEANERS",
+                "WHOLESALE_DEPARTMENTAL"
+            ]
+        },
+        {
+            "propertyTypeCode": "Office",
+            "allowedUsages": [
+                "PROFESSIONAL_OFFICE",
+                "GOVT_OFFICES_PSU_BANK",
+                "CENTRAL_GOVT_OFFICES",
+                "DELHI_GOVT_OFFICE",
+                "BEAUTY_PARLORS",
+                "HAIRCUTTING_SALOON"
+            ]
+        },
+        {
+            "propertyTypeCode": "OfficeComplex",
+            "allowedUsages": [
+                "PROFESSIONAL_OFFICE",
+                "GOVT_OFFICES_PSU_BANK",
+                "BEAUTY_PARLORS",
+                "HAIRCUTTING_SALOON"
+            ]
+        },
+        {
+            "propertyTypeCode": "Mall",
+            "allowedUsages": [
+                "MALLS",
+                "CINEPLEX",
+                "WHOLESALE_DEPARTMENTAL"
+            ]
+        },
+        {
+            "propertyTypeCode": "MallOrCineplex",
+            "allowedUsages": [
+                "MALLS",
+                "CINEPLEX",
+                "CINEMA_THEATRES"
+            ]
+        },
+        {
+            "propertyTypeCode": "BanquetHall",
+            "allowedUsages": [
+                "BANQUET_HALL_PARTY_HALL",
+                "CINEMA_THEATRES",
+                "AUDITORIUMS_MUSEUMS"
+            ]
+        },
+        {
+            "propertyTypeCode": "HotelOrRestaurant",
+            "allowedUsages": [
+                "RESTAURANT",
+                "DHABA",
+                "SWEET_SHOP",
+                "HOTEL_GUEST_HOUSES",
+                "STARRED_HOTELS"
+            ]
+        },
+        {
+            "propertyTypeCode": "HotelOrGuestHouses",
+            "allowedUsages": [
+                "HOTEL_GUEST_HOUSES",
+                "STARRED_HOTELS"
+            ]
+        },
+        {
+            "propertyTypeCode": "PublicToilet",
+            "allowedUsages": [
+                "PUBLIC_TOILET"
+            ]
+        },
+        {
+            "propertyTypeCode": "MotherDairyBooth",
+            "allowedUsages": [
+                "MILK_BOOTHS",
+                "SAFAL_BOOTHS"
+            ]
+        },
+        {
+            "propertyTypeCode": "DDACommercialComplex",
+            "allowedUsages": [
+                "SHOPS",
+                "PROFESSIONAL_OFFICE",
+                "DDA_SHOP"
+            ]
+        },
+        {
+            "propertyTypeCode": "Factory",
+            "allowedUsages": [
+                "FACTORY",
+                "BOTTLING_PLANT",
+                "COLOUR_DYE_SHOP_FACTORY",
+                "COOLING_PLANT",
+                "ICE_FACTORY",
+                "JEWELLERY_FACTORY",
+                "MOULDING_FACTORY",
+                "NICKLE_POLISH",
+                "SODA_FACTORY",
+                "SOFT_DRINK_FACTORY",
+                "DHOBI_GHATS",
+                "AUTO_SERVICE",
+                "MANUFACTURING_UNIT"
+            ]
+        },
+        {
+            "propertyTypeCode": "ManufacturingUnit",
+            "allowedUsages": [
+                "MANUFACTURING_UNIT",
+                "FACTORY",
+                "MOULDING_FACTORY"
+            ]
+        },
+        {
+            "propertyTypeCode": "Warehouse",
+            "allowedUsages": [
+                "WAREHOUSE"
+            ]
+        },
+        {
+            "propertyTypeCode": "ColdStorageStructure",
+            "allowedUsages": [
+                "COLD_STORAGE"
+            ]
+        },
+        {
+            "propertyTypeCode": "Complex",
+            "allowedUsages": [
+                "PIAOS",
+                "WAREHOUSE"
+            ]
+        },
+        {
+            "propertyTypeCode": "School",
+            "allowedUsages": [
+                "GOVT_SCHOOLS_GNCTD",
+                "GOVT_SCHOOLS_GOI",
+                "PVT_SCHOOLS",
+                "EDMC_SCHOOLS",
+                "NDMC_SCHOOLS",
+                "SDMC_SCHOOLS",
+                "BLIND_SCHOOLS"
+            ]
+        },
+        {
+            "propertyTypeCode": "College",
+            "allowedUsages": [
+                "GOVT_INSTITUTE",
+                "PVT_INSTITUTE"
+            ]
+        },
+        {
+            "propertyTypeCode": "HospitalNursingHome",
+            "allowedUsages": [
+                "GOVT_HOSPITALS",
+                "PVT_HOSPITALS",
+                "CLINIC_PATHLAB_NO_BEDS",
+                "LAB_XRAY"
+            ]
+        },
+        {
+            "propertyTypeCode": "GovernmentBuildings",
+            "allowedUsages": [
+                "CPWD",
+                "DELHI_JAL_BOARD",
+                "DELHI_FIRE_SERVICE",
+                "POLICE_DEPARTMENT",
+                "DDA",
+                "DMRC",
+                "DTC",
+                "MTNL",
+                "RAILWAYS",
+                "EAST_MCD",
+                "NORTH_MCD",
+                "SOUTH_MCD"
+            ]
+        },
+        {
+            "propertyTypeCode": "UtilityStation",
+            "allowedUsages": [
+                "BSES_RAJDHANI",
+                "BSES_YAMUNA",
+                "DELHI_TRANSCO",
+                "TDDPL",
+                "TELEPHONE_EXCHANGE_GRID",
+                "BROADCASTING_TV_STATIONS"
+            ]
+        },
+        {
+            "propertyTypeCode": "ReligiousPlaces",
+            "allowedUsages": [
+                "RELIGIOUS_PLACE"
+            ]
+        },
+        {
+            "propertyTypeCode": "Apartment",
+            "allowedUsages": [
+                "RESIDENTIAL",
+                "OTHERS"
+            ]
+        },
+        {
+            "propertyTypeCode": "FlatOrApartment",
+            "allowedUsages": [
+                "RESIDENTIAL",
+                "OTHERS"
+            ]
+        },
+        {
+            "propertyTypeCode": "BuilderFloors",
+            "allowedUsages": [
+                "RESIDENTIAL"
+            ]
+        },
+        {
+            "propertyTypeCode": "IndividualHouse",
+            "allowedUsages": [
+                "RESIDENTIAL"
+            ]
+        },
+        {
+            "propertyTypeCode": "Bungalows",
+            "allowedUsages": [
+                "BUNGALOWS",
+                "RESIDENTIAL"
+            ]
+        },
+        {
+            "propertyTypeCode": "DDAFlats",
+            "allowedUsages": [
+                "MIG_FLATS",
+                "LIG_FLATS",
+                "HIG_FLATS",
+                "JANTA_FLATS"
+            ]
+        },
+        {
+            "propertyTypeCode": "GovtFlats",
+            "allowedUsages": [
+                "CENTRAL_GOVT_FLATS",
+                "STATE_GOVT_FLATS"
+            ]
+        },
+        {
+            "propertyTypeCode": "GroupHousingSociety",
+            "allowedUsages": [
+                "COOP_GROUP_HOUSING"
+            ]
+        },
+        {
+            "propertyTypeCode": "JJSLUMS",
+            "allowedUsages": [
+                "MCD_SLUMS"
+            ]
+        },
+        {
+            "propertyTypeCode": "DharamshalasOrHostels",
+            "allowedUsages": [
+                "DHARAMSHALAS_HOSTELS",
+                "GOVT_WORKING_WOMENS_HOSTELS",
+                "CHARITABLE_HOMES"
+            ]
+        },
+        {
+            "propertyTypeCode": "MultiLevelParkingStructure",
+            "allowedUsages": [
+                "MULTI_LEVEL_PARKING"
+            ]
+        },
+        {
+            "propertyTypeCode": "MixedUsePremise",
+            "allowedUsages": [
+                "MIXED_NON_INTENSIVE"
+            ]
+        },
+        {
+            "propertyTypeCode": "PetrolPump",
+            "allowedUsages": [
+                "PETROL_PUMPS"
+            ]
+        },
+        {
+            "propertyTypeCode": "CremationGroundBurialGround",
+            "allowedUsages": [
+                "CREMATION_CEMETERY"
+            ]
+        },
+        {
+            "propertyTypeCode": "SportsComplexGolfCourse",
+            "allowedUsages": [
+                "SPORTS_COMPLEX_GROUND"
+            ]
+        }
+    ]
+}

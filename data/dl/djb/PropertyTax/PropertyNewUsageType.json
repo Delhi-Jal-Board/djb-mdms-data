@@ -6,504 +6,687 @@
       "name": "B.S.E.S. RAJDHANI",
       "code": "BSES_RAJDHANI",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "INSTITUTIONAL",
+      "demandNormCode": "E-1"
     },
     {
       "name": "B.S.E.S. YAMUNA",
       "code": "BSES_YAMUNA",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "INSTITUTIONAL",
+      "demandNormCode": "E-1"
     },
     {
       "name": "Banquet hall/ Party hall",
       "code": "BANQUET_HALL_PARTY_HALL",
       "active": true,
-      "type": "COMMERCIAL"
+      "type": "ASSEMBLY",
+      "demandNormCode": "D-7"
+    },
+    {
+      "name": "Cinema Halls / Theatres",
+      "code": "CINEMA_THEATRES",
+      "active": true,
+      "type": "ASSEMBLY",
+      "demandNormCode": "D-6"
+    },
+    {
+      "name": "Concert Halls / Auditoriums / Museums",
+      "code": "AUDITORIUMS_MUSEUMS",
+      "active": true,
+      "type": "ASSEMBLY",
+      "demandNormCode": "D-1"
     },
     {
       "name": "Beauty Parlors",
       "code": "BEAUTY_PARLORS",
       "active": true,
-      "type": "COMMERCIAL"
+      "type": "COMMERCIAL",
+      "demandNormCode": "E-1"
     },
     {
       "name": "Blind Schools",
       "code": "BLIND_SCHOOLS",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "EDUCATIONAL",
+      "demandNormCode": "B-1"
     },
     {
       "name": "Bottling Plant",
       "code": "BOTTLING_PLANT",
       "active": true,
-      "type": "INDUSTRIAL"
+      "type": "INDUSTRIAL",
+      "demandNormCode": "G"
     },
     {
       "name": "C.P.W.D.",
       "code": "CPWD",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "COMMERCIAL",
+      "demandNormCode": "E-1"
     },
     {
       "name": "Central Govt. Offices",
       "code": "CENTRAL_GOVT_OFFICES",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "COMMERCIAL",
+      "demandNormCode": "E-1"
     },
     {
       "name": "Cineplex",
       "code": "CINEPLEX",
       "active": true,
-      "type": "COMMERCIAL"
+      "type": "ASSEMBLY",
+      "demandNormCode": "D-6"
     },
     {
-      "name": "Clinic/Pathlab",
-      "code": "CLINIC_PATHLAB",
+      "name": "Clinic/Pathlab (Without Indoor Beds)",
+      "code": "CLINIC_PATHLAB_NO_BEDS",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "INSTITUTIONAL",
+      "demandNormCode": "C-1_NURSING"
     },
     {
       "name": "Co-operative Group Housing Society",
       "code": "COOP_GROUP_HOUSING",
       "active": true,
-      "type": "RESIDENTIAL"
+      "type": "RESIDENTIAL",
+      "demandNormCode": "A-4_HIG_MIG"
     },
     {
       "name": "Cold Storage",
       "code": "COLD_STORAGE",
       "active": true,
-      "type": "INDUSTRIAL"
+      "type": "STORAGE",
+      "demandNormCode": "H-a"
     },
     {
       "name": "Colour Dye shop/factory",
       "code": "COLOUR_DYE_SHOP_FACTORY",
       "active": true,
-      "type": "INDUSTRIAL"
+      "type": "INDUSTRIAL",
+      "demandNormCode": "G"
     },
     {
       "name": "Cooling Plant",
       "code": "COOLING_PLANT",
       "active": true,
-      "type": "INDUSTRIAL"
+      "type": "INDUSTRIAL",
+      "demandNormCode": "G"
     },
     {
       "name": "Courts",
       "code": "COURTS",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "COMMERCIAL",
+      "demandNormCode": "E-1"
     },
     {
       "name": "D.S.I.I.D.C",
       "code": "DSIIDC",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "COMMERCIAL",
+      "demandNormCode": "E-1"
     },
     {
       "name": "Delhi Development Authority",
       "code": "DDA",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "COMMERCIAL",
+      "demandNormCode": "E-1"
     },
     {
       "name": "Delhi Fire Service (Fire Station)",
       "code": "DELHI_FIRE_SERVICE",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "COMMERCIAL",
+      "demandNormCode": "E-1"
     },
     {
       "name": "Delhi Govt. Office",
       "code": "DELHI_GOVT_OFFICE",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "COMMERCIAL",
+      "demandNormCode": "E-1"
     },
     {
       "name": "Delhi Jal Board",
       "code": "DELHI_JAL_BOARD",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "COMMERCIAL",
+      "demandNormCode": "E-1"
     },
     {
       "name": "Delhi Metro Rail Corporation",
       "code": "DMRC",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "COMMERCIAL",
+      "demandNormCode": "E-1"
     },
     {
       "name": "Delhi Transco",
       "code": "DELHI_TRANSCO",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "INSTITUTIONAL",
+      "demandNormCode": "E-1"
     },
     {
       "name": "Delhi Transport Corporation",
       "code": "DTC",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "COMMERCIAL",
+      "demandNormCode": "E-1"
     },
     {
       "name": "Dhaba",
       "code": "DHABA",
       "active": true,
-      "type": "COMMERCIAL"
+      "type": "ASSEMBLY",
+      "demandNormCode": "D-7"
     },
     {
       "name": "Dhobi Ghats",
       "code": "DHOBI_GHATS",
       "active": true,
-      "type": "COMMERCIAL"
+      "type": "INDUSTRIAL",
+      "demandNormCode": "G"
     },
     {
       "name": "Dry Cleaners",
       "code": "DRY_CLEANERS",
       "active": true,
-      "type": "COMMERCIAL"
+      "type": "MERCANTILE",
+      "demandNormCode": "F-1"
     },
     {
       "name": "EDMC Schools",
       "code": "EDMC_SCHOOLS",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "EDUCATIONAL",
+      "demandNormCode": "B-1"
     },
     {
       "name": "East MCD",
       "code": "EAST_MCD",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "COMMERCIAL",
+      "demandNormCode": "E-1"
     },
     {
       "name": "Factory",
       "code": "FACTORY",
       "active": true,
-      "type": "INDUSTRIAL"
+      "type": "INDUSTRIAL",
+      "demandNormCode": "G"
+    },
+    {
+      "name": "Manufacturing Unit",
+      "code": "MANUFACTURING_UNIT",
+      "active": true,
+      "type": "INDUSTRIAL",
+      "demandNormCode": "G"
     },
     {
       "name": "Fruit & Vegetables Store - Reliance Safal",
       "code": "FRUIT_VEG_STORE",
       "active": true,
-      "type": "COMMERCIAL"
+      "type": "MERCANTILE",
+      "demandNormCode": "F-1"
     },
     {
       "name": "Govt. Hospitals/ Dispensary",
       "code": "GOVT_HOSPITALS",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "INSTITUTIONAL",
+      "demandNormCode": "C-1_HOSPITAL"
     },
     {
       "name": "Govt. Institute/Colleges/ Universities",
       "code": "GOVT_INSTITUTE",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "EDUCATIONAL",
+      "demandNormCode": "B-1"
     },
     {
       "name": "Govt. Offices/PSU/Bank",
       "code": "GOVT_OFFICES_PSU_BANK",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "COMMERCIAL",
+      "demandNormCode": "E-1"
     },
     {
       "name": "Govt. Schools (GNCTD)",
       "code": "GOVT_SCHOOLS_GNCTD",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "EDUCATIONAL",
+      "demandNormCode": "B-1"
     },
     {
       "name": "Govt. Schools (GOI)",
       "code": "GOVT_SCHOOLS_GOI",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "EDUCATIONAL",
+      "demandNormCode": "B-1"
     },
     {
       "name": "Haircutting Saloon",
       "code": "HAIRCUTTING_SALOON",
       "active": true,
-      "type": "COMMERCIAL"
+      "type": "COMMERCIAL",
+      "demandNormCode": "E-1"
     },
     {
       "name": "Hotel/Guest houses",
       "code": "HOTEL_GUEST_HOUSES",
       "active": true,
-      "type": "COMMERCIAL"
+      "type": "RESIDENTIAL",
+      "demandNormCode": "A-5"
     },
     {
       "name": "Ice-Cream Factory/Ice Factory",
       "code": "ICE_FACTORY",
       "active": true,
-      "type": "INDUSTRIAL"
+      "type": "INDUSTRIAL",
+      "demandNormCode": "G"
     },
     {
       "name": "Janta Flats",
       "code": "JANTA_FLATS",
       "active": true,
-      "type": "RESIDENTIAL"
+      "type": "RESIDENTIAL",
+      "demandNormCode": "A-2_LIG_EWS"
     },
     {
       "name": "Jewellery Manufacturing Factory/Repairing",
       "code": "JEWELLERY_FACTORY",
       "active": true,
-      "type": "INDUSTRIAL"
+      "type": "INDUSTRIAL",
+      "demandNormCode": "G"
     },
     {
       "name": "Juice Shop",
       "code": "JUICE_SHOP",
       "active": true,
-      "type": "COMMERCIAL"
+      "type": "MERCANTILE",
+      "demandNormCode": "F-1"
     },
     {
       "name": "Lab/X-Ray Units",
       "code": "LAB_XRAY",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "INSTITUTIONAL",
+      "demandNormCode": "C-1_NURSING"
     },
     {
       "name": "M.C.D. Slums & J.J. Department/DUSIB",
       "code": "MCD_SLUMS",
       "active": true,
-      "type": "RESIDENTIAL"
+      "type": "RESIDENTIAL",
+      "demandNormCode": "A-2_LIG_EWS"
     },
     {
       "name": "M.T.N.L",
       "code": "MTNL",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "COMMERCIAL",
+      "demandNormCode": "E-1"
     },
     {
       "name": "Malls",
       "code": "MALLS",
       "active": true,
-      "type": "COMMERCIAL"
+      "type": "MERCANTILE",
+      "demandNormCode": "F-1"
+    },
+    {
+      "name": "Wholesale Outlets / Departmental Stores",
+      "code": "WHOLESALE_DEPARTMENTAL",
+      "active": true,
+      "type": "MERCANTILE",
+      "demandNormCode": "F-1"
     },
     {
       "name": "Milk Dairy",
       "code": "MILK_DAIRY",
       "active": true,
-      "type": "COMMERCIAL"
+      "type": "MERCANTILE",
+      "demandNormCode": "F-1"
     },
     {
       "name": "Moulding Machine Factory",
       "code": "MOULDING_FACTORY",
       "active": true,
-      "type": "INDUSTRIAL"
+      "type": "INDUSTRIAL",
+      "demandNormCode": "G"
     },
     {
       "name": "Mutton Shop",
       "code": "MUTTON_SHOP",
       "active": true,
-      "type": "COMMERCIAL"
+      "type": "MERCANTILE",
+      "demandNormCode": "F-1"
     },
     {
       "name": "NDMC Schools",
       "code": "NDMC_SCHOOLS",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "EDUCATIONAL",
+      "demandNormCode": "B-1"
     },
     {
       "name": "Nickle Polish Works",
       "code": "NICKLE_POLISH",
       "active": true,
-      "type": "INDUSTRIAL"
+      "type": "INDUSTRIAL",
+      "demandNormCode": "G"
     },
     {
       "name": "North Delhi Power Ltd. (TDDPL)",
       "code": "TDDPL",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "INSTITUTIONAL",
+      "demandNormCode": "E-1"
     },
     {
       "name": "North MCD",
       "code": "NORTH_MCD",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "COMMERCIAL",
+      "demandNormCode": "E-1"
     },
     {
       "name": "Others",
       "code": "OTHERS",
-      "active": false
+      "active": true,
+      "type": "RESIDENTIAL",
+      "demandNormCode": "A-2_LIG_EWS"
     },
     {
       "name": "Piaos",
       "code": "PIAOS",
       "active": true,
-      "type": "COMMERCIAL"
+      "type": "STORAGE",
+      "demandNormCode": "H-c"
     },
     {
       "name": "Police Department",
       "code": "POLICE_DEPARTMENT",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "COMMERCIAL",
+      "demandNormCode": "E-1"
     },
     {
       "name": "Professional Office (CA, Lawyer, Property)",
       "code": "PROFESSIONAL_OFFICE",
       "active": true,
-      "type": "COMMERCIAL"
+      "type": "COMMERCIAL",
+      "demandNormCode": "E-1"
     },
     {
       "name": "Pvt. Hospitals & Nursing Homes",
       "code": "PVT_HOSPITALS",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "INSTITUTIONAL",
+      "demandNormCode": "C-1_HOSPITAL"
     },
     {
       "name": "Pvt. Institute/Colleges/ Universities",
       "code": "PVT_INSTITUTE",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "EDUCATIONAL",
+      "demandNormCode": "B-1"
     },
     {
       "name": "Pvt. Schools",
       "code": "PVT_SCHOOLS",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "EDUCATIONAL",
+      "demandNormCode": "B-1"
     },
     {
       "name": "Railways",
       "code": "RAILWAYS",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "COMMERCIAL",
+      "demandNormCode": "E-1"
     },
     {
       "name": "Religious Place",
       "code": "RELIGIOUS_PLACE",
       "active": true,
-      "type": "RESIDENTIAL"
+      "type": "ASSEMBLY",
+      "demandNormCode": "D-3"
     },
     {
       "name": "Residential",
       "code": "RESIDENTIAL",
       "active": true,
-      "type": "RESIDENTIAL"
+      "type": "RESIDENTIAL",
+      "demandNormCode": "A-2_LIG_EWS"
     },
     {
       "name": "Restaurant",
       "code": "RESTAURANT",
       "active": true,
-      "type": "COMMERCIAL"
+      "type": "ASSEMBLY",
+      "demandNormCode": "D-7"
     },
     {
       "name": "SDMC Schools",
       "code": "SDMC_SCHOOLS",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "EDUCATIONAL",
+      "demandNormCode": "B-1"
     },
     {
       "name": "Shops",
       "code": "SHOPS",
       "active": true,
-      "type": "COMMERCIAL"
+      "type": "MERCANTILE",
+      "demandNormCode": "F-1"
     },
     {
       "name": "Soda Water Factory",
       "code": "SODA_FACTORY",
       "active": true,
-      "type": "INDUSTRIAL"
+      "type": "INDUSTRIAL",
+      "demandNormCode": "G"
     },
     {
       "name": "Soft Drink Factory",
       "code": "SOFT_DRINK_FACTORY",
       "active": true,
-      "type": "INDUSTRIAL"
+      "type": "INDUSTRIAL",
+      "demandNormCode": "G"
     },
     {
       "name": "South MCD",
       "code": "SOUTH_MCD",
       "active": true,
-      "type": "INSTITUTIONAL"
+      "type": "COMMERCIAL",
+      "demandNormCode": "E-1"
     },
     {
       "name": "Sweet Shop",
       "code": "SWEET_SHOP",
       "active": true,
-      "type": "COMMERCIAL"
+      "type": "ASSEMBLY",
+      "demandNormCode": "D-7"
     },
     {
       "name": "Tea Stall",
       "code": "TEA_STALL",
       "active": true,
-      "type": "COMMERCIAL"
+      "type": "MERCANTILE",
+      "demandNormCode": "F-1"
     },
     {
       "name": "Vehicle/Automobile Service Station",
       "code": "AUTO_SERVICE",
       "active": true,
-      "type": "COMMERCIAL"
+      "type": "INDUSTRIAL",
+      "demandNormCode": "G"
     },
     {
       "name": "Warehouse/Godown",
       "code": "WAREHOUSE",
       "active": true,
-      "type": "INDUSTRIAL"
+      "type": "STORAGE",
+      "demandNormCode": "H-a"
     },
     {
       "name": "DDA Shop",
       "code": "DDA_SHOP",
       "active": true,
-      "type": "COMMERCIAL"
+      "type": "MERCANTILE",
+      "demandNormCode": "F-1"
     },
     {
       "name": "Combined Shops (Milk and Fruit/Vegetable)",
       "code": "COMBINED_SHOPS_MILK_FRUIT_VEG",
       "active": true,
-      "type": "COMMERCIAL"
+      "type": "MERCANTILE",
+      "demandNormCode": "F-1"
     },
     {
       "name": "Milk Booths",
       "code": "MILK_BOOTHS",
       "active": true,
-      "type": "COMMERCIAL"
+      "type": "MERCANTILE",
+      "demandNormCode": "F-1"
     },
     {
       "name": "Safal Booths",
       "code": "SAFAL_BOOTHS",
       "active": true,
-      "type": "COMMERCIAL"
+      "type": "MERCANTILE",
+      "demandNormCode": "F-1"
     },
     {
       "name": "Public Toilet",
       "code": "PUBLIC_TOILET",
       "active": true,
-      "type": "COMMERCIAL"
+      "type": "COMMERCIAL",
+      "demandNormCode": "F-1"
     },
     {
       "name": "MIG Flats",
       "code": "MIG_FLATS",
       "active": true,
-      "type": "RESIDENTIAL"
+      "type": "RESIDENTIAL",
+      "demandNormCode": "A-2_HIG_MIG"
     },
     {
       "name": "LIG Flats",
       "code": "LIG_FLATS",
       "active": true,
-      "type": "RESIDENTIAL"
+      "type": "RESIDENTIAL",
+      "demandNormCode": "A-2_LIG_EWS"
     },
     {
       "name": "HIG Flats",
       "code": "HIG_FLATS",
       "active": true,
-      "type": "RESIDENTIAL"
+      "type": "RESIDENTIAL",
+      "demandNormCode": "A-2_HIG_MIG"
     },
     {
       "name": "Bungalows",
       "code": "BUNGALOWS",
       "active": true,
-      "type": "RESIDENTIAL"
+      "type": "RESIDENTIAL",
+      "demandNormCode": "A-2_HIG_MIG"
     },
     {
       "name": "Dharamshalas or Hostels",
       "code": "DHARAMSHALAS_HOSTELS",
       "active": true,
-      "type": "RESIDENTIAL"
+      "type": "RESIDENTIAL",
+      "demandNormCode": "A-3"
     },
     {
       "name": "Central Govt. Flats",
       "code": "CENTRAL_GOVT_FLATS",
       "active": true,
-      "type": "RESIDENTIAL"
+      "type": "RESIDENTIAL",
+      "demandNormCode": "A-4_HIG_MIG"
     },
     {
       "name": "State Govt. Flats",
       "code": "STATE_GOVT_FLATS",
       "active": true,
-      "type": "RESIDENTIAL"
+      "type": "RESIDENTIAL",
+      "demandNormCode": "A-4_HIG_MIG"
+    },
+    {
+      "name": "Multi-Level Parking",
+      "code": "MULTI_LEVEL_PARKING",
+      "active": true,
+      "type": "STORAGE",
+      "demandNormCode": "H-b"
+    },
+    {
+      "name": "Petrol Pumps",
+      "code": "PETROL_PUMPS",
+      "active": true,
+      "type": "ASSEMBLY",
+      "demandNormCode": "D-8"
+    },
+    {
+      "name": "Working Womens Hostels (Govt)",
+      "code": "GOVT_WORKING_WOMENS_HOSTELS",
+      "active": true,
+      "type": "RESIDENTIAL",
+      "demandNormCode": "A-3"
+    },
+    {
+      "name": "Orphanage / Charitable / Destitute Homes",
+      "code": "CHARITABLE_HOMES",
+      "active": true,
+      "type": "RESIDENTIAL",
+      "demandNormCode": "A-3"
+    },
+    {
+      "name": "Cremation Ground / Cemetery",
+      "code": "CREMATION_CEMETERY",
+      "active": true,
+      "type": "STORAGE",
+      "demandNormCode": "H-c"
+    },
+    {
+      "name": "Mixed Use (Non-Intensive Commercial)",
+      "code": "MIXED_NON_INTENSIVE",
+      "active": true,
+      "type": "MIXED",
+      "demandNormCode": "F-1"
+    },
+    {
+      "name": "Luxury / Starred Hotels",
+      "code": "STARRED_HOTELS",
+      "active": true,
+      "type": "RESIDENTIAL",
+      "demandNormCode": "A-6"
+    },
+    {
+      "name": "Telephone Exchange / Communication Centers",
+      "code": "TELEPHONE_EXCHANGE_GRID",
+      "active": true,
+      "type": "COMMERCIAL",
+      "demandNormCode": "E-4"
+    },
+    {
+      "name": "Broadcasting and TV Stations",
+      "code": "BROADCASTING_TV_STATIONS",
+      "active": true,
+      "type": "COMMERCIAL",
+      "demandNormCode": "E-5"
+    },
+    {
+      "name": "Sports Complex / Golf Course",
+      "code": "SPORTS_COMPLEX_GROUND",
+      "active": true,
+      "type": "STORAGE",
+      "demandNormCode": "H-d"
     }
   ]
 }
