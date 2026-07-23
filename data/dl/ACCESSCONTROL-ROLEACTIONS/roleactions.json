@@ -33913,6 +33913,36 @@
       "actionid": 3023,
       "actioncode": "",
       "tenantId": "dl"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 3024,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 3024,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 3024,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 3024,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 3024,
+      "actioncode": "",
+      "tenantId": "dl"
     }
   ]
 }

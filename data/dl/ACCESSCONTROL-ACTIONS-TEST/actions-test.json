@@ -20798,6 +20798,17 @@
       "code": "null",
       "tenantId": "dl",
       "path": ""
+    },
+    {
+      "id": 3024,
+      "name": "Calculate Fee For Water Application",
+      "url": "/ws-calculator/waterCalculator/_calculator",
+      "displayName": "Fee Calculation For Water Application",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "ws-calculator",
+      "code": "null",
+      "path": ""
     }
   ]
 }
