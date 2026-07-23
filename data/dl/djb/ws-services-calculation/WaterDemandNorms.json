@@ -297,7 +297,7 @@
       "totalLpcd": 15,
       "potableLpcd": 5,
       "nonPotableLpcd": 10,
-      "contingencyPercentage": 10,
+      "contingencyPercentage": 0,
       "ifcCalculationBasis": "TOTAL_WATER_ALWAYS",
       "isActive": true
     },
