@@ -411,6 +411,11 @@
       "code": "WS_ASO",
       "name": "Water Supply ASO",
       "description": "ASO role for managing water supply operations"
+    },
+    {
+      "code": "SYSTEM_PAYMENT",
+      "name": "System Payment",
+      "description": "Role for managing system payments"
     }
   ]
 }
