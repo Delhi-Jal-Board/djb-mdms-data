@@ -396,6 +396,21 @@
       "code": "NATADMIN",
       "name": "National Dashboard Admin",
       "description": "Admin role that as access over a Nation"
+    },
+    {
+      "code": "WS_BILLING_CLERK",
+      "name": "Water Supply Billing Clerk",
+      "description": "Clerk role for managing water supply billing operations"
+    },
+    {
+      "code": "WS_AE",
+      "name": "Water Supply AE",
+      "description": "AE role for managing water supply operations"
+    },
+    {
+      "code": "WS_ASO",
+      "name": "Water Supply ASO",
+      "description": "ASO role for managing water supply operations"
     }
   ]
 }
