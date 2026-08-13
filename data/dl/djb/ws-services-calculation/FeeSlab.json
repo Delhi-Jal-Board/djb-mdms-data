@@ -1,5 +1,5 @@
 {
-  "tenantId": "dl",
+  "tenantId": "dl.djb",
   "moduleName": "ws-services-calculation",
   "FeeSlab": [
     {
