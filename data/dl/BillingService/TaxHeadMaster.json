@@ -5963,15 +5963,24 @@
       "isRequired": false
     },
     {
-  "category": "FEE",
-  "service": "WS.MUTATION",
-  "name": "Occupier Security",
-  "code": "WS_MUTATION_TRADE_SECURITY",
-  "isDebit": false,
-  "isActualDemand": true,
-  "order": "105",
-  "isRequired": false
-}
-
+      "category": "FEE",
+      "service": "WS.MUTATION",
+      "name": "Occupier Security",
+      "code": "WS_MUTATION_TRADE_SECURITY",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "105",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Disconnection Fee",
+      "code": "WS_DISCONNECTION_FEE",
+      "isDebit": true,
+      "isActualDemand": true,
+      "order": 1,
+      "isRequired": true
+    }
   ]
 }
