@@ -2084,6 +2084,18 @@
       "isActive": true
     },
     {
+      "businessService": "WS.DISCONNECTION",
+      "code": "WS.DISCONNECTION",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "billGineiURL": "egov-searcher/bill-genie/waterbills/_get"
+    },
+    {
       "businessService": "watertanker-fixedpoint",
       "code": "watertanker-fixedpoint",
       "collectionModesNotAllowed": [
