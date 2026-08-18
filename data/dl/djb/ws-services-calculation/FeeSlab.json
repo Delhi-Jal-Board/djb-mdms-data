@@ -496,6 +496,42 @@
     "effectiveFrom": "2026-07-01",
     "effectiveTo": null,
     "isActive": true
-   }
+   },
+   {
+      "connectionCategory": "DOMESTIC",
+      "colonyCategoryGroup": "ALL",
+      "colonyCategories": ["A","B","C","D","E","F","G","H"],
+      "feeComponent": "TEMPORARY_DISCONNECTION_FEE",
+      "taxHeadCode": "WS_DISCONNECTION_FEE",
+      "amount": 250,
+      "percentage": 0,
+      "effectiveFrom": "2021-11-15",
+      "effectiveTo": null,
+      "isActive": true
+    },
+    {
+      "connectionCategory": "DOMESTIC",
+      "colonyCategoryGroup": "ALL",
+      "colonyCategories": ["A","B","C","D","E","F","G","H"],
+      "feeComponent": "NON_PAYMENT_DISCONNECTION_FEE",
+      "taxHeadCode": "WS_DISCONNECTION_FEE",
+      "amount": 100,
+      "percentage": 0,
+      "effectiveFrom": "2021-11-15",
+      "effectiveTo": null,
+      "isActive": true
+    },
+    {
+      "connectionCategory": "DOMESTIC",
+      "colonyCategoryGroup": "ALL",
+      "colonyCategories": ["A","B","C","D","E","F","G","H"],
+      "feeComponent": "PERMANENT_DISCONNECTION_FEE",
+      "taxHeadCode": "WS_DISCONNECTION_FEE",
+      "amount": 1300,
+      "percentage": 0,
+      "effectiveFrom": "2021-11-15",
+      "effectiveTo": null,
+      "isActive": true
+    }
   ]
 }
