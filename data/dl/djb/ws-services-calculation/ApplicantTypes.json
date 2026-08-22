@@ -1,0 +1,164 @@
+{
+  "tenantId": "dl.djb",
+  "moduleName": "ws-services-calculation",
+  "ApplicantTypes": [
+    {
+      "code": "OWNER",
+      "label": "Owner",
+      "subLabel": "Title/Registry holder (Individual)",
+      "propertyCategories": [
+        {
+          "code": "APARTMENT_FLAT",
+          "label": "Apartment/Flat",
+          "subcategories": [
+            { "code": "RESIDENTIAL_UNIT", "label": "Residential Unit" },
+            { "code": "STAFF_QUARTER", "label": "Staff Quarter" },
+            { "code": "PENTHOUSE", "label": "Penthouse" }
+          ]
+        },
+        {
+          "code": "SHOP",
+          "label": "Shop",
+          "subcategories": [
+            { "code": "PHARMACY", "label": "Pharmacy" },
+            { "code": "CLINIC", "label": "Clinic" },
+            { "code": "GROCERY", "label": "Grocery" },
+            { "code": "GENERAL_RETAIL", "label": "General Retail" }
+          ]
+        },
+        {
+          "code": "INDEPENDENT_HOUSE",
+          "label": "Independent house",
+          "subcategories": [
+            { "code": "SINGLE_FAMILY_DWELLING", "label": "Single Family Dwelling" },
+            { "code": "MULTI_STOREY_VILLA", "label": "Multi-Storey Villa" },
+            { "code": "FARMHOUSE", "label": "Farmhouse" }
+          ]
+        },
+        {
+          "code": "OFFICE_PREMISES",
+          "label": "Office Premises",
+          "subcategories": [
+            { "code": "IT_TECH_PARK", "label": "IT / Tech Park" },
+            { "code": "COMMERCIAL_OFFICE", "label": "Commercial Office" },
+            { "code": "CONSULTANCY_HUB", "label": "Consultancy Hub" },
+            { "code": "BANK_BRANCH", "label": "Bank Branch" }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "TENANT",
+      "label": "Tenant",
+      "subLabel": "No-Objection required",
+      "propertyCategories": [
+        {
+          "code": "FLAT",
+          "label": "Flat",
+          "subcategories": [
+            { "code": "RESIDENTIAL_UNIT", "label": "Residential Unit" },
+            { "code": "STAFF_QUARTER", "label": "Staff Quarter" },
+            { "code": "PENTHOUSE", "label": "Penthouse" }
+          ]
+        },
+        {
+          "code": "INDEPENDENT_HOUSE",
+          "label": "Independent House",
+          "subcategories": [
+            { "code": "SINGLE_FAMILY_DWELLING", "label": "Single Family Dwelling" },
+            { "code": "MULTI_STOREY_VILLA", "label": "Multi-Storey Villa" },
+            { "code": "FARMHOUSE", "label": "Farmhouse" }
+          ]
+        },
+        {
+          "code": "OFFICE_PREMISES",
+          "label": "Office Premises",
+          "subcategories": [
+            { "code": "IT_TECH_PARK", "label": "IT / Tech Park" },
+            { "code": "COMMERCIAL_OFFICE", "label": "Commercial Office" },
+            { "code": "CONSULTANCY_HUB", "label": "Consultancy Hub" },
+            { "code": "BANK_BRANCH", "label": "Bank Branch" }
+          ]
+        },
+        {
+          "code": "SHOP",
+          "label": "Shop",
+          "subcategories": [
+            { "code": "PHARMACY", "label": "Pharmacy" },
+            { "code": "CLINIC", "label": "Clinic" },
+            { "code": "GROCERY", "label": "Grocery" },
+            { "code": "GENERAL_RETAIL", "label": "General Retail" }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "AUTHORISED_REPRESENTATIVE",
+      "label": "Authorised Representative",
+      "subLabel": "Power of Attorney / Rep.",
+      "propertyCategories": [
+        {
+          "code": "SHOP",
+          "label": "Shop",
+          "subcategories": [
+            { "code": "PHARMACY", "label": "Pharmacy" },
+            { "code": "CLINIC", "label": "Clinic" },
+            { "code": "GROCERY", "label": "Grocery" },
+            { "code": "GENERAL_RETAIL", "label": "General Retail" }
+          ]
+        },
+        {
+          "code": "FACTORY",
+          "label": "Factory",
+          "subcategories": [
+            { "code": "FURNITURE", "label": "Furniture" },
+            { "code": "PAINTS", "label": "Paints" },
+            { "code": "CARPETS", "label": "Carpets" },
+            { "code": "ENGINEERING", "label": "Engineering" },
+            { "code": "CHEMICALS", "label": "Chemicals" },
+            { "code": "TEXTILES", "label": "Textiles" }
+          ]
+        },
+        {
+          "code": "RELIGIOUS_PLACE",
+          "label": "Religious Place",
+          "subcategories": [
+            { "code": "TEMPLE", "label": "Temple" },
+            { "code": "MOSQUE", "label": "Mosque" },
+            { "code": "CHURCH", "label": "Church" },
+            { "code": "GURUDWARA", "label": "Gurudwara" }
+          ]
+        },
+        {
+          "code": "INSTITUTION",
+          "label": "Institution",
+          "subcategories": [
+            { "code": "SCHOOL", "label": "School" },
+            { "code": "COLLEGE", "label": "College" },
+            { "code": "HOSPITAL", "label": "Hospital" },
+            { "code": "GOVERNMENT_DEPARTMENT", "label": "Government Department" }
+          ]
+        },
+        {
+          "code": "GROUP_HOUSING_SOCIETY",
+          "label": "Group Housing Society",
+          "subcategories": [
+            { "code": "COOPERATIVE_SOCIETY", "label": "Cooperative Society" },
+            { "code": "PRIVATE_TOWNSHIP", "label": "Private Township" },
+            { "code": "RWA_ALLOTTED_BLOCK", "label": "RWA Allotted Block" }
+          ]
+        },
+        {
+          "code": "OFFICE_PREMISES",
+          "label": "Office Premises",
+          "subcategories": [
+            { "code": "IT_TECH_PARK", "label": "IT / Tech Park" },
+            { "code": "COMMERCIAL_OFFICE", "label": "Commercial Office" },
+            { "code": "CONSULTANCY_HUB", "label": "Consultancy Hub" },
+            { "code": "BANK_BRANCH", "label": "Bank Branch" }
+          ]
+        }
+      ]
+    }
+  ]
+}
