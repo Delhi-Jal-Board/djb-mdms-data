@@ -8,6 +8,11 @@
       "active": true
     },
     {
+      "code": "BASEMENT_FLOOR",
+      "name": "Basement Floor",
+      "active": true
+    },
+    {
       "code": "GROUND_FLOOR",
       "name": "Ground Floor",
       "active": true
