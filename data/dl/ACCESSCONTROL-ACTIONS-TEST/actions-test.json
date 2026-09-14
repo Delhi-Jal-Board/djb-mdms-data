@@ -20944,6 +20944,17 @@
     "serviceCode": "ws-services",
     "code": "null",
     "path": ""
+    },
+    {
+      "id": 3036,
+      "name": "Enter Meter Reading monthly billing",
+      "url": "/ws-calculator/monthly-billing/_search",
+      "displayName": "Enter Meter Reading monthly billing",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "ws-calculator",
+      "code": "null",
+      "path": ""
     }
   ]
 }
