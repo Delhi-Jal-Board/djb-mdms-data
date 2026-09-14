@@ -34165,6 +34165,17 @@
       "actionid": 3033,
       "actioncode": "",
       "tenantId": "dl"
+    }, {
+      "rolecode": "CITIZEN",
+      "actionid": 3035,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3035,
+      "actioncode": "",
+      "tenantId": "dl"
     }
   ]
 }
