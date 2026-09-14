@@ -20933,6 +20933,17 @@
     "serviceCode": "ws-services",
     "code": "null",
     "path": ""
+    },
+    {
+    "id": 3035,
+    "name": "Water Due Verification address based",
+    "url": "/ws-services/wc/due-verification/_search",
+    "displayName": "Water Due Verification",
+    "orderNumber": 0,
+    "enabled": true,
+    "serviceCode": "ws-services",
+    "code": "null",
+    "path": ""
     }
   ]
 }
