@@ -34189,6 +34189,30 @@
       "actionid": 3036,
       "actioncode": "",
       "tenantId": "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3037,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3037,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+        {
+      "rolecode": "CITIZEN",
+      "actionid": 3038,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3038,
+      "actioncode": "",
+      "tenantId": "dl"
     }
   ]
 }
