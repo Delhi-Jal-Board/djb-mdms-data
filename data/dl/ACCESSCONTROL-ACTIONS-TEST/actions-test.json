@@ -20977,6 +20977,17 @@
       "serviceCode": "ws-calculator",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 3039,
+      "name": "Zro verfication update",
+      "url": "/ws-calculator/zro-verification/_update",
+      "displayName": "Zro verfication update",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "ws-calculator",
+      "code": "null",
+      "path": ""
     }
   ]
 }
