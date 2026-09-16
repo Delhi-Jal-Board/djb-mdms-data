@@ -20955,6 +20955,28 @@
       "serviceCode": "ws-calculator",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 3037,
+      "name": "Zro verfication search",
+      "url": "/ws-calculator/zro-verification/_search",
+      "displayName": "Zro verfication search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "ws-calculator",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 3038,
+      "name": "Zro verfication fetch",
+      "url": "/ws-calculator/zro-verification/_fetch",
+      "displayName": "Zro verfication fetch",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "ws-calculator",
+      "code": "null",
+      "path": ""
     }
   ]
 }
