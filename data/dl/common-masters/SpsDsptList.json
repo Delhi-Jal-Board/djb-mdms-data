@@ -1,0 +1,636 @@
+{
+  "tenantId": "dl",
+  "moduleName": "common-masters",
+  "SpsDsptList": [
+    {
+      "id": 1,
+      "code": "SPS_NEW_001",
+      "name": "Ghonda-I SPS",
+      "active": true
+    },
+    {
+      "id": 2,
+      "code": "SPS_NEW_002",
+      "name": "23 MLD STPKapashera",
+      "active": true
+    },
+    {
+      "id": 3,
+      "code": "SPS_NEW_003",
+      "name": "Kalyanpuri SPS.",
+      "active": true
+    },
+    {
+      "id": 4,
+      "code": "SPS_NEW_004",
+      "name": "East of Kailash SPS",
+      "active": true
+    },
+    {
+      "id": 5,
+      "code": "SPS_NEW_005",
+      "name": "Zafrabad SPS",
+      "active": true
+    },
+    {
+      "id": 6,
+      "code": "SPS_NEW_006",
+      "name": "Mehrauli SPS",
+      "active": true
+    },
+    {
+      "id": 7,
+      "code": "SPS_NEW_007",
+      "name": "Keshopur 40MGD SPS",
+      "active": true
+    },
+    {
+      "id": 8,
+      "code": "SPS_NEW_008",
+      "name": "Jeevan Park SPS",
+      "active": true
+    },
+    {
+      "id": 9,
+      "code": "SPS_NEW_009",
+      "name": "Punjabi Bagh SPS",
+      "active": true
+    },
+    {
+      "id": 10,
+      "code": "SPS_NEW_010",
+      "name": "Possangipur SPS",
+      "active": true
+    },
+    {
+      "id": 11,
+      "code": "SPS_NEW_011",
+      "name": "Keshopur 12 MGD SPS",
+      "active": true
+    },
+    {
+      "id": 12,
+      "code": "SPS_NEW_012",
+      "name": "Keshopur 20 MGD SPS",
+      "active": true
+    },
+    {
+      "id": 13,
+      "code": "SPS_NEW_013",
+      "name": "Vasant Kunj SPS",
+      "active": true
+    },
+    {
+      "id": 14,
+      "code": "SPS_NEW_014",
+      "name": "Sector 16 SPS Dwarka",
+      "active": true
+    },
+    {
+      "id": 15,
+      "code": "SPS_NEW_015",
+      "name": "Ranjeet Nagar SPS",
+      "active": true
+    },
+    {
+      "id": 16,
+      "code": "SPS_NEW_016",
+      "name": "Sudershan Park SPS",
+      "active": true
+    },
+    {
+      "id": 17,
+      "code": "SPS_NEW_017",
+      "name": "Tekhand Village SPS, Okhla Phase-I",
+      "active": true
+    },
+    {
+      "id": 18,
+      "code": "SPS_NEW_018",
+      "name": "Ghonda-II SPS",
+      "active": true
+    },
+    {
+      "id": 19,
+      "code": "SPS_NEW_019",
+      "name": "C-Block, Inderpuri SPS",
+      "active": true
+    },
+    {
+      "id": 20,
+      "code": "SPS_NEW_020",
+      "name": "Sayyad Nangloi SPS",
+      "active": true
+    },
+    {
+      "id": 21,
+      "code": "SPS_NEW_021",
+      "name": "Nangloi SPS",
+      "active": true
+    },
+    {
+      "id": 22,
+      "code": "SPS_NEW_022",
+      "name": "Uttam Nagar SPS",
+      "active": true
+    },
+    {
+      "id": 23,
+      "code": "SPS_NEW_023",
+      "name": "Preet Vihar SPS.",
+      "active": true
+    },
+    {
+      "id": 24,
+      "code": "SPS_NEW_024",
+      "name": "Sector 24 SPS Dwarka",
+      "active": true
+    },
+    {
+      "id": 25,
+      "code": "SPS_NEW_025",
+      "name": "50 MGD New Yamuna Vihar SPS",
+      "active": true
+    },
+    {
+      "id": 26,
+      "code": "SPS_NEW_026",
+      "name": "Moti Nagar SPS",
+      "active": true
+    },
+    {
+      "id": 27,
+      "code": "SPS_NEW_027",
+      "name": "Brahm Puri SPS",
+      "active": true
+    },
+    {
+      "id": 28,
+      "code": "SPS_NEW_028",
+      "name": "Pul Prahalad Pur SPS, Suraj Kund Road",
+      "active": true
+    },
+    {
+      "id": 29,
+      "code": "SPS_NEW_029",
+      "name": "EPR Colony SPS",
+      "active": true
+    },
+    {
+      "id": 30,
+      "code": "SPS_NEW_030",
+      "name": "Dallupura SPS.",
+      "active": true
+    },
+    {
+      "id": 31,
+      "code": "SPS_NEW_031",
+      "name": "Kondli Gharoli SPS.",
+      "active": true
+    },
+    {
+      "id": 32,
+      "code": "SPS_NEW_032",
+      "name": "Mandawali SPS",
+      "active": true
+    },
+    {
+      "id": 33,
+      "code": "SPS_NEW_033",
+      "name": "Aruna Nagar SPS",
+      "active": true
+    },
+    {
+      "id": 34,
+      "code": "SPS_NEW_034",
+      "name": "Tanner Colony SPS",
+      "active": true
+    },
+    {
+      "id": 35,
+      "code": "SPS_NEW_035",
+      "name": "Najafgarh SPS",
+      "active": true
+    },
+    {
+      "id": 36,
+      "code": "SPS_NEW_036",
+      "name": "Sector 7 SPS Dwarka",
+      "active": true
+    },
+    {
+      "id": 37,
+      "code": "SPS_NEW_037",
+      "name": "Nilothi IS",
+      "active": true
+    },
+    {
+      "id": 38,
+      "code": "SPS_NEW_038",
+      "name": "Sector 11 SPS Dwarka",
+      "active": true
+    },
+    {
+      "id": 39,
+      "code": "SPS_NEW_039",
+      "name": "Prasad Nagar SPS",
+      "active": true
+    },
+    {
+      "id": 40,
+      "code": "SPS_NEW_040",
+      "name": "East of Loni Road SPS",
+      "active": true
+    },
+    {
+      "id": 41,
+      "code": "SPS_NEW_041",
+      "name": "GT Road Seelampur SPS",
+      "active": true
+    },
+    {
+      "id": 42,
+      "code": "SPS_NEW_042",
+      "name": "Ram Nagar SPS",
+      "active": true
+    },
+    {
+      "id": 43,
+      "code": "SPS_NEW_043",
+      "name": "Khera Village SPS",
+      "active": true
+    },
+    {
+      "id": 44,
+      "code": "SPS_NEW_044",
+      "name": "Geeta Colony SPS",
+      "active": true
+    },
+    {
+      "id": 45,
+      "code": "SPS_NEW_045",
+      "name": "Jagriti SPS",
+      "active": true
+    },
+    {
+      "id": 46,
+      "code": "SPS_NEW_046",
+      "name": "Shastri Park Hanuman Mandir SPS",
+      "active": true
+    },
+    {
+      "id": 47,
+      "code": "SPS_NEW_047",
+      "name": "18 MGD Dilshad Garden SPS",
+      "active": true
+    },
+    {
+      "id": 48,
+      "code": "SPS_NEW_048",
+      "name": "C - Block School Dilshad Garden SPS",
+      "active": true
+    },
+    {
+      "id": 49,
+      "code": "SPS_NEW_049",
+      "name": "C - Block Park Dilshad Garden SPS",
+      "active": true
+    },
+    {
+      "id": 50,
+      "code": "SPS_NEW_050",
+      "name": "Leprosy Colony SPS",
+      "active": true
+    },
+    {
+      "id": 51,
+      "code": "SPS_NEW_051",
+      "name": "Mansarovar Park SPS",
+      "active": true
+    },
+    {
+      "id": 52,
+      "code": "SPS_NEW_052",
+      "name": "Shastri Park DDA Flats SPS",
+      "active": true
+    },
+    {
+      "id": 53,
+      "code": "SPS_NEW_053",
+      "name": "Behari Colony SPS",
+      "active": true
+    },
+    {
+      "id": 54,
+      "code": "SPS_NEW_054",
+      "name": "Usmanpur SPS",
+      "active": true
+    },
+    {
+      "id": 55,
+      "code": "SPS_NEW_055",
+      "name": "R-Block Dilshad Garden SPS",
+      "active": true
+    },
+    {
+      "id": 56,
+      "code": "SPS_NEW_056",
+      "name": "Nehru Vihar SPS",
+      "active": true
+    },
+    {
+      "id": 57,
+      "code": "SPS_NEW_057",
+      "name": "Bharola SPS",
+      "active": true
+    },
+    {
+      "id": 58,
+      "code": "SPS_NEW_058",
+      "name": "RU Nagar SPS",
+      "active": true
+    },
+    {
+      "id": 59,
+      "code": "SPS_NEW_059",
+      "name": "Adarsh Nagar SPS",
+      "active": true
+    },
+    {
+      "id": 60,
+      "code": "SPS_NEW_060",
+      "name": "Jahangir Puri SPS",
+      "active": true
+    },
+    {
+      "id": 61,
+      "code": "SPS_NEW_061",
+      "name": "SGT Nagar SPS",
+      "active": true
+    },
+    {
+      "id": 62,
+      "code": "SPS_NEW_062",
+      "name": "Model Town SPS",
+      "active": true
+    },
+    {
+      "id": 63,
+      "code": "SPS_NEW_063",
+      "name": "Mukherjee Nagar SPS",
+      "active": true
+    },
+    {
+      "id": 64,
+      "code": "SPS_NEW_064",
+      "name": "Bhai Parmand Colony SPS",
+      "active": true
+    },
+    {
+      "id": 65,
+      "code": "SPS_NEW_065",
+      "name": "Tagore Park SPS",
+      "active": true
+    },
+    {
+      "id": 66,
+      "code": "SPS_NEW_066",
+      "name": "Dheerpur SPS",
+      "active": true
+    },
+    {
+      "id": 67,
+      "code": "SPS_NEW_067",
+      "name": "Azadpur SPS",
+      "active": true
+    },
+    {
+      "id": 68,
+      "code": "SPS_NEW_068",
+      "name": "Rana Partap Bagh SPS",
+      "active": true
+    },
+    {
+      "id": 69,
+      "code": "SPS_NEW_069",
+      "name": "Kalyan Vihar SPS",
+      "active": true
+    },
+    {
+      "id": 70,
+      "code": "SPS_NEW_070",
+      "name": "Lal Bagh SPS",
+      "active": true
+    },
+    {
+      "id": 71,
+      "code": "SPS_NEW_071",
+      "name": "Sarai Kale Khan SPS",
+      "active": true
+    },
+    {
+      "id": 72,
+      "code": "SPS_NEW_072",
+      "name": "Lodhi Road SPS",
+      "active": true
+    },
+    {
+      "id": 73,
+      "code": "SPS_NEW_073",
+      "name": "P.V. Hostel SPS",
+      "active": true
+    },
+    {
+      "id": 74,
+      "code": "SPS_NEW_074",
+      "name": "Arjun Nagar SPS",
+      "active": true
+    },
+    {
+      "id": 75,
+      "code": "SPS_NEW_075",
+      "name": "Sarita Vihar SPS",
+      "active": true
+    },
+    {
+      "id": 76,
+      "code": "SPS_NEW_076",
+      "name": "A-Block Sarita Vihar SPS",
+      "active": true
+    },
+    {
+      "id": 77,
+      "code": "SPS_NEW_077",
+      "name": "Pocket D&E Sarita Vihar SPS",
+      "active": true
+    },
+    {
+      "id": 78,
+      "code": "SPS_NEW_078",
+      "name": "B-5/6 SPS Vasant Kunj",
+      "active": true
+    },
+    {
+      "id": 79,
+      "code": "SPS_NEW_079",
+      "name": "Azad Bhawan SPS",
+      "active": true
+    },
+    {
+      "id": 80,
+      "code": "SPS_NEW_080",
+      "name": "Jasola SPS",
+      "active": true
+    },
+    {
+      "id": 81,
+      "code": "SPS_NEW_081",
+      "name": "Tuglakabad Ext. SPS",
+      "active": true
+    },
+    {
+      "id": 82,
+      "code": "SPS_NEW_082",
+      "name": "Dakshinpuri SPS",
+      "active": true
+    },
+    {
+      "id": 83,
+      "code": "SPS_NEW_083",
+      "name": "Kilokri SPS",
+      "active": true
+    },
+    {
+      "id": 84,
+      "code": "SPS_NEW_084",
+      "name": "Ring Road SPS",
+      "active": true
+    },
+    {
+      "id": 85,
+      "code": "SPS_NEW_085",
+      "name": "Batla House SPS",
+      "active": true
+    },
+    {
+      "id": 86,
+      "code": "SPS_NEW_086",
+      "name": "Okhla Vihar SPS",
+      "active": true
+    },
+    {
+      "id": 87,
+      "code": "SPS_NEW_087",
+      "name": "SPS Rohini Sector-19",
+      "active": true
+    },
+    {
+      "id": 88,
+      "code": "SPS_NEW_088",
+      "name": "SPS Rohini Sector 23",
+      "active": true
+    },
+    {
+      "id": 89,
+      "code": "SPS_NEW_089",
+      "name": "SPS Rohini Sector 25",
+      "active": true
+    },
+    {
+      "id": 90,
+      "code": "SPS_NEW_090",
+      "name": "SPS Rohini Sector 26",
+      "active": true
+    },
+    {
+      "id": 91,
+      "code": "SPS_NEW_091",
+      "name": "SPS Rampura",
+      "active": true
+    },
+    {
+      "id": 92,
+      "code": "SPS_NEW_092",
+      "name": "Narela SPS",
+      "active": true
+    },
+    {
+      "id": 93,
+      "code": "SPS_NEW_093",
+      "name": "TU Block SPS",
+      "active": true
+    },
+    {
+      "id": 94,
+      "code": "SPS_NEW_094",
+      "name": "Shalimar Bagh SPS",
+      "active": true
+    },
+    {
+      "id": 95,
+      "code": "SPS_NEW_095",
+      "name": "Bharat Nagar SPS",
+      "active": true
+    },
+    {
+      "id": 96,
+      "code": "SPS_NEW_096",
+      "name": "Haiderpuri SPS",
+      "active": true
+    },
+    {
+      "id": 97,
+      "code": "SPS_NEW_097",
+      "name": "Rithala SPS/ Sector-9 SPS",
+      "active": true
+    },
+    {
+      "id": 98,
+      "code": "SPS_NEW_098",
+      "name": "Avantika SPS",
+      "active": true
+    },
+    {
+      "id": 99,
+      "code": "SPS_NEW_099",
+      "name": "Sector-17 SPS Rohini",
+      "active": true
+    },
+    {
+      "id": 100,
+      "code": "SPS_NEW_100",
+      "name": "Khanjhawala Road SPS",
+      "active": true
+    },
+    {
+      "id": 101,
+      "code": "SPS_NEW_101",
+      "name": "jagarati sps",
+      "active": true
+    },
+    {
+      "id": 102,
+      "code": "SPS_NEW_102",
+      "name": "geeta colony sps",
+      "active": true
+    },
+    {
+      "id": 103,
+      "code": "SPS_NEW_103",
+      "name": "70 Mgd new kalyanpuri sps",
+      "active": true
+    },
+    {
+      "id": 104,
+      "code": "SPS_NEW_104",
+      "name": "Tughlakabd Village SPS",
+      "active": true
+    },
+    {
+      "id": 105,
+      "code": "SPS_NEW_105",
+      "name": "Vasant Vihar SPS",
+      "active": true
+    }
+  ]
+}
