@@ -135,37 +135,37 @@
         {
           "code": "OWNER.OTHERDOCUMENTS.LAYOUT_PLAN",
           "name": "Layout Plan",
-          "active": true
+          "active": false
         },
         {
           "code": "OWNER.OTHERDOCUMENTS.KEY_PLAN",
           "name": "Key Plan",
-          "active": true
+          "active": false
         },
         {
           "code": "OWNER.OTHERDOCUMENTS.FLOOR_PLAN",
           "name": "Floor Plan",
-          "active": true
+          "active": false
         },
         {
           "code": "OWNER.OTHERDOCUMENTS.SITE_PLAN",
           "name": "Site Plan",
-          "active": true
+          "active": false
         },
         {
           "code": "OWNER.OTHERDOCUMENTS.TOTAL_WATER_DEMAND",
           "name": "Total Water Demand",
-          "active": true
+          "active": false
         },
         {
           "code": "OWNER.OTHERDOCUMENTS.COMPLETION_PLAN",
           "name": "Completion Plan",
-          "active": true
+          "active": false
         },
         {
           "code": "OWNER.OTHERDOCUMENTS.HYDRAULIC_CALCULATION_PLAN",
           "name": "Hydraulic Calculation Plan",
-          "active": true
+          "active": false
         },
         {
           "code": "OWNER.OTHERDOCUMENTS.RAIN_WATER_HARVESTING_CERTIFICATE",
