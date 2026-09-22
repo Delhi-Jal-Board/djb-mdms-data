@@ -426,6 +426,51 @@
       "code": "SW_DEALING_CLERK",
       "name": "Sewerage Dealing Clerk",
       "description": "Clerk role for managing sewerage dealing and mutation operations"
+    },
+    {
+      "code": "CSR",
+      "name": "Customer Service Representative",
+      "description": "Customer Service Representative for filing and managing grievances on behalf of citizens"
+    },
+    {
+      "code": "PGR_LME",
+      "name": "PGR Last Mile Employee",
+      "description": "Field official / Last Mile Employee responsible for ground resolution of grievances"
+    },
+    {
+      "code": "PGR-ADMIN",
+      "name": "PGR Administrator",
+      "description": "Administrator for Public Grievance Redressal module configuration"
+    },
+    {
+      "code": "DGRO",
+      "name": "Departmental Grievance Routing Officer",
+      "description": "Department-level officer for grievance routing and escalation"
+    },
+    {
+      "code": "GO",
+      "name": "Grievance Officer",
+      "description": "Grievance Officer handling complaint verification and resolution"
+    },
+    {
+      "code": "RO",
+      "name": "Routing Officer",
+      "description": "Routing Officer responsible for complaint assignment"
+    },
+    {
+      "code": "GA",
+      "name": "Grievance Approver",
+      "description": "Grievance Approver for high-priority or reopened complaints"
+    },
+    {
+      "code": "CEMP",
+      "name": "Call Center Employee",
+      "description": "Call Center / Counter Employee for registering citizen complaints"
+    },
+    {
+      "code": "ULB Operator",
+      "name": "ULB Operator",
+      "description": "ULB Operator for handling municipal complaints"
     }
   ]
 }
