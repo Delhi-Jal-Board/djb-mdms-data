@@ -20988,6 +20988,17 @@
       "serviceCode": "ws-calculator",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 3040,
+      "name": "ws-calculator jbb penalty",
+      "url": "/ws-calculator/djb/penalty/_calculate",
+      "displayName": "ws-calculator jbb penalty",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "ws-calculator",
+      "code": "null",
+      "path": ""
     }
   ]
 }
