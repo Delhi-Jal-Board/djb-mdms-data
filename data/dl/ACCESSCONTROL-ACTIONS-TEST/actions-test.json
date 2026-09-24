@@ -20991,9 +20991,9 @@
     },
     {
       "id": 3040,
-      "name": "ws-calculator jbb penalty",
+      "name": "ws-calculator penalty",
       "url": "/ws-calculator/djb/penalty/_calculate",
-      "displayName": "ws-calculator jbb penalty",
+      "displayName": "ws-calculator penalty",
       "orderNumber": 0,
       "enabled": false,
       "serviceCode": "ws-calculator",
