@@ -6,7 +6,7 @@
       "module": "dlR",
       "code": "dlR",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/dlR.png",
-      "dashboards": "https://dev-djberp.nitcon.in/superset/login/keycloak?next=/superset/superset/dashboard/2/?native_filters_key=nuDIKa7mU4E&standalone=1",
+      "dashboards": "https://ejalsewa.delhi.gov.in/superset/login/keycloak?next=/superset/superset/dashboard/2/?native_filters_key=nuDIKa7mU4E&standalone=1",
       "active": true,
       "order": 2,
       "tenants": [
