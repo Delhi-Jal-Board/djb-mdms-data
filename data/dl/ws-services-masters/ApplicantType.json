@@ -24,7 +24,7 @@
       "id": 4,
       "code": "OTHERS",
       "name": "Others",
-      "active": true
+      "active": false
     }
   ]
 }
