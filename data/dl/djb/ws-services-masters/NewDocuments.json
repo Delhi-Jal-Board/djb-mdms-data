@@ -175,7 +175,7 @@
         {
           "code": "OWNER.OTHERDOCUMENTS.12_AB_CERTIFICATE",
           "name": "12 AB Certificate",
-          "active": true
+          "active": false
         }
       ],
       "description": "OWNER.OTHERDOCUMENTS.OTHERDOCUMENTS_DESCRIPTION"
