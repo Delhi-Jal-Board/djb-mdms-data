@@ -9,10 +9,11 @@
                 "Domestic"
             ],
             "propertyCategory": "Residential",
-            "infrastructureCategory": "Category A",
+            "infrastructureCategory": "A",
             "waterConnectionUsageType": "Normal",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "A"
         },
         {
             "name": "Builder Floor",
@@ -21,10 +22,11 @@
                 "Domestic"
             ],
             "propertyCategory": "Residential",
-            "infrastructureCategory": "Category A",
+            "infrastructureCategory": "A",
             "waterConnectionUsageType": "Normal",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "A"
         },
         {
             "name": "Apartment Complex",
@@ -33,10 +35,11 @@
                 "Domestic"
             ],
             "propertyCategory": "Residential",
-            "infrastructureCategory": "Category A",
+            "infrastructureCategory": "A",
             "waterConnectionUsageType": "Normal",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "A"
         },
         {
             "name": "Group Housing Society",
@@ -45,10 +48,11 @@
                 "Domestic"
             ],
             "propertyCategory": "Residential",
-            "infrastructureCategory": "Category A",
+            "infrastructureCategory": "A",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "A"
         },
         {
             "name": "Residential Colony",
@@ -57,10 +61,11 @@
                 "Domestic"
             ],
             "propertyCategory": "Residential",
-            "infrastructureCategory": "Category A",
+            "infrastructureCategory": "A",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "A"
         },
         {
             "name": "Dharamshala",
@@ -69,12 +74,13 @@
                 "Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category B1",
+            "infrastructureCategory": "C-1",
             "waterConnectionUsageType": "Normal",
             "questions": [
                 "Residential purpose"
             ],
-            "active": true
+            "active": true,
+            "demandNormCode": "C-1"
         },
         {
             "name": "Orphanage",
@@ -83,12 +89,13 @@
                 "Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category B1",
+            "infrastructureCategory": "C-1",
             "waterConnectionUsageType": "Normal",
             "questions": [
                 "Residential purpose"
             ],
-            "active": true
+            "active": true,
+            "demandNormCode": "C-1"
         },
         {
             "name": "Destitute Home",
@@ -97,12 +104,13 @@
                 "Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category B1",
+            "infrastructureCategory": "B-1",
             "waterConnectionUsageType": "Normal",
             "questions": [
                 "Residential purpose"
             ],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-1"
         },
         {
             "name": "Charitable Home",
@@ -111,12 +119,13 @@
                 "Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category B1",
+            "infrastructureCategory": "B-1",
             "waterConnectionUsageType": "Normal",
             "questions": [
                 "Residential purpose"
             ],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-1"
         },
         {
             "name": "Stationary Shop",
@@ -126,12 +135,13 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Normal",
             "questions": [
                 "Is water being used for any commercial activity?"
             ],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Mobile Shop",
@@ -141,12 +151,13 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Normal",
             "questions": [
                 "Is water being used for any commercial activity?"
             ],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Kirana / Grocery Shop",
@@ -156,12 +167,13 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Normal",
             "questions": [
                 "Is water being used for any commercial activity?"
             ],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Shoe Shop",
@@ -171,12 +183,13 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Normal",
             "questions": [
                 "Is water being used for any commercial activity?"
             ],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Tailor Shop",
@@ -186,12 +199,13 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Normal",
             "questions": [
                 "Is water being used for any commercial activity?"
             ],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Property Dealer",
@@ -201,12 +215,13 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Normal",
             "questions": [
                 "Is water being used for any commercial activity?"
             ],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Cyber Café",
@@ -216,12 +231,13 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Normal",
             "questions": [
                 "Is water being used for any commercial activity?"
             ],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Office Providing Professional Services (Residential Property Group)",
@@ -231,12 +247,13 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-3",
             "waterConnectionUsageType": "Normal",
             "questions": [
                 "Is water being used for any commercial activity?"
             ],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-3"
         },
         {
             "name": "Tea Stall",
@@ -246,12 +263,13 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Normal",
             "questions": [
                 "Is water being used for any commercial activity?"
             ],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Beauty Parlor",
@@ -261,12 +279,13 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Normal",
             "questions": [
                 "Is water being used for any commercial activity?"
             ],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Juice Shop (Residential Property Group)",
@@ -276,12 +295,13 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "C-3",
             "waterConnectionUsageType": "Normal",
             "questions": [
                 "Is water being used for any commercial activity?"
             ],
-            "active": true
+            "active": true,
+            "demandNormCode": "C-3"
         },
         {
             "name": "College",
@@ -290,12 +310,13 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category B1",
+            "infrastructureCategory": "B-1",
             "waterConnectionUsageType": "Bulk",
             "questions": [
                 "Total strength including students and staff. If school runs in double shift, both shifts must be considered."
             ],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-1"
         },
         {
             "name": "School",
@@ -304,12 +325,13 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category B1",
+            "infrastructureCategory": "B-1",
             "waterConnectionUsageType": "Bulk",
             "questions": [
                 "Total strength including students and staff. If school runs in double shift, both shifts must be considered."
             ],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-1"
         },
         {
             "name": "Government Hostel",
@@ -318,12 +340,13 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category C1",
+            "infrastructureCategory": "C-1",
             "waterConnectionUsageType": "Bulk",
             "questions": [
                 "Number of beds"
             ],
-            "active": true
+            "active": true,
+            "demandNormCode": "C-1"
         },
         {
             "name": "Private Hostel",
@@ -332,12 +355,13 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category C1",
+            "infrastructureCategory": "C-1",
             "waterConnectionUsageType": "Bulk",
             "questions": [
                 "Number of beds"
             ],
-            "active": true
+            "active": true,
+            "demandNormCode": "C-1"
         },
         {
             "name": "Paying Guest Accommodation",
@@ -346,10 +370,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category C1",
+            "infrastructureCategory": "C-1",
             "waterConnectionUsageType": "Normal",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "C-1"
         },
         {
             "name": "Guest House",
@@ -358,10 +383,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category C1",
+            "infrastructureCategory": "C-1",
             "waterConnectionUsageType": "Normal",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "C-1"
         },
         {
             "name": "Coaching Centre",
@@ -370,10 +396,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B1",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Normal",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Restaurant",
@@ -382,10 +409,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category C3",
+            "infrastructureCategory": "C-3",
             "waterConnectionUsageType": "Normal",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "C-3"
         },
         {
             "name": "Hotel",
@@ -394,12 +422,13 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category C1",
+            "infrastructureCategory": "C-1",
             "waterConnectionUsageType": "Bulk",
             "questions": [
                 "Number of rooms"
             ],
-            "active": true
+            "active": true,
+            "demandNormCode": "C-1"
         },
         {
             "name": "Resort",
@@ -408,12 +437,13 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category C1",
+            "infrastructureCategory": "C-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [
                 "Number of rooms"
             ],
-            "active": true
+            "active": true,
+            "demandNormCode": "C-2"
         },
         {
             "name": "Hospital",
@@ -422,12 +452,13 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category C4",
+            "infrastructureCategory": "C-4",
             "waterConnectionUsageType": "Bulk",
             "questions": [
                 "Number of beds"
             ],
-            "active": true
+            "active": true,
+            "demandNormCode": "C-4"
         },
         {
             "name": "Nursing Home",
@@ -436,12 +467,13 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category C4",
+            "infrastructureCategory": "C-4",
             "waterConnectionUsageType": "Bulk",
             "questions": [
                 "Number of beds"
             ],
-            "active": true
+            "active": true,
+            "demandNormCode": "C-4"
         },
         {
             "name": "Clinic",
@@ -450,10 +482,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category C3",
+            "infrastructureCategory": "B-3",
             "waterConnectionUsageType": "Normal",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-3"
         },
         {
             "name": "Diagnostic Centre",
@@ -462,10 +495,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category C3",
+            "infrastructureCategory": "B-3",
             "waterConnectionUsageType": "Normal",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-3"
         },
         {
             "name": "Office",
@@ -474,10 +508,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-3",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-3"
         },
         {
             "name": "BPO / Call Centre",
@@ -486,10 +521,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-3",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-3"
         },
         {
             "name": "Bank / Financial Institution",
@@ -498,10 +534,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-3",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-3"
         },
         {
             "name": "Court Complex",
@@ -510,10 +547,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-3",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-3"
         },
         {
             "name": "Police Station",
@@ -522,10 +560,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-3",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-3"
         },
         {
             "name": "Bakery Manufacturing",
@@ -534,10 +573,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Normal",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Atta Chakki",
@@ -546,10 +586,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Normal",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Laundry (Normal Usage Group)",
@@ -558,10 +599,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Normal",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Workshop (Normal Usage Group)",
@@ -570,10 +612,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Normal",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Manufacturing Unit (Normal Usage Group)",
@@ -582,10 +625,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Normal",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Retail Outlet",
@@ -594,10 +638,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category C1",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Normal",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Fruit and Vegetable Store",
@@ -606,10 +651,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category C1",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Normal",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Shop",
@@ -618,10 +664,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category C1",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Normal",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Dairy",
@@ -630,10 +677,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category C1",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Normal",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Supermarket",
@@ -642,10 +690,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category C1",
+            "infrastructureCategory": "B-3",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-3"
         },
         {
             "name": "Shopping Complex",
@@ -654,10 +703,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category C1",
+            "infrastructureCategory": "C-1",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "C-1"
         },
         {
             "name": "Mall",
@@ -666,10 +716,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category C1",
+            "infrastructureCategory": "C-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "C-2"
         },
         {
             "name": "Commercial Complex",
@@ -678,10 +729,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category C1",
+            "infrastructureCategory": "C-1",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "C-1"
         },
         {
             "name": "Cineplex",
@@ -690,10 +742,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category C1",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Dhaba / Eating Establishment",
@@ -702,10 +755,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category C1",
+            "infrastructureCategory": "C-3",
             "waterConnectionUsageType": "Normal",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "C-3"
         },
         {
             "name": "Food Court",
@@ -714,10 +768,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category C1",
+            "infrastructureCategory": "C-3",
             "waterConnectionUsageType": "Normal",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "C-3"
         },
         {
             "name": "Banquet / Marriage Hall",
@@ -726,10 +781,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category C2",
+            "infrastructureCategory": "C-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "C-2"
         },
         {
             "name": "Place of Worship",
@@ -738,10 +794,11 @@
                 "Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category B4",
+            "infrastructureCategory": "B-4",
             "waterConnectionUsageType": "Normal",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-4"
         },
         {
             "name": "Cremation Ground",
@@ -750,13 +807,14 @@
                 "Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category B4",
+            "infrastructureCategory": "B-4",
             "waterConnectionUsageType": "Normal",
             "questions": [
                 "Used exclusively as cremation ground?",
                 "Any other activity?"
             ],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-4"
         },
         {
             "name": "Cemetery",
@@ -765,13 +823,14 @@
                 "Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category B4",
+            "infrastructureCategory": "B-4",
             "waterConnectionUsageType": "Normal",
             "questions": [
                 "Used exclusively as cremation ground?",
                 "Any other activity?"
             ],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-4"
         },
         {
             "name": "Burial Ground",
@@ -780,13 +839,14 @@
                 "Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category B4",
+            "infrastructureCategory": "B-4",
             "waterConnectionUsageType": "Normal",
             "questions": [
                 "Used exclusively as cremation ground?",
                 "Any other activity?"
             ],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-4"
         },
         {
             "name": "Police Barracks",
@@ -795,10 +855,11 @@
                 "Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category B3",
+            "infrastructureCategory": "B-3",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-3"
         },
         {
             "name": "Prison",
@@ -807,10 +868,11 @@
                 "Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category B3",
+            "infrastructureCategory": "C-1",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "C-1"
         },
         {
             "name": "Jail",
@@ -819,10 +881,11 @@
                 "Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category B3",
+            "infrastructureCategory": "C-1",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "C-1"
         },
         {
             "name": "Convention Centre",
@@ -831,10 +894,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category C1",
+            "infrastructureCategory": "C-1",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "C-1"
         },
         {
             "name": "Club",
@@ -843,10 +907,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category C1",
+            "infrastructureCategory": "C-1",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "C-1"
         },
         {
             "name": "Gym",
@@ -855,10 +920,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category C1",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Swimming Pool",
@@ -867,10 +933,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category C1",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Warehouse / Godown",
@@ -879,10 +946,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Cold Storage",
@@ -891,10 +959,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-4",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-4"
         },
         {
             "name": "Logistics Hub",
@@ -903,10 +972,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Petrol Pump",
@@ -915,10 +985,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Automobile Workshop / Service Station",
@@ -927,10 +998,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "General Industrial Unit",
@@ -939,10 +1011,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Food-Processing Industry",
@@ -951,10 +1024,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Textile Industry",
@@ -963,10 +1037,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Dyeing / Printing Unit",
@@ -975,10 +1050,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Laundry / Dry-Cleaning Unit (Industrial Group)",
@@ -987,10 +1063,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-3",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-3"
         },
         {
             "name": "Chemical Industry",
@@ -999,10 +1076,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-3",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-3"
         },
         {
             "name": "Pharmaceutical Industry",
@@ -1011,10 +1089,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-3",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-3"
         },
         {
             "name": "Paint Industry",
@@ -1023,10 +1102,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-3",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-3"
         },
         {
             "name": "Soap / Detergent Industry",
@@ -1035,10 +1115,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-3",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-3"
         },
         {
             "name": "Paper Industry",
@@ -1047,10 +1128,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-3",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-3"
         },
         {
             "name": "Printing Press",
@@ -1059,10 +1141,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Plastic Manufacturing",
@@ -1071,10 +1154,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Rubber Manufacturing",
@@ -1083,10 +1167,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Metal Fabrication",
@@ -1095,10 +1180,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Electroplating",
@@ -1107,10 +1193,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Foundry",
@@ -1119,10 +1206,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Automobile Manufacturing",
@@ -1131,10 +1219,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Engineering Workshop",
@@ -1143,10 +1232,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Stone / Marble Processing",
@@ -1155,10 +1245,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Soft Drink Factory",
@@ -1167,10 +1258,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Cooling Plant",
@@ -1179,10 +1271,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-3",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-3"
         },
         {
             "name": "Jewellery Manufacturing",
@@ -1191,10 +1284,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Commercial",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Airport",
@@ -1203,10 +1297,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Railway Station",
@@ -1215,10 +1310,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Railway Yard",
@@ -1227,10 +1323,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Metro Station",
@@ -1239,10 +1336,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Bus Stand / Depot",
@@ -1251,10 +1349,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Sports Complex",
@@ -1263,10 +1362,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category B4",
+            "infrastructureCategory": "B-4",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-4"
         },
         {
             "name": "Stadium",
@@ -1275,10 +1375,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category B4",
+            "infrastructureCategory": "B-4",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-4"
         },
         {
             "name": "Public Toilet",
@@ -1287,10 +1388,11 @@
                 "Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Normal",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Public Park",
@@ -1299,10 +1401,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Horticulture Facility",
@@ -1311,10 +1414,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Fire Station",
@@ -1323,10 +1427,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-3",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-3"
         },
         {
             "name": "Zoo",
@@ -1335,10 +1440,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         },
         {
             "name": "Botanical Facility",
@@ -1347,10 +1453,11 @@
                 "Non-Domestic"
             ],
             "propertyCategory": "Institutional",
-            "infrastructureCategory": "Category B2",
+            "infrastructureCategory": "B-2",
             "waterConnectionUsageType": "Bulk",
             "questions": [],
-            "active": true
+            "active": true,
+            "demandNormCode": "B-2"
         }
     ]
 }
