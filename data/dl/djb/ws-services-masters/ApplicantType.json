@@ -19,12 +19,6 @@
       "code": "AUTHORIZED REPRESENTATIVE",
       "name": "Authorized Representative",
       "active": true
-    },
-    {
-      "id": 4,
-      "code": "OTHERS",
-      "name": "Others",
-      "active": false
     }
   ]
 }
