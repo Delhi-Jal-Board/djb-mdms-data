@@ -12,19 +12,19 @@
       "code": "UNMT",
       "name": "Running Unmetered",
       "billingTreatment": "AVERAGE",
-      "active": true
+      "active": false
     },
     {
       "code": "TEST",
       "name": "Meter Under Testing",
       "billingTreatment": "AVERAGE",
-      "active": true
+      "active": false
     },
     {
       "code": "MREV",
       "name": "Meter Reverse",
       "billingTreatment": "AVERAGE",
-      "active": true
+      "active": false
     },
     {
       "code": "STP",
@@ -42,7 +42,7 @@
       "code": "BYPS",
       "name": "T-Joint / By-Pass",
       "billingTreatment": "AVERAGE",
-      "active": true
+      "active": false
     },
     {
       "code": "MLOC",
@@ -60,7 +60,7 @@
       "code": "RDDT",
       "name": "Reading Detained",
       "billingTreatment": "AVERAGE",
-      "active": true
+      "active": false
     },
     {
       "code": "ADF",
@@ -84,13 +84,13 @@
       "code": "MBUR",
       "name": "Meter Buried",
       "billingTreatment": "AVERAGE",
-      "active": true
+      "active": false
     },
     {
       "code": "NRES",
       "name": "No Response",
       "billingTreatment": "AVERAGE",
-      "active": true
+      "active": false
     }
   ]
 }
