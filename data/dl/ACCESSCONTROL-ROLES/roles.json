@@ -471,6 +471,11 @@
       "code": "ULB Operator",
       "name": "ULB Operator",
       "description": "ULB Operator for handling municipal complaints"
-    }
+    },
+    {
+      "code": "WS_ZRO",
+      "name": "WS ZRO",
+      "description": "Zonal Review Officer - approver"
+    },
   ]
 }
