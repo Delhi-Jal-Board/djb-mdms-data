@@ -343,6 +343,61 @@
       "description": "FSM Desluding Operator"
     },
     {
+      "code": "FSM_CREATOR_EMP",
+      "name": "FSM Creator Employee",
+      "description": "Role for creating FSM desludging applications"
+    },
+    {
+      "code": "FSM_EDITOR_EMP",
+      "name": "FSM Editor Employee",
+      "description": "Role for updating and editing FSM applications"
+    },
+    {
+      "code": "FSM_ADMIN",
+      "name": "FSM Admin",
+      "description": "Admin role for Faecal Sludge Management module and registry"
+    },
+    {
+      "code": "ES_FSM_ADMIN",
+      "name": "FSM Enterprise Admin",
+      "description": "Enterprise Admin role for FSM module"
+    },
+    {
+      "code": "FSM_EMP_FSTPO",
+      "name": "FSTP Operator",
+      "description": "Role for FSTP plant operations and vehicle entry"
+    },
+    {
+      "code": "FSM_REPORT_VIEWER",
+      "name": "FSM Report Viewer",
+      "description": "Role for viewing FSM analytical and operational reports"
+    },
+    {
+      "code": "FSM_VIEW_EMP",
+      "name": "FSM View Employee",
+      "description": "Role for searching and viewing FSM applications"
+    },
+    {
+      "code": "FSM_DRIVER",
+      "name": "FSM Driver",
+      "description": "FSM Vehicle Driver"
+    },
+    {
+      "code": "FSM_COLLECTOR",
+      "name": "FSM Collector",
+      "description": "Role for FSM payment collections"
+    },
+    {
+      "code": "FSM_DASHBOARD_VIEWER",
+      "name": "FSM Dashboard Viewer",
+      "description": "Role for viewing FSM dashboard"
+    },
+    {
+      "code": "FSM_CEMP",
+      "name": "FSM Counter Employee",
+      "description": "Counter employee who creates FSM desludging applications on behalf of citizens"
+    },
+    {
       "code": "COMMON_VENDOR",
       "name": "COMMON_VENDOR",
       "description": "Common Vendor role for add and update Driver"
