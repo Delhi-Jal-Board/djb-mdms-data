@@ -34237,6 +34237,132 @@
       "actionid": 3040,
       "actioncode": "",
       "tenantId": "dl"
+    },
+    {
+      "rolecode": "WS_ZRO",
+      "actionid": 2051,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WS_ZRO",
+      "actionid": 2052,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WS_ZRO",
+      "actionid": 2053,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WS_ZRO",
+      "actionid": 2054,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WS_ZRO",
+      "actionid": 2055,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WS_ZRO",
+      "actionid": 2132,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WS_ZRO",
+      "actionid": 2024,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "BC_DEPUTY_DIRECTOR",
+      "actionid": 2051,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "BC_DEPUTY_DIRECTOR",
+      "actionid": 2052,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "BC_DEPUTY_DIRECTOR",
+      "actionid": 2053,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "BC_DEPUTY_DIRECTOR",
+      "actionid": 2054,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "BC_DEPUTY_DIRECTOR",
+      "actionid": 2055,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "BC_DEPUTY_DIRECTOR",
+      "actionid": 2132,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "BC_DEPUTY_DIRECTOR",
+      "actionid": 2024,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "BC_DOR",
+      "actionid": 2051,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "BC_DOR",
+      "actionid": 2052,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "BC_DOR",
+      "actionid": 2053,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "BC_DOR",
+      "actionid": 2054,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "BC_DOR",
+      "actionid": 2055,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "BC_DOR",
+      "actionid": 2132,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "BC_DOR",
+      "actionid": 2024,
+      "actioncode": "",
+      "tenantId": "dl"
     }
   ]
 }

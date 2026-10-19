@@ -476,6 +476,16 @@
       "code": "WS_ZRO",
       "name": "WS ZRO",
       "description": "Zonal Review Officer - approver"
-    }
+    },
+    {
+      "code": "BC_DEPUTY_DIRECTOR",
+      "name": "BC Deputy Director",
+      "description": "Deputy Director - Approver"
+   },
+   {
+      "code": "BC_DOR",
+      "name": "BC DOR",
+      "description": "Director Of Revenue - Approver"
+   }
   ]
 }
