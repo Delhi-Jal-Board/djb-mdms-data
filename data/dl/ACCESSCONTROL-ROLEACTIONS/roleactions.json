@@ -34363,6 +34363,12 @@
       "actionid": 2024,
       "actioncode": "",
       "tenantId": "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2051,
+      "actioncode": "",
+      "tenantId": "dl"
     }
   ]
 }
