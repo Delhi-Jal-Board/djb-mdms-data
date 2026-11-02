@@ -6,8 +6,8 @@
       "code": "OWNER.APPLICANTPHOTO",
       "documentType": "OWNER",
       "required": true,
-      "active": false,
-      "hasDropdown": false,
+      "active": true,
+      "hasDropdown": true,
       "description": "Upload Applicant Photo"
     },
     {
