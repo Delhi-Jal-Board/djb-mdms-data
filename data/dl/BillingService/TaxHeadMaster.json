@@ -5981,6 +5981,16 @@
       "isActualDemand": true,
       "order": "106",
       "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "WS.MUTATION",
+      "name": "Occupier Security Charge",
+      "code": "WS_OCCUPY_SECURITY_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "107",
+      "isRequired": false
     }
   ]
 }
