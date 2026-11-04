@@ -34381,6 +34381,23 @@
       "actionid": 2054,
       "actioncode": "",
       "tenantId": "dl"
+    },
+   {
+      "rolecode": "CITIZEN",
+      "actionid": 3041,
+      "actioncode": "",
+      "tenantId": "dl"
+    },{
+      "rolecode": "SUPERUSER",
+      "actionid": 397,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 397,
+      "actioncode": "",
+      "tenantId": "dl"
     }
   ]
 }
