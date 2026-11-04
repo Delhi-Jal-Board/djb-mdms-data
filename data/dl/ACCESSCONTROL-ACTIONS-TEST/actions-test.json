@@ -20999,6 +20999,17 @@
       "serviceCode": "ws-calculator",
       "code": "null",
       "path": ""
+    },
+    {
+    "id": 3041,
+    "name": "Water Site Inspection",
+    "url": "/ws-services/wc/site-inspection/_submit",
+    "displayName": "Water Site Inspection",
+    "orderNumber": 0,
+    "enabled": true,
+    "serviceCode": "ws-services",
+    "code": "null",
+    "path": ""
     }
   ]
 }
