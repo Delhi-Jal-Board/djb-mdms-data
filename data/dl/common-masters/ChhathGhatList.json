@@ -1,0 +1,4986 @@
+{
+  "tenantId": "dl",
+  "moduleName": "common-masters",
+  "ChhathGhatList": [
+    {
+      "id": "CG_001",
+      "code": "CG_001",
+      "name": "NARELA SARMIK KALYAN SAMITI - VASU VIHAR COLONY HOLUMBI KALAN DDA PARK UR2 MARG BAZAR CHOWK",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 1,
+      "active": true
+    },
+    {
+      "id": "CG_002",
+      "code": "CG_002",
+      "name": "BIHAR JAN KALYAN SAMITI HOLAMBI KALAN- METRO VIHAR PHASE 2 NEAR OLD POLICE CHOWKI DDA GROUND",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 2,
+      "active": true
+    },
+    {
+      "id": "CG_003",
+      "code": "CG_003",
+      "name": "JANHIT POONERWAS VIKASH SAMITI- DDA LAND NEAR C BLOCK SEC 5 DSIIDC METRO VIHAR PH1 HOLUMBI KALAN",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 3,
+      "active": true
+    },
+    {
+      "id": "CG_004",
+      "code": "CG_004",
+      "name": "PURVANCHAL BHOJPURI CHHATH POOJA DHARMIK SANSKRITI SAMITI- OPPOSITE SITE NAGAR NIGAM PARTIBHA VIDHALAYA SWARN JAYANTI VIHAR A BLOCK",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 4,
+      "active": true
+    },
+    {
+      "id": "CG_005",
+      "code": "CG_005",
+      "name": "SAMAJ SEVA WELFARE SOCIETY- B-4/122 FRONT OFF DUSIB PARK",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 5,
+      "active": true
+    },
+    {
+      "id": "CG_006",
+      "code": "CG_006",
+      "name": "SURYA CHATHI SARVODAYA DDA LAND NEAR DUSIB OFFICE, A-BLOCK PHASE-II METRO VIHAR HOLAMBI KALAN, DELHI 110082",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 6,
+      "active": true
+    },
+    {
+      "id": "CG_007",
+      "code": "CG_007",
+      "name": "SARVJAN KALYAN SAMITI\" B-1 & B-2 IN MID, OPPOSITE TO MASJID MCD PARK, SWARN JYANATI VIHAR TIKRI KHURD",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 7,
+      "active": true
+    },
+    {
+      "id": "CG_008",
+      "code": "CG_008",
+      "name": "CHATH PUJA DHARMIK SAMITI MCD PARK RO PLANT BACK SIDE D BLOCK SWARN JANTI VIHAR TIKRI KHURD",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 8,
+      "active": true
+    },
+    {
+      "id": "CG_009",
+      "code": "CG_009",
+      "name": "SARV SAHAYATA DARPAN SOCIETY SANK NO 0708 YUMUNA GHAT JHANGOLA",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 9,
+      "active": true
+    },
+    {
+      "id": "CG_010",
+      "code": "CG_010",
+      "name": "SARV SAHAYATA DARPAN SOCIETY BAKOLI CHHATH GHAT",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 10,
+      "active": true
+    },
+    {
+      "id": "CG_011",
+      "code": "CG_011",
+      "name": "SARV SAHAYATA DARPAN SOCIETY- BAKHTAWARPUR CHHATH GHAT",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 11,
+      "active": true
+    },
+    {
+      "id": "CG_012",
+      "code": "CG_012",
+      "name": "MANAV KALYAN SEWA MANCH- BUDHE BABA TALAB BUDHPUR NARELA",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 12,
+      "active": true
+    },
+    {
+      "id": "CG_013",
+      "code": "CG_013",
+      "name": "SARV SHAKTI EKTA SAMITI BHORGARH\" DSIIDC GOL CHAKKR KE SAMNE STHIT DDA LAND BHORGARH NARELA",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 13,
+      "active": true
+    },
+    {
+      "id": "CG_014",
+      "code": "CG_014",
+      "name": "CHHATH POOJA SEWA SAMITI VISHAL ENCLAVE KH NO 36/21 VISHAL ENCLAVE NARELA",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 14,
+      "active": true
+    },
+    {
+      "id": "CG_015",
+      "code": "CG_015",
+      "name": "SHRI SHIV SHAKTI MANDIR TRUST SANNOTH VILLAGE, DDA, DELHI-110040",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 15,
+      "active": true
+    },
+    {
+      "id": "CG_016",
+      "code": "CG_016",
+      "name": "FIRST STEP INDIA FOUNDATION C- BLOCK, MCD PROMARY SCHOOL, SIDE-4 DDA FIELD, METRO VIHAR HOLAMBI KALAN DELHI- 110002",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 16,
+      "active": true
+    },
+    {
+      "id": "CG_017",
+      "code": "CG_017",
+      "name": "MAHA CHHATH POOJA KALYAN SAMITI SHREE RAM CHAT GHAT, DDA LAND NO.-10",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 17,
+      "active": true
+    },
+    {
+      "id": "CG_018",
+      "code": "CG_018",
+      "name": "POORWANCHAL JANJAGRITI SAMITI DDA LAND SEC B-2 NEAR PKT-D NARELA",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 18,
+      "active": true
+    },
+    {
+      "id": "CG_019",
+      "code": "CG_019",
+      "name": "LOK PRAGATI TRUST HANUMAN MANDIR FIX CHHATH PUJA GHAT DUSIB LAND PKT -7 SEC A-10 NARELA",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 19,
+      "active": true
+    },
+    {
+      "id": "CG_020",
+      "code": "CG_020",
+      "name": "PUNARWAS SUVIDHA SAMITI PLOT NO 536-537 KE BICH ME DSUIB LAND PKT 7 SEC A10 NARELA",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 20,
+      "active": true
+    },
+    {
+      "id": "CG_021",
+      "code": "CG_021",
+      "name": "BHARAT MATA PUNARVAS COLONY VIKAS SAMITI DSUIB LAND PKT-5 SEC A6 NARELA",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 21,
+      "active": true
+    },
+    {
+      "id": "CG_022",
+      "code": "CG_022",
+      "name": "RESIDENT WELFARE ASSOCIATIOJN PKT 14 SEC A5 NARELA\" MCD PARK PKT-12 NEAR CENTRAL SCHOOL SEC A15 NARELA",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 22,
+      "active": true
+    },
+    {
+      "id": "CG_023",
+      "code": "CG_023",
+      "name": "SHREE SURYA NARAYAN SEVA TRUST SHREE SURYA NARYAN MANDIR FCI CAMPUS BAWANA NARELA",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 23,
+      "active": true
+    },
+    {
+      "id": "CG_024",
+      "code": "CG_024",
+      "name": "JANHIT PURWANCHAL SOCIETY\" SEC A10 PKT 1 DDA GROUND NARELA",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 24,
+      "active": true
+    },
+    {
+      "id": "CG_025",
+      "code": "CG_025",
+      "name": "SANATAN DHARM ADHIKAR ABHIYAN\" DDA LAND PKT 1A SEC A1-A4 OPPOSITE GATE NO 2 GOLDEN APARTMENT NARELA",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 25,
+      "active": true
+    },
+    {
+      "id": "CG_026",
+      "code": "CG_026",
+      "name": "VISHISHT PURVANCHAL EKTA SAMITI DDA LAND PKT 13 SEC B4 NARELA",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 26,
+      "active": true
+    },
+    {
+      "id": "CG_027",
+      "code": "CG_027",
+      "name": "PUNARWAS CHHAT POOJA & JAGRAN SAMITI SHIV VATIKA PARK, SHRI HARI MANDIR POCKET-11 SECTOR-A6 NARELA",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 27,
+      "active": true
+    },
+    {
+      "id": "CG_028",
+      "code": "CG_028",
+      "name": "ADARSH POORVANCHAL VIKAS SANGATHAN DDA GROUND, SECTOR- A6 POCKET-8 NEAR LAL FLAT NARELA",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 28,
+      "active": true
+    },
+    {
+      "id": "CG_029",
+      "code": "CG_029",
+      "name": "MANSA DEVI APARTMENT RESIDENT WELFARE ASSOCIATION POCKET- 1C SECTOR A1-A4 DDA NARELA DELHI-40",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 29,
+      "active": true
+    },
+    {
+      "id": "CG_030",
+      "code": "CG_030",
+      "name": "RWA HIND APARTMENT(NARELA) DDA LAND PKT-1B SECA1 TO A4 OPP HIND APPARTMENT NARELA",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 30,
+      "active": true
+    },
+    {
+      "id": "CG_031",
+      "code": "CG_031",
+      "name": "MITHILA PUNARWAS VIKAS AVAM DHARMIK SAMITI REG\" CHHATH PUJA DUSIB PLACE PKT4 SEC A6 NARELA",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 31,
+      "active": true
+    },
+    {
+      "id": "CG_032",
+      "code": "CG_032",
+      "name": "JANKALYAN CHHATH POOJA SEWA SAMITI KH NO 15/21 GALI NO 10 GAUTAM COLONY NARELA DELHI",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 32,
+      "active": true
+    },
+    {
+      "id": "CG_033",
+      "code": "CG_033",
+      "name": "SHRI SHIV HARI MANDIR SHRI SHIV MANDIR DUSIB LAND PKT 11 SEC A6 NARELA",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 33,
+      "active": true
+    },
+    {
+      "id": "CG_034",
+      "code": "CG_034",
+      "name": "JANHIT VIKAS SANGTHAN GALI NO 12 KH NO 41/1 JK FARM ROAD GAUTAM COLONY NARELA",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 34,
+      "active": true
+    },
+    {
+      "id": "CG_035",
+      "code": "CG_035",
+      "name": "SALASA APARTMENT RESIDENTS WELFARE ASSOCIATION\" PARK B-4PKT-9 NARELA",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-01",
+      "assemblyConstituency": "Narela",
+      "rank": 35,
+      "active": true
+    },
+    {
+      "id": "CG_036",
+      "code": "CG_036",
+      "name": "Ibrahimpur more, Sushant Vihar, Ashok Colony, DCM Colony, Kushak No. 2, Samta Vihar Model Ghat",
+      "circle": "SE(C)-4 Satyender Kr. Singh",
+      "acNumber": "AC-02",
+      "assemblyConstituency": "Burari",
+      "rank": 36,
+      "active": true
+    },
+    {
+      "id": "CG_037",
+      "code": "CG_037",
+      "name": "Nathu Colony, Kadi Vihar, Tomar Colony, Nathupura D-Block, Amrit Vihar",
+      "circle": "SE(C)-4 Satyender Kr. Singh",
+      "acNumber": "AC-02",
+      "assemblyConstituency": "Burari",
+      "rank": 37,
+      "active": true
+    },
+    {
+      "id": "CG_038",
+      "code": "CG_038",
+      "name": "Shakti Enclave, Gokul Dham, A-2 Block Sant Nagar, West Kamal Vihar, IP Colony",
+      "circle": "SE(C)-4 Satyender Kr. Singh",
+      "acNumber": "AC-02",
+      "assemblyConstituency": "Burari",
+      "rank": 38,
+      "active": true
+    },
+    {
+      "id": "CG_039",
+      "code": "CG_039",
+      "name": "River Yamuna at Ramp No. II, Jagatpur",
+      "circle": "SE(C)-4 Satyender Kr. Singh",
+      "acNumber": "AC-02",
+      "assemblyConstituency": "Burari",
+      "rank": 39,
+      "active": true
+    },
+    {
+      "id": "CG_040",
+      "code": "CG_040",
+      "name": "Yamuna Pusta thokar No.2 Baba colony",
+      "circle": "SE(C)-4 Satyender Kr. Singh",
+      "acNumber": "AC-02",
+      "assemblyConstituency": "Burari",
+      "rank": 40,
+      "active": true
+    },
+    {
+      "id": "CG_041",
+      "code": "CG_041",
+      "name": "Milan Vihar, Deepanshu Colony, Jharoda Part-III, Jharoda Part-I, Jharoda Party-II, Shiv Kunj, DDA ground near Jharoda Metro Station",
+      "circle": "SE(C)-4 Satyender Kr. Singh",
+      "acNumber": "AC-02",
+      "assemblyConstituency": "Burari",
+      "rank": 41,
+      "active": true
+    },
+    {
+      "id": "CG_042",
+      "code": "CG_042",
+      "name": "Sunil Colony, Baba colony (Sisodia pond), Darshan Vihar, Kaushik Enclave Gali No.41 Nalapar, Kaushik Enclave B-Block Gali No. 29B, Laxmi Vihar, Uttarakhand Ghat, Uttarakhand Part-II Vashisht Enclave, Virender Nagar and Tyagi Chhat Pooja Ghat ( Ashish Tyagi Ground)",
+      "circle": "SE(C)-4 Satyender Kr. Singh",
+      "acNumber": "AC-02",
+      "assemblyConstituency": "Burari",
+      "rank": 42,
+      "active": true
+    },
+    {
+      "id": "CG_043",
+      "code": "CG_043",
+      "name": "Bhalaswa dairy to Golf course Golf Course to Boat Club Boat club to Mukundpur",
+      "circle": "SE(C)-4 Satyender Kr. Singh",
+      "acNumber": "AC-02",
+      "assemblyConstituency": "Burari",
+      "rank": 43,
+      "active": true
+    },
+    {
+      "id": "CG_044",
+      "code": "CG_044",
+      "name": "Shyam Ghat near Ramp No. III",
+      "circle": "SE(C)-4 Satyender Kr. Singh",
+      "acNumber": "AC-03",
+      "assemblyConstituency": "Timarpur",
+      "rank": 44,
+      "active": true
+    },
+    {
+      "id": "CG_045",
+      "code": "CG_045",
+      "name": "Ram Ghat near DJB water Work",
+      "circle": "SE(C)-4 Satyender Kr. Singh",
+      "acNumber": "AC-03",
+      "assemblyConstituency": "Timarpur",
+      "rank": 45,
+      "active": true
+    },
+    {
+      "id": "CG_046",
+      "code": "CG_046",
+      "name": "Bajrang Ghat near Church",
+      "circle": "SE(C)-4 Satyender Kr. Singh",
+      "acNumber": "AC-03",
+      "assemblyConstituency": "Timarpur",
+      "rank": 46,
+      "active": true
+    },
+    {
+      "id": "CG_047",
+      "code": "CG_047",
+      "name": "I&FC Land near Gopalpur Store , Fish Market Near DJB Office, Maharishi Valmiki Mandir Prangan Malikpur, Malka Ganj(near Petrol Pump)Delhi Administrative Flats Park, Indra Basti Vijay Nagar Wazirabad(near Mother Dairy), Tikona Park(E-Block,Nehru Vihar) Gali No. 6 Sangam Vihar, Sangam Vihar area Near Jharoda Chowki Hanuman Mandir /Wazirabad area",
+      "circle": "SE(C)-4 Satyender Kr. Singh",
+      "acNumber": "AC-03",
+      "assemblyConstituency": "Timarpur",
+      "rank": 47,
+      "active": true
+    },
+    {
+      "id": "CG_048",
+      "code": "CG_048",
+      "name": "H-Block MCD land Jahangirpuri, Ambedkar Park Mukherjee Nagar, Ramleela maidan Jahangirpuri, E-Block Gandhi Vihar opposit Gurudwara,Malikram Tondon road near Majlis park metro station , DDA park Dheerpur, 60 No DDA Metro vihar colony park back side M2K Victoria Garden, Azadpur village, A-Block near Jhuggi Jahangirpuri DUSIB land, Metro Vihar Colony & Chatar Matar Park",
+      "circle": "SE(C)-4 Satyender Kr. Singh",
+      "acNumber": "AC-04",
+      "assemblyConstituency": "Adarsh Nagar",
+      "rank": 48,
+      "active": true
+    },
+    {
+      "id": "CG_049",
+      "code": "CG_049",
+      "name": "Bhalswa Lake. 2.Village Bhalswa. 3.Gali No. 09 Swaroop Nagar.",
+      "circle": "SE(C)-4 Satyender Kr. Singh",
+      "acNumber": "AC-05",
+      "assemblyConstituency": "Badli",
+      "rank": 49,
+      "active": true
+    },
+    {
+      "id": "CG_050",
+      "code": "CG_050",
+      "name": "Gali No. 15 Swaroop Nagar.",
+      "circle": "SE(C)-4 Satyender Kr. Singh",
+      "acNumber": "AC-05",
+      "assemblyConstituency": "Badli",
+      "rank": 50,
+      "active": true
+    },
+    {
+      "id": "CG_051",
+      "code": "CG_051",
+      "name": "1.E-Block Shradha­nand Colony 2.DDA Park Jahangirpuri. 3.Mangal Bazar DUSIB Park Bhalswa",
+      "circle": "SE(C)-4 Satyender Kr. Singh",
+      "acNumber": "AC-05",
+      "assemblyConstituency": "Badli",
+      "rank": 51,
+      "active": true
+    },
+    {
+      "id": "CG_052",
+      "code": "CG_052",
+      "name": "XYZ Colony Swaroop Nagar",
+      "circle": "SE(C)-4 Satyender Kr. Singh",
+      "acNumber": "AC-05",
+      "assemblyConstituency": "Badli",
+      "rank": 52,
+      "active": true
+    },
+    {
+      "id": "CG_053",
+      "code": "CG_053",
+      "name": "1.Nursery, 2 R/S SDM Office Libaspur. 3.Shraddhanand Road (near llie Pahalwan office).",
+      "circle": "SE(C)-4 Satyender Kr. Singh",
+      "acNumber": "AC-05",
+      "assemblyConstituency": "Badli",
+      "rank": 53,
+      "active": true
+    },
+    {
+      "id": "CG_054",
+      "code": "CG_054",
+      "name": "1.Jeevan Park at village Siraspur",
+      "circle": "SE(C)-4 Satyender Kr. Singh",
+      "acNumber": "AC-05",
+      "assemblyConstituency": "Badli",
+      "rank": 54,
+      "active": true
+    },
+    {
+      "id": "CG_055",
+      "code": "CG_055",
+      "name": "1.Oxygen Gas plant Libaspur",
+      "circle": "SE(C)-4 Satyender Kr. Singh",
+      "acNumber": "AC-05",
+      "assemblyConstituency": "Badli",
+      "rank": 55,
+      "active": true
+    },
+    {
+      "id": "CG_056",
+      "code": "CG_056",
+      "name": "Mangey Ram Park Budh Vihar, Ph-II,",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-06",
+      "assemblyConstituency": "Rithala",
+      "rank": 56,
+      "active": true
+    },
+    {
+      "id": "CG_057",
+      "code": "CG_057",
+      "name": "DDA Park Pocket-21 opposite Sector 24 Rohini,",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-06",
+      "assemblyConstituency": "Rithala",
+      "rank": 57,
+      "active": true
+    },
+    {
+      "id": "CG_058",
+      "code": "CG_058",
+      "name": "Sector -4 Extn. Near Budh Vihar Rithala Bridge 4.Rana Partap Park Rithala village. in Ward No-25 in Rithala AC-06.",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-06",
+      "assemblyConstituency": "Rithala",
+      "rank": 58,
+      "active": true
+    },
+    {
+      "id": "CG_059",
+      "code": "CG_059",
+      "name": "At Sector-34, Pocket 1 to 4 Rohini Delhi.,",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-06",
+      "assemblyConstituency": "Rithala",
+      "rank": 59,
+      "active": true
+    },
+    {
+      "id": "CG_060",
+      "code": "CG_060",
+      "name": "Behind Sovereign School Sec-24, Rohini.,",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-06",
+      "assemblyConstituency": "Rithala",
+      "rank": 60,
+      "active": true
+    },
+    {
+      "id": "CG_061",
+      "code": "CG_061",
+      "name": "Bheem Singh Market near Pocket-I, Sec-24, Rohini.,",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-06",
+      "assemblyConstituency": "Rithala",
+      "rank": 61,
+      "active": true
+    },
+    {
+      "id": "CG_062",
+      "code": "CG_062",
+      "name": "Mandir Wala park, Shiv Colony Ph-II, Budh Vihar.,",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-06",
+      "assemblyConstituency": "Rithala",
+      "rank": 62,
+      "active": true
+    },
+    {
+      "id": "CG_063",
+      "code": "CG_063",
+      "name": "Prince Public School Ph-II, Budh Vihar",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-06",
+      "assemblyConstituency": "Rithala",
+      "rank": 63,
+      "active": true
+    },
+    {
+      "id": "CG_064",
+      "code": "CG_064",
+      "name": "At Lal Quarter Vijay Vihar Phase-I Rithala.,",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-06",
+      "assemblyConstituency": "Rithala",
+      "rank": 64,
+      "active": true
+    },
+    {
+      "id": "CG_065",
+      "code": "CG_065",
+      "name": "DDA Park near Khana Shop Vijay Vihar Phase-II.,",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-06",
+      "assemblyConstituency": "Rithala",
+      "rank": 65,
+      "active": true
+    },
+    {
+      "id": "CG_066",
+      "code": "CG_066",
+      "name": "Mahadev Park, Mahadev Chowk Avantika, Sec-1, Rohini ., 4. C-362 Block Avantika Rohini.,",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-06",
+      "assemblyConstituency": "Rithala",
+      "rank": 66,
+      "active": true
+    },
+    {
+      "id": "CG_067",
+      "code": "CG_067",
+      "name": "Tiranga Chowk, Vijay Vihar,",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-06",
+      "assemblyConstituency": "Rithala",
+      "rank": 67,
+      "active": true
+    },
+    {
+      "id": "CG_068",
+      "code": "CG_068",
+      "name": "DDA Park Rohini Sec-5",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-06",
+      "assemblyConstituency": "Rithala",
+      "rank": 68,
+      "active": true
+    },
+    {
+      "id": "CG_069",
+      "code": "CG_069",
+      "name": "09 Nos. in Sector-16 DDA Land Sector-15-16 dividing road, near Petrol Pump Rohini.,",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-06",
+      "assemblyConstituency": "Rithala",
+      "rank": 69,
+      "active": true
+    },
+    {
+      "id": "CG_070",
+      "code": "CG_070",
+      "name": "02 Nos. in Sector-16, DDA Land Rohini",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-06",
+      "assemblyConstituency": "Rithala",
+      "rank": 70,
+      "active": true
+    },
+    {
+      "id": "CG_071",
+      "code": "CG_071",
+      "name": "A BLOCK PAKKA NEAR SANTOSHI MATA MANDIR MAIN BAWANA ROAD SHAHBAD DAIRY",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 71,
+      "active": true
+    },
+    {
+      "id": "CG_072",
+      "code": "CG_072",
+      "name": "CHHATH PUJA GHAT GHREEN BELT SEC 24 ROHINI",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 72,
+      "active": true
+    },
+    {
+      "id": "CG_073",
+      "code": "CG_073",
+      "name": "GD GOENKA PARK, POCKET-7 SECTOR- 22 ROHINI DDA PARK",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 73,
+      "active": true
+    },
+    {
+      "id": "CG_074",
+      "code": "CG_074",
+      "name": "CHHATH POOJA STHAL PANSAL",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 74,
+      "active": true
+    },
+    {
+      "id": "CG_075",
+      "code": "CG_075",
+      "name": "DDA LAND, E-BLOCK, BEGUMPUR",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 75,
+      "active": true
+    },
+    {
+      "id": "CG_076",
+      "code": "CG_076",
+      "name": "D-BLOCK PARK, NEAR HANUMAN MANDIR OPPOSITE BARAT GHAR shabad dairy",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 76,
+      "active": true
+    },
+    {
+      "id": "CG_077",
+      "code": "CG_077",
+      "name": "C-BLOCK CHHATH POOJA PARK Sector 25 Rohini",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 77,
+      "active": true
+    },
+    {
+      "id": "CG_078",
+      "code": "CG_078",
+      "name": "KH NO 58/13 PAPPU COLONY ROHINI SEC 31",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 78,
+      "active": true
+    },
+    {
+      "id": "CG_079",
+      "code": "CG_079",
+      "name": "A BLOCK BUS STAND JJ COLONY BAWANA",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 79,
+      "active": true
+    },
+    {
+      "id": "CG_080",
+      "code": "CG_080",
+      "name": "KALI MATA MANDIR GROUND SEC 37 ROHINI (BEGUMPUR)",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 80,
+      "active": true
+    },
+    {
+      "id": "CG_081",
+      "code": "CG_081",
+      "name": "N-25, RAJEEV NAGAR, ROHINI SECTOR-37, B-1 BEGUMPUR, DELHI-110086",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 81,
+      "active": true
+    },
+    {
+      "id": "CG_082",
+      "code": "CG_082",
+      "name": "CHHATH PARK DDA GREEN BELT OPP SEC 22 ROHINI",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 82,
+      "active": true
+    },
+    {
+      "id": "CG_083",
+      "code": "CG_083",
+      "name": "DDA LAND BEHIND UPAVAN APPTT SEC 28 ROHINI",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 83,
+      "active": true
+    },
+    {
+      "id": "CG_084",
+      "code": "CG_084",
+      "name": "A78 RAJNI VIHAR NAVEEN VIHAR BEGUMPUR ROHINI",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 84,
+      "active": true
+    },
+    {
+      "id": "CG_085",
+      "code": "CG_085",
+      "name": "JHIL WALA PARK SEC 20 ROHINI",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 85,
+      "active": true
+    },
+    {
+      "id": "CG_086",
+      "code": "CG_086",
+      "name": "RAJIV NAGAR EXTN H BLOCK ROHINI SEC 37",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 86,
+      "active": true
+    },
+    {
+      "id": "CG_087",
+      "code": "CG_087",
+      "name": "N BLOCKCHHATH GHAT BARWALA PIVA RAJEEV NAGAR EXTN DELHI",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 87,
+      "active": true
+    },
+    {
+      "id": "CG_088",
+      "code": "CG_088",
+      "name": "DUSIB LAND LOCATED BETWEEN HOUSE NO A-458 AND A-215 BLOCKA SHAHBAD DAIRY",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 88,
+      "active": true
+    },
+    {
+      "id": "CG_089",
+      "code": "CG_089",
+      "name": "DDA LAND SHIV SKATI HANUMAN MANDIR PANSALI DHAM SEC31 ROHINI",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 89,
+      "active": true
+    },
+    {
+      "id": "CG_090",
+      "code": "CG_090",
+      "name": "DDA GROUND GATE NO 1 PKT 6 SEC 25 ROHINI",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 90,
+      "active": true
+    },
+    {
+      "id": "CG_091",
+      "code": "CG_091",
+      "name": "IN BETWEEN PKT1&4 SEC 34 ROHIN",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 91,
+      "active": true
+    },
+    {
+      "id": "CG_092",
+      "code": "CG_092",
+      "name": "F&G BLOCK JJ COLONY BAWANA",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 92,
+      "active": true
+    },
+    {
+      "id": "CG_093",
+      "code": "CG_093",
+      "name": "CHHATH PUJA STHAL PUCCA KISHAN COLONY PRAHLAD PUR BANGAR",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 93,
+      "active": true
+    },
+    {
+      "id": "CG_094",
+      "code": "CG_094",
+      "name": "SHIV TEMPLE POND AUCHANDI DELHI",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 94,
+      "active": true
+    },
+    {
+      "id": "CG_095",
+      "code": "CG_095",
+      "name": "SECTOR-34 (NEAR TPDDL OFFICE) DDA LAND",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 95,
+      "active": true
+    },
+    {
+      "id": "CG_096",
+      "code": "CG_096",
+      "name": "GREEN AREA PKT6 SEC 35 ROHINI",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 96,
+      "active": true
+    },
+    {
+      "id": "CG_097",
+      "code": "CG_097",
+      "name": "SHRI ENCLAVE PANSALI GALI NO 8 BACK SIDE DDA LAND",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 97,
+      "active": true
+    },
+    {
+      "id": "CG_098",
+      "code": "CG_098",
+      "name": "E-BLOCK PARK, JJ COLONY SECTOR-24, ROHINI",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 98,
+      "active": true
+    },
+    {
+      "id": "CG_099",
+      "code": "CG_099",
+      "name": "Rohini Sector 24 Near Goverment Schhool Delhi 85",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 99,
+      "active": true
+    },
+    {
+      "id": "CG_100",
+      "code": "CG_100",
+      "name": "CHHATH SAROVAR GHAT NEAR SHAMSHAN GHAT SECTOR-26, ROHINI",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 100,
+      "active": true
+    },
+    {
+      "id": "CG_101",
+      "code": "CG_101",
+      "name": "PANSALI CHHAT GHAT ENCLAVE PANSALI BEGAMPUR",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 101,
+      "active": true
+    },
+    {
+      "id": "CG_102",
+      "code": "CG_102",
+      "name": "RAJEV NAGAR BUS STAND/ GAS GODOWN SECTOR-22 ROHINI",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 102,
+      "active": true
+    },
+    {
+      "id": "CG_103",
+      "code": "CG_103",
+      "name": "DDA AMBEDKAR PARK SEC 27 PRAKASH VIHAR SHAHBAD DAULATPUR",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-07",
+      "assemblyConstituency": "Bawana",
+      "rank": 103,
+      "active": true
+    },
+    {
+      "id": "CG_104",
+      "code": "CG_104",
+      "name": "AGGRAWAL CHOWK CHANDER VIHAR NILOTHI",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-08",
+      "assemblyConstituency": "Mundka",
+      "rank": 104,
+      "active": true
+    },
+    {
+      "id": "CG_105",
+      "code": "CG_105",
+      "name": "DHAKA CHOWK KAMRUDDIN NAGAR 41/12",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-08",
+      "assemblyConstituency": "Mundka",
+      "rank": 105,
+      "active": true
+    },
+    {
+      "id": "CG_106",
+      "code": "CG_106",
+      "name": "C-1 OPPOSITE METRO PILLAR NO 482 SWARN PARK MUNDKA",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-08",
+      "assemblyConstituency": "Mundka",
+      "rank": 106,
+      "active": true
+    },
+    {
+      "id": "CG_107",
+      "code": "CG_107",
+      "name": "PWD GROUND TIKRI BORDER METRO STATION",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-08",
+      "assemblyConstituency": "Mundka",
+      "rank": 107,
+      "active": true
+    },
+    {
+      "id": "CG_108",
+      "code": "CG_108",
+      "name": "J & K Block park sawda J.J. Colony Sawda",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-08",
+      "assemblyConstituency": "Mundka",
+      "rank": 108,
+      "active": true
+    },
+    {
+      "id": "CG_109",
+      "code": "CG_109",
+      "name": "G block shiv hauman Mandir Pond",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-08",
+      "assemblyConstituency": "Mundka",
+      "rank": 109,
+      "active": true
+    },
+    {
+      "id": "CG_110",
+      "code": "CG_110",
+      "name": "GALI NO.-19, SHAEED BHAGAR SINGH NAGAR KARALA",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-08",
+      "assemblyConstituency": "Mundka",
+      "rank": 110,
+      "active": true
+    },
+    {
+      "id": "CG_111",
+      "code": "CG_111",
+      "name": "PLOT NO.- C1/A KH. NO.- 86/8 JYOTI ENCLAVE, JYONTI",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-08",
+      "assemblyConstituency": "Mundka",
+      "rank": 111,
+      "active": true
+    },
+    {
+      "id": "CG_112",
+      "code": "CG_112",
+      "name": "GHEWRA NIZAMPUR ROAD CENRA BANK",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-08",
+      "assemblyConstituency": "Mundka",
+      "rank": 112,
+      "active": true
+    },
+    {
+      "id": "CG_113",
+      "code": "CG_113",
+      "name": "DDA PAR25 FUTA ROAD NEAR STRRET NO8 RUPALI ENCLAVE KARALA",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-08",
+      "assemblyConstituency": "Mundka",
+      "rank": 113,
+      "active": true
+    },
+    {
+      "id": "CG_114",
+      "code": "CG_114",
+      "name": "RAMA VIHAR, MAIN MAJRI PANEL, MUBARAKPUR ROAD, DELHI- 110081",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-08",
+      "assemblyConstituency": "Mundka",
+      "rank": 114,
+      "active": true
+    },
+    {
+      "id": "CG_115",
+      "code": "CG_115",
+      "name": "D-1 BLOCK, BHAGYA VIHAR NEAR SUNDAY BAZAR MADANPUR DABAS RANI KHERA DELHI-110081",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-08",
+      "assemblyConstituency": "Mundka",
+      "rank": 115,
+      "active": true
+    },
+    {
+      "id": "CG_116",
+      "code": "CG_116",
+      "name": "OUTSIDE JYONTI ENCLAVE NORTH",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-08",
+      "assemblyConstituency": "Mundka",
+      "rank": 116,
+      "active": true
+    },
+    {
+      "id": "CG_117",
+      "code": "CG_117",
+      "name": "LEKH RAM CHOWK SUKHI NAHAR JAIN NAGAR",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-08",
+      "assemblyConstituency": "Mundka",
+      "rank": 117,
+      "active": true
+    },
+    {
+      "id": "CG_118",
+      "code": "CG_118",
+      "name": "SHAHEED BHAGAT SINGH NAGAR KARALA",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-08",
+      "assemblyConstituency": "Mundka",
+      "rank": 118,
+      "active": true
+    },
+    {
+      "id": "CG_119",
+      "code": "CG_119",
+      "name": "DDA PLOT NEAR GALI NO-12 DHEERAJ VIHAR ROHINI SEC 35",
+      "circle": "SE(C)-3 Himanshu Aggarwal",
+      "acNumber": "AC-08",
+      "assemblyConstituency": "Mundka",
+      "rank": 119,
+      "active": true
+    },
+    {
+      "id": "CG_120",
+      "code": "CG_120",
+      "name": "MAHA PURAB CHHAT PUJA SAMITI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 120,
+      "active": true
+    },
+    {
+      "id": "CG_121",
+      "code": "CG_121",
+      "name": "SHRI KRISHAN CHHAT PUJA SAMITI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 121,
+      "active": true
+    },
+    {
+      "id": "CG_122",
+      "code": "CG_122",
+      "name": "E-2 ADARSH LAKSHMI VIHAR VIKAS SAMITI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 122,
+      "active": true
+    },
+    {
+      "id": "CG_123",
+      "code": "CG_123",
+      "name": "SHARI BALAJI MANDIR CHHAT PUJA SAMITI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 123,
+      "active": true
+    },
+    {
+      "id": "CG_124",
+      "code": "CG_124",
+      "name": "BHOJPURI SAVABHIMAN CHHAT POOJA SAMITI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 124,
+      "active": true
+    },
+    {
+      "id": "CG_125",
+      "code": "CG_125",
+      "name": "SANG MITRA CHHAT POOJA",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 125,
+      "active": true
+    },
+    {
+      "id": "CG_126",
+      "code": "CG_126",
+      "name": "SUDHAR SAMITI AGAR ENCLAVE",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 126,
+      "active": true
+    },
+    {
+      "id": "CG_127",
+      "code": "CG_127",
+      "name": "CHHATH POOJA SAMITI D-1 PAREM NAGAR -2 KIRARI DELHI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 127,
+      "active": true
+    },
+    {
+      "id": "CG_128",
+      "code": "CG_128",
+      "name": "SURYA UPASNA CHHAT PUJA SAMITI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 128,
+      "active": true
+    },
+    {
+      "id": "CG_129",
+      "code": "CG_129",
+      "name": "PURVANCHAL CHAAT PUJA PARB SEWA SAMITI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 129,
+      "active": true
+    },
+    {
+      "id": "CG_130",
+      "code": "CG_130",
+      "name": "BABA BAIJ NATH MANDIR TRUST",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 130,
+      "active": true
+    },
+    {
+      "id": "CG_131",
+      "code": "CG_131",
+      "name": "AASTHA CHHAT PUJA SAMITI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 131,
+      "active": true
+    },
+    {
+      "id": "CG_132",
+      "code": "CG_132",
+      "name": "PURVANCHAL CHHAT PUJA SAMITI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 132,
+      "active": true
+    },
+    {
+      "id": "CG_133",
+      "code": "CG_133",
+      "name": "SHREE SHIV DURGA MANDIR SEVA SAMITI MITHLA VIHAR",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 133,
+      "active": true
+    },
+    {
+      "id": "CG_134",
+      "code": "CG_134",
+      "name": "SANKALP SE SIDDHI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 134,
+      "active": true
+    },
+    {
+      "id": "CG_135",
+      "code": "CG_135",
+      "name": "SHRI RAM JANKI MANDIR TRUST",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 135,
+      "active": true
+    },
+    {
+      "id": "CG_136",
+      "code": "CG_136",
+      "name": "Shree Durga Jan Seva Trust",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 136,
+      "active": true
+    },
+    {
+      "id": "CG_137",
+      "code": "CG_137",
+      "name": "CHHAT PUJA SAMITI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 137,
+      "active": true
+    },
+    {
+      "id": "CG_138",
+      "code": "CG_138",
+      "name": "ADITYA KIRPA CHHAT PUJA SAMITI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 138,
+      "active": true
+    },
+    {
+      "id": "CG_139",
+      "code": "CG_139",
+      "name": "MANOUTHAN SEWA SAMITI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 139,
+      "active": true
+    },
+    {
+      "id": "CG_140",
+      "code": "CG_140",
+      "name": "CHHAT PUJA AND SHIV DHAM MANDIR SAMITI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 140,
+      "active": true
+    },
+    {
+      "id": "CG_141",
+      "code": "CG_141",
+      "name": "MANSHA & JANKALYAN MANCH",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 141,
+      "active": true
+    },
+    {
+      "id": "CG_142",
+      "code": "CG_142",
+      "name": "VIDAYAPATI RESIDENT WELFARE ASSOCIATION",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 142,
+      "active": true
+    },
+    {
+      "id": "CG_143",
+      "code": "CG_143",
+      "name": "CHHATH POOJA SEWA SAMITI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 143,
+      "active": true
+    },
+    {
+      "id": "CG_144",
+      "code": "CG_144",
+      "name": "JAN KALYAN SAMITI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 144,
+      "active": true
+    },
+    {
+      "id": "CG_145",
+      "code": "CG_145",
+      "name": "VINAY ENCLAVE VIKAS SUDHAR SAMITI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 145,
+      "active": true
+    },
+    {
+      "id": "CG_146",
+      "code": "CG_146",
+      "name": "ROOP VIHAR CHHATH PUJA SAMITI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 146,
+      "active": true
+    },
+    {
+      "id": "CG_147",
+      "code": "CG_147",
+      "name": "UDAAN EK SAMAJIK PAHAL",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 147,
+      "active": true
+    },
+    {
+      "id": "CG_148",
+      "code": "CG_148",
+      "name": "PURVANCHAL CHATH POOJA SAMITI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 148,
+      "active": true
+    },
+    {
+      "id": "CG_149",
+      "code": "CG_149",
+      "name": "MITHILA CHHATH POOJA SAMITI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 149,
+      "active": true
+    },
+    {
+      "id": "CG_150",
+      "code": "CG_150",
+      "name": "NEW VAIDEHI ASSOCIATION",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 150,
+      "active": true
+    },
+    {
+      "id": "CG_151",
+      "code": "CG_151",
+      "name": "SHIV MANDIR CHHATH POOJA SAMITI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 151,
+      "active": true
+    },
+    {
+      "id": "CG_152",
+      "code": "CG_152",
+      "name": "RAM JANKI DHAM SHIV MANDIR CHHAT POOJA SAMITI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 152,
+      "active": true
+    },
+    {
+      "id": "CG_153",
+      "code": "CG_153",
+      "name": "PURVANCHAL MAHA CHHATH POOJA SAMITI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 153,
+      "active": true
+    },
+    {
+      "id": "CG_154",
+      "code": "CG_154",
+      "name": "BABA VIDYAPATI CHATH GHAT SANKAT MOCHAN HANUMAN MANDIR SEWA SAMITI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 154,
+      "active": true
+    },
+    {
+      "id": "CG_155",
+      "code": "CG_155",
+      "name": "CHHATH POOJA SEVA SIMITI SHIV MANDIR",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 155,
+      "active": true
+    },
+    {
+      "id": "CG_156",
+      "code": "CG_156",
+      "name": "CHHATH POOJA SEVA SIMITI AGAR NAGAR",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 156,
+      "active": true
+    },
+    {
+      "id": "CG_157",
+      "code": "CG_157",
+      "name": "MAHIALA BAL PARGATI SEVA TRUST",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 157,
+      "active": true
+    },
+    {
+      "id": "CG_158",
+      "code": "CG_158",
+      "name": "SHRI SURYDEV CHHATH POOJA SAMITI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 158,
+      "active": true
+    },
+    {
+      "id": "CG_159",
+      "code": "CG_159",
+      "name": "SARVODYA CHHATH POOJA",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 159,
+      "active": true
+    },
+    {
+      "id": "CG_160",
+      "code": "CG_160",
+      "name": "BIHAR SANSKRITI AND CHHATH PUJA SAMITI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 160,
+      "active": true
+    },
+    {
+      "id": "CG_161",
+      "code": "CG_161",
+      "name": "MITHILANCHAL CHHATH PUJA SAMITI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 161,
+      "active": true
+    },
+    {
+      "id": "CG_162",
+      "code": "CG_162",
+      "name": "JYOMAN FOUNDATION",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 162,
+      "active": true
+    },
+    {
+      "id": "CG_163",
+      "code": "CG_163",
+      "name": "BHOJPURI CHHATH GHAT",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 163,
+      "active": true
+    },
+    {
+      "id": "CG_164",
+      "code": "CG_164",
+      "name": "YUVA CHHATH PUJA SAMITI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 164,
+      "active": true
+    },
+    {
+      "id": "CG_165",
+      "code": "CG_165",
+      "name": "PRABHU SHREE RAM MANAV SEWA SAMITI FOUNDATION",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 165,
+      "active": true
+    },
+    {
+      "id": "CG_166",
+      "code": "CG_166",
+      "name": "JP CHARITABLE TRUST",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 166,
+      "active": true
+    },
+    {
+      "id": "CG_167",
+      "code": "CG_167",
+      "name": "DHARMIK UTSAV SAMITI CHHATH POOJA SURAT VIHAR",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 167,
+      "active": true
+    },
+    {
+      "id": "CG_168",
+      "code": "CG_168",
+      "name": "SHRI HARE KRISHNA CHHATH GHAT",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 168,
+      "active": true
+    },
+    {
+      "id": "CG_169",
+      "code": "CG_169",
+      "name": "CHHATH PUJA EKTA SAMITI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 169,
+      "active": true
+    },
+    {
+      "id": "CG_170",
+      "code": "CG_170",
+      "name": "PURVANCHAL CHHAT GHAT SAMITI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 170,
+      "active": true
+    },
+    {
+      "id": "CG_171",
+      "code": "CG_171",
+      "name": "YUVA CHHATH POOJA SAMITI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 171,
+      "active": true
+    },
+    {
+      "id": "CG_172",
+      "code": "CG_172",
+      "name": "CHHATH POOJA SAMITI LAXMI VIHAR",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 172,
+      "active": true
+    },
+    {
+      "id": "CG_173",
+      "code": "CG_173",
+      "name": "SHIV HANUMAN MANDIR SAMITI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-09",
+      "assemblyConstituency": "Kirari",
+      "rank": 173,
+      "active": true
+    },
+    {
+      "id": "CG_174",
+      "code": "CG_174",
+      "name": "F-7 Block, F-6 Block & H-2",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-10",
+      "assemblyConstituency": "Sultanpur Majra",
+      "rank": 174,
+      "active": true
+    },
+    {
+      "id": "CG_175",
+      "code": "CG_175",
+      "name": "Dhanversha Park Peeragardhi-2, Jwalapuri-3, Dushera Ground PVC Market-8, DDA Park Nehal Vihar-10, 50 feet road Hanuman Mandir-1,Nihal Vihar Double Bridge-4, 50 feet road Jawlapuri-1, Udyog Nagar Tanki No. 2-1, Bhim Nagar Sabzi Mandi-1, Kailash Chhat Ghat Jwalapuri-2",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-11",
+      "assemblyConstituency": "Nangloi Jat",
+      "rank": 175,
+      "active": true
+    },
+    {
+      "id": "CG_176",
+      "code": "CG_176",
+      "name": "T-Block, L-Block monther dairy, L-Block, T-Block, M-Block, K Block Gori Shanker mandir, F-Block, F-7 Block, F-7 Block Pt-I, F-7 Block Pt-I, F-6 Block, NB Block, NB Block",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-12",
+      "assemblyConstituency": "Mangolpuri",
+      "rank": 176,
+      "active": true
+    },
+    {
+      "id": "CG_177",
+      "code": "CG_177",
+      "name": "Bapu Park",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-12",
+      "assemblyConstituency": "Mangolpuri",
+      "rank": 177,
+      "active": true
+    },
+    {
+      "id": "CG_178",
+      "code": "CG_178",
+      "name": "​DDA Site Raja vihar near Rishi Properties, 2.Raja vihar A Block nursery wala Road, 3.DTD Canal near outter Ring Road, 4.DDA PARK (HANUMAN MANDIR) POCKET E-16 & F-17 SECTOR 8 ROHINI",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-13",
+      "assemblyConstituency": "Rohini",
+      "rank": 178,
+      "active": true
+    },
+    {
+      "id": "CG_179",
+      "code": "CG_179",
+      "name": "DDA Site Adjacent to Data Ram Society, Sector -18 Rohini Delhi 2.t DDA Site Opposite B- Block, Sector -15, Rohini",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-13",
+      "assemblyConstituency": "Rohini",
+      "rank": 179,
+      "active": true
+    },
+    {
+      "id": "CG_180",
+      "code": "CG_180",
+      "name": "Ram Leela Ground , Sector -7, Rohini, in Rohini",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-13",
+      "assemblyConstituency": "Rohini",
+      "rank": 180,
+      "active": true
+    },
+    {
+      "id": "CG_181",
+      "code": "CG_181",
+      "name": "1.Raja Vihar in Rohini",
+      "circle": "SE(C)-8 N.K. Verma",
+      "acNumber": "AC-13",
+      "assemblyConstituency": "Rohini",
+      "rank": 181,
+      "active": true
+    },
+    {
+      "id": "CG_182",
+      "code": "CG_182",
+      "name": "Between CA-Block Shalimar Bagh, At Beri Wala Bagh & Pinki Thakur Ghat",
+      "circle": "SE(C)-7 Munish Kumar Pitampura",
+      "acNumber": "AC-14",
+      "assemblyConstituency": "Shalimar Bagh",
+      "rank": 182,
+      "active": true
+    },
+    {
+      "id": "CG_183",
+      "code": "CG_183",
+      "name": "Between VIPS, Pitampura to CA-Block (Ekta camp) Shalimar Bagh, Income Tax colony Pitampura,",
+      "circle": "SE(C)-7 Munish Kumar Pitampura",
+      "acNumber": "AC-14",
+      "assemblyConstituency": "Shalimar Bagh",
+      "rank": 183,
+      "active": true
+    },
+    {
+      "id": "CG_184",
+      "code": "CG_184",
+      "name": "Peeragarhi Camp, Paschim Vihar",
+      "circle": "SE(C)-7 Munish Kumar Pitampura",
+      "acNumber": "AC-15",
+      "assemblyConstituency": "Shakur Basti",
+      "rank": 184,
+      "active": true
+    },
+    {
+      "id": "CG_185",
+      "code": "CG_185",
+      "name": "Meera Bagh Camp, Paschim Vihar",
+      "circle": "SE(C)-7 Munish Kumar Pitampura",
+      "acNumber": "AC-15",
+      "assemblyConstituency": "Shakur Basti",
+      "rank": 185,
+      "active": true
+    },
+    {
+      "id": "CG_186",
+      "code": "CG_186",
+      "name": "Soniya Gandhi Camp, Paschim Vihar",
+      "circle": "SE(C)-7 Munish Kumar Pitampura",
+      "acNumber": "AC-15",
+      "assemblyConstituency": "Shakur Basti",
+      "rank": 186,
+      "active": true
+    },
+    {
+      "id": "CG_187",
+      "code": "CG_187",
+      "name": "Rajiv Gandhi Camp, Paschim Vihar",
+      "circle": "SE(C)-7 Munish Kumar Pitampura",
+      "acNumber": "AC-15",
+      "assemblyConstituency": "Shakur Basti",
+      "rank": 187,
+      "active": true
+    },
+    {
+      "id": "CG_188",
+      "code": "CG_188",
+      "name": "Bhagat Singh Camp, Paschim Vihar",
+      "circle": "SE(C)-7 Munish Kumar Pitampura",
+      "acNumber": "AC-15",
+      "assemblyConstituency": "Shakur Basti",
+      "rank": 188,
+      "active": true
+    },
+    {
+      "id": "CG_189",
+      "code": "CG_189",
+      "name": "Cement siding Rani Bagh",
+      "circle": "SE(C)-7 Munish Kumar Pitampura",
+      "acNumber": "AC-15",
+      "assemblyConstituency": "Shakur Basti",
+      "rank": 189,
+      "active": true
+    },
+    {
+      "id": "CG_190",
+      "code": "CG_190",
+      "name": "A-Block Railway Colony",
+      "circle": "SE(C)-7 Munish Kumar Pitampura",
+      "acNumber": "AC-15",
+      "assemblyConstituency": "Shakur Basti",
+      "rank": 190,
+      "active": true
+    },
+    {
+      "id": "CG_191",
+      "code": "CG_191",
+      "name": "Parwana Road Pitampura",
+      "circle": "SE(C)-7 Munish Kumar Pitampura",
+      "acNumber": "AC-15",
+      "assemblyConstituency": "Shakur Basti",
+      "rank": 191,
+      "active": true
+    },
+    {
+      "id": "CG_192",
+      "code": "CG_192",
+      "name": "Rang Mahal Jhuggi",
+      "circle": "SE(C)-7 Munish Kumar Pitampura",
+      "acNumber": "AC-15",
+      "assemblyConstituency": "Shakur Basti",
+      "rank": 192,
+      "active": true
+    },
+    {
+      "id": "CG_193",
+      "code": "CG_193",
+      "name": "Railway Jhuggi C-Block",
+      "circle": "SE(C)-7 Munish Kumar Pitampura",
+      "acNumber": "AC-15",
+      "assemblyConstituency": "Shakur Basti",
+      "rank": 193,
+      "active": true
+    },
+    {
+      "id": "CG_194",
+      "code": "CG_194",
+      "name": "Meera Bagh both No.52",
+      "circle": "SE(C)-7 Munish Kumar Pitampura",
+      "acNumber": "AC-15",
+      "assemblyConstituency": "Shakur Basti",
+      "rank": 194,
+      "active": true
+    },
+    {
+      "id": "CG_195",
+      "code": "CG_195",
+      "name": "03 pit at Shakurpur JJ Colony, 01 pit at Indra Camp, 01 pit at Balmiki Camp Near Fire Station Keshavpuram and 14 pit at Netaji Subhash Place",
+      "circle": "SE(C)-7 Munish Kumar Pitampura",
+      "acNumber": "AC-16",
+      "assemblyConstituency": "Tri Nagar",
+      "rank": 195,
+      "active": true
+    },
+    {
+      "id": "CG_196",
+      "code": "CG_196",
+      "name": "02 Nos Pit at Jailar Wala Bagh, 01 No Pit at Aryabhat enclave & 01 No DDA Admin flat Nimri Colony",
+      "circle": "SE(C)-7 Munish Kumar Pitampura",
+      "acNumber": "AC-17",
+      "assemblyConstituency": "Wazirpur",
+      "rank": 196,
+      "active": true
+    },
+    {
+      "id": "CG_197",
+      "code": "CG_197",
+      "name": "N9B/183, Lal Bagh T-Huts Azadpur",
+      "circle": "SE(C)-7 Munish Kumar Pitampura",
+      "acNumber": "AC-18",
+      "assemblyConstituency": "Model Town",
+      "rank": 197,
+      "active": true
+    },
+    {
+      "id": "CG_198",
+      "code": "CG_198",
+      "name": "Shar Sharwan Aashram Lal Bagh Azadpur",
+      "circle": "SE(C)-7 Munish Kumar Pitampura",
+      "acNumber": "AC-18",
+      "assemblyConstituency": "Model Town",
+      "rank": 198,
+      "active": true
+    },
+    {
+      "id": "CG_199",
+      "code": "CG_199",
+      "name": "Chauki Azadpur Delhi",
+      "circle": "SE(C)-7 Munish Kumar Pitampura",
+      "acNumber": "AC-18",
+      "assemblyConstituency": "Model Town",
+      "rank": 199,
+      "active": true
+    },
+    {
+      "id": "CG_200",
+      "code": "CG_200",
+      "name": "June wala Bagh behind Sulabh Sauchalaya",
+      "circle": "SE(C)-7 Munish Kumar Pitampura",
+      "acNumber": "AC-18",
+      "assemblyConstituency": "Model Town",
+      "rank": 200,
+      "active": true
+    },
+    {
+      "id": "CG_201",
+      "code": "CG_201",
+      "name": "Cigratte Wala Bagh, Rani Wala Bagh Model Town",
+      "circle": "SE(C)-7 Munish Kumar Pitampura",
+      "acNumber": "AC-18",
+      "assemblyConstituency": "Model Town",
+      "rank": 201,
+      "active": true
+    },
+    {
+      "id": "CG_202",
+      "code": "CG_202",
+      "name": "Khilona Bagh Park",
+      "circle": "SE(C)-7 Munish Kumar Pitampura",
+      "acNumber": "AC-18",
+      "assemblyConstituency": "Model Town",
+      "rank": 202,
+      "active": true
+    },
+    {
+      "id": "CG_203",
+      "code": "CG_203",
+      "name": "Dr. Shyama Prasad Mukharjee Park Model Town",
+      "circle": "SE(C)-7 Munish Kumar Pitampura",
+      "acNumber": "AC-18",
+      "assemblyConstituency": "Model Town",
+      "rank": 203,
+      "active": true
+    },
+    {
+      "id": "CG_204",
+      "code": "CG_204",
+      "name": "Lal Bagh Ramleela Ground",
+      "circle": "SE(C)-7 Munish Kumar Pitampura",
+      "acNumber": "AC-18",
+      "assemblyConstituency": "Model Town",
+      "rank": 204,
+      "active": true
+    },
+    {
+      "id": "CG_205",
+      "code": "CG_205",
+      "name": "DDA Park Lal Bagh Azadpur",
+      "circle": "SE(C)-7 Munish Kumar Pitampura",
+      "acNumber": "AC-18",
+      "assemblyConstituency": "Model Town",
+      "rank": 205,
+      "active": true
+    },
+    {
+      "id": "CG_206",
+      "code": "CG_206",
+      "name": "Chhath Ghat 4 No. Fatak GT Karnal Road, Delhi",
+      "circle": "SE(C)-7 Munish Kumar Pitampura",
+      "acNumber": "AC-18",
+      "assemblyConstituency": "Model Town",
+      "rank": 206,
+      "active": true
+    },
+    {
+      "id": "CG_207",
+      "code": "CG_207",
+      "name": "363, GT Karnal Road, Azadpur, Delhi",
+      "circle": "SE(C)-7 Munish Kumar Pitampura",
+      "acNumber": "AC-18",
+      "assemblyConstituency": "Model Town",
+      "rank": 207,
+      "active": true
+    },
+    {
+      "id": "CG_208",
+      "code": "CG_208",
+      "name": "Paswan Ghat near Railwat track 13.Gulabi Bagh Chhath Pooja Samiti Ganesh Nagar Chhath Puja Samiti 14.Sindhora Kalan Chhath Pooja Samiti & Shri Bala Ji Chhath Maiya Samiti Kamla Market 15.Near Railway Bridge, FCI Godown, near Nagia Park 16.Lal Singh Wala Park, Gulabi Bagh, Delhi 17.Shiv Mandir Gulabi, Bagh, Delhi 18.Shri Ram Park, Gulabi Bagh, Delhi",
+      "circle": "SE(C)-7 Munish Kumar Pitampura",
+      "acNumber": "AC-18",
+      "assemblyConstituency": "Model Town",
+      "rank": 208,
+      "active": true
+    },
+    {
+      "id": "CG_209",
+      "code": "CG_209",
+      "name": "Gopal Malik Park",
+      "circle": "SE(C)-5 Anil Kumar",
+      "acNumber": "AC-19",
+      "assemblyConstituency": "Sadar Bazar",
+      "rank": 209,
+      "active": true
+    },
+    {
+      "id": "CG_210",
+      "code": "CG_210",
+      "name": "Azad Park Kishanganj",
+      "circle": "SE(C)-5 Anil Kumar",
+      "acNumber": "AC-19",
+      "assemblyConstituency": "Sadar Bazar",
+      "rank": 210,
+      "active": true
+    },
+    {
+      "id": "CG_211",
+      "code": "CG_211",
+      "name": "Daya Basti RPF Lane",
+      "circle": "SE(C)-5 Anil Kumar",
+      "acNumber": "AC-19",
+      "assemblyConstituency": "Sadar Bazar",
+      "rank": 211,
+      "active": true
+    },
+    {
+      "id": "CG_212",
+      "code": "CG_212",
+      "name": "Padam Park",
+      "circle": "SE(C)-5 Anil Kumar",
+      "acNumber": "AC-19",
+      "assemblyConstituency": "Sadar Bazar",
+      "rank": 212,
+      "active": true
+    },
+    {
+      "id": "CG_213",
+      "code": "CG_213",
+      "name": "Anand Parbat",
+      "circle": "SE(C)-5 Anil Kumar",
+      "acNumber": "AC-19",
+      "assemblyConstituency": "Sadar Bazar",
+      "rank": 213,
+      "active": true
+    },
+    {
+      "id": "CG_214",
+      "code": "CG_214",
+      "name": "Nigam Bodh Ghat",
+      "circle": "SE(C)-5 Anil Kumar",
+      "acNumber": "AC-20",
+      "assemblyConstituency": "Chandni Chowk",
+      "rank": 214,
+      "active": true
+    },
+    {
+      "id": "CG_215",
+      "code": "CG_215",
+      "name": "1.Ghat no.2-32 Yamuna Bazar",
+      "circle": "SE(C)-5 Anil Kumar",
+      "acNumber": "AC-20",
+      "assemblyConstituency": "Chandni Chowk",
+      "rank": 215,
+      "active": true
+    },
+    {
+      "id": "CG_216",
+      "code": "CG_216",
+      "name": "Vasudev Ghat",
+      "circle": "SE(C)-5 Anil Kumar",
+      "acNumber": "AC-20",
+      "assemblyConstituency": "Chandni Chowk",
+      "rank": 216,
+      "active": true
+    },
+    {
+      "id": "CG_217",
+      "code": "CG_217",
+      "name": "No Ghat entry found in source file",
+      "circle": "SE(C)-5 Anil Kumar",
+      "acNumber": "AC-21",
+      "assemblyConstituency": "Matia Mahal",
+      "rank": 217,
+      "active": true
+    },
+    {
+      "id": "CG_218",
+      "code": "CG_218",
+      "name": "No Ghat entry found in source file",
+      "circle": "SE(C)-5 Anil Kumar",
+      "acNumber": "AC-22",
+      "assemblyConstituency": "Ballimaran",
+      "rank": 218,
+      "active": true
+    },
+    {
+      "id": "CG_219",
+      "code": "CG_219",
+      "name": "Tank road",
+      "circle": "SE(C)-6 Rajiv Kumar Gupta",
+      "acNumber": "AC-23",
+      "assemblyConstituency": "Karol Bagh",
+      "rank": 219,
+      "active": true
+    },
+    {
+      "id": "CG_220",
+      "code": "CG_220",
+      "name": "Ajmal Khan Park",
+      "circle": "SE(C)-6 Rajiv Kumar Gupta",
+      "acNumber": "AC-23",
+      "assemblyConstituency": "Karol Bagh",
+      "rank": 220,
+      "active": true
+    },
+    {
+      "id": "CG_221",
+      "code": "CG_221",
+      "name": "CPWD Flat Govt. Quarter",
+      "circle": "SE(C)-6 Rajiv Kumar Gupta",
+      "acNumber": "AC-23",
+      "assemblyConstituency": "Karol Bagh",
+      "rank": 221,
+      "active": true
+    },
+    {
+      "id": "CG_222",
+      "code": "CG_222",
+      "name": "Chunna Bhatti",
+      "circle": "SE(C)-6 Rajiv Kumar Gupta",
+      "acNumber": "AC-23",
+      "assemblyConstituency": "Karol Bagh",
+      "rank": 222,
+      "active": true
+    },
+    {
+      "id": "CG_223",
+      "code": "CG_223",
+      "name": "Aram Bagh",
+      "circle": "SE(C)-6 Rajiv Kumar Gupta",
+      "acNumber": "AC-23",
+      "assemblyConstituency": "Karol Bagh",
+      "rank": 223,
+      "active": true
+    },
+    {
+      "id": "CG_224",
+      "code": "CG_224",
+      "name": "Ramleela Ground",
+      "circle": "SE(C)-6 Rajiv Kumar Gupta",
+      "acNumber": "AC-24",
+      "assemblyConstituency": "Patel Nagar",
+      "rank": 224,
+      "active": true
+    },
+    {
+      "id": "CG_225",
+      "code": "CG_225",
+      "name": "Gulshan Chowk-1",
+      "circle": "SE(C)-6 Rajiv Kumar Gupta",
+      "acNumber": "AC-24",
+      "assemblyConstituency": "Patel Nagar",
+      "rank": 225,
+      "active": true
+    },
+    {
+      "id": "CG_226",
+      "code": "CG_226",
+      "name": "Gulshan Chowk-3",
+      "circle": "SE(C)-6 Rajiv Kumar Gupta",
+      "acNumber": "AC-24",
+      "assemblyConstituency": "Patel Nagar",
+      "rank": 226,
+      "active": true
+    },
+    {
+      "id": "CG_227",
+      "code": "CG_227",
+      "name": "Ramleela Park",
+      "circle": "SE(C)-6 Rajiv Kumar Gupta",
+      "acNumber": "AC-24",
+      "assemblyConstituency": "Patel Nagar",
+      "rank": 227,
+      "active": true
+    },
+    {
+      "id": "CG_228",
+      "code": "CG_228",
+      "name": "Shiv Mandir",
+      "circle": "SE(C)-6 Rajiv Kumar Gupta",
+      "acNumber": "AC-24",
+      "assemblyConstituency": "Patel Nagar",
+      "rank": 228,
+      "active": true
+    },
+    {
+      "id": "CG_229",
+      "code": "CG_229",
+      "name": "Ramjas Ground",
+      "circle": "SE(C)-6 Rajiv Kumar Gupta",
+      "acNumber": "AC-24",
+      "assemblyConstituency": "Patel Nagar",
+      "rank": 229,
+      "active": true
+    },
+    {
+      "id": "CG_230",
+      "code": "CG_230",
+      "name": "Punjabi Basti",
+      "circle": "SE(C)-6 Rajiv Kumar Gupta",
+      "acNumber": "AC-24",
+      "assemblyConstituency": "Patel Nagar",
+      "rank": 230,
+      "active": true
+    },
+    {
+      "id": "CG_231",
+      "code": "CG_231",
+      "name": "Gayatri Colony",
+      "circle": "SE(C)-6 Rajiv Kumar Gupta",
+      "acNumber": "AC-24",
+      "assemblyConstituency": "Patel Nagar",
+      "rank": 231,
+      "active": true
+    },
+    {
+      "id": "CG_232",
+      "code": "CG_232",
+      "name": "Holi Chowk",
+      "circle": "SE(C)-6 Rajiv Kumar Gupta",
+      "acNumber": "AC-24",
+      "assemblyConstituency": "Patel Nagar",
+      "rank": 232,
+      "active": true
+    },
+    {
+      "id": "CG_233",
+      "code": "CG_233",
+      "name": "Kamla Park",
+      "circle": "SE(C)-6 Rajiv Kumar Gupta",
+      "acNumber": "AC-24",
+      "assemblyConstituency": "Patel Nagar",
+      "rank": 233,
+      "active": true
+    },
+    {
+      "id": "CG_234",
+      "code": "CG_234",
+      "name": "Ambedkar Park",
+      "circle": "SE(C)-6 Rajiv Kumar Gupta",
+      "acNumber": "AC-24",
+      "assemblyConstituency": "Patel Nagar",
+      "rank": 234,
+      "active": true
+    },
+    {
+      "id": "CG_235",
+      "code": "CG_235",
+      "name": "Nehru Nagar",
+      "circle": "SE(C)-6 Rajiv Kumar Gupta",
+      "acNumber": "AC-24",
+      "assemblyConstituency": "Patel Nagar",
+      "rank": 235,
+      "active": true
+    },
+    {
+      "id": "CG_236",
+      "code": "CG_236",
+      "name": "Barrack, Anand Parbat",
+      "circle": "SE(C)-6 Rajiv Kumar Gupta",
+      "acNumber": "AC-24",
+      "assemblyConstituency": "Patel Nagar",
+      "rank": 236,
+      "active": true
+    },
+    {
+      "id": "CG_237",
+      "code": "CG_237",
+      "name": "Baljeet Nagar",
+      "circle": "SE(C)-6 Rajiv Kumar Gupta",
+      "acNumber": "AC-24",
+      "assemblyConstituency": "Patel Nagar",
+      "rank": 237,
+      "active": true
+    },
+    {
+      "id": "CG_238",
+      "code": "CG_238",
+      "name": "03 Temporary pit, 01 each at Kamla nehru Camp, Jawahar Camp Opposite DDA office & Moti nagar manohar park & 12 Permanent ghat, 01 each at H-Block Karampura, Krampura Complex, Rama Road, 5/35 DDA land, 10/67 Kirti Nagar, near narayana under pass, Furniture block, near railway line DSIIDC complex, Chuna Bhatti Vikas kendra, Chuna Market & Sudarshan Park",
+      "circle": "SE(C)-6 Rajiv Kumar Gupta",
+      "acNumber": "AC-25",
+      "assemblyConstituency": "Moti Nagar",
+      "rank": 238,
+      "active": true
+    },
+    {
+      "id": "CG_239",
+      "code": "CG_239",
+      "name": "B-III/49 Near Shiv Mandir Pati Ram chhath Pooja wala park, Raghubir Nagar",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-26",
+      "assemblyConstituency": "Madipur",
+      "rank": 239,
+      "active": true
+    },
+    {
+      "id": "CG_240",
+      "code": "CG_240",
+      "name": "B-III 12.5 Gaj, N Block opposite chhath Ghat Park Raghubir Nagar",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-26",
+      "assemblyConstituency": "Madipur",
+      "rank": 240,
+      "active": true
+    },
+    {
+      "id": "CG_241",
+      "code": "CG_241",
+      "name": "D- Block chhath Puja Park, Raghubir Nagar ( near R Block Masjid)",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-26",
+      "assemblyConstituency": "Madipur",
+      "rank": 241,
+      "active": true
+    },
+    {
+      "id": "CG_242",
+      "code": "CG_242",
+      "name": "748 New DDA Janta Flat 82 Plots Shivaji Enclave Gate no. 1",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-26",
+      "assemblyConstituency": "Madipur",
+      "rank": 242,
+      "active": true
+    },
+    {
+      "id": "CG_243",
+      "code": "CG_243",
+      "name": "C-Block Raghunath Park, Raghubir Nagar near 842 Police Chowki",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-26",
+      "assemblyConstituency": "Madipur",
+      "rank": 243,
+      "active": true
+    },
+    {
+      "id": "CG_244",
+      "code": "CG_244",
+      "name": "Jai Maa Durga Bhagwati Mandir ( Bihar Kalyan navyuvak Dal Samiti, B-2 Barat Ghar, Chameli Park, Raghubir Nagar",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-26",
+      "assemblyConstituency": "Madipur",
+      "rank": 244,
+      "active": true
+    },
+    {
+      "id": "CG_245",
+      "code": "CG_245",
+      "name": "Jheel Park (Chhath Pujan Sthal) Madipur Village",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-26",
+      "assemblyConstituency": "Madipur",
+      "rank": 245,
+      "active": true
+    },
+    {
+      "id": "CG_246",
+      "code": "CG_246",
+      "name": "Shivaji Enclave Raghubir Nagar R-Block Basti Vikas Kendra wala Park",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-26",
+      "assemblyConstituency": "Madipur",
+      "rank": 246,
+      "active": true
+    },
+    {
+      "id": "CG_247",
+      "code": "CG_247",
+      "name": "Shiv Mandir Bhagwati Talab Madipur Village",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-26",
+      "assemblyConstituency": "Madipur",
+      "rank": 247,
+      "active": true
+    },
+    {
+      "id": "CG_248",
+      "code": "CG_248",
+      "name": "R Block Jhuggi Nale ke upar Ragubir Nagar",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-26",
+      "assemblyConstituency": "Madipur",
+      "rank": 248,
+      "active": true
+    },
+    {
+      "id": "CG_249",
+      "code": "CG_249",
+      "name": "NW Chowk and Shyam Nagar,CHAUKHANDI A BLOCK",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-27",
+      "assemblyConstituency": "Rajouri Garden",
+      "rank": 249,
+      "active": true
+    },
+    {
+      "id": "CG_250",
+      "code": "CG_250",
+      "name": "B-1 DDA Park, Janakpuri",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-28",
+      "assemblyConstituency": "Hari Nagar",
+      "rank": 250,
+      "active": true
+    },
+    {
+      "id": "CG_251",
+      "code": "CG_251",
+      "name": "B-2B Janakpuri",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-28",
+      "assemblyConstituency": "Hari Nagar",
+      "rank": 251,
+      "active": true
+    },
+    {
+      "id": "CG_252",
+      "code": "CG_252",
+      "name": "Choti Subzi Mandi",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-28",
+      "assemblyConstituency": "Hari Nagar",
+      "rank": 252,
+      "active": true
+    },
+    {
+      "id": "CG_253",
+      "code": "CG_253",
+      "name": "Jheel Park",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-28",
+      "assemblyConstituency": "Hari Nagar",
+      "rank": 253,
+      "active": true
+    },
+    {
+      "id": "CG_254",
+      "code": "CG_254",
+      "name": "B-29 Phase-1 Mayapuri Park",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-28",
+      "assemblyConstituency": "Hari Nagar",
+      "rank": 254,
+      "active": true
+    },
+    {
+      "id": "CG_255",
+      "code": "CG_255",
+      "name": "A-11/12 Mayapuri Phase-1",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-28",
+      "assemblyConstituency": "Hari Nagar",
+      "rank": 255,
+      "active": true
+    },
+    {
+      "id": "CG_256",
+      "code": "CG_256",
+      "name": "BE Block Sundar Singh Marg",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-28",
+      "assemblyConstituency": "Hari Nagar",
+      "rank": 256,
+      "active": true
+    },
+    {
+      "id": "CG_257",
+      "code": "CG_257",
+      "name": "Peeli Kothi",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-28",
+      "assemblyConstituency": "Hari Nagar",
+      "rank": 257,
+      "active": true
+    },
+    {
+      "id": "CG_258",
+      "code": "CG_258",
+      "name": "DMS Colony",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-28",
+      "assemblyConstituency": "Hari Nagar",
+      "rank": 258,
+      "active": true
+    },
+    {
+      "id": "CG_259",
+      "code": "CG_259",
+      "name": "Phase-2 Mayapuri Industrial Area",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-28",
+      "assemblyConstituency": "Hari Nagar",
+      "rank": 259,
+      "active": true
+    },
+    {
+      "id": "CG_260",
+      "code": "CG_260",
+      "name": "Chanchal Park Nangal Raya",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-28",
+      "assemblyConstituency": "Hari Nagar",
+      "rank": 260,
+      "active": true
+    },
+    {
+      "id": "CG_261",
+      "code": "CG_261",
+      "name": "Mohan Mandir",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-28",
+      "assemblyConstituency": "Hari Nagar",
+      "rank": 261,
+      "active": true
+    },
+    {
+      "id": "CG_262",
+      "code": "CG_262",
+      "name": "Sehyogi Park",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-28",
+      "assemblyConstituency": "Hari Nagar",
+      "rank": 262,
+      "active": true
+    },
+    {
+      "id": "CG_263",
+      "code": "CG_263",
+      "name": "DDA Ground Opposite Keshopur Subzi Mandi",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-29",
+      "assemblyConstituency": "Tilak Nagar",
+      "rank": 263,
+      "active": true
+    },
+    {
+      "id": "CG_264",
+      "code": "CG_264",
+      "name": "Ambedkar Park E Block",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-29",
+      "assemblyConstituency": "Tilak Nagar",
+      "rank": 264,
+      "active": true
+    },
+    {
+      "id": "CG_265",
+      "code": "CG_265",
+      "name": "Shahed Smriti park Near CRPF Camp, Tilak Vihar",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-29",
+      "assemblyConstituency": "Tilak Nagar",
+      "rank": 265,
+      "active": true
+    },
+    {
+      "id": "CG_266",
+      "code": "CG_266",
+      "name": "J Block Vikaspuri",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-29",
+      "assemblyConstituency": "Tilak Nagar",
+      "rank": 266,
+      "active": true
+    },
+    {
+      "id": "CG_267",
+      "code": "CG_267",
+      "name": "Indra Camp No. 4 Agrasen Bhawan",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-29",
+      "assemblyConstituency": "Tilak Nagar",
+      "rank": 267,
+      "active": true
+    },
+    {
+      "id": "CG_268",
+      "code": "CG_268",
+      "name": "Jhuggi Adjacent to Pacific mall",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-29",
+      "assemblyConstituency": "Tilak Nagar",
+      "rank": 268,
+      "active": true
+    },
+    {
+      "id": "CG_269",
+      "code": "CG_269",
+      "name": "DDA Market Indra Camp",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-29",
+      "assemblyConstituency": "Tilak Nagar",
+      "rank": 269,
+      "active": true
+    },
+    {
+      "id": "CG_270",
+      "code": "CG_270",
+      "name": "ya Mandir",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-30",
+      "assemblyConstituency": "Janakpuri",
+      "rank": 270,
+      "active": true
+    },
+    {
+      "id": "CG_271",
+      "code": "CG_271",
+      "name": "Bada Ghat",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-30",
+      "assemblyConstituency": "Janakpuri",
+      "rank": 271,
+      "active": true
+    },
+    {
+      "id": "CG_272",
+      "code": "CG_272",
+      "name": "Veer Bazar chowk, Sarvajanik Ghat, Pit- 01",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-30",
+      "assemblyConstituency": "Janakpuri",
+      "rank": 272,
+      "active": true
+    },
+    {
+      "id": "CG_273",
+      "code": "CG_273",
+      "name": "Dispensary (janakpuri)",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-30",
+      "assemblyConstituency": "Janakpuri",
+      "rank": 273,
+      "active": true
+    },
+    {
+      "id": "CG_274",
+      "code": "CG_274",
+      "name": "Shukar Bazar (janakpuri)",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-30",
+      "assemblyConstituency": "Janakpuri",
+      "rank": 274,
+      "active": true
+    },
+    {
+      "id": "CG_275",
+      "code": "CG_275",
+      "name": "Posssangi Pur (janakpuri)",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-30",
+      "assemblyConstituency": "Janakpuri",
+      "rank": 275,
+      "active": true
+    },
+    {
+      "id": "CG_276",
+      "code": "CG_276",
+      "name": "possangipur park,ganesh",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-30",
+      "assemblyConstituency": "Janakpuri",
+      "rank": 276,
+      "active": true
+    },
+    {
+      "id": "CG_277",
+      "code": "CG_277",
+      "name": "DDA Land Ghat",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-30",
+      "assemblyConstituency": "Janakpuri",
+      "rank": 277,
+      "active": true
+    },
+    {
+      "id": "CG_278",
+      "code": "CG_278",
+      "name": "Bal udyan road (janakpuri)",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-30",
+      "assemblyConstituency": "Janakpuri",
+      "rank": 278,
+      "active": true
+    },
+    {
+      "id": "CG_279",
+      "code": "CG_279",
+      "name": "Janakpuri B-1 (Janakpuri)",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-30",
+      "assemblyConstituency": "Janakpuri",
+      "rank": 279,
+      "active": true
+    },
+    {
+      "id": "CG_280",
+      "code": "CG_280",
+      "name": "Police station (Janakpuri)",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-30",
+      "assemblyConstituency": "Janakpuri",
+      "rank": 280,
+      "active": true
+    },
+    {
+      "id": "CG_281",
+      "code": "CG_281",
+      "name": "ABS School (Janakpuri)",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-30",
+      "assemblyConstituency": "Janakpuri",
+      "rank": 281,
+      "active": true
+    },
+    {
+      "id": "CG_282",
+      "code": "CG_282",
+      "name": "Solanki Pul(Janakpuri)",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-30",
+      "assemblyConstituency": "Janakpuri",
+      "rank": 282,
+      "active": true
+    },
+    {
+      "id": "CG_283",
+      "code": "CG_283",
+      "name": "Gali No.- 35 & 36(Janakpuri)",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-30",
+      "assemblyConstituency": "Janakpuri",
+      "rank": 283,
+      "active": true
+    },
+    {
+      "id": "CG_284",
+      "code": "CG_284",
+      "name": "Gali no. 34(Janakpuri)",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-30",
+      "assemblyConstituency": "Janakpuri",
+      "rank": 284,
+      "active": true
+    },
+    {
+      "id": "CG_285",
+      "code": "CG_285",
+      "name": "Gali No.- 31 & 32(Janakpuri)",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-30",
+      "assemblyConstituency": "Janakpuri",
+      "rank": 285,
+      "active": true
+    },
+    {
+      "id": "CG_286",
+      "code": "CG_286",
+      "name": "Gali No. 33(Janakpuri)",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-30",
+      "assemblyConstituency": "Janakpuri",
+      "rank": 286,
+      "active": true
+    },
+    {
+      "id": "CG_287",
+      "code": "CG_287",
+      "name": "Sitapuri Part-2(Janakpuri)",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-30",
+      "assemblyConstituency": "Janakpuri",
+      "rank": 287,
+      "active": true
+    },
+    {
+      "id": "CG_288",
+      "code": "CG_288",
+      "name": "25 feet road(Janakpuri)",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-30",
+      "assemblyConstituency": "Janakpuri",
+      "rank": 288,
+      "active": true
+    },
+    {
+      "id": "CG_289",
+      "code": "CG_289",
+      "name": "RD 24300m, RD 28050m, RD 29300m, RD 32600m, RD 32650m, RD 32770m, & RD 33300m, RD 33650m, RD 33900m & RD 34100m",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-31",
+      "assemblyConstituency": "Vikaspuri",
+      "rank": 289,
+      "active": true
+    },
+    {
+      "id": "CG_290",
+      "code": "CG_290",
+      "name": "B-25 IG Colony",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-31",
+      "assemblyConstituency": "Vikaspuri",
+      "rank": 290,
+      "active": true
+    },
+    {
+      "id": "CG_291",
+      "code": "CG_291",
+      "name": "Baprola Near Cremation Ground",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-31",
+      "assemblyConstituency": "Vikaspuri",
+      "rank": 291,
+      "active": true
+    },
+    {
+      "id": "CG_292",
+      "code": "CG_292",
+      "name": "Right Bank of Najafgarh Drain",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-31",
+      "assemblyConstituency": "Vikaspuri",
+      "rank": 292,
+      "active": true
+    },
+    {
+      "id": "CG_293",
+      "code": "CG_293",
+      "name": "Vikas Nagar, Hastsal, Shiv Vihar, Sainik Enclave, Deep Enclave",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-31",
+      "assemblyConstituency": "Vikaspuri",
+      "rank": 293,
+      "active": true
+    },
+    {
+      "id": "CG_294",
+      "code": "CG_294",
+      "name": "Karan Vatika on Nangloi Najafgarh Road",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-31",
+      "assemblyConstituency": "Vikaspuri",
+      "rank": 294,
+      "active": true
+    },
+    {
+      "id": "CG_295",
+      "code": "CG_295",
+      "name": "Left Bank of Supplementary Drain Near Ranhola Bridg",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-31",
+      "assemblyConstituency": "Vikaspuri",
+      "rank": 295,
+      "active": true
+    },
+    {
+      "id": "CG_296",
+      "code": "CG_296",
+      "name": "Talab Park Kunwar Singh Nagar",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-31",
+      "assemblyConstituency": "Vikaspuri",
+      "rank": 296,
+      "active": true
+    },
+    {
+      "id": "CG_297",
+      "code": "CG_297",
+      "name": "H2 Block Kunwar singh Nagar Gram Sabha Land,Rishal Gardan, Chanchal park RWA & Gram Sabha Land, IG Colony (Gali No. 1), 76 Laxmi Park, H.No.50 Ranhola (Panchmukhi Hanuman), Ranhola Vihar Chhat Ghat, Lok Nayak Puram DDA Flat Chhat Ghat, Bharampuri, JJ Colony Bakkarwala, Sub Minor 8 Chanchal Park, Gurdayal Park, Baprola Near Cremation Ground and IG Colony Near Treatment Plant",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-31",
+      "assemblyConstituency": "Vikaspuri",
+      "rank": 297,
+      "active": true
+    },
+    {
+      "id": "CG_298",
+      "code": "CG_298",
+      "name": "D-Block Lok Nayak Puram",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-31",
+      "assemblyConstituency": "Vikaspuri",
+      "rank": 298,
+      "active": true
+    },
+    {
+      "id": "CG_299",
+      "code": "CG_299",
+      "name": "Rishal Garden Near Mohala Clinic",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-31",
+      "assemblyConstituency": "Vikaspuri",
+      "rank": 299,
+      "active": true
+    },
+    {
+      "id": "CG_300",
+      "code": "CG_300",
+      "name": "L-ZC/28, B-81 Vijay Nagar, B-100 Vijay Nagar, Vijay Nagar, L-Block, Hari School, L-Block, L-ZA, Geeta Mandir, Ramchander, L-28 Jai Vihar, Bharti School Shyam Park, ya Dev Mandir, S-87, Shashi 37 Near Gandicha, Anand Vihar, 9 Ekad, Nawada, Partap Enclave, K-I Extn. , L-Block, Gali No. 1 Vipin Garden park, Gali No. 14 vipin Garden park, Gali No. 34,35 Vipin Garden Park.",
+      "circle": "SE(C)-9 Ramesh Kumar Gupta",
+      "acNumber": "AC-32",
+      "assemblyConstituency": "Uttam Nagar",
+      "rank": 300,
+      "active": true
+    },
+    {
+      "id": "CG_301",
+      "code": "CG_301",
+      "name": "Chhath Park, Kailashpuri",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-33",
+      "assemblyConstituency": "Dwarka",
+      "rank": 301,
+      "active": true
+    },
+    {
+      "id": "CG_302",
+      "code": "CG_302",
+      "name": "Budha Jayanti Park",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-33",
+      "assemblyConstituency": "Dwarka",
+      "rank": 302,
+      "active": true
+    },
+    {
+      "id": "CG_303",
+      "code": "CG_303",
+      "name": "Durga Park, Gali No-10, Shiv Mandir",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-33",
+      "assemblyConstituency": "Dwarka",
+      "rank": 303,
+      "active": true
+    },
+    {
+      "id": "CG_304",
+      "code": "CG_304",
+      "name": "DDA Park, Near MTNL Exchange Office",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-33",
+      "assemblyConstituency": "Dwarka",
+      "rank": 304,
+      "active": true
+    },
+    {
+      "id": "CG_305",
+      "code": "CG_305",
+      "name": "MCD Park Nasirpur drain",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-33",
+      "assemblyConstituency": "Dwarka",
+      "rank": 305,
+      "active": true
+    },
+    {
+      "id": "CG_306",
+      "code": "CG_306",
+      "name": "Nagarvan",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-33",
+      "assemblyConstituency": "Dwarka",
+      "rank": 306,
+      "active": true
+    },
+    {
+      "id": "CG_307",
+      "code": "CG_307",
+      "name": "MahaVeer Enclave, Gali No-3",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-33",
+      "assemblyConstituency": "Dwarka",
+      "rank": 307,
+      "active": true
+    },
+    {
+      "id": "CG_308",
+      "code": "CG_308",
+      "name": "Durga Puri kallahad",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-33",
+      "assemblyConstituency": "Dwarka",
+      "rank": 308,
+      "active": true
+    },
+    {
+      "id": "CG_309",
+      "code": "CG_309",
+      "name": "Durga Puri Shani Mandir (Dharamvir)",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-33",
+      "assemblyConstituency": "Dwarka",
+      "rank": 309,
+      "active": true
+    },
+    {
+      "id": "CG_310",
+      "code": "CG_310",
+      "name": "Durgapuri, Tikona Park near Mandir",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-33",
+      "assemblyConstituency": "Dwarka",
+      "rank": 310,
+      "active": true
+    },
+    {
+      "id": "CG_311",
+      "code": "CG_311",
+      "name": "Gali No-7, Mahaveer Enclave",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-33",
+      "assemblyConstituency": "Dwarka",
+      "rank": 311,
+      "active": true
+    },
+    {
+      "id": "CG_312",
+      "code": "CG_312",
+      "name": "Mangla Puri, Phase- II",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-33",
+      "assemblyConstituency": "Dwarka",
+      "rank": 312,
+      "active": true
+    },
+    {
+      "id": "CG_313",
+      "code": "CG_313",
+      "name": "Pocket - 9 DDA Flats",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-33",
+      "assemblyConstituency": "Dwarka",
+      "rank": 313,
+      "active": true
+    },
+    {
+      "id": "CG_314",
+      "code": "CG_314",
+      "name": "Shiv puri Chhat ghat",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-33",
+      "assemblyConstituency": "Dwarka",
+      "rank": 314,
+      "active": true
+    },
+    {
+      "id": "CG_315",
+      "code": "CG_315",
+      "name": "DDA park Sagar pur",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-33",
+      "assemblyConstituency": "Dwarka",
+      "rank": 315,
+      "active": true
+    },
+    {
+      "id": "CG_316",
+      "code": "CG_316",
+      "name": "Nagarvan Park, Shankar",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-33",
+      "assemblyConstituency": "Dwarka",
+      "rank": 316,
+      "active": true
+    },
+    {
+      "id": "CG_317",
+      "code": "CG_317",
+      "name": "Nagarvan Park, JJ Colony Mala",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-33",
+      "assemblyConstituency": "Dwarka",
+      "rank": 317,
+      "active": true
+    },
+    {
+      "id": "CG_318",
+      "code": "CG_318",
+      "name": "Pocket - 9 DDA Ground near building Material",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-33",
+      "assemblyConstituency": "Dwarka",
+      "rank": 318,
+      "active": true
+    },
+    {
+      "id": "CG_319",
+      "code": "CG_319",
+      "name": "Indra Park, Shiv mandir",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-33",
+      "assemblyConstituency": "Dwarka",
+      "rank": 319,
+      "active": true
+    },
+    {
+      "id": "CG_320",
+      "code": "CG_320",
+      "name": "Sabji Mandi, Sagarpuri (Ramashankar)",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-33",
+      "assemblyConstituency": "Dwarka",
+      "rank": 320,
+      "active": true
+    },
+    {
+      "id": "CG_321",
+      "code": "CG_321",
+      "name": "Geetanjali Park",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-33",
+      "assemblyConstituency": "Dwarka",
+      "rank": 321,
+      "active": true
+    },
+    {
+      "id": "CG_322",
+      "code": "CG_322",
+      "name": "OM yay Namah chhath Samiti, Nagarvan",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-33",
+      "assemblyConstituency": "Dwarka",
+      "rank": 322,
+      "active": true
+    },
+    {
+      "id": "CG_323",
+      "code": "CG_323",
+      "name": "Dashrath Puri, opposite Shani Mandir",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-33",
+      "assemblyConstituency": "Dwarka",
+      "rank": 323,
+      "active": true
+    },
+    {
+      "id": "CG_324",
+      "code": "CG_324",
+      "name": "East Sagar Pur, opposite Tent wala school",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-33",
+      "assemblyConstituency": "Dwarka",
+      "rank": 324,
+      "active": true
+    },
+    {
+      "id": "CG_325",
+      "code": "CG_325",
+      "name": "Durga Park MLA office Deepak",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-33",
+      "assemblyConstituency": "Dwarka",
+      "rank": 325,
+      "active": true
+    },
+    {
+      "id": "CG_326",
+      "code": "CG_326",
+      "name": "Bharat Garden Nanhey park A block Near sat saheb school Nanhey park B block Guru Harkishan nagar Jain colony Mansa ram park Matiala village Nanhey park E block ya dev chhath samiti mansa ram park",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-34",
+      "assemblyConstituency": "Matiala",
+      "rank": 326,
+      "active": true
+    },
+    {
+      "id": "CG_327",
+      "code": "CG_327",
+      "name": "Trishul Colony Back Side of Vyamshala Trishul Colony Near Mandir Golf Link Apartment EWS Sec-23 EWS Pochanpur Village Ghummanhera village Green View Apartment Pandwala Kalan Village",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-34",
+      "assemblyConstituency": "Matiala",
+      "rank": 327,
+      "active": true
+    },
+    {
+      "id": "CG_328",
+      "code": "CG_328",
+      "name": "EWS Adarsh Apertment Sec-16B Dwarka Sec-15, C-Block near Metro pillar No. 884 aj Vihar Adarsh Public School Sec-14 Gol Chakkar Tikona Oark Nirmal Bhartiya School Nand Vihar Hari Vihar Raju Enclave MCD Park Sahib Singh Verma Park Kakrola Road Mahila Park old palam road",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-34",
+      "assemblyConstituency": "Matiala",
+      "rank": 328,
+      "active": true
+    },
+    {
+      "id": "CG_329",
+      "code": "CG_329",
+      "name": "Sarvayanik Pooja Samiti Gali No.1 Ranaji Enclave Ranaji Enclave near Metro Pillar No. 24 Arjun Park near Mahila Park Ranaji Enclave Near Bhatia tent house Nangli Vihar DDA Ground",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-34",
+      "assemblyConstituency": "Matiala",
+      "rank": 329,
+      "active": true
+    },
+    {
+      "id": "CG_330",
+      "code": "CG_330",
+      "name": "Goyala Vihar Gali No.5 Mohalla Clinic Goyala Vihar Gali No.3 near Mohalla Clinic Durga Vihar Ph-I Friday Bazar Road Qutub Vihar Ph-II Hanuman Chowk D-Block Qutub Vihar Ph-I Qutub Vihar Ph-II Johad Shyam vihar, Hightension Road Shyam Vihar Phase-2 Ground Shyam Vihar Ph-1 DDA Park",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-34",
+      "assemblyConstituency": "Matiala",
+      "rank": 330,
+      "active": true
+    },
+    {
+      "id": "CG_331",
+      "code": "CG_331",
+      "name": "Deenpur Jhod",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-34",
+      "assemblyConstituency": "Matiala",
+      "rank": 331,
+      "active": true
+    },
+    {
+      "id": "CG_332",
+      "code": "CG_332",
+      "name": "Shiv Shakti Chhat Ghat",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-34",
+      "assemblyConstituency": "Matiala",
+      "rank": 332,
+      "active": true
+    },
+    {
+      "id": "CG_333",
+      "code": "CG_333",
+      "name": "RD 1800 L/B ( Mata Mandir Chhat Pooja Samiti ) RD 1700 R/B (Sarvanchal Chhat Pooja Vikas Samiti ) RD 900 R/B ( Sarvodaya Chhat Pooja Samiti ) RD 900 L/B (Purvanchal Chhat Ghat ) RD 600 L/B (Navyuvak Chhat Ghat Samiti ) RD 400 L/B (Upasna Chhat Puja Samiti ) RD 300 L/B ( Chhat Pooja Jankalyan Samiti) RD 300 R/B (Durga Pooja Chhat Ghat Samiti ) RD 450 R/B (Chhat Puja Seva Samiti Nangli Vihar ) RD 1700 L/B (Shiv Chhath Pooja Samaroh Samiti ) RD 1500 L/B (Aashirwad Chhat Puja Sewa Samitti ) RD 1400 L/B (Adarsh Chhat Ghat Sani Mandir Samiti)",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-35",
+      "assemblyConstituency": "Najafgarh",
+      "rank": 333,
+      "active": true
+    },
+    {
+      "id": "CG_334",
+      "code": "CG_334",
+      "name": "GALI NO. 4, MITRAON EXTENSION, MAIN DHANSA ROAD, NAJAFGARH, NEW DELHI-110043, 50-B, KH NO-25/1, MASUDABAD NAJAFGARH OPP KRISHNA PUBLIC SCHOOL NEW DELHI-43 CHHATH PARK ADJACENT PLOT NO. 100 KH NO-104/09 SHTAM PURAM, JHARODA KALAN BORDER NAJAFGARH NEW DELHI-43 CHHATH GHAT SDMC PARK SAINIK ENCLAVE PART-III B BLOCK JHARODA NEW DELHI-43 CHHATH GHAT MCD PARK SAINIK ENCLAVE CRPF CAMP JHARODA KALAN NAJAFGARH NEW DELHI-110043 JAI MATA FARM, (DLF MAKUSDABAD), TEHSIL ROAD AJAY PARK NAJAFGARH NEW DELHI-110043 PLOT NO. 7B, KH NO 35/4 SHRI CHAND PARK, NEAR RATHI CLINIC DHARAMPURA NAJAFGARH NEW DELHI GALI NO. 4, NEAR TRANSFARMER, NIRMAL VIHAR, NAJAFGARH NEW DELHI-110043 CHHATH PARK NEAR GRAMIN SEVA STAND 25 FUTA RD JAI VIHAR, PH-1, NAJAFGARH NEW DELHI-43 CHHATH GHAT KRISHNA FARM HOUSE NEAR INDRA SERVICE BUS STOP GOPAL NAGAR DHANSA RD NAJAFGARH NEW DELHI-43 CHHATH GHAT PLOT NO. 8/3, GOPAL NAGAR EXTN-II PLY FACTORY RD NEAR SRICHTI GENERAL STORE NAJAFGARH, NEW DELHI CHHATH GHAT NEAR SHIV SHAKTI MANDIR D BLOCK, GALI NO. 4, JAI VIHAR PH-1, NAJAFGARH NEW DELHI-43 CHHATH GHAT AJDACENT SHIV MANDIR SHRI KRISHANA COLONY NAJAFGARH NEW DELHI-43 PLOT NO-182 D BLOCK NIRMAL VIHAR NAJAFGARH NANGLOI ROAD NAJAFGARH NEW DELHI-110043 KH NO. 32, 40 FOOTA ROAD, DINPUR EXTN., NEW ROSHANPURA, NAJAFGARH, NEW DELHI-110043, NAJAFGARH, NEW DELHI-110043 THOLEDAR VATIKA, C-BLOCK NAVEEN PALACE BANGALI COLONY, JHARODA ROAD NAJAFGARH NEW DELHI-110043 KH NO-33/22/2, Z-BLOCK EXTN GOPAL NAGAR NEAR DIVIYA VATIKA NAJAFGARH NEW DELHI-110043 CHHATH GHAT, DDA LAND OPP. SARVODAYA VIDYALAYA JAFFARPUR NAJAFGARH NEW DELHI-110043 BEHIND COMMUNITY CENTRE OPP. GALI NO. 18,19,20 DDA LAND, TRISHUL COLONY CHHAWLA VILLAGE NEW DELHI-110071 RAMA ENCLAVE, GALI NO.02, KALI PYAU, JHARODA ROAD, NAJAFGARH, NEW DELHI-110043 IN THE PREMISES OF NAVEEN PALACE RESIDENTS WELFARE SOCIETY D-BLOCK JHARODA KALAN NAJAFGARH, NEW DELHI-110043",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-35",
+      "assemblyConstituency": "Najafgarh",
+      "rank": 334,
+      "active": true
+    },
+    {
+      "id": "CG_335",
+      "code": "CG_335",
+      "name": "Malerial Ground Dwarka Sect-8, Ram Leela Ground, DDA Park B Block, CRPF Park, Mahipal Pur, Kapshera, V2 Location , Kapshera, Location-2 , Fun & Food, ya Vihar Near Nala Park, kapashera gali no 2, Samalakha, Shahbadmohmmad Pur, Bharthal, Bijwasan Pond",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-36",
+      "assemblyConstituency": "Bijwasan",
+      "rank": 335,
+      "active": true
+    },
+    {
+      "id": "CG_336",
+      "code": "CG_336",
+      "name": "Salahpur",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-36",
+      "assemblyConstituency": "Bijwasan",
+      "rank": 336,
+      "active": true
+    },
+    {
+      "id": "CG_337",
+      "code": "CG_337",
+      "name": "MCD Park Rajapuri, Sec-3 Dwarka, Opposite Petrol pump",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-37",
+      "assemblyConstituency": "Palam",
+      "rank": 337,
+      "active": true
+    },
+    {
+      "id": "CG_338",
+      "code": "CG_338",
+      "name": "B- Block, Near Dr. Umesh Clinic, Madhu Vihar",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-37",
+      "assemblyConstituency": "Palam",
+      "rank": 338,
+      "active": true
+    },
+    {
+      "id": "CG_339",
+      "code": "CG_339",
+      "name": "East Rajapuri, Gali No. 5 & 9, DDA Flat, Bindapur",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-37",
+      "assemblyConstituency": "Palam",
+      "rank": 339,
+      "active": true
+    },
+    {
+      "id": "CG_340",
+      "code": "CG_340",
+      "name": "E- Block Chhat Park Sec-1, Mahavir Vihar Road (JJ Colony)",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-37",
+      "assemblyConstituency": "Palam",
+      "rank": 340,
+      "active": true
+    },
+    {
+      "id": "CG_341",
+      "code": "CG_341",
+      "name": "MCD Park , Near Police Post, Mahavir Vihar, Sec-1 Dwarka",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-37",
+      "assemblyConstituency": "Palam",
+      "rank": 341,
+      "active": true
+    },
+    {
+      "id": "CG_342",
+      "code": "CG_342",
+      "name": "Opposite Power House, Palam Link drain, Near Mahavir Enclave Mandir",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-37",
+      "assemblyConstituency": "Palam",
+      "rank": 342,
+      "active": true
+    },
+    {
+      "id": "CG_343",
+      "code": "CG_343",
+      "name": "DDA Park, Mahavir Enclave",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-37",
+      "assemblyConstituency": "Palam",
+      "rank": 343,
+      "active": true
+    },
+    {
+      "id": "CG_344",
+      "code": "CG_344",
+      "name": "L- Block, MCD Block in front of barat ghar, Mahavir Enclave, Palam Dabari Road",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-37",
+      "assemblyConstituency": "Palam",
+      "rank": 344,
+      "active": true
+    },
+    {
+      "id": "CG_345",
+      "code": "CG_345",
+      "name": "DDA Sec-7, Dwarka Phase- I",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-37",
+      "assemblyConstituency": "Palam",
+      "rank": 345,
+      "active": true
+    },
+    {
+      "id": "CG_346",
+      "code": "CG_346",
+      "name": "DDA Ground, Opposite JBM School, Nasirpur Road, Kailashpuri",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-37",
+      "assemblyConstituency": "Palam",
+      "rank": 346,
+      "active": true
+    },
+    {
+      "id": "CG_347",
+      "code": "CG_347",
+      "name": "Gali No- 23, Sadh Nagar, Palam Colony",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-37",
+      "assemblyConstituency": "Palam",
+      "rank": 347,
+      "active": true
+    },
+    {
+      "id": "CG_348",
+      "code": "CG_348",
+      "name": "Gali No- 24, Indra Park",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-37",
+      "assemblyConstituency": "Palam",
+      "rank": 348,
+      "active": true
+    },
+    {
+      "id": "CG_349",
+      "code": "CG_349",
+      "name": "Near Shaheed Bhagat Singh Park, Sadh Nagar (Pakkora Park)",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-37",
+      "assemblyConstituency": "Palam",
+      "rank": 349,
+      "active": true
+    },
+    {
+      "id": "CG_350",
+      "code": "CG_350",
+      "name": "DDA LIG Pocket-13, Mangolpuri Phase- 1",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-37",
+      "assemblyConstituency": "Palam",
+      "rank": 350,
+      "active": true
+    },
+    {
+      "id": "CG_351",
+      "code": "CG_351",
+      "name": "S-T Block, Nanda Block, Mahavir Enclave",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-37",
+      "assemblyConstituency": "Palam",
+      "rank": 351,
+      "active": true
+    },
+    {
+      "id": "CG_352",
+      "code": "CG_352",
+      "name": "For Temporary Ghats, DDA Ground",
+      "circle": "SE(C)-10 Chander Prakash",
+      "acNumber": "AC-37",
+      "assemblyConstituency": "Palam",
+      "rank": 352,
+      "active": true
+    },
+    {
+      "id": "CG_353",
+      "code": "CG_353",
+      "name": "Village Mehram Nagar, Jahreda, Ramlila Grount, Kirbi Place main gali 1, Kirbi Place Juggi 2, Kirbi Place 3, Kirbi Place 4, Kirbi Place 5, Old Nagal, Narayna school, Narayna indra market, Begam Jadi Market, SP Camp Juggi, Viveka nand, Bapu dham, Ramlila Park janak Vihar Pusa , Ramlila Park janak Vihar Pusa, CVD Park, Brar Square Juggi Pit 1, Brar Square Juggi Pit 2, Brar Square Juggi Pit 3, Brar Square Juggi Pit 4",
+      "circle": "Not mapped in supplied circle list",
+      "acNumber": "AC-38",
+      "assemblyConstituency": "Delhi Cantt.",
+      "rank": 353,
+      "active": true
+    },
+    {
+      "id": "CG_354",
+      "code": "CG_354",
+      "name": "Jamuna park, Pusa agriculture, Budh nagar inderpuri, Krishi kunj type -1, Krishi kunj type -2, Krishi kunj type-3, Chidiya colony janak vihar, Mini stadium, Chintu park, DDA park naraina, Rajeev gandhi camp C block naraina, Sanjay gandhi camp, B 212 shiv shakti park,Naraina village, Gas godown, Rishi sharma auto station, Tikona park F block budh nagar, D block lala park, Jain mandir park, Shastri park F block, Bihari colony, Sangam vihar, Tiranga park todapur, Shri ram dwar, Indira gandhi camp,Nepali park, Railway line loha mandi,",
+      "circle": "SE(C)-6 Rajiv Kumar Gupta",
+      "acNumber": "AC-39",
+      "assemblyConstituency": "Rajinder Nagar",
+      "rank": 354,
+      "active": true
+    },
+    {
+      "id": "CG_355",
+      "code": "CG_355",
+      "name": "Chhat Ghat ITO",
+      "circle": "SE(C)-11 Naveen Kumar Khare",
+      "acNumber": "AC-41",
+      "assemblyConstituency": "Jangpura",
+      "rank": 355,
+      "active": true
+    },
+    {
+      "id": "CG_356",
+      "code": "CG_356",
+      "name": "Behlolpur, Jain Mandir, Nehru Park, Ambedkar Park, Sunlight Colony",
+      "circle": "SE(C)-11 Naveen Kumar Khare",
+      "acNumber": "AC-41",
+      "assemblyConstituency": "Jangpura",
+      "rank": 356,
+      "active": true
+    },
+    {
+      "id": "CG_357",
+      "code": "CG_357",
+      "name": "Sarai Kale Khan",
+      "circle": "SE(C)-11 Naveen Kumar Khare",
+      "acNumber": "AC-41",
+      "assemblyConstituency": "Jangpura",
+      "rank": 357,
+      "active": true
+    },
+    {
+      "id": "CG_358",
+      "code": "CG_358",
+      "name": "Mallu Park, Lodhi Colony Pkt-2, Lodhi Colony Pkt-3, Lodhi Colony Pkt-4, P&T Colony Sewa Nagar, Tyagraj Colony, INA Colony, GPRA Flats, East kidwai Nagar, Aurobindo Park, sadiq Nagar, Andrews Ganj,",
+      "circle": "SE(C)-11 Naveen Kumar Khare",
+      "acNumber": "AC-42",
+      "assemblyConstituency": "Kasturba Nagar",
+      "rank": 358,
+      "active": true
+    },
+    {
+      "id": "CG_359",
+      "code": "CG_359",
+      "name": "MCD Park, Begampur",
+      "circle": "SE(C)-12 Brijesh Kumar",
+      "acNumber": "AC-43",
+      "assemblyConstituency": "Malviya Nagar",
+      "rank": 359,
+      "active": true
+    },
+    {
+      "id": "CG_360",
+      "code": "CG_360",
+      "name": "Bihari Chowk, Indira Camp",
+      "circle": "SE(C)-12 Brijesh Kumar",
+      "acNumber": "AC-43",
+      "assemblyConstituency": "Malviya Nagar",
+      "rank": 360,
+      "active": true
+    },
+    {
+      "id": "CG_361",
+      "code": "CG_361",
+      "name": "Nandan Park, Khirki Village",
+      "circle": "SE(C)-12 Brijesh Kumar",
+      "acNumber": "AC-43",
+      "assemblyConstituency": "Malviya Nagar",
+      "rank": 361,
+      "active": true
+    },
+    {
+      "id": "CG_362",
+      "code": "CG_362",
+      "name": "Dr. Ambedkar Park, Humayunpur",
+      "circle": "SE(C)-12 Brijesh Kumar",
+      "acNumber": "AC-43",
+      "assemblyConstituency": "Malviya Nagar",
+      "rank": 362,
+      "active": true
+    },
+    {
+      "id": "CG_363",
+      "code": "CG_363",
+      "name": "Durga Mandir, MMTC/STC Colony",
+      "circle": "SE(C)-12 Brijesh Kumar",
+      "acNumber": "AC-43",
+      "assemblyConstituency": "Malviya Nagar",
+      "rank": 363,
+      "active": true
+    },
+    {
+      "id": "CG_364",
+      "code": "CG_364",
+      "name": "Bhavishya Nidhi Enclave",
+      "circle": "SE(C)-12 Brijesh Kumar",
+      "acNumber": "AC-43",
+      "assemblyConstituency": "Malviya Nagar",
+      "rank": 364,
+      "active": true
+    },
+    {
+      "id": "CG_365",
+      "code": "CG_365",
+      "name": "Hauzkhas Village",
+      "circle": "SE(C)-12 Brijesh Kumar",
+      "acNumber": "AC-43",
+      "assemblyConstituency": "Malviya Nagar",
+      "rank": 365,
+      "active": true
+    },
+    {
+      "id": "CG_366",
+      "code": "CG_366",
+      "name": "Ganja Park, Hauz Rani",
+      "circle": "SE(C)-12 Brijesh Kumar",
+      "acNumber": "AC-43",
+      "assemblyConstituency": "Malviya Nagar",
+      "rank": 366,
+      "active": true
+    },
+    {
+      "id": "CG_367",
+      "code": "CG_367",
+      "name": "Central Park, Gautam Nagar",
+      "circle": "SE(C)-12 Brijesh Kumar",
+      "acNumber": "AC-43",
+      "assemblyConstituency": "Malviya Nagar",
+      "rank": 367,
+      "active": true
+    },
+    {
+      "id": "CG_368",
+      "code": "CG_368",
+      "name": "LBS Vidyapeeth",
+      "circle": "SE(C)-12 Brijesh Kumar",
+      "acNumber": "AC-43",
+      "assemblyConstituency": "Malviya Nagar",
+      "rank": 368,
+      "active": true
+    },
+    {
+      "id": "CG_369",
+      "code": "CG_369",
+      "name": "IIT Campus, Delhi",
+      "circle": "SE(C)-12 Brijesh Kumar",
+      "acNumber": "AC-43",
+      "assemblyConstituency": "Malviya Nagar",
+      "rank": 369,
+      "active": true
+    },
+    {
+      "id": "CG_370",
+      "code": "CG_370",
+      "name": "PTS Colony",
+      "circle": "SE(C)-12 Brijesh Kumar",
+      "acNumber": "AC-43",
+      "assemblyConstituency": "Malviya Nagar",
+      "rank": 370,
+      "active": true
+    },
+    {
+      "id": "CG_371",
+      "code": "CG_371",
+      "name": "NCERT Campus",
+      "circle": "SE(C)-12 Brijesh Kumar",
+      "acNumber": "AC-43",
+      "assemblyConstituency": "Malviya Nagar",
+      "rank": 371,
+      "active": true
+    },
+    {
+      "id": "CG_372",
+      "code": "CG_372",
+      "name": "Sector-1 ( Shiv Mandir), Sector-2, Sector-3, Sector-4, CPWD colony Mommadpur ( New), Sector-12, Munirka Rock garden, Extened Portain, Sector-6 P/T Colony,Sector-7 (Malai Mandir),Sector-7 ( Rock Garden),Sector-9 ( Main Market), Nanakpura (Subhash park), Nanak Pura F-Block, Basant Gaon, Mohammadpur pili kothi, Ambedkar Basti DDA Park, Shastri Market Gali No. 5 (New), Sector-5 (Main market/ Purvanchal), Sector-8, Sector-5 (Dhoodhnath mandir), CPWD Colony Vasant Vihar, Bhanwar singh camp, Bhanwar singh camp near Shiv mandir, Bhanwar singh camp ( Upper side), Nepali camp near old Sochalaya, Nepali camp near Durga pooja site, Adarsh basti Mommadpur (New), Shastri Market (New), Sector-10 NDMC flat Palika Niketan , Sector-12 KD Colony (New), Kusth Ashram (New)",
+      "circle": "SE(C)-12 Brijesh Kumar",
+      "acNumber": "AC-44",
+      "assemblyConstituency": "R.K. Puram",
+      "rank": 372,
+      "active": true
+    },
+    {
+      "id": "CG_373",
+      "code": "CG_373",
+      "name": "Construction of Chhat Ghats in different locations in Mehrauli Constituency, AC-45, for the year (Year 2026-27)",
+      "circle": "SE(C)-12 Brijesh Kumar",
+      "acNumber": "AC-45",
+      "assemblyConstituency": "Mehrauli",
+      "rank": 373,
+      "active": true
+    },
+    {
+      "id": "CG_374",
+      "code": "CG_374",
+      "name": "Construction of Temporary Chhat Puja ghats at different locations in Chhatarpur constituency, AC-46, (Year 2026-27)",
+      "circle": "SE(C)-12 Brijesh Kumar",
+      "acNumber": "AC-46",
+      "assemblyConstituency": "Chhatarpur",
+      "rank": 374,
+      "active": true
+    },
+    {
+      "id": "CG_375",
+      "code": "CG_375",
+      "name": "Construction of Temporary Chhat Puja ghat at different locations at Aya Nagar in Chhatarpur constituency, AC-46, (Year 2026-27)",
+      "circle": "SE(C)-12 Brijesh Kumar",
+      "acNumber": "AC-46",
+      "assemblyConstituency": "Chhatarpur",
+      "rank": 375,
+      "active": true
+    },
+    {
+      "id": "CG_376",
+      "code": "CG_376",
+      "name": "Construction of Chhat Puja Ghat at Freedam Fighter colony Neb Sarai Chhatarpur AC-46.",
+      "circle": "SE(C)-12 Brijesh Kumar",
+      "acNumber": "AC-46",
+      "assemblyConstituency": "Chhatarpur",
+      "rank": 376,
+      "active": true
+    },
+    {
+      "id": "CG_377",
+      "code": "CG_377",
+      "name": "Construction of Chhat ghats at different locations Chhatarpur Constituency AC-46.(Year 2026-27)",
+      "circle": "SE(C)-12 Brijesh Kumar",
+      "acNumber": "AC-46",
+      "assemblyConstituency": "Chhatarpur",
+      "rank": 377,
+      "active": true
+    },
+    {
+      "id": "CG_378",
+      "code": "CG_378",
+      "name": "Construction of Temporary Chhat Puja Ghat at different location in Devli Assembly Constituency AC-47 (Year 2026-27)",
+      "circle": "SE(C)-12 Brijesh Kumar",
+      "acNumber": "AC-47",
+      "assemblyConstituency": "Deoli",
+      "rank": 378,
+      "active": true
+    },
+    {
+      "id": "CG_379",
+      "code": "CG_379",
+      "name": "Construction of Chhat Puja Ghats at Asthal Mandir in Devli Assembly constituency, AC-47, (Year 2026-27)",
+      "circle": "SE(C)-12 Brijesh Kumar",
+      "acNumber": "AC-47",
+      "assemblyConstituency": "Deoli",
+      "rank": 379,
+      "active": true
+    },
+    {
+      "id": "CG_380",
+      "code": "CG_380",
+      "name": "Construction of 15 Nos. of Chhath Puja Ghats in different locations in Ambedkar Nagar Constituency, AC-48, for the Year 2026-27)",
+      "circle": "SE(C)-12 Brijesh Kumar",
+      "acNumber": "AC-48",
+      "assemblyConstituency": "Ambedkar Nagar",
+      "rank": 380,
+      "active": true
+    },
+    {
+      "id": "CG_381",
+      "code": "CG_381",
+      "name": "Construction of Chhat Puja Ghats at different locations in Sangam Vihar Constituency AC-49 (Year 2026-27)",
+      "circle": "SE(C)-11 Naveen Kumar Khare",
+      "acNumber": "AC-49",
+      "assemblyConstituency": "Sangam Vihar",
+      "rank": 381,
+      "active": true
+    },
+    {
+      "id": "CG_382",
+      "code": "CG_382",
+      "name": "1.Zamrudpur W- Block",
+      "circle": "SE(C)-12 Brijesh Kumar",
+      "acNumber": "AC-50",
+      "assemblyConstituency": "Greater Kailash",
+      "rank": 382,
+      "active": true
+    },
+    {
+      "id": "CG_383",
+      "code": "CG_383",
+      "name": "Dusshera Ground Chirag Delhi",
+      "circle": "SE(C)-12 Brijesh Kumar",
+      "acNumber": "AC-50",
+      "assemblyConstituency": "Greater Kailash",
+      "rank": 383,
+      "active": true
+    },
+    {
+      "id": "CG_384",
+      "code": "CG_384",
+      "name": "Satpulla Park",
+      "circle": "SE(C)-12 Brijesh Kumar",
+      "acNumber": "AC-50",
+      "assemblyConstituency": "Greater Kailash",
+      "rank": 384,
+      "active": true
+    },
+    {
+      "id": "CG_385",
+      "code": "CG_385",
+      "name": "Shahpur jat",
+      "circle": "SE(C)-12 Brijesh Kumar",
+      "acNumber": "AC-50",
+      "assemblyConstituency": "Greater Kailash",
+      "rank": 385,
+      "active": true
+    },
+    {
+      "id": "CG_386",
+      "code": "CG_386",
+      "name": "Janmashtmi Park",
+      "circle": "SE(C)-12 Brijesh Kumar",
+      "acNumber": "AC-50",
+      "assemblyConstituency": "Greater Kailash",
+      "rank": 386,
+      "active": true
+    },
+    {
+      "id": "CG_387",
+      "code": "CG_387",
+      "name": "CR Park",
+      "circle": "SE(C)-12 Brijesh Kumar",
+      "acNumber": "AC-50",
+      "assemblyConstituency": "Greater Kailash",
+      "rank": 387,
+      "active": true
+    },
+    {
+      "id": "CG_388",
+      "code": "CG_388",
+      "name": "Ambedkar Park",
+      "circle": "SE(C)-12 Brijesh Kumar",
+      "acNumber": "AC-50",
+      "assemblyConstituency": "Greater Kailash",
+      "rank": 388,
+      "active": true
+    },
+    {
+      "id": "CG_389",
+      "code": "CG_389",
+      "name": "Astha Kunj Ghat",
+      "circle": "SE(C)-12 Brijesh Kumar",
+      "acNumber": "AC-50",
+      "assemblyConstituency": "Greater Kailash",
+      "rank": 389,
+      "active": true
+    },
+    {
+      "id": "CG_390",
+      "code": "CG_390",
+      "name": "-",
+      "circle": "SE(C)-12 Brijesh Kumar",
+      "acNumber": "AC-50",
+      "assemblyConstituency": "Greater Kailash",
+      "rank": 390,
+      "active": true
+    },
+    {
+      "id": "CG_391",
+      "code": "CG_391",
+      "name": "Balmukund Khand Shiv Mandir, Giri nagar , Kalkaji",
+      "circle": "SE(C)-11 Naveen Kumar Khare",
+      "acNumber": "AC-51",
+      "assemblyConstituency": "Kalkaji",
+      "rank": 391,
+      "active": true
+    },
+    {
+      "id": "CG_392",
+      "code": "CG_392",
+      "name": "Central Park, Tilak Khand Giri Nagar, Kalkaji",
+      "circle": "SE(C)-11 Naveen Kumar Khare",
+      "acNumber": "AC-51",
+      "assemblyConstituency": "Kalkaji",
+      "rank": 392,
+      "active": true
+    },
+    {
+      "id": "CG_393",
+      "code": "CG_393",
+      "name": "K.T.C. Camp Sri Niwaspuri.",
+      "circle": "SE(C)-11 Naveen Kumar Khare",
+      "acNumber": "AC-51",
+      "assemblyConstituency": "Kalkaji",
+      "rank": 393,
+      "active": true
+    },
+    {
+      "id": "CG_394",
+      "code": "CG_394",
+      "name": "A-Block, Transit Camp Govindpuri",
+      "circle": "SE(C)-11 Naveen Kumar Khare",
+      "acNumber": "AC-51",
+      "assemblyConstituency": "Kalkaji",
+      "rank": 394,
+      "active": true
+    },
+    {
+      "id": "CG_395",
+      "code": "CG_395",
+      "name": "B-Block, Transit Camp Govindpuri",
+      "circle": "SE(C)-11 Naveen Kumar Khare",
+      "acNumber": "AC-51",
+      "assemblyConstituency": "Kalkaji",
+      "rank": 395,
+      "active": true
+    },
+    {
+      "id": "CG_396",
+      "code": "CG_396",
+      "name": "Dayal Singh Camp, Sri Niwaspuri",
+      "circle": "SE(C)-11 Naveen Kumar Khare",
+      "acNumber": "AC-51",
+      "assemblyConstituency": "Kalkaji",
+      "rank": 396,
+      "active": true
+    },
+    {
+      "id": "CG_397",
+      "code": "CG_397",
+      "name": "Indra Camp",
+      "circle": "SE(C)-11 Naveen Kumar Khare",
+      "acNumber": "AC-51",
+      "assemblyConstituency": "Kalkaji",
+      "rank": 397,
+      "active": true
+    },
+    {
+      "id": "CG_398",
+      "code": "CG_398",
+      "name": "MCD Park Ravidas Marg",
+      "circle": "SE(C)-11 Naveen Kumar Khare",
+      "acNumber": "AC-51",
+      "assemblyConstituency": "Kalkaji",
+      "rank": 398,
+      "active": true
+    },
+    {
+      "id": "CG_399",
+      "code": "CG_399",
+      "name": "Madina Masjid Park",
+      "circle": "SE(C)-11 Naveen Kumar Khare",
+      "acNumber": "AC-51",
+      "assemblyConstituency": "Kalkaji",
+      "rank": 399,
+      "active": true
+    },
+    {
+      "id": "CG_400",
+      "code": "CG_400",
+      "name": "DDA Park Baba Fateh Singh Marg",
+      "circle": "SE(C)-11 Naveen Kumar Khare",
+      "acNumber": "AC-51",
+      "assemblyConstituency": "Kalkaji",
+      "rank": 400,
+      "active": true
+    },
+    {
+      "id": "CG_401",
+      "code": "CG_401",
+      "name": "Priynka Camp",
+      "circle": "SE(C)-11 Naveen Kumar Khare",
+      "acNumber": "AC-51",
+      "assemblyConstituency": "Kalkaji",
+      "rank": 401,
+      "active": true
+    },
+    {
+      "id": "CG_402",
+      "code": "CG_402",
+      "name": "Sona Nandni Social walfare society",
+      "circle": "SE(C)-11 Naveen Kumar Khare",
+      "acNumber": "AC-51",
+      "assemblyConstituency": "Kalkaji",
+      "rank": 402,
+      "active": true
+    },
+    {
+      "id": "CG_403",
+      "code": "CG_403",
+      "name": "Shiv Shakti, Hanuman Mandir, Navjeevan Camp, Near Konark Market, Govindpuri, Kalkaji",
+      "circle": "SE(C)-11 Naveen Kumar Khare",
+      "acNumber": "AC-51",
+      "assemblyConstituency": "Kalkaji",
+      "rank": 403,
+      "active": true
+    },
+    {
+      "id": "CG_404",
+      "code": "CG_404",
+      "name": "Captain Gaur Marg",
+      "circle": "SE(C)-11 Naveen Kumar Khare",
+      "acNumber": "AC-51",
+      "assemblyConstituency": "Kalkaji",
+      "rank": 404,
+      "active": true
+    },
+    {
+      "id": "CG_405",
+      "code": "CG_405",
+      "name": "Sai Park Private Colony",
+      "circle": "SE(C)-11 Naveen Kumar Khare",
+      "acNumber": "AC-51",
+      "assemblyConstituency": "Kalkaji",
+      "rank": 405,
+      "active": true
+    },
+    {
+      "id": "CG_406",
+      "code": "CG_406",
+      "name": "MCD Park Garhi",
+      "circle": "SE(C)-11 Naveen Kumar Khare",
+      "acNumber": "AC-51",
+      "assemblyConstituency": "Kalkaji",
+      "rank": 406,
+      "active": true
+    },
+    {
+      "id": "CG_407",
+      "code": "CG_407",
+      "name": "Pit-1 Solar Park T-Block Okhla Phase-II Pit-2 Harkesh nagar DDA Park Pit-3 X-Block MCD Park Okhla Phase-II Pcket-I Pit-4 Sanjay Colony DDA Park Okhla Phase-II Pit-5 S-Block Sanjay Colony Okhla Phase-II Pit-6 D-Block MCD Park opposite D-8/4 Okhla Phase-II Pit-7 B-74 MCD Park Okhla Phase-I Pit-8 DDA Park Indra Kalyan Vihar opposite D-95 Okhla Phase-I Pit-9 V.P singh camp near shishu vatika Pit-10 DDA Land Lal Kuan Pit-11 Tughlakabad Village DDA Land Near Kaya Maya Hospital Pit-12 G.B Panth Polytechnic college Pit-13 Tehkhand Village Near Railway colony Okhla Phase-I Pit-14 X-Block MCD Park Okhla Phase-II Pcket-I Pit-15 Tehkhand Village Near DDA Park Okhla Phase-I Pit-16 Bangali camp Okhla phase-I Pit-17 Bhavani Mandir Tughlakabad Village Pit-18 New Sanjay Camp Near Sarita Vihar Under Pass Pit-19 Mitii park Tehkhand village Pit-20 Mulla Park in front of kumar Automobile Pit-21 Pocket No.14- EWS Flats Kalkaji Extension Pit-22 MCD Park Maruti Service Master Okhla Phase-2 Pit-23 Ambedkar Park Lal Kuan Chungi No.3 Pit-24 Railway Colony Tughlakabad Pit-25 MB Road Prem Nagar lal Kuan Pit-26 Panchmukhi Lal Kuan Near Barat Ghar Pit-27 Raja Ram MCD Park Okhla Phase-2 Pit-28 Near Kaya Maya Park DDA",
+      "circle": "SE(C)-11 Naveen Kumar Khare",
+      "acNumber": "AC-52",
+      "assemblyConstituency": "Tughlakabad",
+      "rank": 407,
+      "active": true
+    },
+    {
+      "id": "CG_408",
+      "code": "CG_408",
+      "name": "Pit No. 1 NTPC Ground near khadda colonyJaitpur Extn. Part-II. (1) Pit No. 2 NTPC Ground near khadda colonyJaitpur Extn. Part-II.(2) Pit No. 3 NTPC Tikona Park Pit No. 4 Bilaspur Camp Pit No. 5 Chatt ghat Modi Chowk Meethapur Pit No. 6 Chatt ghat Sai Nagar Meethapur Pit No. 7 Shiv Puri chatt ghat Meethapur Pit No. 8 Shiv Mandir F-Block (1) Pit No. 9 Shiv Mandir F-Block (2) Pit No. 10 Shiv Mandir F-Block (3) Pit No. 11 Gali No. 40 E-Block adjesent Gurgaon Canal Pit No. 12 In front of NTPC Gate No. 3 Tajpur pahari Molarbund Pit No. 13 Ekta Vihar Meethapur Pit No. 14 Near Durga Builder Pit No. 15 Jaitpur Extn. Pit No. 16 Jaitpur Extn. Tanki Road Pit No. 17 Gautam Puri near Mother Dairy Pit No. 18 Parsad Nagar (1) Pit No. 19 Parsad Nagar (2) Pit No. 20 Parsad Nagar (3) Pit No. 21 Gautam Puri Ph-I. Labour Chowk Pit No. 22 Gautam Puri Ph-II. Pit No. 23 BLW Camp Pit No. 24 Mohan Baba Nagar Pit No. 25 Tajpur Pahari Park Pit No. 26 K-Block saurabh vihar Pit No. 27 Molarbund Extn. Gali No. 19 Pit No. 28 Arpan vihar jaitpur part 1 (1) Pit No. 29 Arpan vihar jaitpur part 1 (2) Pit No. 30 Arpan vihar jaitpur part 1 (3) Pit No. 31 O-Block Nallah Road Pit No. 32 Atal Vihari Vajpayee Park Pit No. 33 Atal Vihari Vajpayee Park Pit No. 34 Near 56 No. Street in Park Molarbund Extn Pit No. 35 Near 68 No. Street in Park Molarbund Extn Pit No. 36 E-24 Om Nagar Pit No. 37 Saurabh Vihar ar Pit No. 38 E-1/624 Molarbund Pit No. 39 Vishkarma Colony (1) Pit No. 40 Vishkarma Colony (2)",
+      "circle": "SE(C)-11 Naveen Kumar Khare",
+      "acNumber": "AC-53",
+      "assemblyConstituency": "Badarpur",
+      "rank": 408,
+      "active": true
+    },
+    {
+      "id": "CG_409",
+      "code": "CG_409",
+      "name": "D/S of Okhla Barrage (A) Eastern side for making ghat (A) Eastern side for prepration of ground (B) Western side for making ghat (B) Western side for prepration of ground For Approach road Shiv Ghat For dressing of Yamuna Bank For dressing of flood plain area For Approach road For parking area Near Jaitpur Shamshan Ghat For dressing of Yamuna Bank For dressing of flood plain area For Approach road",
+      "circle": "SE(C)-11 Naveen Kumar Khare",
+      "acNumber": "AC-54",
+      "assemblyConstituency": "Okhla",
+      "rank": 409,
+      "active": true
+    },
+    {
+      "id": "CG_410",
+      "code": "CG_410",
+      "name": "Pit No. 1 Aali Vihar 1 Pit No. 2 Aali Vihar 2 Pit No. 3 Aali Vihar 3 Pit No. 4 Aali Vihar (near Lal Mandir) 1 Pit No. 5 Aali Vihar (near Lal Mandir) 2 Pit No. 6 Aali Vihar (Priyanka Camp) Pit No. 7 Aali Gaon Pit No. 8 Ali Vihar PAC Camp Pit No. 9 D Block Durga Pooja Park Pit No. 10 B-1 Block Mandi Road Pit No. 11 Madanpur Khadar A-2 (Chokona Park) Pit No. 1+2 Madanpur Khadar B-2 (Opp. Kalindi Kunj police station) Pit No. 13 Madanpur Khadar B-2 (Opp. Raj nagar) Pit No. 14 Madanpur Khadar B-2 (Behind Kalindi Kunj police station) Pit No. 15 Madanpur Khadar D-Block (Near Dilbahar Tailor Pit No. 16 Madanpur Khadar A-1 (Tikona Park) Pit No. 17 Madanpur Khadar A-Block Ph-II. Pit No. 18 Madanpur Khadar Village",
+      "circle": "SE(C)-11 Naveen Kumar Khare",
+      "acNumber": "AC-54",
+      "assemblyConstituency": "Okhla",
+      "rank": 410,
+      "active": true
+    },
+    {
+      "id": "CG_411",
+      "code": "CG_411",
+      "name": "36 Block ground (Trilokpuri)",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-55",
+      "assemblyConstituency": "Trilokpuri",
+      "rank": 411,
+      "active": true
+    },
+    {
+      "id": "CG_412",
+      "code": "CG_412",
+      "name": "Tuteshwar nath mandir ground",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-55",
+      "assemblyConstituency": "Trilokpuri",
+      "rank": 412,
+      "active": true
+    },
+    {
+      "id": "CG_413",
+      "code": "CG_413",
+      "name": "Dashmesh ground",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-55",
+      "assemblyConstituency": "Trilokpuri",
+      "rank": 413,
+      "active": true
+    },
+    {
+      "id": "CG_414",
+      "code": "CG_414",
+      "name": "New ashok nagar peer baba ground",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-55",
+      "assemblyConstituency": "Trilokpuri",
+      "rank": 414,
+      "active": true
+    },
+    {
+      "id": "CG_415",
+      "code": "CG_415",
+      "name": "Block 23 mla office ground (Trilokpuri)",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-55",
+      "assemblyConstituency": "Trilokpuri",
+      "rank": 415,
+      "active": true
+    },
+    {
+      "id": "CG_416",
+      "code": "CG_416",
+      "name": "Crown plaza hotel (Trilokpuri)",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-55",
+      "assemblyConstituency": "Trilokpuri",
+      "rank": 416,
+      "active": true
+    },
+    {
+      "id": "CG_417",
+      "code": "CG_417",
+      "name": "Hindon Neher k Kinare",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-55",
+      "assemblyConstituency": "Trilokpuri",
+      "rank": 417,
+      "active": true
+    },
+    {
+      "id": "CG_418",
+      "code": "CG_418",
+      "name": "Opposite Dharamsala Hospital on Canal Between Pillar No. 230 to 237",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-55",
+      "assemblyConstituency": "Trilokpuri",
+      "rank": 418,
+      "active": true
+    },
+    {
+      "id": "CG_419",
+      "code": "CG_419",
+      "name": "New Ashok Nagar, Chilla Regulator Hindon river k Kinare",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-55",
+      "assemblyConstituency": "Trilokpuri",
+      "rank": 419,
+      "active": true
+    },
+    {
+      "id": "CG_420",
+      "code": "CG_420",
+      "name": "Rajesh Pilot Park B-Block (kondli)",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-56",
+      "assemblyConstituency": "Kondli",
+      "rank": 420,
+      "active": true
+    },
+    {
+      "id": "CG_421",
+      "code": "CG_421",
+      "name": "Redfox Hotel (kondli)",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-56",
+      "assemblyConstituency": "Kondli",
+      "rank": 421,
+      "active": true
+    },
+    {
+      "id": "CG_422",
+      "code": "CG_422",
+      "name": "MIG Complex Durga Mata Mandir (Pakka)",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-56",
+      "assemblyConstituency": "Kondli",
+      "rank": 422,
+      "active": true
+    },
+    {
+      "id": "CG_423",
+      "code": "CG_423",
+      "name": "Sanatan Shiv Mandir (Pakka) (kondli)",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-56",
+      "assemblyConstituency": "Kondli",
+      "rank": 423,
+      "active": true
+    },
+    {
+      "id": "CG_424",
+      "code": "CG_424",
+      "name": "Kalyanpuri dhobhi ghat (kondli)",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-56",
+      "assemblyConstituency": "Kondli",
+      "rank": 424,
+      "active": true
+    },
+    {
+      "id": "CG_425",
+      "code": "CG_425",
+      "name": "Chhat Pooja Park Kondli Mayur Vihar (Pakka) (kondli)",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-56",
+      "assemblyConstituency": "Kondli",
+      "rank": 425,
+      "active": true
+    },
+    {
+      "id": "CG_426",
+      "code": "CG_426",
+      "name": "(A)Hindon Cut Canal. Kondli Neher (B) Hindon Neher, Vasundhara Pul, Dharamsala Cnacer hospital k Samne",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-56",
+      "assemblyConstituency": "Kondli",
+      "rank": 426,
+      "active": true
+    },
+    {
+      "id": "CG_427",
+      "code": "CG_427",
+      "name": "MIG Complex near Durga MATA Mandir Kondli Mayur Vihar Ph-III",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-56",
+      "assemblyConstituency": "Kondli",
+      "rank": 427,
+      "active": true
+    },
+    {
+      "id": "CG_428",
+      "code": "CG_428",
+      "name": "Block A-2 Park Behind Bank of Baroda Mayur Vihar Ph-III",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-56",
+      "assemblyConstituency": "Kondli",
+      "rank": 428,
+      "active": true
+    },
+    {
+      "id": "CG_429",
+      "code": "CG_429",
+      "name": "Dallupura Gaon Kheda Devta Mandir k Samne, Neher Road.",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-56",
+      "assemblyConstituency": "Kondli",
+      "rank": 429,
+      "active": true
+    },
+    {
+      "id": "CG_430",
+      "code": "CG_430",
+      "name": "1.Rajendra Prasad Park, West Vinod Nagar",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-57",
+      "assemblyConstituency": "Patparganj",
+      "rank": 430,
+      "active": true
+    },
+    {
+      "id": "CG_431",
+      "code": "CG_431",
+      "name": "Children Park, West Vinod Nagar",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-57",
+      "assemblyConstituency": "Patparganj",
+      "rank": 431,
+      "active": true
+    },
+    {
+      "id": "CG_432",
+      "code": "CG_432",
+      "name": "School block, Talab Park, Mandawali",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-57",
+      "assemblyConstituency": "Patparganj",
+      "rank": 432,
+      "active": true
+    },
+    {
+      "id": "CG_433",
+      "code": "CG_433",
+      "name": "Gori Devi Park, West Vinod Nagar 5.Community Center, Budha MArg, Mandawali",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-57",
+      "assemblyConstituency": "Patparganj",
+      "rank": 433,
+      "active": true
+    },
+    {
+      "id": "CG_434",
+      "code": "CG_434",
+      "name": "Chhota Park, Mandawali",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-57",
+      "assemblyConstituency": "Patparganj",
+      "rank": 434,
+      "active": true
+    },
+    {
+      "id": "CG_435",
+      "code": "CG_435",
+      "name": "NEar DND YAmuna Kinare 8.Hindone Nahare kinare, Rajendra Babu Ghat, Namo Bharat MEtro Station(New) 9.Tikona Park, East Vinod Nagar",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-57",
+      "assemblyConstituency": "Patparganj",
+      "rank": 435,
+      "active": true
+    },
+    {
+      "id": "CG_436",
+      "code": "CG_436",
+      "name": "Mandir Prangan Kalyanwas",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-57",
+      "assemblyConstituency": "Patparganj",
+      "rank": 436,
+      "active": true
+    },
+    {
+      "id": "CG_437",
+      "code": "CG_437",
+      "name": "NEar Durga Mandir, East Vinod NAgar",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-57",
+      "assemblyConstituency": "Patparganj",
+      "rank": 437,
+      "active": true
+    },
+    {
+      "id": "CG_438",
+      "code": "CG_438",
+      "name": "Kalyanwas PArk",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-57",
+      "assemblyConstituency": "Patparganj",
+      "rank": 438,
+      "active": true
+    },
+    {
+      "id": "CG_439",
+      "code": "CG_439",
+      "name": "E&F Block, Ramleela Ground, Pandav Nagar",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-57",
+      "assemblyConstituency": "Patparganj",
+      "rank": 439,
+      "active": true
+    },
+    {
+      "id": "CG_440",
+      "code": "CG_440",
+      "name": "NAgar Nigam Primary School, MAndawali / Headgawar park ke sath",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-57",
+      "assemblyConstituency": "Patparganj",
+      "rank": 440,
+      "active": true
+    },
+    {
+      "id": "CG_441",
+      "code": "CG_441",
+      "name": "Swati Park, West Vinod Nagar 16.DND (U/S)",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-57",
+      "assemblyConstituency": "Patparganj",
+      "rank": 441,
+      "active": true
+    },
+    {
+      "id": "CG_442",
+      "code": "CG_442",
+      "name": "Ramleela Ground Nehru Enclave",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-58",
+      "assemblyConstituency": "Laxmi Nagar",
+      "rank": 442,
+      "active": true
+    },
+    {
+      "id": "CG_443",
+      "code": "CG_443",
+      "name": "Bank Enclave,",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-58",
+      "assemblyConstituency": "Laxmi Nagar",
+      "rank": 443,
+      "active": true
+    },
+    {
+      "id": "CG_444",
+      "code": "CG_444",
+      "name": "Utsav Park South Ganesh Nagar",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-58",
+      "assemblyConstituency": "Laxmi Nagar",
+      "rank": 444,
+      "active": true
+    },
+    {
+      "id": "CG_445",
+      "code": "CG_445",
+      "name": "DDA Land main market, Saket Block 5.School Block Near Samudaya Bhawan",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-58",
+      "assemblyConstituency": "Laxmi Nagar",
+      "rank": 445,
+      "active": true
+    },
+    {
+      "id": "CG_446",
+      "code": "CG_446",
+      "name": "Community Center Near Buddha Marg",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-58",
+      "assemblyConstituency": "Laxmi Nagar",
+      "rank": 446,
+      "active": true
+    },
+    {
+      "id": "CG_447",
+      "code": "CG_447",
+      "name": "DDA Ground Nehru Enclave",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-58",
+      "assemblyConstituency": "Laxmi Nagar",
+      "rank": 447,
+      "active": true
+    },
+    {
+      "id": "CG_448",
+      "code": "CG_448",
+      "name": "Lalita Park",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-58",
+      "assemblyConstituency": "Laxmi Nagar",
+      "rank": 448,
+      "active": true
+    },
+    {
+      "id": "CG_449",
+      "code": "CG_449",
+      "name": "Utsav Park Ganesh",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-58",
+      "assemblyConstituency": "Laxmi Nagar",
+      "rank": 449,
+      "active": true
+    },
+    {
+      "id": "CG_450",
+      "code": "CG_450",
+      "name": "D/s of ITO Bridge (Yamuna Ghatt)",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-58",
+      "assemblyConstituency": "Laxmi Nagar",
+      "rank": 450,
+      "active": true
+    },
+    {
+      "id": "CG_451",
+      "code": "CG_451",
+      "name": "Bhairo Marg (Yamuna Ghatt)",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-58",
+      "assemblyConstituency": "Laxmi Nagar",
+      "rank": 451,
+      "active": true
+    },
+    {
+      "id": "CG_452",
+      "code": "CG_452",
+      "name": "1.Ramleela ground I.P. Ext., DCP Office parking ground, CBD ground and Skylark Apartment at Ghazipur Road",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-59",
+      "assemblyConstituency": "Vishwas Nagar",
+      "rank": 452,
+      "active": true
+    },
+    {
+      "id": "CG_453",
+      "code": "CG_453",
+      "name": "Utsav Ground DDA Park, IP Extn, Patparganj",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-59",
+      "assemblyConstituency": "Vishwas Nagar",
+      "rank": 453,
+      "active": true
+    },
+    {
+      "id": "CG_454",
+      "code": "CG_454",
+      "name": "Chatt Pooja Samiti Gazipur Gaon near Kala Niketan Public School",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-59",
+      "assemblyConstituency": "Vishwas Nagar",
+      "rank": 454,
+      "active": true
+    },
+    {
+      "id": "CG_455",
+      "code": "CG_455",
+      "name": "Ghatt No.1, Ghat No.2, Ghat No. 4, Central Park CBD Ground Karkardooma",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-59",
+      "assemblyConstituency": "Vishwas Nagar",
+      "rank": 455,
+      "active": true
+    },
+    {
+      "id": "CG_456",
+      "code": "CG_456",
+      "name": "Ramleela ground I.P. Ext., DCP Office parking ground, CBD ground and Skylark Apartment at Ghazipur Road",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-59",
+      "assemblyConstituency": "Vishwas Nagar",
+      "rank": 456,
+      "active": true
+    },
+    {
+      "id": "CG_457",
+      "code": "CG_457",
+      "name": "Rani Garden DDA Park",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-60",
+      "assemblyConstituency": "Krishna Nagar",
+      "rank": 457,
+      "active": true
+    },
+    {
+      "id": "CG_458",
+      "code": "CG_458",
+      "name": "Vacant Site Near Sai Memorial public school Geeta Colony",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-60",
+      "assemblyConstituency": "Krishna Nagar",
+      "rank": 458,
+      "active": true
+    },
+    {
+      "id": "CG_459",
+      "code": "CG_459",
+      "name": "DDA ground Munsi Colony Shashtri Nagar near SDM Office, Geeta Colony",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-60",
+      "assemblyConstituency": "Krishna Nagar",
+      "rank": 459,
+      "active": true
+    },
+    {
+      "id": "CG_460",
+      "code": "CG_460",
+      "name": "Taj Sartaj Park Opp Taj Enclave",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-60",
+      "assemblyConstituency": "Krishna Nagar",
+      "rank": 460,
+      "active": true
+    },
+    {
+      "id": "CG_461",
+      "code": "CG_461",
+      "name": "D/S of Geeta Colony bridge on left bank river yamuna. (Yamuna Ghat)",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-60",
+      "assemblyConstituency": "Krishna Nagar",
+      "rank": 461,
+      "active": true
+    },
+    {
+      "id": "CG_462",
+      "code": "CG_462",
+      "name": "U/S of Geeta Colony bridge on left bank river yamuna. (Yamuna Ghat)",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-60",
+      "assemblyConstituency": "Krishna Nagar",
+      "rank": 462,
+      "active": true
+    },
+    {
+      "id": "CG_463",
+      "code": "CG_463",
+      "name": "D/s Old Railway Bridge on Left Bank of River Yamuna (Yamuna Ghat).",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-61",
+      "assemblyConstituency": "Gandhi Nagar",
+      "rank": 463,
+      "active": true
+    },
+    {
+      "id": "CG_464",
+      "code": "CG_464",
+      "name": "Mahaveer Swami Park near mother dairy Kailash Nagar",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-61",
+      "assemblyConstituency": "Gandhi Nagar",
+      "rank": 464,
+      "active": true
+    },
+    {
+      "id": "CG_465",
+      "code": "CG_465",
+      "name": "Thokar No.21 Yamuna Ghat (Yamuna Ghat)",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-61",
+      "assemblyConstituency": "Gandhi Nagar",
+      "rank": 465,
+      "active": true
+    },
+    {
+      "id": "CG_466",
+      "code": "CG_466",
+      "name": "U/S of Old Railway Bridge Left bank of River Yamuna",
+      "circle": "SE(C)-1 Bijender Kumar",
+      "acNumber": "AC-61",
+      "assemblyConstituency": "Gandhi Nagar",
+      "rank": 466,
+      "active": true
+    },
+    {
+      "id": "CG_467",
+      "code": "CG_467",
+      "name": "Chander Vihar between street No. 4 & 5 Deer Park oppositeMukherjee Public School Dilshad Garden, Krishna Market Park Jhilmil Colony, Bihari Colony Park, Hanuman Mandir & Near Vivek Vihar Railway Station Shahdara AC-62",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-62",
+      "assemblyConstituency": "Shahdara",
+      "rank": 467,
+      "active": true
+    },
+    {
+      "id": "CG_468",
+      "code": "CG_468",
+      "name": "B-Block, Kusth Ashram , Khel Parisar Tahirpur in Seemapuri AC-63",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-63",
+      "assemblyConstituency": "Seemapuri",
+      "rank": 468,
+      "active": true
+    },
+    {
+      "id": "CG_469",
+      "code": "CG_469",
+      "name": "Rathi Mill & Lal Bagh Jhuggi",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-64",
+      "assemblyConstituency": "Rohtas Nagar",
+      "rank": 469,
+      "active": true
+    },
+    {
+      "id": "CG_470",
+      "code": "CG_470",
+      "name": "MCD parking behind CNG Pump,",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-65",
+      "assemblyConstituency": "Seelampur",
+      "rank": 470,
+      "active": true
+    },
+    {
+      "id": "CG_471",
+      "code": "CG_471",
+      "name": "Shastri Park & Kaithwara Park",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-65",
+      "assemblyConstituency": "Seelampur",
+      "rank": 471,
+      "active": true
+    },
+    {
+      "id": "CG_472",
+      "code": "CG_472",
+      "name": "Yudhister Setu(G.T.Road) Opposite Vasudev Ghat on Left bank of River Yamuna",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-65",
+      "assemblyConstituency": "Seelampur",
+      "rank": 472,
+      "active": true
+    },
+    {
+      "id": "CG_473",
+      "code": "CG_473",
+      "name": "5th Pusta, S M Bund",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-66",
+      "assemblyConstituency": "Ghonda",
+      "rank": 473,
+      "active": true
+    },
+    {
+      "id": "CG_474",
+      "code": "CG_474",
+      "name": "MTNL Ground, Yamuna Vihar",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-66",
+      "assemblyConstituency": "Ghonda",
+      "rank": 474,
+      "active": true
+    },
+    {
+      "id": "CG_475",
+      "code": "CG_475",
+      "name": "Krishna Park, MTNL Ground & Water Body Chhat Ghat",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-67",
+      "assemblyConstituency": "Babarpur",
+      "rank": 475,
+      "active": true
+    },
+    {
+      "id": "CG_476",
+      "code": "CG_476",
+      "name": "No Ghat entry found in source file",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-68",
+      "assemblyConstituency": "Gokalpur",
+      "rank": 476,
+      "active": true
+    },
+    {
+      "id": "CG_477",
+      "code": "CG_477",
+      "name": "No Ghat entry found in source file",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-69",
+      "assemblyConstituency": "Mustafabad",
+      "rank": 477,
+      "active": true
+    },
+    {
+      "id": "CG_478",
+      "code": "CG_478",
+      "name": "Ganga Vihar (Trunk Drain No. 1)",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-70",
+      "assemblyConstituency": "Karawal Nagar",
+      "rank": 478,
+      "active": true
+    },
+    {
+      "id": "CG_479",
+      "code": "CG_479",
+      "name": "Tikona Park",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-70",
+      "assemblyConstituency": "Karawal Nagar",
+      "rank": 479,
+      "active": true
+    },
+    {
+      "id": "CG_480",
+      "code": "CG_480",
+      "name": "Tila Mandoli",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-70",
+      "assemblyConstituency": "Karawal Nagar",
+      "rank": 480,
+      "active": true
+    },
+    {
+      "id": "CG_481",
+      "code": "CG_481",
+      "name": "Ambedkar Park D-Block",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-70",
+      "assemblyConstituency": "Karawal Nagar",
+      "rank": 481,
+      "active": true
+    },
+    {
+      "id": "CG_482",
+      "code": "CG_482",
+      "name": "RD. 500M on Left bank of Escape Drain No.1",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-70",
+      "assemblyConstituency": "Karawal Nagar",
+      "rank": 482,
+      "active": true
+    },
+    {
+      "id": "CG_483",
+      "code": "CG_483",
+      "name": "Veer Savarkar Hospital Ground",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-70",
+      "assemblyConstituency": "Karawal Nagar",
+      "rank": 483,
+      "active": true
+    },
+    {
+      "id": "CG_484",
+      "code": "CG_484",
+      "name": "Kamal Vihar",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-70",
+      "assemblyConstituency": "Karawal Nagar",
+      "rank": 484,
+      "active": true
+    },
+    {
+      "id": "CG_485",
+      "code": "CG_485",
+      "name": "E-Block Mukand Vihar",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-70",
+      "assemblyConstituency": "Karawal Nagar",
+      "rank": 485,
+      "active": true
+    },
+    {
+      "id": "CG_486",
+      "code": "CG_486",
+      "name": "Panchayat Ghar (Alok Kunj School Ankur Enclave)",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-70",
+      "assemblyConstituency": "Karawal Nagar",
+      "rank": 486,
+      "active": true
+    },
+    {
+      "id": "CG_487",
+      "code": "CG_487",
+      "name": "D/S of Wazirabad barrage to Signature bridge at Left bank of River Yamuna",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-70",
+      "assemblyConstituency": "Karawal Nagar",
+      "rank": 487,
+      "active": true
+    },
+    {
+      "id": "CG_488",
+      "code": "CG_488",
+      "name": "0 Pusta",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-70",
+      "assemblyConstituency": "Karawal Nagar",
+      "rank": 488,
+      "active": true
+    },
+    {
+      "id": "CG_489",
+      "code": "CG_489",
+      "name": "1st Pusta",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-70",
+      "assemblyConstituency": "Karawal Nagar",
+      "rank": 489,
+      "active": true
+    },
+    {
+      "id": "CG_490",
+      "code": "CG_490",
+      "name": "2 Pusta",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-70",
+      "assemblyConstituency": "Karawal Nagar",
+      "rank": 490,
+      "active": true
+    },
+    {
+      "id": "CG_491",
+      "code": "CG_491",
+      "name": "2.5 Pusta on Left Bank of River Yamuna , Sonia Vihar",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-70",
+      "assemblyConstituency": "Karawal Nagar",
+      "rank": 491,
+      "active": true
+    },
+    {
+      "id": "CG_492",
+      "code": "CG_492",
+      "name": "3 Pusta",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-70",
+      "assemblyConstituency": "Karawal Nagar",
+      "rank": 492,
+      "active": true
+    },
+    {
+      "id": "CG_493",
+      "code": "CG_493",
+      "name": "3.5 Pusta",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-70",
+      "assemblyConstituency": "Karawal Nagar",
+      "rank": 493,
+      "active": true
+    },
+    {
+      "id": "CG_494",
+      "code": "CG_494",
+      "name": "4th Pusta",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-70",
+      "assemblyConstituency": "Karawal Nagar",
+      "rank": 494,
+      "active": true
+    },
+    {
+      "id": "CG_495",
+      "code": "CG_495",
+      "name": "4.5 Pusta",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-70",
+      "assemblyConstituency": "Karawal Nagar",
+      "rank": 495,
+      "active": true
+    },
+    {
+      "id": "CG_496",
+      "code": "CG_496",
+      "name": "5th Pusta on Left Bank of River Yamuna, Sonia Vihar",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-70",
+      "assemblyConstituency": "Karawal Nagar",
+      "rank": 496,
+      "active": true
+    },
+    {
+      "id": "CG_497",
+      "code": "CG_497",
+      "name": "Thokar No. 7 near Shani Mandir on Left Bank of River Yamuna",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-70",
+      "assemblyConstituency": "Karawal Nagar",
+      "rank": 497,
+      "active": true
+    },
+    {
+      "id": "CG_498",
+      "code": "CG_498",
+      "name": "Milan Garden, Sonia Vihar",
+      "circle": "SE(C)-2 Sukh Pal Singh",
+      "acNumber": "AC-70",
+      "assemblyConstituency": "Karawal Nagar",
+      "rank": 498,
+      "active": true
+    }
+  ]
+}
