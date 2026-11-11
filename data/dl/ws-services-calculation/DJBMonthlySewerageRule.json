@@ -5,8 +5,65 @@
     {
       "code": "WATER_CONNECTED",
       "name": "Sewer Maintenance for Water Connected Premises",
+      "category": "ALL",
       "chargeType": "PERCENTAGE_OF_WATER_VOLUMETRIC_CHARGE",
       "percentage": 60,
+      "requiresWaterConnection": true,
+      "active": true
+    },
+    {
+      "code": "NO_WATER_DOMESTIC_UP_TO_200",
+      "name": "Sewerage Charge - Domestic without Water Connection - Up to 200 Sqm Built-up Area",
+      "category": "DOMESTIC",
+      "chargeType": "FIXED_MONTHLY",
+      "minBuiltUpAreaSqm": 0,
+      "maxBuiltUpAreaSqm": 200,
+      "amount": 150,
+      "requiresWaterConnection": false,
+      "active": true
+    },
+    {
+      "code": "NO_WATER_DOMESTIC_ABOVE_200",
+      "name": "Sewerage Charge - Domestic without Water Connection - Above 200 Sqm Built-up Area",
+      "category": "DOMESTIC",
+      "chargeType": "FIXED_MONTHLY",
+      "minBuiltUpAreaSqm": 200,
+      "minBuiltUpAreaExclusive": true,
+      "amount": 450,
+      "requiresWaterConnection": false,
+      "active": true
+    },
+    {
+      "code": "NO_WATER_COMMERCIAL_UP_TO_500",
+      "name": "Sewerage Charge - Commercial without Water Connection - Up to 500 Sqm Built-up Area",
+      "category": "COMMERCIAL",
+      "chargeType": "FIXED_MONTHLY",
+      "minBuiltUpAreaSqm": 0,
+      "maxBuiltUpAreaSqm": 500,
+      "amount": 1000,
+      "requiresWaterConnection": false,
+      "active": true
+    },
+    {
+      "code": "NO_WATER_COMMERCIAL_501_TO_1000",
+      "name": "Sewerage Charge - Commercial without Water Connection - 501 to 1000 Sqm Built-up Area",
+      "category": "COMMERCIAL",
+      "chargeType": "FIXED_MONTHLY",
+      "minBuiltUpAreaSqm": 501,
+      "maxBuiltUpAreaSqm": 1000,
+      "amount": 1500,
+      "requiresWaterConnection": false,
+      "active": true
+    },
+    {
+      "code": "NO_WATER_COMMERCIAL_ABOVE_1000",
+      "name": "Sewerage Charge - Commercial without Water Connection - Above 1000 Sqm Built-up Area",
+      "category": "COMMERCIAL",
+      "chargeType": "FIXED_MONTHLY",
+      "minBuiltUpAreaSqm": 1000,
+      "minBuiltUpAreaExclusive": true,
+      "amount": 2500,
+      "requiresWaterConnection": false,
       "active": true
     }
   ]
