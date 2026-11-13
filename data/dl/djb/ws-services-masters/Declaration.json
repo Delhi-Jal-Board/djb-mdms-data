@@ -4,42 +4,62 @@
   "Declaration": [
     {
       "code": "DECLARATION_1",
-      "description": "I understand that the sanction of connection does not acknowledge or confer any title, ownership or occupancy right in favour of the applicant.",
+      "description": "I/We understand that the sanction of connection by DJB does not acknowledge or confer any title, ownership or occupancy right in favour of any applicant(s).",
       "active": true
     },
     {
       "code": "DECLARATION_2",
-      "description": "I declare that there is no dispute regarding the property, and there is no stay from any court of law against obtaining a water/sewerage connection.",
+      "description": "I/We declare that there is no dispute regarding the property, and there is no stay from any court of law against obtaining a water/sewerage connection.",
       "active": true
     },
     {
       "code": "DECLARATION_3",
-      "description": "The property on which the connection is being applied is not booked/unauthorized/encroachment of government land/misuse etc.",
+      "description": "I/We undertake that the property/floor on which the connection is being applied is not booked/unauthorized/encroachment of Government land/misuse etc.",
       "active": true
     },
     {
       "code": "DECLARATION_4",
-      "description": "I further undertake that, in case of any dispute regarding the ownership of the property, I will absolve DJB of any legal battle in a court of law, as the water connection applied for relates to the supply of potable water and not to the ownership of the property.",
+      "description": "I/We further undertake that, in case of any dispute regarding the ownership of the property, I will absolve DJB of any legal battle in a court of law, as the water connection applied for relates to the supply of potable water and not to the ownership of the property.",
       "active": true
     },
     {
       "code": "DECLARATION_5",
-      "description": "I further undertake to pay the charges as and when demanded by DJB, and in the event of non-payment, DJB will be at liberty to disconnect the services being provided.",
+      "description": "I/We further undertake to pay the applicable water/sewer utility charges as and when demanded by DJB. In the event of non-payment of charges against at least two consecutive bills, DJB shall be at liberty to disconnect the water/sewer services being provided to me, in accordance with the applicable rules and regulations.",
       "active": true
     },
     {
       "code": "DECLARATION_6",
-      "description": "I further undertake that I have not taken 'DJB Employee Rebate' against any other premise/connection.",
+      "description": "I/We further undertake that I have not taken 'DJB Employee Rebate' against any other premise/connection.",
       "active": true
     },
     {
       "code": "DECLARATION_7",
-      "description": "In case the connection is found non-feasible on technical grounds as per any prevalent policy of DJB, the water connection may be denied, or if sanctioned inadvertently, the said sanction may be withdrawn and may be disconnected without any notice.",
+      "description": "I/We further undertake that in case the connection is found non-feasible on technical grounds as per any prevalent policy of DJB, the water connection may be denied, or if sanctioned inadvertently, the said sanction may be withdrawn and may be disconnected with prior notice of 07 days.",
       "active": true
     },
     {
       "code": "DECLARATION_8",
-      "description": "I hereby undertake that all the facts and documents submitted are true and correct, and in case of any misrepresentation or wrong facts, the connection may be disconnected without any notice.",
+      "description": "I/We further undertake that the Rainwater Harvesting System/STP, as applicable, shall be kept in proper functional condition at all times. Further, upon expiry of the Rainwater Harvesting Adequacy Certificate/STP Certificate, the renewed/valid certificate shall be submitted within one month to ensure continuation of the applicable rebate in the water bill, failing which DJB shall be at liberty to discontinue the rebate and impose applicable penalty as per DJB norms.",
+      "active": true
+    },
+    {
+      "code": "DECLARATION_9",
+      "description": "I/We further undertake that, after sanctioning of the water and/or sewer connection in my/our name, any dues, penalty, Infrastructure Charges (IFC), cost of water or any other charges, if found due or assessed subsequently, shall be paid by me/us within the prescribed timeline. In case of failure to make the payment within the stipulated period, Delhi Jal Board shall be at liberty to disconnect the water/sewer services being provided to me, without any further obligation.",
+      "active": true
+    },
+    {
+      "code": "DECLARATION_10",
+      "description": "I/We hereby solemnly undertake that no booster pump or water motor shall be installed or operated directly on the DJB water supply main/service pipe and make storage arrangement within 17.5 meter height and make arrangement to curb the water wastage, in contravention of Section 19 of the Delhi Jal Board Act, 1998. Delhi Jal Board shall be at liberty to take appropriate action as per DJB Act including disconnection of water/sewer services being provided to me/us, without any further obligation.",
+      "active": true
+    },
+    {
+      "code": "DECLARATION_11",
+      "description": "I/We declare that a proper sewerage disposal facility is available at the premises.",
+      "active": true
+    },
+    {
+      "code": "DECLARATION_12",
+      "description": "I/We hereby undertake that all the facts and documents submitted are true and correct, and in case of any misrepresentation or wrong facts, the connection may be disconnected without any notice and action may be taken as per norms of DJB.",
       "active": true
     }
   ]
