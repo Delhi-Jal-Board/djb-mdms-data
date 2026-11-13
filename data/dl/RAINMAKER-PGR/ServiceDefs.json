@@ -306,58 +306,58 @@
       "order": 6
     },
     {
-    "serviceCode": "PropertyTaxAssessment",
+      "serviceCode": "PropertyTaxAssessment",
       "name": "Property Tax Assessment",
       "keywords": "property, tax, Assessment",
       "department": "DEPT_13",
       "slaHours": 336,
       "menuPath": "PropertyTax",
       "active": true
-},
-{
-    "serviceCode": "PropertyTaxAppealPetition",
+    },
+    {
+      "serviceCode": "PropertyTaxAppealPetition",
       "name": "Property Tax Appeal Petition",
       "keywords": "property, tax, appeal, petition",
       "department": "DEPT_13",
       "slaHours": 336,
       "menuPath": "PropertyTax",
       "active": true
-},
-{
-    "serviceCode": "ChangeOfTitleOrOwnershipOfProperty",
+    },
+    {
+      "serviceCode": "ChangeOfTitleOrOwnershipOfProperty",
       "name": "Change of title/ownership of property",
       "keywords": "property, ownership, title, change",
       "department": "DEPT_13",
       "slaHours": 336,
       "menuPath": "PropertyTax",
       "active": true
-},
-{
-    "serviceCode": "DealerRegistration",
+    },
+    {
+      "serviceCode": "DealerRegistration",
       "name": "Dealer registration(Cess)",
       "keywords": "property, dealer, registration",
       "department": "DEPT_13",
       "slaHours": 336,
       "menuPath": "PropertyTax",
       "active": true
-},
-{
-    "serviceCode": "DealerAssessment",
+    },
+    {
+      "serviceCode": "DealerAssessment",
       "name": "Dealer Assessment",
       "keywords": "property, dealer, assessment",
       "department": "DEPT_13",
       "slaHours": 336,
       "menuPath": "PropertyTax",
       "active": true
-},
-{
-    "serviceCode": "RefundClaims",
+    },
+    {
+      "serviceCode": "RefundClaims",
       "name": "Refund Claims",
       "keywords": "property, refund, Claims",
-      "department": "DEPT_13",
+      "department": "010",
       "slaHours": 336,
       "menuPath": "PropertyTax",
       "active": true
-}
-]
+    }
+  ]
 }

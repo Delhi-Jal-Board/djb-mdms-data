@@ -1,0 +1,60 @@
+{
+  "tenantId": "dl",
+  "moduleName": "ws-services-calculation",
+  "PropertyUsageType": [
+    {
+      "name": "Residential",
+      "code": "RESIDENTIAL",
+      "unitCost": 20,
+      "isActive": true
+    },
+    {
+      "name": "Commercial",
+      "code": "NONRESIDENTIAL.COMMERCIAL",
+      "unitCost": 30,
+      "isActive": true
+    },
+    {
+      "name": "Mercantile",
+      "code": "NONRESIDENTIAL.MERCANTILE",
+      "unitCost": 35,
+      "isActive": true
+    },
+    {
+      "name": "Industrial",
+      "code": "NONRESIDENTIAL.INDUSTRIAL",
+      "unitCost": 15,
+      "isActive": true
+    },
+    {
+      "name": "Institutional",
+      "code": "NONRESIDENTIAL.INSTITUTIONAL",
+      "unitCost": 25,
+      "isActive": true
+    },
+    {
+      "name": "Educational",
+      "code": "NONRESIDENTIAL.EDUCATIONAL",
+      "unitCost": 15,
+      "isActive": true
+    },
+    {
+      "name": "Assembly",
+      "code": "NONRESIDENTIAL.ASSEMBLY",
+      "unitCost": 35,
+      "isActive": true
+    },
+    {
+      "name": "Storage & Parking",
+      "code": "NONRESIDENTIAL.STORAGE",
+      "unitCost": 10,
+      "isActive": true
+    },
+    {
+      "name": "Hazardous",
+      "code": "NONRESIDENTIAL.HAZARDOUS",
+      "unitCost": 40,
+      "isActive": true
+    }
+  ]
+}

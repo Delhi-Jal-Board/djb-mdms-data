@@ -1,0 +1,25 @@
+{
+  "tenantId": "dl",
+  "moduleName": "ws-services-calculation",
+  "connectionTypeV2":[
+
+    {
+      "name" : "domestic",
+      "code" : "DOMESTIC",
+      "status" : "true"
+
+    },
+    {
+      "name" : "commercial",
+      "code" : "COMMERICAL",
+      "status" : "true"
+
+    },
+    {
+      "name" : "industrial",
+      "code" : "INDUSTRIAL",
+      "status" : "true"
+
+    }
+  ]
+}

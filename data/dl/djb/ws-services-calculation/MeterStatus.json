@@ -15,22 +15,22 @@
     {
       "name": "Breakdown",
       "code": "BREAKDOWN",
-      "active": true
+      "active": false
     },
     {
       "name": "No-meter",
       "code": "NO_METER",
-      "active": true
+      "active": false
     },
     {
       "name": "Reset",
       "code": "RESET",
-      "active": true
+      "active": false
     },
     {
       "name": "Replacement",
       "code": "REPLACEMENT",
-      "active": true
+      "active": false
     }
   ]
 }

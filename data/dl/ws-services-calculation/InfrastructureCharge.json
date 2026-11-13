@@ -1,0 +1,33 @@
+{
+  "tenantId": "dl",
+  "moduleName": "ws-services-calculation",
+  "InfrastructureCharge": [
+    {
+      "code": "IFC_2026_27",
+      "description": "Infrastructure Charges FY 2026-27",
+      "waterRatePerLPD": 75.0,
+      "sewerRatePerLPD": 45.0,
+      "annualIncrementPercentage": 5,
+      "minimumPlotArea": 200,
+      "effectiveFrom": "2026-04-01",
+      "effectiveTo": null,
+      "rebates": [
+        {
+          "categories": ["E", "F"],
+          "percentage": 50
+        },
+        {
+          "categories": ["G", "H"],
+          "percentage": 70
+        }
+      ],
+      "institutionalRebate": {
+        "percentage": 50,
+        "description": "Additional 50% rebate on net IFC for Section 12AB institutions and places of worship",
+        "eligibleUsageCodes": ["RELIGIOUS_PLACE"],
+        "eligibleFlags": ["isSection12ABRegistered"]
+      },
+      "active": true
+    }
+  ]
+}

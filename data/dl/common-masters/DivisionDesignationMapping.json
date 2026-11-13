@@ -11,6 +11,18 @@
       "description": "Project Water",
       "designations": [
         {
+          "code": "AE",
+          "name": "AE",
+          "active": true,
+          "description": "AE"
+        },
+        {
+          "code": "JE",
+          "name": "JE",
+          "active": true,
+          "description": "JE"
+        },
+        {
           "code": "CE_N_WATER",
           "name": "CE (N) Water",
           "active": true,
@@ -291,6 +303,18 @@
       "description": "Project Drainage",
       "designations": [
         {
+          "code": "AE",
+          "name": "AE",
+          "active": true,
+          "description": "AE"
+        },
+        {
+          "code": "JE",
+          "name": "JE",
+          "active": true,
+          "description": "JE"
+        },
+        {
           "code": "CE_N_DRAINAGE",
           "name": "CE (N) Drainage",
           "active": true,
@@ -456,6 +480,18 @@
       "active": true,
       "description": "Maintenance",
       "designations": [
+        {
+          "code": "AE",
+          "name": "AE",
+          "active": true,
+          "description": "AE"
+        },
+        {
+          "code": "JE",
+          "name": "JE",
+          "active": true,
+          "description": "JE"
+        },
         {
           "code": "CE_C_N",
           "name": "CE(C/N)",
@@ -796,6 +832,18 @@
       "active": true,
       "description": "E&M",
       "designations": [
+        {
+          "code": "AE",
+          "name": "AE",
+          "active": true,
+          "description": "AE"
+        },
+        {
+          "code": "JE",
+          "name": "JE",
+          "active": true,
+          "description": "JE"
+        },
         {
           "code": "EE_EANDM_M_1",
           "name": "EE(E&M) M-1",

@@ -1,0 +1,36 @@
+{
+  "tenantId": "dl",
+  "moduleName": "ws-services-calculation",
+  "floorCount": [
+    {
+      "code": "GROUND_FLOOR",
+      "name": "Ground Floor",
+      "active": true
+    },
+    {
+      "code": "FIRST_FLOOR",
+      "name": "1 Floor",
+      "active": true
+    },
+    {
+      "code": "SECOND_FLOOR",
+      "name": "2 Floor",
+      "active": true
+    },
+    {
+      "code": "THIRD_FLOOR",
+      "name": "3 Floor",
+      "active": true
+    },
+    {
+      "code": "FOURTH_FLOOR",
+      "name": "4 Floor",
+      "active": true
+    },
+    {
+      "code": "FIFTH_FLOOR",
+      "name": "5 Floor",
+      "active": true
+    }
+  ]
+}

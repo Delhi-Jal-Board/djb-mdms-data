@@ -14,7 +14,7 @@
       "code": "NEW_SEWERAGE_CONNECTION",
       "name": "New Sewerage Connection",
       "businessService": "NewSW1",
-      "active": true
+      "active": false
     },
     {
       "id": 3,
@@ -56,7 +56,7 @@
       "code": "REGULARIZATION",
       "name": "Regularization",
       "businessService": "NewSW1",
-      "active": true
+      "active": false
     },
     {
       "id": 9,

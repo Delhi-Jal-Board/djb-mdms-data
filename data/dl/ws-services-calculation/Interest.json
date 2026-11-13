@@ -1,0 +1,33 @@
+{
+  "tenantId": "dl",
+  "moduleName": "ws-services-calculation",
+  "Interest": [
+    {
+      "rate": 5,
+      "minAmount": null,
+      "applicableAfterDays":0,
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2023-24",
+      "startingDay": "30"
+    },
+    {
+      "rate": 5,
+      "minAmount": null,
+      "applicableAfterDays":0,
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2024-25",
+      "startingDay": "30"
+    },
+    {
+      "rate": 5,
+      "minAmount": null,
+      "applicableAfterDays":0,
+      "flatAmount": null,
+      "maxAmount": null,
+      "fromFY": "2025-26",
+      "startingDay": "30"
+    }
+  ]
+}

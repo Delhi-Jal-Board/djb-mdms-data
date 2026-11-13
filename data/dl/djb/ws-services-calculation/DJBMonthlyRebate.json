@@ -1,0 +1,51 @@
+{
+  "tenantId": "dl.djb",
+  "moduleName": "ws-services-calculation",
+  "DJBMonthlyRebate": [
+    {
+      "code": "FREE_WATER_20KL",
+      "name": "Free Water Up To 20 KL",
+      "rebateType": "PERCENTAGE",
+      "rate": 100,
+      "maxConsumptionKl": 20,
+      "eligibleReadingQualityCodes": [
+        "OK"
+      ],
+      "eligibleBillingBasis": [
+        "ACTUAL"
+      ],
+      "consumerType": "INDIVIDUAL_RESIDENCE",
+      "propertyCategory": "CAT_I",
+      "bulkApplicable": true,
+      "active": true
+    },
+    {
+      "code": "RWH_10",
+      "name": "RWH Rebate",
+      "rebateType": "PERCENTAGE",
+      "rate": 10,
+      "minPropertyAreaSqm": 100,
+      "requiresFunctionalRwh": true,
+      "active": true
+    },
+    {
+      "code": "RWH_WATER_RECYCLING_15",
+      "name": "RWH + Wastewater Recycling Rebate",
+      "rebateType": "PERCENTAGE",
+      "rate": 15,
+      "minPropertyAreaSqm": 500,
+      "requiresFunctionalRwh": true,
+      "requiresFunctionalWastewaterRecycling": true,
+      "active": true
+    },
+    {
+      "code": "DJB_EMPLOYEE_50",
+      "name": "DJB Employee Rebate",
+      "rebateType": "PERCENTAGE",
+      "rate": 50,
+      "eligibleConnectionType": "DOMESTIC",
+      "maxEligibleConnections": 1,
+      "active": true
+    }
+  ]
+}

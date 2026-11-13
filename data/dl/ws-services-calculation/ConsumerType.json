@@ -1,0 +1,116 @@
+{
+  "tenantId": "dl",
+  "moduleName": "ws-services-calculation",
+  "ConsumerType": [
+    {
+      "code": "CONSUMERTYPE.INDIVIDUAL",
+      "active": "true",
+      "dropdownData": [
+        {
+          "code": "RESIDENTIAL",
+          "active": "true"
+        },
+        {
+          "code": "COMMERCIAL",
+          "active": "true"
+        },
+        {
+          "code": "INDUSTRIAL",
+          "active": "true"
+        }
+      ]
+    },
+    {
+      "code": "CONSUMERTYPE.GOVERNMENT",
+      "active": "true",
+      "dropdownData": [
+        {
+          "code": "GOVT_OFFICE",
+          "active": "true"
+        },
+        {
+          "code": "PUBLIC_SECTOR",
+          "active": "true"
+        },
+        {
+          "code": "MUNICIPAL",
+          "active": "true"
+        }
+      ]
+    },
+    {
+      "code": "CONSUMERTYPE.SOCIETY.ORG",
+      "active": "true",
+      "dropdownData": [
+        {
+          "code": "RWA",
+          "active": "true"
+        },
+        {
+          "code": "COOPERATIVE_SOCIETY",
+          "active": "true"
+        },
+        {
+          "code": "HOTEL_/_RESTAURANT",
+          "active": "true"
+        },
+        {
+          "code": "BANQUET_HALL",
+          "active": "true"
+        },
+        {
+          "code": "SHOPPING_COMPLEX_/_MALL",
+          "active":"true"
+        },
+        {
+          "code":"WAREHOUSE_/_GODOWN",
+          "active":"true"
+        },
+        {
+          "code":"HOSPITAL_/_NURSING_HOME",
+          "active":"true"
+        },
+        {
+          "code":"SCHOOL_/_COLLEGE_/_UNIVERSITY",
+          "active":"true"
+        },
+        {
+          "code":"GROUP_HOUSING_SOCIETY",
+          "active":"true"
+        },
+        {
+          "code":"BUNGALOW",
+          "active":"true"
+        },
+        {
+          "code":"DHARAMSHALA_/_GUEST_HOUSE",
+          "active":"true"
+        },
+        {
+          "code":"CINEPLEX",
+          "active":"true"
+        },
+        {
+          "code":"NGO_/_TRUST",
+          "active":"true"
+        },
+        {
+          "code":"GUEST_HOUSE",
+          "active":"true"
+        },
+        {
+          "code":"BSES",
+          "active":"true"
+        },
+        {
+          "code":"BSES_RAJDHANI",
+          "active":"true"
+        },
+        {
+          "code":"TATA_POWER_DDL",
+          "active":"true"
+        }
+      ]
+    }
+  ]
+}

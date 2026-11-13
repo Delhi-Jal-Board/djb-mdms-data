@@ -1,0 +1,61 @@
+{
+  "tenantId": "dl",
+  "moduleName": "ws-services-calculation",
+  "Status": [
+    {
+      "name": "Delivered in hand to consumer",
+      "code": "DELIVERED_IN_HAND_TO_CONSUMER",
+      "isActive": true
+    },
+    {
+      "name": "Delivered to family member",
+      "code": "DELIVERED_TO_FAMILY_MEMBER",
+      "isActive": true
+    },
+    {
+      "name": "Delivered to security guard",
+      "code": "DELIVERED_TO_SECURITY_GUARD",
+      "isActive": true
+    },
+    {
+      "name": "Delivered to neighbour",
+      "code": "DELIVERED_TO_NEIGHBOUR",
+      "isActive": true
+    },
+    {
+      "name": "House locked - Placed in letter box",
+      "code": "HOUSE_LOCKED_PLACED_IN_LETTER_BOX",
+      "isActive": true
+    },
+    {
+      "name": "House locked - Pasted on door",
+      "code": "HOUSE_LOCKED_PASTED_ON_DOOR",
+      "isActive": true
+    },
+    {
+      "name": "Address not traceable",
+      "code": "ADDRESS_NOT_TRACEABLE",
+      "isActive": true
+    },
+    {
+      "name": "Consumer refused to accept",
+      "code": "CONSUMER_REFUSED_TO_ACCEPT",
+      "isActive": true
+    },
+    {
+      "name": "Premises closed",
+      "code": "PREMISES_CLOSED",
+      "isActive": true
+    },
+    {
+      "name": "Premises under construction",
+      "code": "PREMISES_UNDER_CONSTRUCTION",
+      "isActive": true
+    },
+    {
+      "name": "Meter not accessible",
+      "code": "METER_NOT_ACCESSIBLE",
+      "isActive": true
+    }
+  ]
+}

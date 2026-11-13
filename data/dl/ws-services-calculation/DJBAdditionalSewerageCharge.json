@@ -1,0 +1,89 @@
+{
+  "tenantId": "dl",
+  "moduleName": "ws-services-calculation",
+  "DJBAdditionalSewerageCharge": [
+    {
+      "code": "BANQUET_HALL",
+      "propertyUsage": "BANQUET_HALL",
+      "chargeType": "FIXED_MONTHLY",
+      "amount": 10000,
+      "unit": "FUNCTIONAL_SITE",
+      "active": true
+    },
+    {
+      "code": "HOTEL_0_50",
+      "propertyUsage": "HOTEL_GUEST_HOUSE",
+      "fromRooms": 0,
+      "toRooms": 50,
+      "chargeType": "FIXED_MONTHLY",
+      "amount": 2000,
+      "active": true
+    },
+    {
+      "code": "HOTEL_51_100",
+      "propertyUsage": "HOTEL_GUEST_HOUSE",
+      "fromRooms": 51,
+      "toRooms": 100,
+      "chargeType": "FIXED_MONTHLY",
+      "amount": 10000,
+      "active": true
+    },
+    {
+      "code": "HOTEL_ABOVE_100",
+      "propertyUsage": "HOTEL_GUEST_HOUSE",
+      "fromRooms": 101,
+      "toRooms": null,
+      "chargeType": "BASE_PLUS_PER_BLOCK",
+      "baseAmount": 10000,
+      "blockAmount": 2500,
+      "blockSize": 50,
+      "active": true
+    },
+    {
+      "code": "MALL_CINEPLEX",
+      "propertyUsage": "MALL_CINEPLEX",
+      "chargeType": "FIXED_MONTHLY",
+      "amount": 10000,
+      "unit": "SITE",
+      "active": true
+    },
+    {
+      "code": "HOSPITAL_0_25",
+      "propertyUsage": "HOSPITAL",
+      "fromBeds": 0,
+      "toBeds": 25,
+      "chargeType": "FIXED_MONTHLY",
+      "amount": 1500,
+      "active": true
+    },
+    {
+      "code": "HOSPITAL_25_50",
+      "propertyUsage": "HOSPITAL",
+      "fromBeds": 25,
+      "toBeds": 50,
+      "chargeType": "FIXED_MONTHLY",
+      "amount": 2000,
+      "active": true
+    },
+    {
+      "code": "HOSPITAL_50_100",
+      "propertyUsage": "HOSPITAL",
+      "fromBeds": 50,
+      "toBeds": 100,
+      "chargeType": "FIXED_MONTHLY",
+      "amount": 10000,
+      "active": true
+    },
+    {
+      "code": "HOSPITAL_ABOVE_100",
+      "propertyUsage": "HOSPITAL",
+      "fromBeds": 101,
+      "toBeds": null,
+      "chargeType": "BASE_PLUS_PER_BLOCK",
+      "baseAmount": 10000,
+      "blockAmount": 2500,
+      "blockSize": 50,
+      "active": true
+    }
+  ]
+}

@@ -343,6 +343,61 @@
       "description": "FSM Desluding Operator"
     },
     {
+      "code": "FSM_CREATOR_EMP",
+      "name": "FSM Creator Employee",
+      "description": "Role for creating FSM desludging applications"
+    },
+    {
+      "code": "FSM_EDITOR_EMP",
+      "name": "FSM Editor Employee",
+      "description": "Role for updating and editing FSM applications"
+    },
+    {
+      "code": "FSM_ADMIN",
+      "name": "FSM Admin",
+      "description": "Admin role for Faecal Sludge Management module and registry"
+    },
+    {
+      "code": "ES_FSM_ADMIN",
+      "name": "FSM Enterprise Admin",
+      "description": "Enterprise Admin role for FSM module"
+    },
+    {
+      "code": "FSM_EMP_FSTPO",
+      "name": "FSTP Operator",
+      "description": "Role for FSTP plant operations and vehicle entry"
+    },
+    {
+      "code": "FSM_REPORT_VIEWER",
+      "name": "FSM Report Viewer",
+      "description": "Role for viewing FSM analytical and operational reports"
+    },
+    {
+      "code": "FSM_VIEW_EMP",
+      "name": "FSM View Employee",
+      "description": "Role for searching and viewing FSM applications"
+    },
+    {
+      "code": "FSM_DRIVER",
+      "name": "FSM Driver",
+      "description": "FSM Vehicle Driver"
+    },
+    {
+      "code": "FSM_COLLECTOR",
+      "name": "FSM Collector",
+      "description": "Role for FSM payment collections"
+    },
+    {
+      "code": "FSM_DASHBOARD_VIEWER",
+      "name": "FSM Dashboard Viewer",
+      "description": "Role for viewing FSM dashboard"
+    },
+    {
+      "code": "FSM_CEMP",
+      "name": "FSM Counter Employee",
+      "description": "Counter employee who creates FSM desludging applications on behalf of citizens"
+    },
+    {
       "code": "COMMON_VENDOR",
       "name": "COMMON_VENDOR",
       "description": "Common Vendor role for add and update Driver"
@@ -416,6 +471,76 @@
       "code": "SYSTEM_PAYMENT",
       "name": "System Payment",
       "description": "Role for managing system payments"
-    }
+    },
+    {
+      "code": "WS_DEALING_CLERK",
+      "name": "Water Supply Dealing Clerk",
+      "description": "Clerk role for managing water supply dealing and mutation operations"
+    },
+    {
+      "code": "SW_DEALING_CLERK",
+      "name": "Sewerage Dealing Clerk",
+      "description": "Clerk role for managing sewerage dealing and mutation operations"
+    },
+    {
+      "code": "CSR",
+      "name": "Customer Service Representative",
+      "description": "Customer Service Representative for filing and managing grievances on behalf of citizens"
+    },
+    {
+      "code": "PGR_LME",
+      "name": "PGR Last Mile Employee",
+      "description": "Field official / Last Mile Employee responsible for ground resolution of grievances"
+    },
+    {
+      "code": "PGR-ADMIN",
+      "name": "PGR Administrator",
+      "description": "Administrator for Public Grievance Redressal module configuration"
+    },
+    {
+      "code": "DGRO",
+      "name": "Departmental Grievance Routing Officer",
+      "description": "Department-level officer for grievance routing and escalation"
+    },
+    {
+      "code": "GO",
+      "name": "Grievance Officer",
+      "description": "Grievance Officer handling complaint verification and resolution"
+    },
+    {
+      "code": "RO",
+      "name": "Routing Officer",
+      "description": "Routing Officer responsible for complaint assignment"
+    },
+    {
+      "code": "GA",
+      "name": "Grievance Approver",
+      "description": "Grievance Approver for high-priority or reopened complaints"
+    },
+    {
+      "code": "CEMP",
+      "name": "Call Center Employee",
+      "description": "Call Center / Counter Employee for registering citizen complaints"
+    },
+    {
+      "code": "ULB Operator",
+      "name": "ULB Operator",
+      "description": "ULB Operator for handling municipal complaints"
+    },
+    {
+      "code": "WS_ZRO",
+      "name": "WS ZRO",
+      "description": "Zonal Review Officer - approver"
+    },
+    {
+      "code": "BC_DEPUTY_DIRECTOR",
+      "name": "BC Deputy Director",
+      "description": "Deputy Director - Approver"
+   },
+   {
+      "code": "BC_DOR",
+      "name": "BC DOR",
+      "description": "Director Of Revenue - Approver"
+   }
   ]
 }

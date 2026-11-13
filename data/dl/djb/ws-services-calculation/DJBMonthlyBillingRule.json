@@ -1,0 +1,18 @@
+{
+  "tenantId": "dl.djb",
+  "moduleName": "ws-services-calculation",
+  "DJBMonthlyBillingRule": [
+    {
+      "code": "DEFAULT",
+      "name": "DJB Monthly Metered Billing Rules",
+      "averageLookbackMonths": 12,
+      "averageMaximumCycles": 2,
+      "provisionalMaximumCycles": 2,
+      "minimumPostAverageConsumptionKl": 25,
+      "highConsumptionMultiplier": 1.5,
+      "highConsumptionThresholdKl": 20,
+      "monthlyBilling": true,
+      "active": true
+    }
+  ]
+}

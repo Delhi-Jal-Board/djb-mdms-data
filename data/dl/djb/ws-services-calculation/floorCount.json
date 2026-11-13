@@ -3,6 +3,16 @@
   "moduleName": "ws-services-calculation",
   "floorCount": [
     {
+      "code": "MEZZANINE_FLOOR",
+      "name": "Mezzanine Floor",
+      "active": true
+    },
+    {
+      "code": "BASEMENT_FLOOR",
+      "name": "Basement Floor",
+      "active": true
+    },
+    {
       "code": "GROUND_FLOOR",
       "name": "Ground Floor",
       "active": true

@@ -1,0 +1,96 @@
+{
+  "tenantId": "dl",
+  "moduleName": "ws-services-calculation",
+  "DJBReadingQualityCode": [
+    {
+      "code": "OK",
+      "name": "OK",
+      "billingTreatment": "ACTUAL",
+      "active": true
+    },
+    {
+      "code": "UNMT",
+      "name": "Running Unmetered",
+      "billingTreatment": "AVERAGE",
+      "active": false
+    },
+    {
+      "code": "TEST",
+      "name": "Meter Under Testing",
+      "billingTreatment": "AVERAGE",
+      "active": false
+    },
+    {
+      "code": "MREV",
+      "name": "Meter Reverse",
+      "billingTreatment": "AVERAGE",
+      "active": false
+    },
+    {
+      "code": "STP",
+      "name": "Stopped Meter",
+      "billingTreatment": "AVERAGE",
+      "active": true
+    },
+    {
+      "code": "MTTM",
+      "name": "Meter Tampered",
+      "billingTreatment": "AVERAGE",
+      "active": true
+    },
+    {
+      "code": "BYPS",
+      "name": "T-Joint / By-Pass",
+      "billingTreatment": "AVERAGE",
+      "active": false
+    },
+    {
+      "code": "MLOC",
+      "name": "Meter Locked",
+      "billingTreatment": "AVERAGE",
+      "active": true
+    },
+    {
+      "code": "PLOC",
+      "name": "Premises Locked",
+      "billingTreatment": "AVERAGE",
+      "active": true
+    },
+    {
+      "code": "RDDT",
+      "name": "Reading Detained",
+      "billingTreatment": "AVERAGE",
+      "active": false
+    },
+    {
+      "code": "ADF",
+      "name": "Access Denied / Refused",
+      "billingTreatment": "AVERAGE",
+      "active": true
+    },
+    {
+      "code": "DUST",
+      "name": "Dusty Meter",
+      "billingTreatment": "AVERAGE",
+      "active": true
+    },
+    {
+      "code": "VMMT",
+      "name": "Vapoured / Moisture Meter",
+      "billingTreatment": "AVERAGE",
+      "active": true
+    },
+    {
+      "code": "MBUR",
+      "name": "Meter Buried",
+      "billingTreatment": "AVERAGE",
+      "active": false
+    },
+    {
+      "code": "NRES",
+      "name": "No Response",
+      "billingTreatment": "AVERAGE",
+      "active": false
+    }
+  ]
+}

@@ -470,6 +470,117 @@
       "effectiveFrom": "2026-07-01",
       "effectiveTo": null,
       "isActive": true
-    }
+    },
+    {
+      "connectionCategory": "DOMESTIC",
+      "colonyCategoryGroup": "ALL",
+      "colonyCategories": ["A","B","C","D","E","F","G","H"],
+     "relationType": "NON_BLOOD",
+     "feeComponent": "MUTATION_TRADE_SECURITY",
+     "taxHeadCode": "WS_MUTATION_TRADE_SECURITY",
+     "amount": 5000,
+     "percentage": 0,
+     "effectiveFrom": "2026-07-01",
+     "effectiveTo": null,
+     "isActive": true
+    },
+    {
+    "connectionCategory": "COMMERCIAL",
+    "colonyCategoryGroup": "ALL",
+    "colonyCategories": ["A","B","C","D","E","F","G","H"],
+    "relationType": "NON_BLOOD",
+    "feeComponent": "OCCUPY_SECURITY_CHARGE",
+    "taxHeadCode": "WS_OCCUPY_SECURITY_CHARGE",
+    "amount": 250,
+    "percentage": 0,
+    "effectiveFrom": "2026-07-01",
+    "effectiveTo": null,
+    "isActive": true
+   },
+   {
+      "connectionCategory": "DOMESTIC",
+      "colonyCategoryGroup": "ALL",
+      "colonyCategories": ["A","B","C","D","E","F","G","H"],
+      "feeComponent": "TEMPORARY_DISCONNECTION_FEE",
+      "taxHeadCode": "WS_DISCONNECTION_FEE",
+      "amount": 250,
+      "percentage": 0,
+      "effectiveFrom": "2021-11-15",
+      "effectiveTo": null,
+      "isActive": true
+    },
+    {
+      "connectionCategory": "DOMESTIC",
+      "colonyCategoryGroup": "ALL",
+      "colonyCategories": ["A","B","C","D","E","F","G","H"],
+      "feeComponent": "NON_PAYMENT_DISCONNECTION_FEE",
+      "taxHeadCode": "WS_DISCONNECTION_FEE",
+      "amount": 100,
+      "percentage": 0,
+      "effectiveFrom": "2021-11-15",
+      "effectiveTo": null,
+      "isActive": true
+    },
+    {
+      "connectionCategory": "DOMESTIC",
+      "colonyCategoryGroup": "ALL",
+      "colonyCategories": ["A","B","C","D","E","F","G","H"],
+      "feeComponent": "PERMANENT_DISCONNECTION_FEE",
+      "taxHeadCode": "WS_DISCONNECTION_FEE",
+      "amount": 1300,
+      "percentage": 0,
+      "effectiveFrom": "2021-11-15",
+      "effectiveTo": null,
+      "isActive": true
+    },
+    {
+      "connectionCategory": "COMMERCIAL",
+      "colonyCategoryGroup": "ALL",
+      "colonyCategories": ["A","B","C","D","E","F","G","H"],
+      "feeComponent": "TEMPORARY_DISCONNECTION_FEE",
+      "taxHeadCode": "WS_DISCONNECTION_FEE",
+      "amount": 250,
+      "percentage": 0,
+      "effectiveFrom": "2021-11-15",
+      "effectiveTo": null,
+      "isActive": true
+    },
+    {
+      "connectionCategory": "COMMERCIAL",
+      "colonyCategoryGroup": "ALL",
+      "colonyCategories": ["A","B","C","D","E","F","G","H"],
+      "feeComponent": "NON_PAYMENT_DISCONNECTION_FEE",
+      "taxHeadCode": "WS_DISCONNECTION_FEE",
+      "amount": 100,
+      "percentage": 0,
+      "effectiveFrom": "2021-11-15",
+      "effectiveTo": null,
+      "isActive": true
+    },
+    {
+      "connectionCategory": "COMMERCIAL",
+      "colonyCategoryGroup": "ALL",
+      "colonyCategories": ["A","B","C","D","E","F","G","H"],
+      "feeComponent": "PERMANENT_DISCONNECTION_FEE",
+      "taxHeadCode": "WS_DISCONNECTION_FEE",
+      "amount": 1300,
+      "percentage": 0,
+      "effectiveFrom": "2021-11-15",
+      "effectiveTo": null,
+      "isActive": true
+    },
+    {
+     "connectionCategory": "DOMESTIC",
+     "colonyCategoryGroup": "ALL",
+     "colonyCategories": ["A","B","C","D","E","F","G","H"],
+     "relationType": "NON_BLOOD",
+     "feeComponent": "OCCUPY_SECURITY_CHARGE",
+     "taxHeadCode": "WS_OCCUPY_SECURITY_CHARGE",
+     "amount": 500,
+     "percentage": 0,
+     "effectiveFrom": "2026-07-01",
+     "effectiveTo": null,
+     "isActive": true
+}
   ]
 }

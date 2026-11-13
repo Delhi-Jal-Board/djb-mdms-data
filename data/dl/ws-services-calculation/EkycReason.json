@@ -1,0 +1,71 @@
+{
+  "tenantId": "dl",
+  "moduleName": "ws-services-calculation",
+  "EkycReason": [
+    {
+      "code": "EKYCREASON_01",
+      "reason": "House Locked – No Response",
+      "active": "true"
+    },
+    {
+      "code": "EKYCREASON_02",
+      "reason": "Consumer Out of Station",
+      "active": "true"
+    },
+    {
+      "code": "EKYCREASON_03",
+      "reason": "Neighbor Informed – Shifted",
+      "active": "true"
+    },
+    {
+      "code": "EKYCREASON_04",
+      "reason": "Restricted Entry",
+      "active": "true"
+    },
+    {
+      "code": "EKYCREASON_05",
+      "reason": "Incorrect Address",
+      "active": "true"
+    },
+    {
+      "code": "EKYCREASON_06",
+      "reason": "Safety or Environmental Constraint (Unsafe Area / Weather Issue)",
+      "active": "true"
+    },
+    {
+      "code": "EKYCREASON_07",
+      "reason": "Visit Attempted Outside Permissible Hours",
+      "active": "true"
+    },
+    {
+      "code": "EKYCREASON_08",
+      "reason": "Access Restricted (Gated Society / Locked Building Entry)",
+      "active": "true"
+    },
+    {
+      "code": "EKYCREASON_09",
+      "reason": "Incorrect Address / Location Not Traceable",
+      "active": "true"
+    },
+    {
+      "code": "EKYCREASON_10",
+      "reason": "Consumer Temporarily Away",
+      "active": "true"
+    },
+    {
+      "code": "EKYCREASON_11",
+      "reason": "Consumer Permanently Shifted",
+      "active": "true"
+    },
+    {
+      "code": "EKYCREASON_12",
+      "reason": "Premises Found Locked for Long Duration",
+      "active": "true"
+    },
+    {
+      "code": "EKYCREASON_13",
+      "reason": "Consumer Not Available (Door Closed)",
+      "active": "true"
+    }
+  ]
+}

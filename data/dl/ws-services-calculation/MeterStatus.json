@@ -1,0 +1,36 @@
+{
+  "tenantId": "dl",
+  "moduleName": "ws-services-calculation",
+  "MeterStatus": [
+    {
+      "name": "Working",
+      "code": "WORKING",
+      "active": true
+    },
+    {
+      "name": "Locked",
+      "code": "LOCKED",
+      "active": true
+    },
+    {
+      "name": "Breakdown",
+      "code": "BREAKDOWN",
+      "active": false
+    },
+    {
+      "name": "No-meter",
+      "code": "NO_METER",
+      "active": false
+    },
+    {
+      "name": "Reset",
+      "code": "RESET",
+      "active": false
+    },
+    {
+      "name": "Replacement",
+      "code": "REPLACEMENT",
+      "active": false
+    }
+  ]
+}

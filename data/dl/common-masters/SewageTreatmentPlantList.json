@@ -408,6 +408,210 @@
       "longitude": 77.247387,
       "rank": 37,
       "active": true
+    },
+    {
+      "id": 38,
+      "code": "STP_NEW_038",
+      "name": "70 MGD WWTP Coronation Pillar",
+      "active": true
+    },
+    {
+      "id": 39,
+      "code": "STP_NEW_039",
+      "name": "70 MGD WWTP Coronation Coronation Pillar",
+      "active": true
+    },
+    {
+      "id": 40,
+      "code": "STP_NEW_040",
+      "name": "A-Block Sarita Vihar SPS",
+      "active": true
+    },
+    {
+      "id": 41,
+      "code": "STP_NEW_041",
+      "name": "Avantika SPS",
+      "active": true
+    },
+    {
+      "id": 42,
+      "code": "STP_NEW_042",
+      "name": "coronation piller",
+      "active": true
+    },
+    {
+      "id": 43,
+      "code": "STP_NEW_043",
+      "name": "Ghitorni STP",
+      "active": true
+    },
+    {
+      "id": 44,
+      "code": "STP_NEW_044",
+      "name": "Keshopur Interceptor",
+      "active": true
+    },
+    {
+      "id": 45,
+      "code": "STP_NEW_045",
+      "name": "Keshopur STP",
+      "active": true
+    },
+    {
+      "id": 46,
+      "code": "STP_NEW_046",
+      "name": "Keshopur STP Ph-I",
+      "active": true
+    },
+    {
+      "id": 47,
+      "code": "STP_NEW_047",
+      "name": "Keshopur STP Ph-I, II & III",
+      "active": true
+    },
+    {
+      "id": 48,
+      "code": "STP_NEW_048",
+      "name": "Keshopur STP Ph-II",
+      "active": true
+    },
+    {
+      "id": 49,
+      "code": "STP_NEW_049",
+      "name": "Keshopur STP Ph-III",
+      "active": true
+    },
+    {
+      "id": 50,
+      "code": "STP_NEW_050",
+      "name": "Kondli STP",
+      "active": true
+    },
+    {
+      "id": 51,
+      "code": "STP_NEW_051",
+      "name": "Madhav Setu SP",
+      "active": true
+    },
+    {
+      "id": 52,
+      "code": "STP_NEW_052",
+      "name": "Najafgarh STP",
+      "active": true
+    },
+    {
+      "id": 53,
+      "code": "STP_NEW_053",
+      "name": "Nehru Vihar SPS",
+      "active": true
+    },
+    {
+      "id": 54,
+      "code": "STP_NEW_054",
+      "name": "Nilothi Ph- I& II",
+      "active": true
+    },
+    {
+      "id": 55,
+      "code": "STP_NEW_055",
+      "name": "Nilothi STP",
+      "active": true
+    },
+    {
+      "id": 56,
+      "code": "STP_NEW_056",
+      "name": "Nilothi STP Ph-II",
+      "active": true
+    },
+    {
+      "id": 57,
+      "code": "STP_NEW_057",
+      "name": "Nlothi STP",
+      "active": true
+    },
+    {
+      "id": 58,
+      "code": "STP_NEW_058",
+      "name": "NTS",
+      "active": true
+    },
+    {
+      "id": 59,
+      "code": "STP_NEW_059",
+      "name": "Okhla STP",
+      "active": true
+    },
+    {
+      "id": 60,
+      "code": "STP_NEW_060",
+      "name": "outfall not traceable",
+      "active": true
+    },
+    {
+      "id": 61,
+      "code": "STP_NEW_061",
+      "name": "Pappan Kalan STP",
+      "active": true
+    },
+    {
+      "id": 62,
+      "code": "STP_NEW_062",
+      "name": "Phase III Coronation Pillar",
+      "active": true
+    },
+    {
+      "id": 63,
+      "code": "STP_NEW_063",
+      "name": "Rithala STP",
+      "active": true
+    },
+    {
+      "id": 64,
+      "code": "STP_NEW_064",
+      "name": "Rithala STP Ph-1",
+      "active": true
+    },
+    {
+      "id": 65,
+      "code": "STP_NEW_065",
+      "name": "Rithala STP ph-II",
+      "active": true
+    },
+    {
+      "id": 66,
+      "code": "STP_NEW_066",
+      "name": "Rohini sector 25 STP",
+      "active": true
+    },
+    {
+      "id": 67,
+      "code": "STP_NEW_067",
+      "name": "Sector B-4 Vasant Kunj STP",
+      "active": true
+    },
+    {
+      "id": 68,
+      "code": "STP_NEW_068",
+      "name": "STP NSTPC (Coronation)",
+      "active": true
+    },
+    {
+      "id": 69,
+      "code": "STP_NEW_069",
+      "name": "Vasant Kunj STP",
+      "active": true
+    },
+    {
+      "id": 70,
+      "code": "STP_NEW_070",
+      "name": "Yamuna Vihar STP",
+      "active": true
+    },
+    {
+      "id": 71,
+      "code": "STP_NEW_071",
+      "name": "Yamuna Vihar STP Ph-III",
+      "active": true
     }
   ]
 }

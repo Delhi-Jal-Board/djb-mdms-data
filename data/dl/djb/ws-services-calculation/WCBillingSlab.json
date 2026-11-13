@@ -197,7 +197,7 @@
         }
       ]
     },
-       {
+    {
       "id": "8",
       "buildingType": "NONRESIDENTIAL",
       "calculationAttribute": "No. of taps",
@@ -439,8 +439,8 @@
       "connectionType": "Bulk-supply",
       "minimumCharge": 0,
       "slabs": [
-    {  
-       "from": 0,
+        {
+          "from": 0,
           "to": 1000000000,
           "charge": 0
         }
@@ -629,6 +629,699 @@
     {
       "id": "41",
       "buildingType": "MIXED",
+      "calculationAttribute": "Flat",
+      "connectionType": "Bulk-supply",
+      "minimumCharge": 0,
+      "slabs": []
+    },
+    {
+      "id": "42",
+      "buildingType": "INDUSTRIAL",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 300,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 50,
+          "charge": 30,
+          "meterCharge": 500
+        },
+        {
+          "from": 50,
+          "to": 100,
+          "charge": 45,
+          "meterCharge": 750
+        },
+        {
+          "from": 100,
+          "to": 1000000000,
+          "charge": 60,
+          "meterCharge": 1000
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "buildingType": "INDUSTRIAL",
+      "calculationAttribute": "No. of taps",
+      "connectionType": "Non Metered",
+      "minimumCharge": 300,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 400
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "buildingType": "INDUSTRIAL",
+      "calculationAttribute": "Pipe Size",
+      "connectionType": "Non Metered",
+      "minimumCharge": 300,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 500
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "buildingType": "INDUSTRIAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 800,
+      "slabs": []
+    },
+    {
+      "id": "46",
+      "buildingType": "INDUSTRIAL",
+      "calculationAttribute": "No. of taps",
+      "connectionType": "Bulk-supply",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 0
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "buildingType": "INDUSTRIAL",
+      "calculationAttribute": "Pipe Size",
+      "connectionType": "Bulk-supply",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 0
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "buildingType": "INDUSTRIAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Bulk-supply",
+      "minimumCharge": 0,
+      "slabs": []
+    },
+    {
+      "id": "49",
+      "buildingType": "INSTITUTIONAL",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 200,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 20,
+          "charge": 12,
+          "meterCharge": 200
+        },
+        {
+          "from": 20,
+          "to": 50,
+          "charge": 20,
+          "meterCharge": 400
+        },
+        {
+          "from": 50,
+          "to": 1000000000,
+          "charge": 35,
+          "meterCharge": 600
+        }
+      ]
+    },
+    {
+      "id": "50",
+      "buildingType": "INSTITUTIONAL",
+      "calculationAttribute": "No. of taps",
+      "connectionType": "Non Metered",
+      "minimumCharge": 200,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 250
+        }
+      ]
+    },
+    {
+      "id": "51",
+      "buildingType": "INSTITUTIONAL",
+      "calculationAttribute": "Pipe Size",
+      "connectionType": "Non Metered",
+      "minimumCharge": 200,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 300
+        }
+      ]
+    },
+    {
+      "id": "52",
+      "buildingType": "INSTITUTIONAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 500,
+      "slabs": []
+    },
+    {
+      "id": "53",
+      "buildingType": "INSTITUTIONAL",
+      "calculationAttribute": "No. of taps",
+      "connectionType": "Bulk-supply",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 0
+        }
+      ]
+    },
+    {
+      "id": "54",
+      "buildingType": "INSTITUTIONAL",
+      "calculationAttribute": "Pipe Size",
+      "connectionType": "Bulk-supply",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 0
+        }
+      ]
+    },
+    {
+      "id": "55",
+      "buildingType": "INSTITUTIONAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Bulk-supply",
+      "minimumCharge": 0,
+      "slabs": []
+    },
+    {
+      "id": "56",
+      "buildingType": "EDUCATIONAL",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 150,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 20,
+          "charge": 8,
+          "meterCharge": 150
+        },
+        {
+          "from": 20,
+          "to": 50,
+          "charge": 15,
+          "meterCharge": 300
+        },
+        {
+          "from": 50,
+          "to": 1000000000,
+          "charge": 25,
+          "meterCharge": 450
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "buildingType": "EDUCATIONAL",
+      "calculationAttribute": "No. of taps",
+      "connectionType": "Non Metered",
+      "minimumCharge": 150,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 180
+        }
+      ]
+    },
+    {
+      "id": "58",
+      "buildingType": "EDUCATIONAL",
+      "calculationAttribute": "Pipe Size",
+      "connectionType": "Non Metered",
+      "minimumCharge": 150,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 220
+        }
+      ]
+    },
+    {
+      "id": "59",
+      "buildingType": "EDUCATIONAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 400,
+      "slabs": []
+    },
+    {
+      "id": "60",
+      "buildingType": "EDUCATIONAL",
+      "calculationAttribute": "No. of taps",
+      "connectionType": "Bulk-supply",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 0
+        }
+      ]
+    },
+    {
+      "id": "61",
+      "buildingType": "EDUCATIONAL",
+      "calculationAttribute": "Pipe Size",
+      "connectionType": "Bulk-supply",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 0
+        }
+      ]
+    },
+    {
+      "id": "62",
+      "buildingType": "EDUCATIONAL",
+      "calculationAttribute": "Flat",
+      "connectionType": "Bulk-supply",
+      "minimumCharge": 0,
+      "slabs": []
+    },
+    {
+      "id": "63",
+      "buildingType": "ASSEMBLY",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 250,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 20,
+          "charge": 18,
+          "meterCharge": 300
+        },
+        {
+          "from": 20,
+          "to": 50,
+          "charge": 30,
+          "meterCharge": 500
+        },
+        {
+          "from": 50,
+          "to": 1000000000,
+          "charge": 45,
+          "meterCharge": 800
+        }
+      ]
+    },
+    {
+      "id": "64",
+      "buildingType": "ASSEMBLY",
+      "calculationAttribute": "No. of taps",
+      "connectionType": "Non Metered",
+      "minimumCharge": 250,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 300
+        }
+      ]
+    },
+    {
+      "id": "65",
+      "buildingType": "ASSEMBLY",
+      "calculationAttribute": "Pipe Size",
+      "connectionType": "Non Metered",
+      "minimumCharge": 250,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 350
+        }
+      ]
+    },
+    {
+      "id": "66",
+      "buildingType": "ASSEMBLY",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 600,
+      "slabs": []
+    },
+    {
+      "id": "67",
+      "buildingType": "ASSEMBLY",
+      "calculationAttribute": "No. of taps",
+      "connectionType": "Bulk-supply",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 0
+        }
+      ]
+    },
+    {
+      "id": "68",
+      "buildingType": "ASSEMBLY",
+      "calculationAttribute": "Pipe Size",
+      "connectionType": "Bulk-supply",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 0
+        }
+      ]
+    },
+    {
+      "id": "69",
+      "buildingType": "ASSEMBLY",
+      "calculationAttribute": "Flat",
+      "connectionType": "Bulk-supply",
+      "minimumCharge": 0,
+      "slabs": []
+    },
+    {
+      "id": "70",
+      "buildingType": "STORAGE",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 250,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 50,
+          "charge": 20,
+          "meterCharge": 300
+        },
+        {
+          "from": 50,
+          "to": 1000000000,
+          "charge": 35,
+          "meterCharge": 600
+        }
+      ]
+    },
+    {
+      "id": "71",
+      "buildingType": "STORAGE",
+      "calculationAttribute": "No. of taps",
+      "connectionType": "Non Metered",
+      "minimumCharge": 250,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 280
+        }
+      ]
+    },
+    {
+      "id": "72",
+      "buildingType": "STORAGE",
+      "calculationAttribute": "Pipe Size",
+      "connectionType": "Non Metered",
+      "minimumCharge": 250,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 320
+        }
+      ]
+    },
+    {
+      "id": "73",
+      "buildingType": "STORAGE",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 500,
+      "slabs": []
+    },
+    {
+      "id": "74",
+      "buildingType": "STORAGE",
+      "calculationAttribute": "No. of taps",
+      "connectionType": "Bulk-supply",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 0
+        }
+      ]
+    },
+    {
+      "id": "75",
+      "buildingType": "STORAGE",
+      "calculationAttribute": "Pipe Size",
+      "connectionType": "Bulk-supply",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 0
+        }
+      ]
+    },
+    {
+      "id": "76",
+      "buildingType": "STORAGE",
+      "calculationAttribute": "Flat",
+      "connectionType": "Bulk-supply",
+      "minimumCharge": 0,
+      "slabs": []
+    },
+    {
+      "id": "77",
+      "buildingType": "HAZARDOUS",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 500,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 50,
+          "charge": 50,
+          "meterCharge": 1000
+        },
+        {
+          "from": 50,
+          "to": 1000000000,
+          "charge": 80,
+          "meterCharge": 1500
+        }
+      ]
+    },
+    {
+      "id": "78",
+      "buildingType": "HAZARDOUS",
+      "calculationAttribute": "No. of taps",
+      "connectionType": "Non Metered",
+      "minimumCharge": 500,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 600
+        }
+      ]
+    },
+    {
+      "id": "79",
+      "buildingType": "HAZARDOUS",
+      "calculationAttribute": "Pipe Size",
+      "connectionType": "Non Metered",
+      "minimumCharge": 500,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 750
+        }
+      ]
+    },
+    {
+      "id": "80",
+      "buildingType": "HAZARDOUS",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 1000,
+      "slabs": []
+    },
+    {
+      "id": "81",
+      "buildingType": "HAZARDOUS",
+      "calculationAttribute": "No. of taps",
+      "connectionType": "Bulk-supply",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 0
+        }
+      ]
+    },
+    {
+      "id": "82",
+      "buildingType": "HAZARDOUS",
+      "calculationAttribute": "Pipe Size",
+      "connectionType": "Bulk-supply",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 0
+        }
+      ]
+    },
+    {
+      "id": "83",
+      "buildingType": "HAZARDOUS",
+      "calculationAttribute": "Flat",
+      "connectionType": "Bulk-supply",
+      "minimumCharge": 0,
+      "slabs": []
+    },
+    {
+      "id": "84",
+      "buildingType": "MERCANTILE",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 200,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 10,
+          "charge": 13.31,
+          "meterCharge": 532.4
+        },
+        {
+          "from": 10,
+          "to": 25,
+          "charge": 26.62,
+          "meterCharge": 798.6
+        },
+        {
+          "from": 25,
+          "to": 50,
+          "charge": 66.55,
+          "meterCharge": 931.7
+        },
+        {
+          "from": 50,
+          "to": 100,
+          "charge": 106.48,
+          "meterCharge": 1064.8
+        },
+        {
+          "from": 100,
+          "to": 1000000000,
+          "charge": 133.1,
+          "meterCharge": 1197.9
+        }
+      ]
+    },
+    {
+      "id": "85",
+      "buildingType": "MERCANTILE",
+      "calculationAttribute": "No. of taps",
+      "connectionType": "Non Metered",
+      "minimumCharge": 200,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 300
+        }
+      ]
+    },
+    {
+      "id": "86",
+      "buildingType": "MERCANTILE",
+      "calculationAttribute": "Pipe Size",
+      "connectionType": "Non Metered",
+      "minimumCharge": 200,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 350
+        }
+      ]
+    },
+    {
+      "id": "87",
+      "buildingType": "MERCANTILE",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 550,
+      "slabs": []
+    },
+    {
+      "id": "88",
+      "buildingType": "MERCANTILE",
+      "calculationAttribute": "No. of taps",
+      "connectionType": "Bulk-supply",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 0
+        }
+      ]
+    },
+    {
+      "id": "89",
+      "buildingType": "MERCANTILE",
+      "calculationAttribute": "Pipe Size",
+      "connectionType": "Bulk-supply",
+      "minimumCharge": 0,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 0
+        }
+      ]
+    },
+    {
+      "id": "90",
+      "buildingType": "MERCANTILE",
       "calculationAttribute": "Flat",
       "connectionType": "Bulk-supply",
       "minimumCharge": 0,

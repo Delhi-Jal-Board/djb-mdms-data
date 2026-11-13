@@ -781,6 +781,22 @@
         {
 		  "idname": "request-service.water_tanker.receipt.id",
 		  "format": "WT/RECEIPT/[cy:yyyy-MM-dd]-[SEQ_WATER_TANKER]"
-		}
+		},
+	    {
+           "format": "WS.OTP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_WS_FEE_RCPT_[TENANT_ID]]",
+           "idname": "ws.mutation.receipt.id"
+        },
+        {
+           "format": "SW.OTP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_SW_FEE_RCPT_[TENANT_ID]]",
+           "idname": "sw.mutation.receipt.id"
+        },
+		{
+           "format": "WS.OTP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_WS_FEE_RCPT_[TENANT_ID]]",
+           "idname": "ws.disconnection.receipt.id"
+        },
+        {
+          "format": "SW.OTP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_SW_FEE_RCPT_[TENANT_ID]]",
+          "idname": "sw.disconnection.receipt.id"
+        }
     ]
 }

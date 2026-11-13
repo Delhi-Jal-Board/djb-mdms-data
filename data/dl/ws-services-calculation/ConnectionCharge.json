@@ -1,0 +1,72 @@
+{
+  "tenantId": "dl",
+  "moduleName": "ws-services-calculation",
+  "ConnectionCharge": [
+    {
+      "code": "ABC_DOMESTIC",
+      "description": "Domestic connection charges for A, B & C category colonies",
+      "categories": ["A", "B", "C"],
+      "usageType": "DOMESTIC",
+      "connectionType": "ALL",
+      "amount": 4000,
+      "effectiveFrom": "2026-04-01",
+      "effectiveTo": null,
+      "active": true
+    },
+    {
+      "code": "ABC_COMMERCIAL",
+      "description": "Commercial connection charges for A, B & C category colonies",
+      "categories": ["A", "B", "C"],
+      "usageType": "COMMERCIAL",
+      "connectionType": "ALL",
+      "amount": 8000,
+      "effectiveFrom": "2026-04-01",
+      "effectiveTo": null,
+      "active": true
+    },
+    {
+      "code": "DE_DOMESTIC",
+      "description": "Domestic connection charges for D & E category colonies",
+      "categories": ["D", "E"],
+      "usageType": "DOMESTIC",
+      "connectionType": "ALL",
+      "amount": 2000,
+      "effectiveFrom": "2026-04-01",
+      "effectiveTo": null,
+      "active": true
+    },
+    {
+      "code": "DE_COMMERCIAL",
+      "description": "Commercial connection charges for D & E category colonies",
+      "categories": ["D", "E"],
+      "usageType": "COMMERCIAL",
+      "amount": 4000,
+      "connectionType": "ALL",
+      "effectiveFrom": "2026-04-01",
+      "effectiveTo": null,
+      "active": true
+    },
+    {
+      "code": "FGH_DOMESTIC",
+      "description": "Domestic connection charges for F, G & H category colonies",
+      "categories": ["F", "G", "H"],
+      "usageType": "DOMESTIC",
+      "connectionType": "ALL",
+      "amount": 1000,
+      "effectiveFrom": "2026-04-01",
+      "effectiveTo": null,
+      "active": true
+    },
+    {
+      "code": "FGH_COMMERCIAL",
+      "description": "Commercial connection charges for F, G & H category colonies",
+      "categories": ["F", "G", "H"],
+      "usageType": "COMMERCIAL",
+      "connectionType": "ALL",
+      "amount": 2000,
+      "effectiveFrom": "2026-04-01",
+      "effectiveTo": null,
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "tenantId": "dl.djb",
+  "moduleName": "ws-services-calculation",
+  "DJBMonthlyWaterTariff": [
+    {
+      "id": "DOMESTIC",
+      "category": "DOMESTIC",
+      "connectionType": "METERED",
+      "active": true,
+      "effectiveFrom": "2018-02-01",
+      "effectiveTo": null,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 20,
+          "ratePerKl": 5.27,
+          "serviceCharge": 146.41
+        },
+        {
+          "from": 20,
+          "to": 30,
+          "ratePerKl": 26.36,
+          "serviceCharge": 219.62
+        },
+        {
+          "from": 30,
+          "to": null,
+          "ratePerKl": 43.93,
+          "serviceCharge": 292.82
+        }
+      ]
+    },
+    {
+      "id": "COMMERCIAL",
+      "category": "COMMERCIAL",
+      "connectionType": "METERED",
+      "active": true,
+      "effectiveFrom": "2018-02-01",
+      "effectiveTo": null,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 6,
+          "ratePerKl": 17.57,
+          "serviceCharge": 146.41
+        },
+        {
+          "from": 6,
+          "to": 15,
+          "ratePerKl": 26.35,
+          "serviceCharge": 292.82
+        },
+        {
+          "from": 15,
+          "to": 25,
+          "ratePerKl": 35.14,
+          "serviceCharge": 585.64
+        },
+        {
+          "from": 25,
+          "to": 50,
+          "ratePerKl": 87.85,
+          "serviceCharge": 1024.87
+        },
+        {
+          "from": 50,
+          "to": 100,
+          "ratePerKl": 140.56,
+          "serviceCharge": 1171.28
+        },
+        {
+          "from": 100,
+          "to": null,
+          "ratePerKl": 175.69,
+          "serviceCharge": 1317.69
+        }
+      ]
+    }
+  ]
+}

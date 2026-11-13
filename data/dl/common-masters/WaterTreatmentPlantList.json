@@ -91,6 +91,48 @@
       "capacityMgd": 1,
       "rank": 10,
       "active": true
+    },
+    {
+      "id": 11,
+      "code": "WTP_NEW_011",
+      "name": "WTP Wazirabad-I & II",
+      "active": true
+    },
+    {
+      "id": 12,
+      "code": "WTP_NEW_012",
+      "name": "WTP Wazirabad-III",
+      "active": true
+    },
+    {
+      "id": 13,
+      "code": "WTP_NEW_013",
+      "name": "WTP Chandrawal-I",
+      "active": true
+    },
+    {
+      "id": 14,
+      "code": "WTP_NEW_014",
+      "name": "WTP Chandrawal-II",
+      "active": true
+    },
+    {
+      "id": 15,
+      "code": "WTP_NEW_015",
+      "name": "WTP Haiderpur-I",
+      "active": true
+    },
+    {
+      "id": 16,
+      "code": "WTP_NEW_016",
+      "name": "WTP Haiderpur-II",
+      "active": true
+    },
+    {
+      "id": 17,
+      "code": "WTP_NEW_017",
+      "name": "WTP Bawana",
+      "active": true
     }
   ]
 }
