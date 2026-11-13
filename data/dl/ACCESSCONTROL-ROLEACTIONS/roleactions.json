@@ -32547,12 +32547,6 @@
       "tenantId": "dl"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 2976,
-      "actioncode": "",
-      "tenantId": "dl"
-    },
-    {
       "rolecode": "WT_VENDOR",
       "actionid": 2411,
       "actioncode": "",
