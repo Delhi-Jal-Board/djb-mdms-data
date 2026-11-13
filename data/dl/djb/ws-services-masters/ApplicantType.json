@@ -16,6 +16,12 @@
     },
     {
       "id": 3,
+      "code": "OCCUPIER",
+      "name": "Occupier",
+      "active": true
+    },
+    {
+      "id": 4,
       "code": "AUTHORIZED REPRESENTATIVE",
       "name": "Authorized Representative",
       "active": true

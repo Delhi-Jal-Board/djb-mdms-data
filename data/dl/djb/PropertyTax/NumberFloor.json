@@ -46,6 +46,16 @@
       "name": "Multiple/Others",
       "code": "Multiple_Others",
       "active": true
+    },
+    {
+      "name": "Upper Ground Floor",
+      "code": "UPPER_GROUND_FLOOR",
+      "active": true
+    },
+    {
+      "name": "Mezzanine Floor",
+      "code": "MEZZANINE_FLOOR",
+      "active": true
     }
   ]
 }
