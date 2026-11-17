@@ -48,6 +48,11 @@
       "active": true
     },
     {
+      "name": "Parking",
+      "code": "PARKING",
+      "active": true
+    },
+    {
       "name": "Upper Ground Floor",
       "code": "UPPER_GROUND_FLOOR",
       "active": true
