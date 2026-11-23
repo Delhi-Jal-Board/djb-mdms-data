@@ -1,66 +1,26 @@
 {
-  "tenantId": "dl",
-  "moduleName": "PropertyTax",
-  "PropertyCategory": [
-    {
-      "name": "Residential",
-      "code": "RESIDENTIAL",
-      "type": "DOMESTIC",
-      "active": true
-    },
-    {
-      "name": "Commercial",
-      "code": "COMMERCIAL",
-      "type": "NON_DOMESTIC",
-      "active": true
-    },
-    {
-      "name": "Mercantile",
-      "code": "MERCANTILE",
-      "type": "NON_DOMESTIC",
-      "active": true
-    },
-    {
-      "name": "Industrial",
-      "code": "INDUSTRIAL",
-      "type": "NON_DOMESTIC",
-      "active": true
-    },
-    {
-      "name": "Institutional",
-      "code": "INSTITUTIONAL",
-      "type": "NON_DOMESTIC",
-      "active": true
-    },
-    {
-      "name": "Educational",
-      "code": "EDUCATIONAL",
-      "type": "NON_DOMESTIC",
-      "active": true
-    },
-    {
-      "name": "Assembly",
-      "code": "ASSEMBLY",
-      "type": "NON_DOMESTIC",
-      "active": true
-    },
-    {
-      "name": "Storage & Parking",
-      "code": "STORAGE",
-      "type": "NON_DOMESTIC",
-      "active": true
-    },
-    {
-      "name": "Hazardous",
-      "code": "HAZARDOUS",
-      "type": "NON_DOMESTIC",
-      "active": true
-    },
-    {
-      "name": "Mixed",
-      "code": "MIXED",
-      "type": "NON_DOMESTIC",
-      "active": false
-    }
-  ]
+    "tenantId": "dl",
+    "moduleName": "PropertyTax",
+    "PropertyCategory": [
+        {
+            "name": "Residential",
+            "code": "RESIDENTIAL",
+            "active": true
+        },
+        {
+            "name": "Commercial",
+            "code": "COMMERCIAL",
+            "active": true
+        },
+        {
+            "name": "Institutional",
+            "code": "INSTITUTIONAL",
+            "active": true
+        },
+        {
+            "name": "Industrial",
+            "code": "INDUSTRIAL",
+            "active": true
+        }
+    ]
 }
