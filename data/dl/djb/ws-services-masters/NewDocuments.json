@@ -213,6 +213,11 @@
           "active": true
         },
         {
+          "code": "OWNER.OTHERDOCUMENTS.SEWER_TREATMENT_PLANT_CERTIFICATE",
+          "name": "Sewer Treatment Plant Certificate",
+          "active": true
+        },
+        {
           "code": "OWNER.OTHERDOCUMENTS.12_AB_CERTIFICATE",
           "name": "12 AB Certificate",
           "active": false
