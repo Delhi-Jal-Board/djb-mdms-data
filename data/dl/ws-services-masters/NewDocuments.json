@@ -49,62 +49,102 @@
       "dropdownData": [
         {
           "code": "OWNER.OWNERSHIPPROOF.ELECTRICITY_BILL",
-          "active": true
+          "active": false
         },
         {
           "code": "OWNER.OWNERSHIPPROOF.REGISTERED_SALE_DEED",
-          "active": true
+          "active": false
         },
         {
           "code": "OWNER.OWNERSHIPPROOF.REGISTERED_PERPETUAL_DEED",
-          "active": true
+          "active": false
         },
         {
           "code": "OWNER.OWNERSHIPPROOF.REGISTERED_CONVEYANCE_DEED",
-          "active": true
+          "active": false
         },
         {
           "code": "OWNER.OWNERSHIPPROOF.REGISTERED_GPA",
-          "active": true
+          "active": false
         },
         {
           "code": "OWNER.OWNERSHIPPROOF.NOTARISED_GPA",
-          "active": true
+          "active": false
         },
         {
           "code": "OWNER.OWNERSHIPPROOF.REGISTERED_SPA",
-          "active": true
+          "active": false
         },
         {
           "code": "OWNER.OWNERSHIPPROOF.NOTARISED_SPA",
-          "active": true
+          "active": false
         },
         {
           "code": "OWNER.OWNERSHIPPROOF.PARTITION_DEED",
-          "active": true
+          "active": false
         },
         {
           "code": "OWNER.OWNERSHIPPROOF.RELINQUISHMENT_DEED",
-          "active": true
+          "active": false
         },
         {
           "code": "OWNER.OWNERSHIPPROOF.BUILDER_SALE_DEED",
-          "active": true
+          "active": false
         },
         {
           "code": "OWNER.OWNERSHIPPROOF.BUILDER_GPA",
-          "active": true
+          "active": false
         },
         {
           "code": "OWNER.OWNERSHIPPROOF.RENT_AGREEMENT",
-          "active": true
+          "active": false
         },
         {
           "code": "OWNER.OWNERSHIPPROOF.DDA_LETTER",
-          "active": true
+          "active": false
         },
         {
           "code": "OWNER.OWNERSHIPPROOF.COURT_ORDER",
+          "active": false
+        },
+        {
+          "code": "OWNER.OWNERSHIPPROOF.Last Electricity Bills in the name of applicant",
+          "active": true
+        },
+        {
+          "code": "OWNER.OWNERSHIPPROOF.Notarised GPA with last electricity bill",
+          "active": true
+        },
+        {
+          "code": "OWNER.OWNERSHIPPROOF.Notarised SPA with last electricity bill",
+          "active": true
+        },
+        {
+          "code": "OWNER.OWNERSHIPPROOF.Registered Partition Deed",
+          "active": true
+        },
+        {
+          "code": "OWNER.OWNERSHIPPROOF.Registered Relinquishment Deed",
+          "active": true
+        },
+        {
+          "code": "OWNER.OWNERSHIPPROOF.Registered Will with death certificate",
+          "active": true
+        },
+        {
+          "code": "OWNER.OWNERSHIPPROOF.Builder Sale Deed- May be Deleted",
+          "active": true
+        },
+        {
+          "code": "OWNER.OWNERSHIPPROOF.Builder GPA- May be deleted",
+          "active": true
+        },
+        {
+          "code": "OWNER.OWNERSHIPPROOF.Registered/Notarized Rent Agreement with property documents/Electricity bill in the name of owner",
+          "active": true
+        },
+        {
+          "code": "OWNER.OWNERSHIPPROOF.DDA allotment letter with possession Letter",
           "active": true
         }
       ],
