@@ -3,141 +3,228 @@
     "moduleName": "ws-services-calculation",
     "WaterDemandNorms2": [
         {
-            "subCategoryCode": "A",
+            "categoryCode": "A",
+            "subCategoryCode": "A-1",
             "parentUsageCode": "RESIDENTIAL",
-            "name": "Residential Area / Independent House / Builder Floor / Residential Flat / Apartment Complex / Group Housing Society / Residential Colony / Government Residential Quarter",
-            "description": "Updated DJB residential norm. Occupancy is 5 persons per dwelling unit (DU). Total water demand is 225 LPCD, comprising 180 LPCD potable water and 45 LPCD non-potable water.",
+            "name": "Residential Area – Independent Residential House / Builder Floor / Apartment / Flat / Group Housing / Residential Colony",
+            "description": "Residential norm. Occupancy is 5 persons per dwelling unit (DU). A plot has 1 DU per kitchen, subject to a minimum of 1 DU per floor. Total water demand is 225 LPCD: 180 LPCD potable and 45 LPCD non-potable. The revised sheet states that DDA Flat IFC charges are zero.",
             "occupancyBasis": "DUs",
             "occupancyDenominator": 1.0,
             "minOccupancyFormula": "total_du * 5",
+            "duCalculationRule": "ONE_DU_PER_KITCHEN_MINIMUM_ONE_PER_FLOOR",
             "totalLpcd": 225,
             "potableLpcd": 180,
             "nonPotableLpcd": 45,
             "contingencyPercentage": 0,
             "ifcCalculationBasis": "TOTAL_WATER_ALWAYS",
-            "isActive": true
+            "ifcExceptions": [
+                {
+                    "propertyTypeCode": "DDAFlat",
+                    "ifcCalculationBasis": "ZERO",
+                    "reason": "The revised norms sheet states that IFC charges for DDA Flat cannot be calculated and shall be zero."
+                }
+            ],
+            "isActive": true,
+            "parentUsageCodes": [
+                "RESIDENTIAL"
+            ]
         },
         {
+            "categoryCode": "B",
             "subCategoryCode": "B-1",
             "parentUsageCode": "INSTITUTIONAL",
-            "name": "Colleges / Schools / Destitute Homes / Charitable Homes / Universities",
-            "description": "Occupancy is the higher of built-up area divided by 4 sqm or total strength including staff and students. For schools running double shifts, the applicable double-shift strength must be included in the calculation. All area-based calculations use built-up area, including FAR and non-FAR area.",
+            "name": "School / Academic Area of Colleges",
+            "description": "Occupancy is the higher of (i) 1 person per 4 sqm of built-up area or (ii) where the school/college functions in two shifts, the total strength including students and staff of both shifts. Academic area means dedicated floor space used directly for teaching and academic instruction, such as classrooms, lecture halls, libraries and laboratories. Add 10% of total calculated water demand as floating/contingency occupancy. IFC charges use potable requirement only when total water demand is more than 12,500 LPD; otherwise use total demand. Institutional is the top-level property category for B-1.",
             "occupancyBasis": "BUILT_UP_AREA",
             "occupancyDenominator": 4.0,
-            "minOccupancyFormula": "MAX(built_up_area / 4.0, total_strength_including_staff_and_students)",
+            "minOccupancyFormula": "MAX(built_up_area / 4.0, total_strength_including_students_and_staff_of_both_shifts)",
             "totalLpcd": 45,
             "potableLpcd": 15,
             "nonPotableLpcd": 30,
-            "contingencyPercentage": 0,
+            "contingencyPercentage": 10,
+            "contingencyBasis": "TOTAL_CALCULATED_WATER_DEMAND",
             "ifcCalculationBasis": "POTABLE_ONLY_IF_OVER_12500",
-            "isActive": true
+            "ifcThresholdLpd": 12500,
+            "isActive": true,
+            "builtUpAreaDefinition": "Built-up area / Gross Floor Area is the area of the floor within the inside perimeter of the outside walls. No deductions are made for corridors and passageways, stairs, closets, thickness of interior walls, columns, lifts, building shafts or other features.",
+            "parentUsageCodes": [
+                "INSTITUTIONAL"
+            ]
         },
         {
+            "categoryCode": "B",
             "subCategoryCode": "B-2",
-            "parentUsageCode": "INSTITUTIONAL",
-            "name": "Mercantile / Assembly / Petrol Pumps / Laundry and Other Listed Uses",
-            "description": "Includes the mercantile, assembly, petrol pump, laundry and related uses listed in the revised norms. Occupancy is 1 person per 4.5 sqm of built-up area. Built-up area includes FAR and non-FAR area.",
+            "parentUsageCode": "COMMERCIAL",
+            "name": "Mercantile / Assembly",
+            "description": "Occupancy is 1 person per 4.5 sqm of built-up area. The norm covers the mercantile and assembly uses listed in the revised DJB sheet. Add 10% of total calculated water demand as floating/contingency occupancy. IFC basis differs by use class: Mercantile uses potable requirement only when total demand exceeds 12,500 LPD; Assembly uses total water demand. The top-level property category for all B-2 property types is Commercial; Mercantile and Assembly are B-2 use classes, not Institutional property categories.",
             "occupancyBasis": "BUILT_UP_AREA",
             "occupancyDenominator": 4.5,
             "minOccupancyFormula": "built_up_area / 4.5",
             "totalLpcd": 45,
             "potableLpcd": 15,
             "nonPotableLpcd": 30,
-            "contingencyPercentage": 0,
-            "ifcCalculationBasis": "POTABLE_ONLY_IF_OVER_12500",
-            "isActive": true
+            "contingencyPercentage": 10,
+            "contingencyBasis": "TOTAL_CALCULATED_WATER_DEMAND",
+            "ifcCalculationBasis": "CONDITIONAL_BY_USE_CLASS",
+            "ifcCalculationBasisByUseClass": {
+                "MERCANTILE": "POTABLE_ONLY_IF_OVER_12500",
+                "ASSEMBLY": "TOTAL_WATER_ALWAYS"
+            },
+            "ifcThresholdLpd": 12500,
+            "isActive": true,
+            "builtUpAreaDefinition": "Built-up area / Gross Floor Area is the area of the floor within the inside perimeter of the outside walls. No deductions are made for corridors and passageways, stairs, closets, thickness of interior walls, columns, lifts, building shafts or other features.",
+            "parentUsageCodes": [
+                "COMMERCIAL"
+            ]
         },
         {
+            "categoryCode": "B",
             "subCategoryCode": "B-3",
-            "parentUsageCode": "INSTITUTIONAL",
-            "name": "Offices / Banks / Police / Laboratories / Clinics Without IPD or Beds / Industrial Utilities and Other Listed Uses",
-            "description": "Includes the offices, banks, police stations, laboratories, private clinics without IPD/bed facilities, industrial utilities and related uses listed in the revised norms. Occupancy is 1 person per 10 sqm of built-up area. Built-up area includes FAR and non-FAR area.",
+            "parentUsageCode": "COMMERCIAL",
+            "name": "Commercial / Industrial",
+            "description": "Occupancy is 1 person per 10 sqm of built-up area. This includes the commercial and industrial uses listed in the revised sheet, including offices, banks, professional establishments, police stations, private clinics without IPD/bed facilities, laboratories, research establishments, diagnostic centres, libraries, test houses, telephone/broadcasting/TV stations, assembly plants, industrial laboratories, dry-cleaning plants, pumping stations, laundries, bottling/soft-drink plants, biogas plants, general industrial units and ice-cream factories. Add 10% of total calculated water demand as floating/contingency occupancy. IFC charges use potable requirement only when total water demand exceeds 12,500 LPD; otherwise use total demand. This norm applies to property types grouped under both Commercial and Industrial in the property form; the selected property type determines which category applies.",
             "occupancyBasis": "BUILT_UP_AREA",
             "occupancyDenominator": 10.0,
             "minOccupancyFormula": "built_up_area / 10.0",
             "totalLpcd": 45,
             "potableLpcd": 15,
             "nonPotableLpcd": 30,
-            "contingencyPercentage": 0,
+            "contingencyPercentage": 10,
+            "contingencyBasis": "TOTAL_CALCULATED_WATER_DEMAND",
             "ifcCalculationBasis": "POTABLE_ONLY_IF_OVER_12500",
-            "isActive": true
+            "ifcThresholdLpd": 12500,
+            "isActive": true,
+            "builtUpAreaDefinition": "Built-up area / Gross Floor Area is the area of the floor within the inside perimeter of the outside walls. No deductions are made for corridors and passageways, stairs, closets, thickness of interior walls, columns, lifts, building shafts or other features.",
+            "parentUsageCodes": [
+                "COMMERCIAL",
+                "INDUSTRIAL"
+            ]
         },
         {
+            "categoryCode": "B",
             "subCategoryCode": "B-4",
-            "parentUsageCode": "INSTITUTIONAL",
-            "name": "Storage / Multilevel Parking / Cremation or Burial Ground / Golf Course / Sports Complex / Place of Worship",
-            "description": "Includes storage facilities, warehouses, cold storage, freight depots, electric substations/distribution grids, approved multilevel parking, cremation/burial grounds, golf courses/sports complexes and places of worship. The source row states 1 person per 30 sqm of FAR area, while the general note says all area calculations are to use built-up area (FAR + non-FAR); accordingly the formula uses built-up area.",
+            "parentUsageCode": "COMMERCIAL",
+            "name": "Storage / Multilevel Parking / Cremation or Burial Ground / Golf Course / Sports Complex",
+            "description": "Occupancy is 1 person per 30 sqm of built-up area. This includes warehouses, cold storage, freight depots, electric substations/distribution grids, approved multilevel parking, cremation/burial grounds, golf courses, sports complexes and stadiums. Add 10% of total calculated water demand as floating/contingency occupancy. IFC charges use potable requirement only when total water demand exceeds 12,500 LPD; otherwise use total demand. The top-level property category for B-4 property types is Commercial under the agreed four-option property form.",
             "occupancyBasis": "BUILT_UP_AREA",
             "occupancyDenominator": 30.0,
             "minOccupancyFormula": "built_up_area / 30.0",
             "totalLpcd": 45,
             "potableLpcd": 15,
             "nonPotableLpcd": 30,
-            "contingencyPercentage": 0,
+            "contingencyPercentage": 10,
+            "contingencyBasis": "TOTAL_CALCULATED_WATER_DEMAND",
             "ifcCalculationBasis": "POTABLE_ONLY_IF_OVER_12500",
-            "isActive": true
+            "ifcThresholdLpd": 12500,
+            "isActive": true,
+            "builtUpAreaDefinition": "Built-up area / Gross Floor Area is the area of the floor within the inside perimeter of the outside walls. No deductions are made for corridors and passageways, stairs, closets, thickness of interior walls, columns, lifts, building shafts or other features.",
+            "parentUsageCodes": [
+                "COMMERCIAL"
+            ]
         },
         {
+            "categoryCode": "C",
             "subCategoryCode": "C-1",
             "parentUsageCode": "COMMERCIAL",
-            "name": "Hotels / Hostels / Dormitories / Lodging / Custodial / Penal and Mental Institutions / Orphanages / Dharamshalas / Clubs / Commercial Complexes / Convention Centres",
-            "description": "Use the specified bed count where available; otherwise estimate at 1 bed per 7.5 sqm of built-up area, whichever is higher. Water demand is 180 LPCD per bed, comprising 135 LPCD potable and 45 LPCD non-potable. Built-up area includes FAR and non-FAR area.",
+            "name": "Hotels Below 3 Star / Hostels / Dormitories / Lodging / Custodial / Penal and Behavioural Health Institutions / Orphanages / Dharamshalas / Destitute and Charitable Homes / Paying Guest Accommodation / Guest Houses / Bed and Breakfast / Ashram / Resorts / Motels",
+            "description": "Use the number of beds specified in the sanctioned/approved plan, or 1 bed per 7.5 sqm of built-up area, whichever is higher. Water demand is 180 LPCD per bed: 135 LPCD potable and 45 LPCD non-potable. Add 10% of total calculated water demand as floating/contingency occupancy. IFC charges use potable requirement only when total water demand exceeds 12,500 LPD; otherwise use total demand.",
             "occupancyBasis": "BEDS",
-            "occupancyDenominator": 1.0,
+            "occupancyDenominator": 7.5,
             "minOccupancyFormula": "MAX(sanctioned_beds, built_up_area / 7.5)",
             "totalLpcd": 180,
             "potableLpcd": 135,
             "nonPotableLpcd": 45,
-            "contingencyPercentage": 0,
+            "contingencyPercentage": 10,
+            "contingencyBasis": "TOTAL_CALCULATED_WATER_DEMAND",
             "ifcCalculationBasis": "POTABLE_ONLY_IF_OVER_12500",
-            "isActive": true
+            "ifcThresholdLpd": 12500,
+            "isActive": true,
+            "builtUpAreaDefinition": "Built-up area / Gross Floor Area is the area of the floor within the inside perimeter of the outside walls. No deductions are made for corridors and passageways, stairs, closets, thickness of interior walls, columns, lifts, building shafts or other features.",
+            "parentUsageCodes": [
+                "COMMERCIAL"
+            ]
         },
         {
+            "categoryCode": "C",
             "subCategoryCode": "C-2",
             "parentUsageCode": "COMMERCIAL",
-            "name": "Hotels (3-Star and Above) / Resorts / Banquet or Marriage Halls / Malls",
-            "description": "Use the specified bed count wherever it is provided. If the bed count is not specified, occupancy is the higher of 2 beds per room or 1 bed per 12.5 sqm of built-up area. Water demand is 320 LPCD per bed, comprising 275 LPCD potable and 45 LPCD non-potable. Built-up area includes FAR and non-FAR area.",
+            "name": "Hotels 3 Star and Above",
+            "description": "Use sanctioned/specifically specified bed count wherever provided. If bed count is not specified, occupancy is the higher of 2 beds per room or 1 bed per 12.5 sqm of built-up area. Water demand is 320 LPCD per bed: 275 LPCD potable and 45 LPCD non-potable. Add 10% of total calculated water demand as floating/contingency occupancy. IFC charges use potable requirement only when total water demand exceeds 12,500 LPD; otherwise use total demand.",
             "occupancyBasis": "BEDS",
-            "occupancyDenominator": 1.0,
+            "occupancyDenominator": 12.5,
             "minOccupancyFormula": "IF(sanctioned_beds_is_specified, sanctioned_beds, MAX(total_rooms * 2, built_up_area / 12.5))",
             "totalLpcd": 320,
             "potableLpcd": 275,
             "nonPotableLpcd": 45,
-            "contingencyPercentage": 0,
+            "contingencyPercentage": 10,
+            "contingencyBasis": "TOTAL_CALCULATED_WATER_DEMAND",
             "ifcCalculationBasis": "POTABLE_ONLY_IF_OVER_12500",
-            "isActive": true
+            "ifcThresholdLpd": 12500,
+            "isActive": true,
+            "builtUpAreaDefinition": "Built-up area / Gross Floor Area is the area of the floor within the inside perimeter of the outside walls. No deductions are made for corridors and passageways, stairs, closets, thickness of interior walls, columns, lifts, building shafts or other features.",
+            "parentUsageCodes": [
+                "COMMERCIAL"
+            ]
         },
         {
+            "categoryCode": "C",
             "subCategoryCode": "C-3",
             "parentUsageCode": "COMMERCIAL",
-            "name": "Restaurants / Canteens / Pantries / Dhabas or Eating Establishments / Food Courts",
-            "description": "Occupancy is 1 person per 1.5 sqm of built-up area. Total water demand is 70 LPCD, comprising 15 LPCD potable and 55 LPCD non-potable. Built-up area includes FAR and non-FAR area.",
+            "name": "Restaurants / Canteens / Pantries",
+            "description": "Occupancy is 1 person per 1.5 sqm of built-up area. Total water demand is 70 LPCD: 15 LPCD potable and 55 LPCD non-potable. Add 10% of total calculated water demand as floating/contingency occupancy. IFC charges use potable requirement only when total water demand exceeds 12,500 LPD; otherwise use total demand.",
             "occupancyBasis": "BUILT_UP_AREA",
             "occupancyDenominator": 1.5,
             "minOccupancyFormula": "built_up_area / 1.5",
             "totalLpcd": 70,
             "potableLpcd": 15,
             "nonPotableLpcd": 55,
-            "contingencyPercentage": 0,
+            "contingencyPercentage": 10,
+            "contingencyBasis": "TOTAL_CALCULATED_WATER_DEMAND",
             "ifcCalculationBasis": "POTABLE_ONLY_IF_OVER_12500",
-            "isActive": true
+            "ifcThresholdLpd": 12500,
+            "isActive": true,
+            "builtUpAreaDefinition": "Built-up area / Gross Floor Area is the area of the floor within the inside perimeter of the outside walls. No deductions are made for corridors and passageways, stairs, closets, thickness of interior walls, columns, lifts, building shafts or other features.",
+            "parentUsageCodes": [
+                "COMMERCIAL"
+            ]
         },
         {
+            "categoryCode": "C",
             "subCategoryCode": "C-4",
-            "parentUsageCode": "COMMERCIAL",
-            "name": "Nursing Homes / Hospitals / Sanatoria",
-            "description": "Occupancy is the number of beds. For up to 100 beds, demand is 340 LPCD per bed and potable requirement is 250 LPCD per bed. Above 100 beds, demand is 450 LPCD per bed and potable requirement is 360 LPCD per bed. Non-potable requirement is 90 LPCD per bed in both bands.",
-            "occupancyBasis": "BEDS",
+            "parentUsageCode": "INSTITUTIONAL",
+            "name": "Nursing Homes / Hospitals",
+            "description": "C-4 bed-based water demand: up to 100 effective beds, 340 LPCD per bed (250 LPCD potable + 90 LPCD non-potable); above 100 effective beds, 450 LPCD per bed (360 LPCD potable + 90 LPCD non-potable). In sanctioned building plans, use specified beds, subject to the minimum bed count derived at 1 bed per 80 sqm built-up area for hospitals and 1 bed per 60 sqm built-up area for nursing homes. Add OPD occupancy as the higher of 1 person per 1.5 sqm of OPD-earmarked area or 20 persons per bed; OPD demand is 15 LPCD potable. Add 10% of total calculated water demand as floating/contingency occupancy. IFC charges use potable requirement only when total water demand exceeds 12,500 LPD; otherwise use total demand. Institutional is the top-level property category for C-4.",
+            "occupancyBasis": "BEDS_PLUS_OPD",
             "occupancyDenominator": 1.0,
-            "minOccupancyFormula": "sanctioned_beds",
+            "minOccupancyFormula": "MAX(sanctioned_beds, minimum_beds_from_built_up_area)",
+            "minimumBedCountFormulaByFacilityType": {
+                "HOSPITAL": "built_up_area / 80.0",
+                "NURSING_HOME": "built_up_area / 60.0"
+            },
             "totalLpcd": null,
             "potableLpcd": null,
             "nonPotableLpcd": 90,
-            "totalLpcdFormula": "IF(sanctioned_beds <= 100, 340, 450)",
-            "potableLpcdFormula": "IF(sanctioned_beds <= 100, 250, 360)",
-            "contingencyPercentage": 0,
+            "totalLpcdFormula": "IF(effective_beds <= 100, 340, 450)",
+            "potableLpcdFormula": "IF(effective_beds <= 100, 250, 360)",
+            "opdOccupancyFormula": "MAX(opd_area / 1.5, effective_beds * 20)",
+            "opdDemandLpcd": 15,
+            "opdDemandType": "POTABLE_ONLY",
+            "facilityPlotAreaRules": {
+                "HOSPITAL": "plot_area >= 2500",
+                "NURSING_HOME": "plot_area <= 2500"
+            },
+            "plotAreaBoundaryOverlapSqm": 2500,
+            "contingencyPercentage": 10,
+            "contingencyBasis": "TOTAL_CALCULATED_WATER_DEMAND_INCLUDING_OPD",
             "ifcCalculationBasis": "POTABLE_ONLY_IF_OVER_12500",
-            "isActive": true
+            "ifcThresholdLpd": 12500,
+            "isActive": true,
+            "requiresDjbClarification": true,
+            "clarificationNote": "At exactly 2,500 sqm, both source conditions (hospital >= 2,500 sqm and nursing home <= 2,500 sqm) include the boundary. Also confirm the final rounding rule for area-derived minimum beds.",
+            "builtUpAreaDefinition": "Built-up area / Gross Floor Area is the area of the floor within the inside perimeter of the outside walls. No deductions are made for corridors and passageways, stairs, closets, thickness of interior walls, columns, lifts, building shafts or other features.",
+            "parentUsageCodes": [
+                "INSTITUTIONAL"
+            ]
         }
     ]
 }
