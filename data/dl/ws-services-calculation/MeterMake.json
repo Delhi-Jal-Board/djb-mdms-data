@@ -1,7 +1,7 @@
 {
     "tenantId": "dl",
     "moduleName": "ws-services-calculation",
-    "MeterStatus": [
+    "MeterMake": [
         {
             "name": "Anand Asahi",
             "code": "ANAND_ASAHI",
