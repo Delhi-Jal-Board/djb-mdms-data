@@ -896,7 +896,8 @@
                 "numberOfBeds"
             ],
             "active": true,
-            "demandNormCode": "C-4"
+            "demandNormCode": "C-4",
+            "facilityType": "HOSPITAL"
         },
         {
             "name": "Nursing Home",
@@ -910,7 +911,8 @@
                 "numberOfBeds"
             ],
             "active": true,
-            "demandNormCode": "C-4"
+            "demandNormCode": "C-4",
+            "facilityType": "NURSING_HOME"
         },
         {
             "name": "Dental Clinic",
