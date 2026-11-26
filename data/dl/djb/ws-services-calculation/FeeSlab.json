@@ -472,7 +472,7 @@
       "isActive": true
     },
     {
-      "connectionCategory": "DOMESTIC",
+      "connectionCategory": "COMMERCIAL",
       "colonyCategoryGroup": "ALL",
       "colonyCategories": ["A","B","C","D","E","F","G","H"],
      "relationType": "NON_BLOOD",
@@ -485,7 +485,7 @@
      "isActive": true
     },
     {
-    "connectionCategory": "COMMERCIAL",
+    "connectionCategory": "DOMESTIC",
     "colonyCategoryGroup": "ALL",
     "colonyCategories": ["A","B","C","D","E","F","G","H"],
     "relationType": "NON_BLOOD",
@@ -570,7 +570,7 @@
       "isActive": true
     },
     {
-     "connectionCategory": "DOMESTIC",
+     "connectionCategory": "COMMERCIAL",
      "colonyCategoryGroup": "ALL",
      "colonyCategories": ["A","B","C","D","E","F","G","H"],
      "relationType": "NON_BLOOD",
@@ -581,6 +581,6 @@
      "effectiveFrom": "2026-07-01",
      "effectiveTo": null,
      "isActive": true
-}
+   }
   ]
 }
