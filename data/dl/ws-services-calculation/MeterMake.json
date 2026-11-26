@@ -1,0 +1,61 @@
+{
+    "tenantId": "dl",
+    "moduleName": "ws-services-calculation",
+    "MeterStatus": [
+        {
+            "name": "Anand Asahi",
+            "code": "ANAND_ASAHI",
+            "active": true
+        },
+        {
+            "name": "Arad",
+            "code": "ARAD",
+            "active": true
+        },
+        {
+            "name": "Baylan",
+            "code": "BAYLAN",
+            "active": true
+        },
+        {
+            "name": "Crescent",
+            "code": "CRESCENT",
+            "active": true
+        },
+        {
+            "name": "Dasmesh / DMB",
+            "code": "DASMESH",
+            "active": true
+        },
+        {
+            "name": "Fedrel",
+            "code": "FEDREL",
+            "active": true
+        },
+        {
+            "name": "Itron",
+            "code": "ITRON",
+            "active": true
+        },
+        {
+            "name": "Konark",
+            "code": "KONARK",
+            "active": true
+        },
+        {
+            "name": "Kranti",
+            "code": "KRANTI",
+            "active": true
+        },
+        {
+            "name": "Teksan",
+            "code": "TEKSAN",
+            "active": true
+        },
+        {
+            "name": "Other",
+            "code": "OTHER",
+            "active": true
+        }
+    ]
+}
