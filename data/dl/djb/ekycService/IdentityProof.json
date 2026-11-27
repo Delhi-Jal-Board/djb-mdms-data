@@ -1,0 +1,37 @@
+{
+  "tenantId": "dl.djb",
+  "moduleName": "ekycService",
+  "identityProofTypes": [
+    
+    {
+      "code": "AADHAAR",
+      "name": "Aadhaar Card",
+      "attribute": "Aadhaar Number",
+      "active": true
+    },
+    {
+      "code": "PAN",
+      "name": "PAN Card",
+      "attribute": "PAN Number",
+      "active": true
+    },
+    {
+      "code": "VOTERID",
+      "name": "Voter ID",
+      "attribute": "Voter ID Number",
+      "active": true
+    },
+    {
+      "code": "DRIVINGLICENSE",
+      "name": "Driving License",
+      "attribute": "Driving License Number",
+      "active": true
+    },
+    {
+      "code": "GOVTID",
+      "name": "Government ID",
+      "attribute": "Government ID Number",
+      "active": true
+    }
+  ]
+}
